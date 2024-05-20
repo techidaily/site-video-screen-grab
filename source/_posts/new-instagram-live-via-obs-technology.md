@@ -1,7 +1,7 @@
 ---
 title: "[New] Instagram Live via OBS Technology"
-date: 2024-05-18T02:07:42.671Z
-updated: 2024-05-19T02:07:42.671Z
+date: 2024-05-19T19:41:44.295Z
+updated: 2024-05-20T19:41:44.295Z
 tags: 
   - screen-recording
   - ai video
@@ -384,4 +384,5 @@ If you want to live stream on Instagram from your computer, you can do it easily
 <li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-best-movie-trailer-editing-tools-for-windows-and-macos/"><u>New 2024 Approved Best Movie Trailer Editing Tools for Windows and macOS</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-messages-files-from-samsung-galaxy-s24-ultra-by-fonelab-android-recover-messages/"><u>How To  Restore Missing Messages Files from Samsung Galaxy S24 Ultra</u></a></li>
 </ul></div>
+
 

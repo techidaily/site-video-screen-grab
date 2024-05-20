@@ -517,3 +517,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-free-video-editing-made-easy-a-jaycut-tutorial-for-beginners/"><u>In 2024, Free Video Editing Made Easy A Jaycut Tutorial for Beginners</u></a></li>
 </ul></div>
 
+

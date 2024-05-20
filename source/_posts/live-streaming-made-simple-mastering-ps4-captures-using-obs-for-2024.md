@@ -1,7 +1,7 @@
 ---
 title: "\"Live Streaming Made Simple  Mastering PS4 Captures Using OBS for 2024\""
-date: 2024-05-18T02:20:09.828Z
-updated: 2024-05-19T02:20:09.828Z
+date: 2024-05-19T19:42:11.353Z
+updated: 2024-05-20T19:42:11.353Z
 tags: 
   - screen-recording
   - ai video
@@ -397,4 +397,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://techidaily.com/use-device-manager-to-reinstall-your-hardware-drivers-in-windows-10-by-drivereasy-guide/"><u>Use Device Manager to reinstall your hardware drivers in Windows 10</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-transform-your-3gp-videos-top-free-rotation-software-compared-for-2024/"><u>New Transform Your 3GP Videos Top Free Rotation Software Compared for 2024</u></a></li>
 </ul></div>
+
 

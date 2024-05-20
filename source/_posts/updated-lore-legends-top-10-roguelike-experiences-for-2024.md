@@ -819,3 +819,4 @@ Follow @Richard Bennett
 <li><a href="https://techidaily.com/how-to-reset-asus-rog-phone-8-pro-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Asus ROG Phone 8 Pro Without the Home Button | Dr.fone</u></a></li>
 </ul></div>
 
+

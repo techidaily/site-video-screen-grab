@@ -1,7 +1,7 @@
 ---
 title: "\"Augmenting Gameplay  Allocating More Memory to Minecraft\""
-date: 2024-05-18T02:16:24.550Z
-updated: 2024-05-19T02:16:24.550Z
+date: 2024-05-19T19:42:03.607Z
+updated: 2024-05-20T19:42:03.607Z
 tags: 
   - screen-recording
   - ai video
@@ -615,4 +615,5 @@ Follow @Ollie Mattison
 <li><a href="https://video-content-creator.techidaily.com/new-in-2024-aspect-ratio-calculator-roundup-top-online-options/"><u>New In 2024, Aspect Ratio Calculator Roundup Top Online Options</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-mastering-audio-removing-vocals-from-video-like-a-pro/"><u>Updated Mastering Audio Removing Vocals From Video Like A Pro</u></a></li>
 </ul></div>
+
 

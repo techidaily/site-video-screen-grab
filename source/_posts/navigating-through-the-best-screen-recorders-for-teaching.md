@@ -926,3 +926,4 @@ To record online teaching all you have to do is install one of the applications 
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-add-adjustment-layer-clip-in-davinci-resolve/"><u>New 2024 Approved How to Add Adjustment Layer (Clip) in DaVinci Resolve?</u></a></li>
 </ul></div>
 
+

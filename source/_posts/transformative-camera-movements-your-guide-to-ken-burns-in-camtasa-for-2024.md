@@ -1,7 +1,7 @@
 ---
 title: "\"Transformative Camera Movements  Your Guide to Ken Burns in Camtasa for 2024\""
-date: 2024-05-18T02:22:09.473Z
-updated: 2024-05-19T02:22:09.473Z
+date: 2024-05-19T19:42:15.591Z
+updated: 2024-05-20T19:42:15.591Z
 tags: 
   - screen-recording
   - ai video
@@ -367,4 +367,5 @@ Follow @Max Wales
 <li><a href="https://sound-optimizing.techidaily.com/mass-momentum-surge-phenomenon/"><u>Mass Momentum Surge Phenomenon</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/mastering-linkedin-video-thumbnails-tips-and-tricks-for-success-for-2024/"><u>Mastering LinkedIn Video Thumbnails Tips and Tricks for Success for 2024</u></a></li>
 </ul></div>
+
 

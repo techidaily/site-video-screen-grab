@@ -1,7 +1,7 @@
 ---
 title: "\"A Step-by-Step Approach to Scheduling in Slack + Filmora\""
-date: 2024-05-18T02:23:49.159Z
-updated: 2024-05-19T02:23:49.159Z
+date: 2024-05-19T19:42:19.245Z
+updated: 2024-05-20T19:42:19.245Z
 tags: 
   - screen-recording
   - ai video
@@ -536,4 +536,5 @@ Follow @Shanoon Cox
 <li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-top-animation-tools-expert-approved-software-for-mac-and-windows/"><u>New 2024 Approved Top Animation Tools Expert-Approved Software for Mac and Windows</u></a></li>
 <li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone 12 mini? | Dr.fone</u></a></li>
 </ul></div>
+
 

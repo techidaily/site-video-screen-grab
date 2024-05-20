@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Pro Controller 101  Mastering Steam and Switch Integration\""
-date: 2024-05-18T02:00:00.834Z
-updated: 2024-05-19T02:00:00.834Z
+date: 2024-05-19T19:41:27.980Z
+updated: 2024-05-20T19:41:27.980Z
 tags: 
   - screen-recording
   - ai video
@@ -488,4 +488,5 @@ Follow @Ollie Mattison
 <li><a href="https://video-ai-editor.techidaily.com/new-top-free-flv-video-editors-for-windows-and-mac/"><u>New Top Free FLV Video Editors for Windows and Mac</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-a-beginners-guide-to-m4r-conversion-key-concepts-to-grasp/"><u>New 2024 Approved A Beginners Guide to M4R Conversion Key Concepts to Grasp</u></a></li>
 </ul></div>
+
 

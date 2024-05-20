@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Utilizing the Virtual Whiteboard in Webinars  Cross-Platform Tips and Tricks\""
-date: 2024-05-18T02:06:35.768Z
-updated: 2024-05-19T02:06:35.768Z
+date: 2024-05-19T19:41:41.678Z
+updated: 2024-05-20T19:41:41.678Z
 tags: 
   - screen-recording
   - ai video
@@ -523,4 +523,5 @@ Follow @Richard Bennett
 <li><a href="https://fake-location.techidaily.com/prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Oppo A1 5G | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-tecno-spark-10c-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Tecno Spark 10C to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
+
 

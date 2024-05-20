@@ -1,7 +1,7 @@
 ---
 title: "How to Make a Ken Burns Effect in Camtasia 9 for 2024"
-date: 2024-05-18T02:08:09.087Z
-updated: 2024-05-19T02:08:09.087Z
+date: 2024-05-19T19:41:45.148Z
+updated: 2024-05-20T19:41:45.148Z
 tags: 
   - screen-recording
   - ai video
@@ -328,4 +328,5 @@ Follow @Max Wales
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-after-switching-from-samsung-galaxy-m54-5g-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data After Switching From Samsung Galaxy M54 5G to Latest Samsung | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-apple-iphone-x-by-drfone-ios/"><u>Everything You Need To Know About Unlocked Apple iPhone X</u></a></li>
 </ul></div>
+
 

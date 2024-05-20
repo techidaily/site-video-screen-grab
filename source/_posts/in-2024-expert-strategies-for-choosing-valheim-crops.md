@@ -392,3 +392,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://video-ai-editor.techidaily.com/the-facebook-video-size-handbook-aspect-ratios-explained/"><u>The Facebook Video Size Handbook Aspect Ratios Explained</u></a></li>
 </ul></div>
 
+

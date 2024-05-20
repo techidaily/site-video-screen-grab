@@ -1,7 +1,7 @@
 ---
 title: "Choosing the Best Screen Capture App – OBS vs Fraps"
-date: 2024-05-18T02:12:34.971Z
-updated: 2024-05-19T02:12:34.971Z
+date: 2024-05-19T19:41:55.251Z
+updated: 2024-05-20T19:41:55.251Z
 tags: 
   - screen-recording
   - ai video
@@ -257,4 +257,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-nokia-c32-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Nokia C32 Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-2024-approved-comprehensive-review-of-wave-editor-capabilities-for-new-users/"><u>Updated 2024 Approved Comprehensive Review of Wave Editor Capabilities for New Users</u></a></li>
 </ul></div>
+
 

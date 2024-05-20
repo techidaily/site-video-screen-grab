@@ -640,3 +640,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://ios-unlock.techidaily.com/how-to-make-the-most-of-your-apple-iphone-15-pro-max-lock-screen-with-notifications-by-drfone-ios/"><u>How to Make the Most of Your Apple iPhone 15 Pro Max Lock Screen with Notifications?</u></a></li>
 </ul></div>
 
+

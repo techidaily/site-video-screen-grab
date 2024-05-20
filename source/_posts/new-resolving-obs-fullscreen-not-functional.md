@@ -1,7 +1,7 @@
 ---
 title: "[New] Resolving OBS Fullscreen Not Functional"
-date: 2024-05-18T02:02:05.499Z
-updated: 2024-05-19T02:02:05.499Z
+date: 2024-05-19T19:41:32.626Z
+updated: 2024-05-20T19:41:32.626Z
 tags: 
   - screen-recording
   - ai video
@@ -279,4 +279,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://fake-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-xiaomi-13t-pro-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Xiaomi 13T Pro | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-infinix-note-30i-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Infinix Note 30i without Losing Data | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Set Up Your First Google Meet & Plan It\""
-date: 2024-05-18T02:05:47.901Z
-updated: 2024-05-19T02:05:47.901Z
+date: 2024-05-19T19:41:40.240Z
+updated: 2024-05-20T19:41:40.240Z
 tags: 
   - screen-recording
   - ai video
@@ -654,4 +654,5 @@ You can share links of the meetings you have created, join with links, schedule 
 <li><a href="https://android-location-track.techidaily.com/how-to-track-oppo-find-n3-flip-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Oppo Find N3 Flip Location by Number | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-a-beginners-guide-to-understanding-aspect-ratios-and-pixels/"><u>Updated In 2024, A Beginners Guide to Understanding Aspect Ratios and Pixels</u></a></li>
 </ul></div>
+
 

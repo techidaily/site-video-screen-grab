@@ -542,3 +542,4 @@ If you are confused if you should install Screen Recorder Pro to record your scr
 <li><a href="https://screen-mirror.techidaily.com/how-to-cast-infinix-hot-30i-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast Infinix Hot 30i Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
 
+

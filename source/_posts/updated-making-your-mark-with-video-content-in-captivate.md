@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Making Your Mark with Video Content in Captivate"
-date: 2024-05-18T02:19:10.948Z
-updated: 2024-05-19T02:19:10.948Z
+date: 2024-05-19T19:42:09.405Z
+updated: 2024-05-20T19:42:09.405Z
 tags: 
   - screen-recording
   - ai video
@@ -421,4 +421,5 @@ Follow @Max Wales
 <li><a href="https://audio-editing.techidaily.com/new-an-overview-of-googles-audio-content-distribution-service-for-2024/"><u>New An Overview of Googles Audio Content Distribution Service for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

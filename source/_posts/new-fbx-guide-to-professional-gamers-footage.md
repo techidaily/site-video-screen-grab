@@ -515,3 +515,4 @@ If you are looking for a screen recorder that is specifically designed to captur
 <li><a href="https://howto.techidaily.com/troubleshooting-guide-how-to-fix-an-unresponsive-lava-blaze-2-pro-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Troubleshooting Guide How to Fix an Unresponsive Lava Blaze 2 Pro Screen | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "[New] Getting Started with iPhone Speech Recordings"
-date: 2024-05-18T02:17:03.622Z
-updated: 2024-05-19T02:17:03.622Z
+date: 2024-05-19T19:42:04.850Z
+updated: 2024-05-20T19:42:04.850Z
 tags: 
   - screen-recording
   - ai video
@@ -517,4 +517,5 @@ There is no limit of recording time when it comes to recording a voice memo or n
 <li><a href="https://audio-shaping.techidaily.com/updated-in-2024-exploring-leading-apps-to-purify-recordings-from-distractive-noises/"><u>Updated In 2024, Exploring Leading Apps to Purify Recordings From Distractive Noises</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/in-2024-crop-and-trim-videos-online-for-free-with-kapwing-editor/"><u>In 2024, Crop and Trim Videos Online for Free with Kapwing Editor</u></a></li>
 </ul></div>
+
 

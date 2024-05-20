@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Merits of OBS Studio & Fraps for Recording Screens"
-date: 2024-05-18T02:07:40.757Z
-updated: 2024-05-19T02:07:40.757Z
+date: 2024-05-19T19:41:44.239Z
+updated: 2024-05-20T19:41:44.239Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 <li><a href="https://sound-tweaking.techidaily.com/blend-music-sequences-into-animated-file-format-on-win-os-for-2024/"><u>Blend Music Sequences Into Animated File Format on WIN OS for 2024</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/updated-motion-monitoring-made-easy-best-apps-for-android-and-ios/"><u>Updated Motion Monitoring Made Easy Best Apps for Android and iOS</u></a></li>
 </ul></div>
+
 

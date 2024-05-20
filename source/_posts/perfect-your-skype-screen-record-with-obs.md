@@ -1,7 +1,7 @@
 ---
 title: "Perfect Your Skype Screen Record with OBS"
-date: 2024-05-18T02:13:56.452Z
-updated: 2024-05-19T02:13:56.452Z
+date: 2024-05-19T19:41:58.526Z
+updated: 2024-05-20T19:41:58.526Z
 tags: 
   - screen-recording
   - ai video
@@ -355,4 +355,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://techidaily.com/how-to-recover-apple-iphone-14-pro-max-data-from-ios-itunes-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How to Recover Apple iPhone 14 Pro Max Data From iOS iTunes? | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-best-8-educational-video-websites-for-teachers/"><u>In 2024, Best 8 Educational Video Websites for Teachers</u></a></li>
 </ul></div>
+
 

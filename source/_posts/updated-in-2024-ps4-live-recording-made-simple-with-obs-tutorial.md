@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, PS4 Live Recording Made Simple with OBS Tutorial"
-date: 2024-05-18T02:14:44.776Z
-updated: 2024-05-19T02:14:44.776Z
+date: 2024-05-19T19:41:59.983Z
+updated: 2024-05-20T19:41:59.983Z
 tags: 
   - screen-recording
   - ai video
@@ -378,4 +378,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://sound-tweaking.techidaily.com/new-in-2024-best-background-music-remover-to-help-you-remove-background-music/"><u>New In 2024, Best Background Music Remover to Help You Remove Background Music</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-camtasia-vs-captivate-which-to-choose/"><u>Updated Camtasia Vs Captivate - Which to Choose?</u></a></li>
 </ul></div>
+
 

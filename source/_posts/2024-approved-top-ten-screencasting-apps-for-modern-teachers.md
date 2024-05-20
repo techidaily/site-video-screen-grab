@@ -945,3 +945,4 @@ To record online teaching all you have to do is install one of the applications 
 <li><a href="https://smart-video-creator.techidaily.com/updated-top-hand-drawing-whiteboard-animation-tools-for-creators/"><u>Updated Top Hand Drawing Whiteboard Animation Tools for Creators</u></a></li>
 </ul></div>
 
+

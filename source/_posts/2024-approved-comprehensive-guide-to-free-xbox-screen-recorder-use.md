@@ -579,3 +579,4 @@ Hopefully, you have understood how to record screen with Xbox game bar directly.
 <li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-sony-xperia-1-v-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Sony Xperia 1 V Unresponsive Screen | Dr.fone</u></a></li>
 </ul></div>
 
+

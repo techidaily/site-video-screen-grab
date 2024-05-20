@@ -1148,3 +1148,4 @@ Follow @Max Wales
 <li><a href="https://smart-video-editing.techidaily.com/new-the-art-of-cinematic-editing-a-final-cut-pro-x-tutorial/"><u>New The Art of Cinematic Editing A Final Cut Pro X Tutorial</u></a></li>
 </ul></div>
 
+

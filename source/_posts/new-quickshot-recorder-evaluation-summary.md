@@ -523,3 +523,4 @@ TinyTake is not difficult to utilize screen catch and recorder, which you can us
 <li><a href="https://howto.techidaily.com/why-is-my-infinix-smart-7-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Infinix Smart 7 Offline? Troubleshooting Guide | Dr.fone</u></a></li>
 </ul></div>
 
+

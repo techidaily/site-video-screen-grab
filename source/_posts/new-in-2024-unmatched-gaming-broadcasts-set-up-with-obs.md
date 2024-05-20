@@ -384,3 +384,4 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://blog-min.techidaily.com/how-to-recover-files-after-iphone-7-plus-factory-reset-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Files after iPhone 7 Plus Factory Reset? | Stellar</u></a></li>
 </ul></div>
 
+

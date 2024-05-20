@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Undead Uprising  Your Essential Compilation of Zombie Gaming\""
-date: 2024-05-18T02:01:01.180Z
-updated: 2024-05-19T02:01:01.180Z
+date: 2024-05-19T19:41:30.352Z
+updated: 2024-05-20T19:41:30.352Z
 tags: 
   - screen-recording
   - ai video
@@ -350,4 +350,5 @@ Get started today with Filmora's powerful performance, user-friendly interface, 
 <li><a href="https://ios-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-in-2024-subtitle-like-a-pro-a-tutorial-on-adding-captions-in-final-cut-pro-x/"><u>New In 2024, Subtitle Like a Pro A Tutorial on Adding Captions in Final Cut Pro X</u></a></li>
 </ul></div>
+
 

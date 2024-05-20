@@ -510,3 +510,4 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 <li><a href="https://sound-optimizing.techidaily.com/updated-in-2024-mastering-frequency-adjustment-in-audacity-without-compromising-sound-fidelity/"><u>Updated In 2024, Mastering Frequency Adjustment in Audacity Without Compromising Sound Fidelity</u></a></li>
 </ul></div>
 
+

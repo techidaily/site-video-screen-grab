@@ -565,3 +565,4 @@ Follow @Richard Bennett
 <li><a href="https://sound-tweaking.techidaily.com/the-art-of-merging-sound-and-visuals-audio-addition-in-gifs-on-a-mac-system/"><u>The Art of Merging Sound and Visuals Audio Addition in GIFs on a Mac System</u></a></li>
 </ul></div>
 
+

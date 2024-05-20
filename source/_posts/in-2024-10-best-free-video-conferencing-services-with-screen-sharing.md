@@ -672,3 +672,4 @@ Follow @Richard Bennett
 <li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-motorola-razr-40-ultra-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Motorola Razr 40 Ultra Pattern Lock Screen</u></a></li>
 </ul></div>
 
+

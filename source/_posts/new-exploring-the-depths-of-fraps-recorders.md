@@ -1,7 +1,7 @@
 ---
 title: "[New] Exploring the Depths of Fraps Recorders"
-date: 2024-05-18T02:19:47.962Z
-updated: 2024-05-19T02:19:47.962Z
+date: 2024-05-19T19:42:10.628Z
+updated: 2024-05-20T19:42:10.628Z
 tags: 
   - screen-recording
   - ai video
@@ -341,4 +341,5 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-vivo-y36-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Vivo Y36 | Dr.fone</u></a></li>
 <li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-itel-p55-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Itel P55 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

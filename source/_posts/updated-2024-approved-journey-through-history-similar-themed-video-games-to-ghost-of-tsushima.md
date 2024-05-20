@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Journey Through History  Similar Themed Video Games to Ghost of Tsushima\""
-date: 2024-05-18T01:59:19.761Z
-updated: 2024-05-19T01:59:19.761Z
+date: 2024-05-19T19:41:26.490Z
+updated: 2024-05-20T19:41:26.490Z
 tags: 
   - screen-recording
   - ai video
@@ -633,4 +633,5 @@ Follow @Ollie Mattison
 <li><a href="https://pokemon-go-android.techidaily.com/here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Realme C67 4G | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/3-ways-to-track-vivo-t2-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Vivo T2 5G without Them Knowing | Dr.fone</u></a></li>
 </ul></div>
+
 

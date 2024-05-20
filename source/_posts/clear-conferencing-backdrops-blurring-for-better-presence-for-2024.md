@@ -836,3 +836,4 @@ Follow @Richard Bennett
 <li><a href="https://audio-shaping.techidaily.com/linux-listens-well-the-best-free-software-and-practices-for-capturing-exceptional-soundtracks/"><u>Linux Listens Well The Best Free Software and Practices for Capturing Exceptional Soundtracks</u></a></li>
 </ul></div>
 
+

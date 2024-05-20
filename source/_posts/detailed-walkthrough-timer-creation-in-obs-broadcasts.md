@@ -1,7 +1,7 @@
 ---
 title: "\"Detailed Walkthrough  Timer Creation in OBS Broadcasts\""
-date: 2024-05-18T02:24:03.093Z
-updated: 2024-05-19T02:24:03.093Z
+date: 2024-05-19T19:42:19.704Z
+updated: 2024-05-20T19:42:19.704Z
 tags: 
   - screen-recording
   - ai video
@@ -249,4 +249,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://location-social.techidaily.com/in-2024-4-most-known-ways-to-find-someone-on-tinder-for-vivo-s17t-by-name-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Most-Known Ways to Find Someone on Tinder For Vivo S17t by Name | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-oppo-a78-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Oppo A78 | Dr.fone</u></a></li>
 </ul></div>
+
 

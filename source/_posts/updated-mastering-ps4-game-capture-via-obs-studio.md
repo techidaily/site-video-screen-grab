@@ -367,3 +367,4 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://voice-adjusting.techidaily.com/new-comprehensive-guide-to-vocal-isolation-in-adobe-audition-a-six-step-process/"><u>New Comprehensive Guide to Vocal Isolation in Adobe Audition A Six-Step Process</u></a></li>
 </ul></div>
 
+

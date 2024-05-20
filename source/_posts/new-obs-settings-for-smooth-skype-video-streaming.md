@@ -1,7 +1,7 @@
 ---
 title: "[New] OBS Settings for Smooth Skype Video Streaming"
-date: 2024-05-18T02:14:00.269Z
-updated: 2024-05-19T02:14:00.269Z
+date: 2024-05-19T19:41:58.635Z
+updated: 2024-05-20T19:41:58.635Z
 tags: 
   - screen-recording
   - ai video
@@ -394,4 +394,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-track-imei-number-of-vivo-x100-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Vivo X100 Pro Through Google Earth?</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-ultimate-guide-to-catch-the-regional-located-pokemon-for-vivo-t2-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ultimate Guide to Catch the Regional-Located Pokemon For Vivo T2 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -428,3 +428,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-use-canva-color-match/"><u>New How to Use Canva Color Match</u></a></li>
 </ul></div>
 
+

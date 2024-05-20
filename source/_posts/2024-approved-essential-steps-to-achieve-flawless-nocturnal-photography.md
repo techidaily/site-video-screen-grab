@@ -166,3 +166,4 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-c12-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from C12</u></a></li>
 </ul></div>
 
+

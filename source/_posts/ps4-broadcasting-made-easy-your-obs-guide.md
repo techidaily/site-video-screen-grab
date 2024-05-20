@@ -1,7 +1,7 @@
 ---
 title: "\"PS4 Broadcasting Made Easy  Your OBS Guide\""
-date: 2024-05-18T01:58:28.330Z
-updated: 2024-05-19T01:58:28.330Z
+date: 2024-05-19T19:41:24.842Z
+updated: 2024-05-20T19:41:24.842Z
 tags: 
   - screen-recording
   - ai video
@@ -413,4 +413,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://smart-video-creator.techidaily.com/new-in-2024-customize-your-videos-speed-in-camtasia-a-beginners-guide/"><u>New In 2024, Customize Your Videos Speed in Camtasia A Beginners Guide</u></a></li>
 <li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Oppo Reno 11F 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

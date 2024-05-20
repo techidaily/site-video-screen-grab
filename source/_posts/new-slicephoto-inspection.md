@@ -251,3 +251,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://screen-mirror.techidaily.com/6-methods-to-share-apple-iphone-11-pro-max-screen-with-pc-drfone-by-drfone-ios/"><u>6 Methods to Share Apple iPhone 11 Pro Max Screen with PC | Dr.fone</u></a></li>
 </ul></div>
 
+

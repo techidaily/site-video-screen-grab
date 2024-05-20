@@ -441,3 +441,4 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://audio-shaping.techidaily.com/updated-best-lyric-video-templates-for-after-effects/"><u>Updated Best Lyric Video Templates for After Effects</u></a></li>
 </ul></div>
 
+

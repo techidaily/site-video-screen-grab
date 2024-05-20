@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Unlocking the Potential  PS4 Recording Techniques in OBS\""
-date: 2024-05-18T02:20:57.373Z
-updated: 2024-05-19T02:20:57.373Z
+date: 2024-05-19T19:42:12.996Z
+updated: 2024-05-20T19:42:12.996Z
 tags: 
   - screen-recording
   - ai video
@@ -393,4 +393,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://iphone-unlock.techidaily.com/things-you-should-know-when-unlocking-total-wireless-of-iphone-12-mini-drfone-by-drfone-ios/"><u>Things You Should Know When Unlocking Total Wireless Of iPhone 12 mini | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-easily-cut-large-videos-faster-on-mac-7-solutions-included-for-2024/"><u>New Easily Cut Large Videos Faster on Mac 7 Solutions Included for 2024</u></a></li>
 </ul></div>
+
 

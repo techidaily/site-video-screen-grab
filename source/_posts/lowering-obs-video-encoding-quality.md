@@ -1,7 +1,7 @@
 ---
 title: "Lowering OBS Video Encoding Quality"
-date: 2024-05-18T02:04:51.571Z
-updated: 2024-05-19T02:04:51.571Z
+date: 2024-05-19T19:41:38.415Z
+updated: 2024-05-20T19:41:38.415Z
 tags: 
   - screen-recording
   - ai video
@@ -301,4 +301,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://ai-video-editing.techidaily.com/new-the-ultimate-guide-to-countdown-animation-in-videos-for-2024/"><u>New The Ultimate Guide to Countdown Animation in Videos for 2024</u></a></li>
 <li><a href="https://change-location.techidaily.com/in-2024-catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-s23-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy S23 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

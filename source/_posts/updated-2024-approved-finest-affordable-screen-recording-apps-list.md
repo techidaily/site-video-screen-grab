@@ -748,3 +748,4 @@ By the end, you'll need to pick the best one for you. Regardless' ideal, however
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-tecno-pova-6-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
 
+

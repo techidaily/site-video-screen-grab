@@ -749,3 +749,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-ace-2v-by-fonelab-android-recover-data/"><u>How to recover lost data from Ace 2V?</u></a></li>
 </ul></div>
 
+

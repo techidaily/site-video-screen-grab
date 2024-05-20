@@ -873,3 +873,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-video-apps.techidaily.com/new-resize-with-ease-a-picture-ratio-calculation-tool/"><u>New Resize with Ease A Picture Ratio Calculation Tool</u></a></li>
 </ul></div>
 
+

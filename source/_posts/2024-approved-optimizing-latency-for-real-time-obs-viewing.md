@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Optimizing Latency for Real-Time OBS Viewing\""
-date: 2024-05-18T02:01:30.386Z
-updated: 2024-05-19T02:01:30.386Z
+date: 2024-05-19T19:41:31.338Z
+updated: 2024-05-20T19:41:31.338Z
 tags: 
   - screen-recording
   - ai video
@@ -252,4 +252,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-meizu-21-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Meizu 21 Pro | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-x50-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Honor X50 | Dr.fone</u></a></li>
 </ul></div>
+
 

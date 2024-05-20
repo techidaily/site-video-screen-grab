@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Solutions for Restarting Frozen OBS Fullscreen"
-date: 2024-05-18T02:03:27.217Z
-updated: 2024-05-19T02:03:27.217Z
+date: 2024-05-19T19:41:35.478Z
+updated: 2024-05-20T19:41:35.478Z
 tags: 
   - screen-recording
   - ai video
@@ -323,4 +323,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://sound-optimizing.techidaily.com/new-in-2024-seek-out-chuckling-noises/"><u>New In 2024, Seek Out Chuckling Noises</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-9-lava-blaze-2-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Lava Blaze 2 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 </ul></div>
+
 

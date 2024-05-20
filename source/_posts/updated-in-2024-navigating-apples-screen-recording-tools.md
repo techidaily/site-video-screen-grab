@@ -525,3 +525,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-editing-video.techidaily.com/new-attaining-slow-motion-video-trend-finding-the-best-capcut-templates-for-2024/"><u>New Attaining Slow Motion Video Trend Finding The Best CapCut Templates for 2024</u></a></li>
 </ul></div>
 
+

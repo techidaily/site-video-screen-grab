@@ -697,3 +697,4 @@ Follow @Richard Bennett
 <li><a href="https://ios-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Fix Pokemon Go Route Not Working On Apple iPhone XR? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"Leveraging Built-In Recorders on Mate 10/20 & P20/10 Series to Screen Capture.\""
-date: 2024-05-18T02:03:08.785Z
-updated: 2024-05-19T02:03:08.785Z
+date: 2024-05-19T19:41:34.943Z
+updated: 2024-05-20T19:41:34.943Z
 tags: 
   - screen-recording
   - ai video
@@ -380,4 +380,5 @@ Follow @Max Wales
 <li><a href="https://ai-voice-clone.techidaily.com/new-in-2024-translate-live-video-making-it-possible-with-the-best-tool/"><u>New In 2024, Translate Live Video Making It Possible With The Best Tool</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/suspend-voice-recording-features-and-embed-original-tunes-using-windows-movie-maker-for-2024/"><u>Suspend Voice Recording Features & Embed Original Tunes Using Windows Movie Maker for 2024</u></a></li>
 </ul></div>
+
 

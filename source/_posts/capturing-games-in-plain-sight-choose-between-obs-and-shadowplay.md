@@ -1,7 +1,7 @@
 ---
 title: "\"Capturing Games in Plain Sight  Choose Between OBS and ShadowPlay\""
-date: 2024-05-18T02:00:44.793Z
-updated: 2024-05-19T02:00:44.793Z
+date: 2024-05-19T19:41:29.766Z
+updated: 2024-05-20T19:41:29.766Z
 tags: 
   - screen-recording
   - ai video
@@ -230,4 +230,5 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-6-to-other-iphone-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 6 To Other iPhone? | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-full-guide-on-mirroring-your-vivo-t2x-5g-to-your-pcmac-drfone-by-drfone-android/"><u>In 2024, Full Guide on Mirroring Your Vivo T2x 5G to Your PC/Mac | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -217,3 +217,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://ai-video-editing.techidaily.com/new-create-dynamic-text-animation-in-filmora/"><u>New Create Dynamic Text Animation in Filmora</u></a></li>
 </ul></div>
 
+

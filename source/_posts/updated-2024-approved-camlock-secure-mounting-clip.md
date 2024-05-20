@@ -1161,3 +1161,4 @@ Follow @Max Wales
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-how-to-create-ken-burns-effect-detaied-steps/"><u>In 2024, How to Create Ken Burns Effect? Detaied Steps</u></a></li>
 </ul></div>
 
+

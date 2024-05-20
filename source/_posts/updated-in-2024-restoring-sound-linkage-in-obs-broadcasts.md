@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Restoring Sound Linkage in OBS Broadcasts"
-date: 2024-05-18T02:14:45.049Z
-updated: 2024-05-19T02:14:45.049Z
+date: 2024-05-19T19:41:59.988Z
+updated: 2024-05-20T19:41:59.988Z
 tags: 
   - screen-recording
   - ai video
@@ -551,4 +551,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-xiaomi-redmi-note-13-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Xiaomi Redmi Note 13 5G Face Lock?</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/2024-approved-online-movie-trailer-design-studios/"><u>2024 Approved Online Movie Trailer Design Studios</u></a></li>
 </ul></div>
+
 

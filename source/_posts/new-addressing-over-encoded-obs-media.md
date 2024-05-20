@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Addressing Over-Encoded OBS Media\""
-date: 2024-05-18T02:15:32.363Z
-updated: 2024-05-19T02:15:32.363Z
+date: 2024-05-19T19:42:01.501Z
+updated: 2024-05-20T19:42:01.501Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-lava-blaze-2-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Lava Blaze 2 5G to Outlook | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-7-easy-ways-to-merge-videos-without-watermarks-or-logos-for-2024/"><u>Updated 7 Easy Ways to Merge Videos Without Watermarks or Logos for 2024</u></a></li>
 </ul></div>
+
 

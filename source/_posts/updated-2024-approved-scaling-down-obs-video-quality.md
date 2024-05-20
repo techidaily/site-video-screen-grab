@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Scaling Down OBS Video Quality\""
-date: 2024-05-18T02:10:49.869Z
-updated: 2024-05-19T02:10:49.869Z
+date: 2024-05-19T19:41:50.605Z
+updated: 2024-05-20T19:41:50.605Z
 tags: 
   - screen-recording
   - ai video
@@ -297,4 +297,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-poco-c55-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on Poco C55 | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/2024-approved-no-watermark-no-problem-10-best-free-video-editors-for-android/"><u>2024 Approved No Watermark, No Problem 10 Best Free Video Editors for Android</u></a></li>
 </ul></div>
+
 

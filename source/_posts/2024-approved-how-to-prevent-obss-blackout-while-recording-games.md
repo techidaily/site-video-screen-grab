@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Prevent OBS's Blackout While Recording Games\""
-date: 2024-05-18T02:08:41.688Z
-updated: 2024-05-19T02:08:41.688Z
+date: 2024-05-19T19:41:46.233Z
+updated: 2024-05-20T19:41:46.233Z
 tags: 
   - screen-recording
   - ai video
@@ -267,4 +267,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-change-oppo-reno-9a-location-on-skout-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Oppo Reno 9A Location on Skout | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-y27-4g-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo Y27 4G Activity | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "OBS vs ShadowPlay"
-date: 2024-05-18T02:15:30.730Z
-updated: 2024-05-19T02:15:30.730Z
+date: 2024-05-19T19:42:01.448Z
+updated: 2024-05-20T19:42:01.448Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://ai-editing-video.techidaily.com/updated-how-to-make-a-time-lapse-video-online/"><u>Updated How to Make a Time-Lapse Video Online</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-infinix-note-30-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on Infinix Note 30 Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

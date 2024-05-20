@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  How to Fix OBS Not Recording Audio\""
-date: 2024-05-18T02:14:24.982Z
-updated: 2024-05-19T02:14:24.982Z
+date: 2024-05-19T19:41:59.403Z
+updated: 2024-05-20T19:41:59.403Z
 tags: 
   - screen-recording
   - ai video
@@ -538,4 +538,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-compressing-time-how-to-create-engaging-time-lapse-videos-with-ease/"><u>Updated 2024 Approved Compressing Time How to Create Engaging Time Lapse Videos with Ease</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-in-2024-revolutionize-your-gameplay-videos-top-free-editing-tools/"><u>New In 2024, Revolutionize Your Gameplay Videos Top Free Editing Tools</u></a></li>
 </ul></div>
+
 

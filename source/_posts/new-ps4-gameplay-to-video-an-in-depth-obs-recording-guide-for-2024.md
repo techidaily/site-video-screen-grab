@@ -1,7 +1,7 @@
 ---
 title: "\"[New] PS4 Gameplay to Video - An In-Depth OBS Recording Guide for 2024\""
-date: 2024-05-18T02:07:21.320Z
-updated: 2024-05-19T02:07:21.320Z
+date: 2024-05-19T19:41:43.606Z
+updated: 2024-05-20T19:41:43.606Z
 tags: 
   - screen-recording
   - ai video
@@ -403,4 +403,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-s18e-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo S18e? | Dr.fone</u></a></li>
 <li><a href="https://video-content-creator.techidaily.com/new-in-2024-10-best-free-online-video-compressors-no-download/"><u>New In 2024, 10 Best Free Online Video Compressors No Download</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Troubleshooting Mute  Reviving Sound in OBS Recordings\""
-date: 2024-05-18T01:58:38.153Z
-updated: 2024-05-19T01:58:38.153Z
+date: 2024-05-19T19:41:25.163Z
+updated: 2024-05-20T19:41:25.163Z
 tags: 
   - screen-recording
   - ai video
@@ -588,4 +588,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://audio-shaping.techidaily.com/in-2024-discover-the-5-most-powerful-audio-editors-on-android-you-cant-afford-to-ignore/"><u>In 2024, Discover the 5 Most Powerful Audio Editors on Android You Cant Afford to Ignore</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Nokia XR21? | Dr.fone</u></a></li>
 </ul></div>
+
 

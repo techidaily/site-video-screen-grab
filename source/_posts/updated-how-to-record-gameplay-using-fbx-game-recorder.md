@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How To Record Gameplay Using FBX Game Recorder"
-date: 2024-05-18T02:14:13.582Z
-updated: 2024-05-19T02:14:13.582Z
+date: 2024-05-19T19:41:59.045Z
+updated: 2024-05-20T19:41:59.045Z
 tags: 
   - screen-recording
   - ai video
@@ -542,4 +542,5 @@ If you are looking for a screen recorder that is specifically designed to captur
 <li><a href="https://smart-video-creator.techidaily.com/the-ultimate-guide-to-converting-text-to-mp3-with-ease/"><u>The Ultimate Guide to Converting Text to MP3 with Ease</u></a></li>
 <li><a href="https://review-topics.techidaily.com/infinix-data-recovery-recover-lost-data-from-infinix-by-fonelab-android-recover-data/"><u>Infinix Data Recovery – recover lost data from Infinix</u></a></li>
 </ul></div>
+
 

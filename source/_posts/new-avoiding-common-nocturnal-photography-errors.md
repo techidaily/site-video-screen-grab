@@ -225,3 +225,4 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://techidaily.com/how-to-reset-tecno-spark-20-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Tecno Spark 20 Pro without Losing Data | Dr.fone</u></a></li>
 </ul></div>
 
+

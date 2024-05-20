@@ -1,7 +1,7 @@
 ---
 title: "A Detailed Guide to Streamlabs OBS for 2024"
-date: 2024-05-18T02:21:25.141Z
-updated: 2024-05-19T02:21:25.141Z
+date: 2024-05-19T19:42:14.184Z
+updated: 2024-05-20T19:42:14.184Z
 tags: 
   - screen-recording
   - ai video
@@ -329,4 +329,5 @@ While using Streamlabs, most of the templates available are nothing more than st
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-honor-magic-5-lite-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Honor Magic 5 Lite to iPhone XS/11 | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/new-the-art-and-science-of-auditory-retrogression-best-audio-reverser-tools-for-2024/"><u>New The Art and Science of Auditory Retrogression Best Audio Reverser Tools for 2024</u></a></li>
 </ul></div>
+
 

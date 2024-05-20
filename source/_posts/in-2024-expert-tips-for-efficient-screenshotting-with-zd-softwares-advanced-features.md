@@ -531,3 +531,4 @@ The article covered the critical features of the ZD Soft recorder, the method to
 <li><a href="https://sound-tweaking.techidaily.com/the-windows-waveform-guide-a-step-by-step-on-incorporating-echo-effects-into-your-music-productions/"><u>The Windows Waveform Guide A Step-by-Step on Incorporating Echo Effects Into Your Music Productions</u></a></li>
 </ul></div>
 
+

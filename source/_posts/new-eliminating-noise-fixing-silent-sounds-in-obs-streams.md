@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Eliminating Noise  Fixing Silent Sounds in OBS Streams\""
-date: 2024-05-18T01:59:09.712Z
-updated: 2024-05-19T01:59:09.712Z
+date: 2024-05-19T19:41:26.163Z
+updated: 2024-05-20T19:41:26.163Z
 tags: 
   - screen-recording
   - ai video
@@ -585,4 +585,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://phone-solutions.techidaily.com/can-t-view-hevc-h-265-content-on-samsung-galaxy-m54-5g-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Can’t view HEVC H.265 content on Samsung Galaxy M54 5G</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/new-elevating-your-music-mix-changing-volume-in-audacity-for-2024/"><u>New Elevating Your Music Mix Changing Volume in Audacity for 2024</u></a></li>
 </ul></div>
+
 

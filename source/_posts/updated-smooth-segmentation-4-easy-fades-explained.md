@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Smooth Segmentation  4 Easy Fades Explained\""
-date: 2024-05-18T02:24:56.512Z
-updated: 2024-05-19T02:24:56.512Z
+date: 2024-05-19T19:42:21.428Z
+updated: 2024-05-20T19:42:21.428Z
 tags: 
   - screen-recording
   - ai video
@@ -456,4 +456,5 @@ Follow @Max Wales
 <li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Infinix Smart 7 | Dr.fone</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-2024-approved-this-article-aim-to-teach-you-how-to-make-a-night-to-day-effect-video-with-filmora-follow-the-steps-to-figure-it-out/"><u>Updated 2024 Approved This Article Aim to Teach You How to Make a Night to Day Effect Video with Filmora. Follow the Steps to Figure It Out</u></a></li>
 </ul></div>
+
 

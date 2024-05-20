@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capturing Skype Chats  An OBS Guide\""
-date: 2024-05-18T01:58:56.103Z
-updated: 2024-05-19T01:58:56.103Z
+date: 2024-05-19T19:41:25.734Z
+updated: 2024-05-20T19:41:25.734Z
 tags: 
   - screen-recording
   - ai video
@@ -375,4 +375,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://audio-editing.techidaily.com/in-2024-invaluable-tips-harness-the-power-of-voxal-audio-alteration-for-enhanced-discord-engagement/"><u>In 2024, Invaluable Tips Harness the Power of Voxal Audio Alteration for Enhanced Discord Engagement</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/new-auditory-access-from-mp4-an-assembled-list-of-simple-steps-to-tap-into-sound-for-2024/"><u>New Auditory Access From MP4 An Assembled List of Simple Steps to Tap Into Sound for 2024</u></a></li>
 </ul></div>
+
 

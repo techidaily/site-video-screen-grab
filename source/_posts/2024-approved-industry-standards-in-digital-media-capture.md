@@ -813,3 +813,4 @@ Follow @Max Wales
 <li><a href="https://phone-solutions.techidaily.com/can-i-view-avchd-mts-files-on-samsung-by-aiseesoft-video-converter-play-mts-on-android/"><u>Can I view AVCHD .mts files on Samsung ?</u></a></li>
 </ul></div>
 
+

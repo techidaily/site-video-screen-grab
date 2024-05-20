@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Re-Establishing OBS Audio Recording Capabilities\""
-date: 2024-05-18T02:05:54.962Z
-updated: 2024-05-19T02:05:54.962Z
+date: 2024-05-19T19:41:40.485Z
+updated: 2024-05-20T19:41:40.485Z
 tags: 
   - screen-recording
   - ai video
@@ -571,4 +571,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://unlock-android.techidaily.com/full-tutorial-to-bypass-your-vivo-y28-5g-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Vivo Y28 5G Face Lock?</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/updated-secrets-to-preserving-audio-quality-when-converting-video-to-mp3/"><u>Updated Secrets to Preserving Audio Quality When Converting Video to MP3</u></a></li>
 </ul></div>
+
 

@@ -395,3 +395,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://techidaily.com/how-to-factory-reset-lava-blaze-2-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Lava Blaze 2 without Losing Data | Dr.fone</u></a></li>
 </ul></div>
 
+

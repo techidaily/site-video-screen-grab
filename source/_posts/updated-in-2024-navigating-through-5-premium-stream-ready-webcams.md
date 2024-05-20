@@ -784,3 +784,4 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-note-12r-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Xiaomi Redmi Note 12R Pattern Lock if Forgotten? 6 Ways</u></a></li>
 </ul></div>
 
+

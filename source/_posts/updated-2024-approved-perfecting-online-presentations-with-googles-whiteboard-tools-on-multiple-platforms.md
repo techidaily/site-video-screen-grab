@@ -570,3 +570,4 @@ Follow @Richard Bennett
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-y78plus-t1-edition-to-new-android-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo Y78+ (T1) Edition to New Android? | Dr.fone</u></a></li>
 </ul></div>
 
+

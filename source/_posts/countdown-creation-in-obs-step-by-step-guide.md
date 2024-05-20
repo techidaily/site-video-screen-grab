@@ -1,7 +1,7 @@
 ---
 title: "\"Countdown Creation in OBS  Step-by-Step Guide\""
-date: 2024-05-18T02:04:09.836Z
-updated: 2024-05-19T02:04:09.836Z
+date: 2024-05-19T19:41:36.791Z
+updated: 2024-05-20T19:41:36.791Z
 tags: 
   - screen-recording
   - ai video
@@ -294,4 +294,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://smart-video-editing.techidaily.com/in-2024-top-rated-4k-proxy-video-editing-tools-a-review/"><u>In 2024, Top-Rated 4K Proxy Video Editing Tools A Review</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/new-the-aspect-ratio-advantage-how-to-optimize-your-youtube-videos-for-maximum-engagement-for-2024/"><u>New The Aspect Ratio Advantage How to Optimize Your YouTube Videos for Maximum Engagement for 2024</u></a></li>
 </ul></div>
+
 

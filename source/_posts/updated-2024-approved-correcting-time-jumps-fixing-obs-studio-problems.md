@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Correcting Time Jumps  Fixing OBS Studio Problems\""
-date: 2024-05-18T02:07:03.026Z
-updated: 2024-05-19T02:07:03.027Z
+date: 2024-05-19T19:41:42.694Z
+updated: 2024-05-20T19:41:42.694Z
 tags: 
   - screen-recording
   - ai video
@@ -567,4 +567,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://techidaily.com/your-complete-guide-to-reset-honor-magic-6-pro-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Honor Magic 6 Pro | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-iphone-x-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your iPhone X Without a Passcode</u></a></li>
 </ul></div>
+
 

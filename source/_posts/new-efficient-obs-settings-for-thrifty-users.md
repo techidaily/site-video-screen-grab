@@ -1,7 +1,7 @@
 ---
 title: "[New] Efficient OBS Settings for Thrifty Users"
-date: 2024-05-18T02:24:40.394Z
-updated: 2024-05-19T02:24:40.394Z
+date: 2024-05-19T19:42:20.901Z
+updated: 2024-05-20T19:42:20.901Z
 tags: 
   - screen-recording
   - ai video
@@ -234,4 +234,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-resize-like-a-pro-tips-for-converting-horizontal-videos-to-vertical/"><u>2024 Approved Resize Like a Pro Tips for Converting Horizontal Videos to Vertical</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/updated-how-to-remove-echo-from-audio-3-easy-and-proven-ways-for-2024/"><u>Updated How to Remove Echo From Audio 3 Easy and Proven Ways for 2024</u></a></li>
 </ul></div>
+
 

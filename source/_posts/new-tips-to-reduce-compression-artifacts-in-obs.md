@@ -1,7 +1,7 @@
 ---
 title: "[New] Tips to Reduce Compression Artifacts in OBS"
-date: 2024-05-18T02:17:19.912Z
-updated: 2024-05-19T02:17:19.912Z
+date: 2024-05-19T19:42:05.374Z
+updated: 2024-05-20T19:42:05.374Z
 tags: 
   - screen-recording
   - ai video
@@ -255,4 +255,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-infinix-smart-8-pro-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Infinix Smart 8 Pro Devices</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/new-green-screen-magic-top-10-free-apps-for-android-and-ios-updated-list-for-2024/"><u>New Green Screen Magic Top 10 Free Apps for Android and iOS Updated List for 2024</u></a></li>
 </ul></div>
+
 

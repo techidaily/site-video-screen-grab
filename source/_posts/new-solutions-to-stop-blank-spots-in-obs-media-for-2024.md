@@ -1,7 +1,7 @@
 ---
 title: "[New] Solutions to Stop Blank Spots in OBS Media for 2024"
-date: 2024-05-18T02:03:05.759Z
-updated: 2024-05-19T02:03:05.759Z
+date: 2024-05-19T19:41:34.845Z
+updated: 2024-05-20T19:41:34.845Z
 tags: 
   - screen-recording
   - ai video
@@ -602,4 +602,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://techidaily.com/remove-google-frp-lock-on-realme-11-pro-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Realme 11 Pro</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-nokia-c12-plus-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Nokia C12 Plus for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 

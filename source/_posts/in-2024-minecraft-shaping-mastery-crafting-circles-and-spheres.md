@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Minecraft Shaping Mastery  Crafting Circles & Spheres\""
-date: 2024-05-18T02:21:39.294Z
-updated: 2024-05-19T02:21:39.294Z
+date: 2024-05-19T19:42:14.622Z
+updated: 2024-05-20T19:42:14.622Z
 tags: 
   - screen-recording
   - ai video
@@ -431,4 +431,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-editing-video.techidaily.com/how-to-add-camera-shake-to-video-in-adobe-after-effects-for-2024/"><u>How to Add Camera Shake to Video in Adobe After Effects for 2024</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/save-on-filmora-expert-tips-to-find-working-coupon-codes/"><u>Save on Filmora Expert Tips to Find Working Coupon Codes</u></a></li>
 </ul></div>
+
 

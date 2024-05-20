@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Ultimate Insights  Setting Up Time-Limited Sessions with OBS\""
-date: 2024-05-18T02:07:09.579Z
-updated: 2024-05-19T02:07:09.579Z
+date: 2024-05-19T19:41:42.967Z
+updated: 2024-05-20T19:41:42.967Z
 tags: 
   - screen-recording
   - ai video
@@ -280,4 +280,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-3-best-motion-blur-plugins-for-adobe-after-effects/"><u>2024 Approved 3 Best Motion Blur Plugins for Adobe After Effects</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/1713954168692-updated-2024-approved-how-to-make-split-screen-videos-in-filmora/"><u>Updated 2024 Approved How To Make Split Screen Videos in Filmora</u></a></li>
 </ul></div>
+
 

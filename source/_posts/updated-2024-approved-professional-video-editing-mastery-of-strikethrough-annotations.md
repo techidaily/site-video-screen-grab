@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Professional Video Editing  Mastery of Strikethrough Annotations\""
-date: 2024-05-18T01:59:54.282Z
-updated: 2024-05-19T01:59:54.282Z
+date: 2024-05-19T19:41:27.728Z
+updated: 2024-05-20T19:41:27.728Z
 tags: 
   - screen-recording
   - ai video
@@ -532,4 +532,5 @@ Follow @Max Wales
 <li><a href="https://video-creation-software.techidaily.com/new-in-2024-aspect-ratio-made-simple-a-calculator-for-image-enthusiasts/"><u>New In 2024, Aspect Ratio Made Simple A Calculator for Image Enthusiasts</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/all-about-apple-iphone-6s-unlock-chip-you-need-to-know-by-drfone-ios/"><u>All About Apple iPhone 6s Unlock Chip You Need to Know</u></a></li>
 </ul></div>
+
 

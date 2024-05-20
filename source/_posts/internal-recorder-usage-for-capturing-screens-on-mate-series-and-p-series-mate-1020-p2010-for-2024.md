@@ -1,7 +1,7 @@
 ---
 title: "Internal Recorder Usage for Capturing Screens on Mate Series & P Series (Mate 10/20; P20/10) for 2024"
-date: 2024-05-18T02:02:40.657Z
-updated: 2024-05-19T02:02:40.657Z
+date: 2024-05-19T19:41:34.108Z
+updated: 2024-05-20T19:41:34.108Z
 tags: 
   - screen-recording
   - ai video
@@ -396,4 +396,5 @@ Follow @Max Wales
 <li><a href="https://video-content-creator.techidaily.com/updated-setting-up-videoleap-on-macbook-download-install-and-start-editing/"><u>Updated Setting Up Videoleap on MacBook Download, Install, and Start Editing</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-8-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 8 Backup Unlocker Top 4 Alternatives</u></a></li>
 </ul></div>
+
 

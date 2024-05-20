@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] OBS Glitch Fix  Stop Frames From Dropping\""
-date: 2024-05-18T02:20:37.843Z
-updated: 2024-05-19T02:20:37.843Z
+date: 2024-05-19T19:42:12.304Z
+updated: 2024-05-20T19:42:12.304Z
 tags: 
   - screen-recording
   - ai video
@@ -593,4 +593,5 @@ OBS drop frame is probably the most common issue reported by OBS users. Whenever
 <li><a href="https://audio-editing.techidaily.com/updated-what-is-audio-ducking-and-how-to-use-it-in-filmora/"><u>Updated What Is Audio Ducking and How to Use It in Filmora</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-the-ultimate-guide-to-free-4k-video-editing-software/"><u>Updated The Ultimate Guide to Free 4K Video Editing Software</u></a></li>
 </ul></div>
+
 

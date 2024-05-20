@@ -1,7 +1,7 @@
 ---
 title: "How to Record Gameplay on Windows 11"
-date: 2024-05-18T02:10:38.248Z
-updated: 2024-05-19T02:10:38.248Z
+date: 2024-05-19T19:41:50.234Z
+updated: 2024-05-20T19:41:50.234Z
 tags: 
   - screen-recording
   - ai video
@@ -429,4 +429,5 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://video-creation-software.techidaily.com/updated-wax-video-editor-a-beginners-guide-to-editing-like-a-pro/"><u>Updated Wax Video Editor A Beginners Guide to Editing Like a Pro</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-deal-with-the-tecno-pova-5-screen-black-but-still-works-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Deal With the Tecno Pova 5 Screen Black But Still Works? | Dr.fone</u></a></li>
 </ul></div>
+
 

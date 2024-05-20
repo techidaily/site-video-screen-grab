@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Adding Drama to Videos  Strikethrough for Emphasis and Clarity\""
-date: 2024-05-18T02:11:14.819Z
-updated: 2024-05-19T02:11:14.819Z
+date: 2024-05-19T19:41:51.433Z
+updated: 2024-05-20T19:41:51.433Z
 tags: 
   - screen-recording
   - ai video
@@ -503,4 +503,5 @@ Follow @Max Wales
 <li><a href="https://video-content-creator.techidaily.com/new-in-2024-10-best-image-to-video-makers-online-free-and-paid/"><u>New In 2024, 10 Best Image to Video Makers Online Free & Paid</u></a></li>
 <li><a href="https://fake-location.techidaily.com/what-are-location-permissions-life360-on-samsung-galaxy-a24-drfone-by-drfone-virtual-android/"><u>What are Location Permissions Life360 On Samsung Galaxy A24? | Dr.fone</u></a></li>
 </ul></div>
+
 

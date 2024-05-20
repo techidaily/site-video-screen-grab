@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Step-by-Step  Full PS4 Game Recording in OBS Studio\""
-date: 2024-05-18T02:06:17.672Z
-updated: 2024-05-19T02:06:17.672Z
+date: 2024-05-19T19:41:41.148Z
+updated: 2024-05-20T19:41:41.148Z
 tags: 
   - screen-recording
   - ai video
@@ -404,4 +404,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://android-unlock.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-oppo-a38-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Oppo A38 Device</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-in-2024-make-a-countdown-video/"><u>Updated In 2024, Make A Countdown Video</u></a></li>
 </ul></div>
+
 

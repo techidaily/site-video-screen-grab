@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Resolving Disconnected Sound on OBS Broadcast\""
-date: 2024-05-18T02:06:32.208Z
-updated: 2024-05-19T02:06:32.208Z
+date: 2024-05-19T19:41:41.585Z
+updated: 2024-05-20T19:41:41.585Z
 tags: 
   - screen-recording
   - ai video
@@ -555,4 +555,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-vivo-t2-5g-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>In 2024, How to Unlock Vivo T2 5G Pattern Lock if Forgotten? 6 Ways</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-navigating-the-modern-landscape-of-live-audio-capturing-for-streaming-for-2024/"><u>Updated Navigating the Modern Landscape of Live Audio Capturing for Streaming for 2024</u></a></li>
 </ul></div>
+
 

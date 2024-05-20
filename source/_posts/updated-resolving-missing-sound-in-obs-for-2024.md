@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Resolving Missing Sound in OBS for 2024"
-date: 2024-05-18T01:59:05.895Z
-updated: 2024-05-19T01:59:05.895Z
+date: 2024-05-19T19:41:26.046Z
+updated: 2024-05-20T19:41:26.046Z
 tags: 
   - screen-recording
   - ai video
@@ -593,4 +593,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://video-ai-editor.techidaily.com/best-online-platforms-for-lyric-video-creation/"><u>Best Online Platforms for Lyric Video Creation</u></a></li>
 <li><a href="https://howto.techidaily.com/full-solutions-to-fix-error-code-920-in-google-play-on-motorola-moto-g84-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Solutions to Fix Error Code 920 In Google Play on Motorola Moto G84 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

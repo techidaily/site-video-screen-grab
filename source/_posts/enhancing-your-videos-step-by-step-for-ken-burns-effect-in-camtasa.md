@@ -1,7 +1,7 @@
 ---
 title: "\"Enhancing Your Videos  Step-by-Step for Ken Burns Effect in Camtasa\""
-date: 2024-05-18T02:05:30.772Z
-updated: 2024-05-19T02:05:30.772Z
+date: 2024-05-19T19:41:39.713Z
+updated: 2024-05-20T19:41:39.713Z
 tags: 
   - screen-recording
   - ai video
@@ -328,4 +328,5 @@ Follow @Max Wales
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-s-must-have-time-lapse-apps-for-smartphone-photography/"><u>Updated S Must-Have Time-Lapse Apps for Smartphone Photography</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/essential-techniques-for-filtering-out-background-disturbances-in-digital-sound-recordings-for-2024/"><u>Essential Techniques for Filtering Out Background Disturbances in Digital Sound Recordings for 2024</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Cinematography Simplified  Fades Made Easy for 2024\""
-date: 2024-05-18T02:02:40.115Z
-updated: 2024-05-19T02:02:40.115Z
+date: 2024-05-19T19:41:34.090Z
+updated: 2024-05-20T19:41:34.090Z
 tags: 
   - screen-recording
   - ai video
@@ -469,4 +469,5 @@ Follow @Max Wales
 <li><a href="https://sound-tweaking.techidaily.com/updated-from-ambient-noises-to-melodies-detailed-audio-recording-on-windows-10-for-2024/"><u>Updated From Ambient Noises to Melodies Detailed Audio Recording on Windows 10 for 2024</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-itel-p55plus-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Itel P55+ to Any iOS Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "The Basic Routes to Sync OBS with Zoom"
-date: 2024-05-18T02:04:51.842Z
-updated: 2024-05-19T02:04:51.842Z
+date: 2024-05-19T19:41:38.423Z
+updated: 2024-05-20T19:41:38.424Z
 tags: 
   - screen-recording
   - ai video
@@ -397,4 +397,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://android-location-track.techidaily.com/how-to-track-lava-blaze-2-pro-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Lava Blaze 2 Pro Location by Number | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/why-does-my-infinix-hot-30-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Infinix Hot 30 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Stopping Auto-Capture in Apple's Recorder\""
-date: 2024-05-18T02:05:48.713Z
-updated: 2024-05-19T02:05:48.713Z
+date: 2024-05-19T19:41:40.261Z
+updated: 2024-05-20T19:41:40.261Z
 tags: 
   - screen-recording
   - ai video
@@ -448,4 +448,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://techidaily.com/undelete-lost-contacts-from-rog-phone-8-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from ROG Phone 8.</u></a></li>
 <li><a href="https://change-location.techidaily.com/how-to-stop-google-chrome-from-tracking-your-location-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>How to Stop Google Chrome from Tracking Your Location On Vivo Y100i Power 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

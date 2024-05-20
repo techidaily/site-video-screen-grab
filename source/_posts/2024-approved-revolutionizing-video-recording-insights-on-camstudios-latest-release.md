@@ -227,3 +227,4 @@ CamStudio is an open-source screen recorder, and it is suitable for regular scre
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-pro-max-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Pro Max to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -625,3 +625,4 @@ Follow @Richard Bennett
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-asus-rog-phone-7-ultimate-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Asus ROG Phone 7 Ultimate | Dr.fone</u></a></li>
 </ul></div>
 
+

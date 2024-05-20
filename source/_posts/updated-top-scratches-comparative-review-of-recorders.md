@@ -338,3 +338,4 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://video-content-creator.techidaily.com/new-top-video-editors-with-smart-auto-reframe-for-2024/"><u>New Top Video Editors with Smart Auto-Reframe for 2024</u></a></li>
 </ul></div>
 
+

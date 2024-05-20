@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Screen Capture Showdown  OBS vs Shadow\""
-date: 2024-05-18T02:14:34.467Z
-updated: 2024-05-19T02:14:34.467Z
+date: 2024-05-19T19:41:59.683Z
+updated: 2024-05-20T19:41:59.683Z
 tags: 
   - screen-recording
   - ai video
@@ -228,4 +228,5 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-unleash-your-creativity-best-stop-motion-software-for-mac-and-pc/"><u>Updated 2024 Approved Unleash Your Creativity Best Stop Motion Software for Mac and PC</u></a></li>
 <li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-honor-magic-5-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Honor Magic 5 | Dr.fone</u></a></li>
 </ul></div>
+
 

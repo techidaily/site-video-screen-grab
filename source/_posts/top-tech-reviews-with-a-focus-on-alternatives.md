@@ -259,3 +259,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://smart-video-creator.techidaily.com/in-2024-top-rated-online-aspect-ratio-calculators/"><u>In 2024, Top-Rated Online Aspect Ratio Calculators</u></a></li>
 </ul></div>
 
+

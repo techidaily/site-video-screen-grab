@@ -1,7 +1,7 @@
 ---
 title: "\"Professional Gamers Showcase - Live Recording in OBS for 2024\""
-date: 2024-05-18T02:09:29.158Z
-updated: 2024-05-19T02:09:29.158Z
+date: 2024-05-19T19:41:47.908Z
+updated: 2024-05-20T19:41:47.908Z
 tags: 
   - screen-recording
   - ai video
@@ -382,4 +382,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-xiaomi-mix-fold-3-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track Xiaomi Mix Fold 3 without Them Knowing | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-oppo-reno-10-proplus-5g-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Oppo Reno 10 Pro+ 5G.</u></a></li>
 </ul></div>
+
 

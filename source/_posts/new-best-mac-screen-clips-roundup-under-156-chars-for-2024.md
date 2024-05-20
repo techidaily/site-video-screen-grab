@@ -495,3 +495,4 @@ Follow @Liza Brown
 <li><a href="https://howto.techidaily.com/infinix-smart-8-stuck-on-screen-finding-solutions-for-stuck-on-boot-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Infinix Smart 8 Stuck on Screen – Finding Solutions For Stuck on Boot | Dr.fone</u></a></li>
 </ul></div>
 
+

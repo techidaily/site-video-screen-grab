@@ -399,3 +399,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-magic-5-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Honor Magic 5 | Dr.fone</u></a></li>
 </ul></div>
 
+

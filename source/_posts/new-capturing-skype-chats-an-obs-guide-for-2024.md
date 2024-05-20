@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing Skype Chats  An OBS Guide for 2024\""
-date: 2024-05-18T02:18:44.522Z
-updated: 2024-05-19T02:18:44.522Z
+date: 2024-05-19T19:42:08.563Z
+updated: 2024-05-20T19:42:08.563Z
 tags: 
   - screen-recording
   - ai video
@@ -384,4 +384,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://activate-lock.techidaily.com/bypass-activation-lock-from-iphone-6s-plus-4-easy-ways-by-drfone-ios/"><u>Bypass Activation Lock From iPhone 6s Plus - 4 Easy Ways</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/best-tips-on-how-to-design-travel-slideshow-for-2024/"><u>Best Tips on How to Design Travel Slideshow for 2024</u></a></li>
 </ul></div>
+
 

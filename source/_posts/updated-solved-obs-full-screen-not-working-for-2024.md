@@ -1,7 +1,7 @@
 ---
 title: "[Updated] [Solved] OBS Full Screen Not Working for 2024"
-date: 2024-05-18T02:09:52.759Z
-updated: 2024-05-19T02:09:52.759Z
+date: 2024-05-19T19:41:48.864Z
+updated: 2024-05-20T19:41:48.864Z
 tags: 
   - screen-recording
   - ai video
@@ -279,4 +279,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://audio-editing.techidaily.com/new-cutting-edge-music-editing-software-roundup-the-top-10-compatible-apps-for-windows-and-mac/"><u>New Cutting-Edge Music Editing Software Roundup The Top 10 Compatible Apps for Windows and Mac</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/1714064748101-mp4-video-tag-editors-are-used-to-alter-or-add-general-information-to-a-video-to-help-you-find-the-best-video-tag-editor-weve-compiled-a-list-of-the-top-10-/"><u>MP4 Video Tag Editors Are Used to Alter or Add General Information to a Video. To Help You Find the Best Video Tag Editor, Weve Compiled a List of the Top 10 Best MP4 Tag Editors for Windows and Mac for 2024</u></a></li>
 </ul></div>
+
 

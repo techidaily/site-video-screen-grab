@@ -1,7 +1,7 @@
 ---
 title: "\"Mobile Mastery  Using Phone as a Camera for Recording\""
-date: 2024-05-18T02:09:15.318Z
-updated: 2024-05-19T02:09:15.318Z
+date: 2024-05-19T19:41:47.394Z
+updated: 2024-05-20T19:41:47.394Z
 tags: 
   - screen-recording
   - ai video
@@ -640,4 +640,5 @@ Follow @Max Wales
 <li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-xiaomi-redmi-note-12r-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Xiaomi Redmi Note 12R | Dr.fone</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-the-art-of-multiframe-storytelling-using-picture-in-picture-in-final-cut-pro/"><u>Updated The Art of Multiframe Storytelling Using Picture-in-Picture in Final Cut Pro</u></a></li>
 </ul></div>
+
 

@@ -386,3 +386,4 @@ V Recorder is a powerful app for recording videos of your smartphone's screen in
 <li><a href="https://android-pokemon-go.techidaily.com/how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-oppo-find-x7-drfone-by-drfone-virtual-android/"><u>How to get the dragon scale and evolution-enabled pokemon On Oppo Find X7? | Dr.fone</u></a></li>
 </ul></div>
 
+

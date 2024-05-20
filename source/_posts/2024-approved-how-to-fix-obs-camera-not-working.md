@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  How to Fix OBS Camera Not Working\""
-date: 2024-05-18T02:02:00.600Z
-updated: 2024-05-19T02:02:00.600Z
+date: 2024-05-19T19:41:32.470Z
+updated: 2024-05-20T19:41:32.470Z
 tags: 
   - screen-recording
   - ai video
@@ -307,4 +307,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://audio-shaping.techidaily.com/new-mastering-soundscapes-with-avs-an-examination-of-product-specifications-reviews-and-diverse-alternatives-for-2024/"><u>New Mastering Soundscapes with AVS An Examination of Product Specifications, Reviews, and Diverse Alternatives for 2024</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/new-in-2024-locate-horrifying-noise-sample/"><u>New In 2024, Locate Horrifying Noise Sample</u></a></li>
 </ul></div>
+
 

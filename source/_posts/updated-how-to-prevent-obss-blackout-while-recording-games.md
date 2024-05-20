@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Prevent OBS's Blackout While Recording Games"
-date: 2024-05-18T02:05:43.289Z
-updated: 2024-05-19T02:05:43.289Z
+date: 2024-05-19T19:41:40.116Z
+updated: 2024-05-20T19:41:40.116Z
 tags: 
   - screen-recording
   - ai video
@@ -274,4 +274,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-vivo-v30-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Full Guide How To Fix Connection Is Not Private on Vivo V30 Lite 5G | Dr.fone</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/navigating-iphone-audio-modification-first-time-users-introduction-to-voice-changer-plus-for-2024/"><u>Navigating iPhone Audio Modification First-Time Users Introduction to Voice Changer Plus for 2024</u></a></li>
 </ul></div>
+
 

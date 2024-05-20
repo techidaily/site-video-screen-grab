@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Tips to Reduce Compression Artifacts in OBS\""
-date: 2024-05-18T02:00:48.066Z
-updated: 2024-05-19T02:00:48.066Z
+date: 2024-05-19T19:41:29.876Z
+updated: 2024-05-20T19:41:29.876Z
 tags: 
   - screen-recording
   - ai video
@@ -279,4 +279,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://video-ai-editor.techidaily.com/updated-from-boring-to-brilliant-best-video-dubbing-apps-for-comedy-and-fun/"><u>Updated From Boring to Brilliant Best Video Dubbing Apps for Comedy & Fun</u></a></li>
 <li><a href="https://meme-emoji.techidaily.com/new-how-to-make-a-flv-photo-slideshow/"><u>New How to Make a FLV Photo Slideshow</u></a></li>
 </ul></div>
+
 

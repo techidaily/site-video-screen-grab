@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Mute People on Google Meet Video Call\""
-date: 2024-05-18T02:04:46.140Z
-updated: 2024-05-19T02:04:46.140Z
+date: 2024-05-19T19:41:37.995Z
+updated: 2024-05-20T19:41:37.995Z
 tags: 
   - screen-recording
   - ai video
@@ -710,4 +710,5 @@ Follow @Richard Bennett
 <li><a href="https://easy-unlock-android.techidaily.com/full-tutorial-to-bypass-your-realme-c33-2023-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Realme C33 2023 Face Lock?</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-s24-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Samsung Galaxy S24 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
 </ul></div>
+
 

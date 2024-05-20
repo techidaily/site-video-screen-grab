@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, The A-to-Z Guide to Recording Games Using OBS\""
-date: 2024-05-18T01:58:06.494Z
-updated: 2024-05-19T01:58:06.494Z
+date: 2024-05-19T19:41:24.155Z
+updated: 2024-05-20T19:41:24.155Z
 tags: 
   - screen-recording
   - ai video
@@ -409,4 +409,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-bypass-the-required-apple-store-verification-for-iphone-13-by-drfone-ios/"><u>In 2024, How To Bypass the Required Apple Store Verification For iPhone 13</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-essential-music-libraries-for-film-and-video-editing-free-edition-for-2024/"><u>Updated Essential Music Libraries for Film and Video Editing - Free Edition for 2024</u></a></li>
 </ul></div>
+
 

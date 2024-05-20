@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Quickly Stop Live Feed Capture with QuickTime"
-date: 2024-05-18T02:12:17.602Z
-updated: 2024-05-19T02:12:17.602Z
+date: 2024-05-19T19:41:54.642Z
+updated: 2024-05-20T19:41:54.642Z
 tags: 
   - screen-recording
   - ai video
@@ -417,4 +417,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://smart-video-creator.techidaily.com/updated-create-stunning-videos-anywhere-best-mobile-editing-apps/"><u>Updated Create Stunning Videos Anywhere Best Mobile Editing Apps</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-recover-old-messages-from-your-oppo-find-n3-flip-by-fonelab-android-recover-messages/"><u>How to recover old messages from your Oppo Find N3 Flip</u></a></li>
 </ul></div>
+
 

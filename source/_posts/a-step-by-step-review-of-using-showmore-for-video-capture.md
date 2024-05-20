@@ -378,3 +378,4 @@ To summarize ShowMore screen recorder review for you, it is an outstanding free 
 <li><a href="https://ai-vdieo-software.techidaily.com/determining-screen-resolution-a-step-by-step-guide/"><u>Determining Screen Resolution A Step-by-Step Guide</u></a></li>
 </ul></div>
 
+

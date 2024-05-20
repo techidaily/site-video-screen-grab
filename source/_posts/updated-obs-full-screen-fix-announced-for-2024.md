@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Obs Full-Screen Fix Announced for 2024\""
-date: 2024-05-18T02:00:51.342Z
-updated: 2024-05-19T02:00:51.342Z
+date: 2024-05-19T19:41:29.995Z
+updated: 2024-05-20T19:41:29.995Z
 tags: 
   - screen-recording
   - ai video
@@ -292,4 +292,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://video-ai-editor.techidaily.com/in-2024-fcp-editing-mastery-5-must-know-tips-for-better-videos/"><u>In 2024, FCP Editing Mastery 5 Must-Know Tips for Better Videos</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/updated-picture-perfect-a-step-by-step-guide-to-social-media-image-dimensions-for-2024/"><u>Updated Picture Perfect A Step-by-Step Guide to Social Media Image Dimensions for 2024</u></a></li>
 </ul></div>
+
 

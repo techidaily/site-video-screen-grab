@@ -397,3 +397,4 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://ai-vdieo-software.techidaily.com/new-basic-video-editing-apps-for-everyday-creators/"><u>New Basic Video Editing Apps for Everyday Creators</u></a></li>
 </ul></div>
 
+

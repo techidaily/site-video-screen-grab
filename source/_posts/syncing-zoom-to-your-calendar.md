@@ -1,7 +1,7 @@
 ---
 title: "Syncing Zoom to Your Calendar"
-date: 2024-05-18T02:05:04.899Z
-updated: 2024-05-19T02:05:04.899Z
+date: 2024-05-19T19:41:38.844Z
+updated: 2024-05-20T19:41:38.844Z
 tags: 
   - screen-recording
   - ai video
@@ -341,4 +341,5 @@ Follow @Richard Bennett
 <li><a href="https://screen-mirror.techidaily.com/full-guide-on-mirroring-your-itel-a60-to-your-pcmac-drfone-by-drfone-android/"><u>Full Guide on Mirroring Your Itel A60 to Your PC/Mac | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/how-to-create-your-own-luts-for-your-video-with-filmora-for-2024/"><u>How to Create Your Own LUTs for Your Video with Filmora for 2024</u></a></li>
 </ul></div>
+
 

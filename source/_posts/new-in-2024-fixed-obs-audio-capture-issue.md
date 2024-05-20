@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Fixed OBS Audio Capture Issue"
-date: 2024-05-18T02:09:49.760Z
-updated: 2024-05-19T02:09:49.760Z
+date: 2024-05-19T19:41:48.761Z
+updated: 2024-05-20T19:41:48.761Z
 tags: 
   - screen-recording
   - ai video
@@ -546,4 +546,5 @@ When recording from OBS studio, if the desktop audio section does not react to a
 <li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-oppo-a78-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your Oppo A78 to Enjoy More Fun | Dr.fone</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/in-2024-top-10-mobile-tools-for-mastering-melodies-ios-vs-android-edition/"><u>In 2024, Top 10 Mobile Tools for Mastering Melodies IOS Vs. Android Edition</u></a></li>
 </ul></div>
+
 

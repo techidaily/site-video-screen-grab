@@ -515,3 +515,4 @@ OBS Studio is a popular application among gamers, professional trainers, and int
 <li><a href="https://video-content-creator.techidaily.com/new-resize-your-video-in-minutes-a-quick-fix/"><u>New Resize Your Video in Minutes A Quick Fix</u></a></li>
 </ul></div>
 
+

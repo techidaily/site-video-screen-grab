@@ -412,3 +412,4 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/samsung-galaxy-a34-5g-won-t-play-avchd-mts-files-by-aiseesoft-video-converter-play-mts-on-android/"><u>Samsung Galaxy A34 5G won’t play AVCHD .mts files</u></a></li>
 </ul></div>
 
+

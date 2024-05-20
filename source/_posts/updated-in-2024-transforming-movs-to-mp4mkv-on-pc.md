@@ -650,3 +650,4 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-pictures-files-on-vivo-g2-by-fonelab-android-recover-pictures/"><u>Complete guide for recovering pictures files on Vivo G2.</u></a></li>
 </ul></div>
 
+

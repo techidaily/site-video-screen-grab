@@ -972,3 +972,4 @@ To record online teaching all you have to do is install one of the applications 
 <li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y36i-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y36i? | Dr.fone</u></a></li>
 </ul></div>
 
+

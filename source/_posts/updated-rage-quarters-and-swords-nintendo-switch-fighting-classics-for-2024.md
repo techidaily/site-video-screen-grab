@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Rage Quarters & Swords  Nintendo Switch Fighting Classics for 2024\""
-date: 2024-05-18T02:04:36.046Z
-updated: 2024-05-19T02:04:36.046Z
+date: 2024-05-19T19:41:37.652Z
+updated: 2024-05-20T19:41:37.652Z
 tags: 
   - screen-recording
   - ai video
@@ -778,4 +778,5 @@ For macOS 10.12 or later
 <li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Live Location is Not Updating and How to Fix on your Samsung Galaxy A14 5G | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-a-comprehensive-walkthrough-to-modify-videos-speaker-output/"><u>New 2024 Approved A Comprehensive Walkthrough to Modify Videos Speaker Output</u></a></li>
 </ul></div>
+
 

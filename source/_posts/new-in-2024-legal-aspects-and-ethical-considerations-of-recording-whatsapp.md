@@ -469,3 +469,4 @@ Hopefully, you have understood how to record WhatsApp video call on your device.
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-unresponsive-touch-screen-on-motorola-moto-g24-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Motorola Moto G24 | Dr.fone</u></a></li>
 </ul></div>
 
+

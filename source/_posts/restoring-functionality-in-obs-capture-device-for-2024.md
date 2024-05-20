@@ -1,7 +1,7 @@
 ---
 title: "Restoring Functionality in OBS Capture Device for 2024"
-date: 2024-05-18T02:21:10.699Z
-updated: 2024-05-19T02:21:10.699Z
+date: 2024-05-19T19:42:13.715Z
+updated: 2024-05-20T19:42:13.715Z
 tags: 
   - screen-recording
   - ai video
@@ -269,4 +269,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-14-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 14 To Other iPhone 15 Pro devices? | Dr.fone</u></a></li>
 <li><a href="https://animation-videos.techidaily.com/updated-most-popular-tips-on-learning-animate-rigging/"><u>Updated Most Popular Tips on Learning Animate Rigging</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"Video Capture Crusade  OBS Vs ShadowCast\""
-date: 2024-05-18T01:58:54.209Z
-updated: 2024-05-19T01:58:54.209Z
+date: 2024-05-19T19:41:25.684Z
+updated: 2024-05-20T19:41:25.684Z
 tags: 
   - screen-recording
   - ai video
@@ -248,4 +248,5 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-apples-finest-best-video-editing-software-for-mac/"><u>New 2024 Approved Apples Finest Best Video Editing Software for Mac</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/how-to-track-vivo-g2-location-by-number-drfone-by-drfone-virtual-android/"><u>How to Track Vivo G2 Location by Number | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -252,3 +252,4 @@ SplitCam as a free video record is great to say the least. However, it fails to 
 <li><a href="https://ai-editing-video.techidaily.com/updated-2024-approved-easy-way-to-create-a-diy-green-screen-video-effect/"><u>Updated 2024 Approved Easy Way to Create a DIY Green Screen Video Effect</u></a></li>
 </ul></div>
 
+

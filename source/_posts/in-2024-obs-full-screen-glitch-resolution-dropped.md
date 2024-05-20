@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Obs Full Screen Glitch  Resolution Dropped\""
-date: 2024-05-18T02:13:19.476Z
-updated: 2024-05-19T02:13:19.476Z
+date: 2024-05-19T19:41:56.899Z
+updated: 2024-05-20T19:41:56.899Z
 tags: 
   - screen-recording
   - ai video
@@ -265,4 +265,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://activate-lock.techidaily.com/in-2024-easy-tutorial-for-activating-icloud-from-apple-iphone-12-mini-safe-and-legal-by-drfone-ios/"><u>In 2024, Easy Tutorial for Activating iCloud from Apple iPhone 12 mini Safe and Legal</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-camon-20-premier-5gwithwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Tecno Camon 20 Premier 5Gwith/without a PC</u></a></li>
 </ul></div>
+
 

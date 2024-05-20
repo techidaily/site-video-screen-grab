@@ -255,3 +255,4 @@ We have stated all the different ways to record the screen of your Dell laptop. 
 <li><a href="https://screen-mirror.techidaily.com/top-10-airplay-apps-in-infinix-gt-10-pro-for-streaming-drfone-by-drfone-android/"><u>Top 10 AirPlay Apps in Infinix GT 10 Pro for Streaming | Dr.fone</u></a></li>
 </ul></div>
 
+

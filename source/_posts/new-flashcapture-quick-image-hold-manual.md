@@ -1,7 +1,7 @@
 ---
 title: "\"[New] FlashCapture  Quick Image Hold Manual\""
-date: 2024-05-18T02:24:18.933Z
-updated: 2024-05-19T02:24:18.933Z
+date: 2024-05-19T19:42:20.183Z
+updated: 2024-05-20T19:42:20.183Z
 tags: 
   - screen-recording
   - ai video
@@ -423,4 +423,5 @@ QuickTime Player is the ideal application on Mac for playing audio and video. It
 <li><a href="https://ai-vdieo-software.techidaily.com/converting-video-to-mp3-tips-for-preserving-sound-quality/"><u>Converting Video to MP3 Tips for Preserving Sound Quality</u></a></li>
 <li><a href="https://techidaily.com/how-to-reset-a-realme-12-pro-5g-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Realme 12 Pro 5G Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
+
 

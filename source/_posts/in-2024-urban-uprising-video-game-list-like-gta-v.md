@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Urban Uprising  Video Game List Like GTA V\""
-date: 2024-05-18T02:06:48.029Z
-updated: 2024-05-19T02:06:48.029Z
+date: 2024-05-19T19:41:42.102Z
+updated: 2024-05-20T19:41:42.102Z
 tags: 
   - screen-recording
   - ai video
@@ -862,4 +862,5 @@ So, this was our list of 10 best games like GTA 5\. We tried our best to keep th
 <li><a href="https://fix-guide.techidaily.com/how-to-quickly-fix-bluetooth-not-working-on-xiaomi-redmi-note-12-proplus-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Quickly Fix Bluetooth Not Working on Xiaomi Redmi Note 12 Pro+ 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/in-2024-6-instant-ways-to-make-windows-10-slideshow/"><u>In 2024, 6 Instant Ways to Make Windows 10 Slideshow</u></a></li>
 </ul></div>
+
 

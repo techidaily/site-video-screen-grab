@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Shielding Identity  Video Blur and Privacy Preservation\""
-date: 2024-05-18T02:14:34.740Z
-updated: 2024-05-19T02:14:34.740Z
+date: 2024-05-19T19:41:59.690Z
+updated: 2024-05-20T19:41:59.690Z
 tags: 
   - screen-recording
   - ai video
@@ -536,4 +536,5 @@ Follow @Max Wales
 <li><a href="https://screen-mirror.techidaily.com/in-2024-overview-of-the-best-vivo-y36-screen-mirroring-app-drfone-by-drfone-android/"><u>In 2024, Overview of the Best Vivo Y36 Screen Mirroring App | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-sony-xperia-1-v-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Sony Xperia 1 V Phone When You Forget the Password</u></a></li>
 </ul></div>
+
 

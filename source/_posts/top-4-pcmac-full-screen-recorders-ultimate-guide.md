@@ -398,3 +398,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://audio-shaping.techidaily.com/new-step-by-step-instructions-for-capturing-high-quality-sounds-on-garageband/"><u>New Step-By-Step Instructions for Capturing High-Quality Sounds on GarageBand</u></a></li>
 </ul></div>
 
+

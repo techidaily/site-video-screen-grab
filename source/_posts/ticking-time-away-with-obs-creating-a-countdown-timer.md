@@ -1,7 +1,7 @@
 ---
 title: "\"Ticking Time Away with OBS  Creating a Countdown Timer\""
-date: 2024-05-18T02:12:21.531Z
-updated: 2024-05-19T02:12:21.531Z
+date: 2024-05-19T19:41:54.766Z
+updated: 2024-05-20T19:41:54.766Z
 tags: 
   - screen-recording
   - ai video
@@ -291,4 +291,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://blog-min.techidaily.com/5-easy-ways-to-copy-contacts-from-xiaomi-redmi-note-12-pro-4g-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Easy Ways to Copy Contacts from Xiaomi Redmi Note 12 Pro 4G to iPhone 14 and 15 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-do-vivo-y55s-5g-2023-screen-sharing-drfone-by-drfone-android/"><u>How To Do Vivo Y55s 5G (2023) Screen Sharing | Dr.fone</u></a></li>
 </ul></div>
+
 

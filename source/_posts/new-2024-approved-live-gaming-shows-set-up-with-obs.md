@@ -437,3 +437,4 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-the-best-peter-mckinnon-luts-for-perfect-video-editing/"><u>New 2024 Approved The Best Peter McKinnon LUTs for Perfect Video Editing</u></a></li>
 </ul></div>
 
+

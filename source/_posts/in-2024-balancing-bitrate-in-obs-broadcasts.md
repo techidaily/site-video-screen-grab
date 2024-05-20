@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Balancing Bitrate in OBS Broadcasts"
-date: 2024-05-18T02:20:08.466Z
-updated: 2024-05-19T02:20:08.466Z
+date: 2024-05-19T19:42:11.318Z
+updated: 2024-05-20T19:42:11.318Z
 tags: 
   - screen-recording
   - ai video
@@ -253,4 +253,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://video-creation-software.techidaily.com/updated-in-2024-smooth-cuts-ahead-3-ways-to-add-transitions-in-fcp/"><u>Updated In 2024, Smooth Cuts Ahead 3 Ways to Add Transitions in FCP</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-samsung-galaxy-f34-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Samsung Galaxy F34 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

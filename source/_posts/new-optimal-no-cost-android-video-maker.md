@@ -744,3 +744,4 @@ Professional or catchy looking screen recordings are the icing on the pie for bl
 <li><a href="https://techidaily.com/hard-resetting-an-tecno-spark-10-5g-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Tecno Spark 10 5G Device Made Easy | Dr.fone</u></a></li>
 </ul></div>
 
+

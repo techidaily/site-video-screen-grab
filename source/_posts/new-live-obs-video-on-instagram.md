@@ -1,7 +1,7 @@
 ---
 title: "[New] Live OBS Video on Instagram"
-date: 2024-05-18T02:24:41.195Z
-updated: 2024-05-19T02:24:41.195Z
+date: 2024-05-19T19:42:20.915Z
+updated: 2024-05-20T19:42:20.915Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ If you want to live stream on Instagram from your computer, you can do it easily
 <li><a href="https://screen-mirror.techidaily.com/best-3-xiaomi-redmi-note-13-pro-5g-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>Best 3 Xiaomi Redmi Note 13 Pro 5G Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
 <li><a href="https://ios-unlock.techidaily.com/locked-out-of-iphone-x-5-ways-to-get-into-a-locked-iphone-x-by-drfone-ios/"><u>Locked Out of iPhone X? 5 Ways to get into a Locked iPhone X</u></a></li>
 </ul></div>
+
 

@@ -297,3 +297,4 @@ Follow @Max Wales
 <li><a href="https://audio-editing.techidaily.com/the-elite-sound-and-vision-mixer-compendium/"><u>The Elite Sound & Vision Mixer Compendium</u></a></li>
 </ul></div>
 
+

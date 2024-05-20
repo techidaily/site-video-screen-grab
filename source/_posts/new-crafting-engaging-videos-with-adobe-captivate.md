@@ -1,7 +1,7 @@
 ---
 title: "[New] Crafting Engaging Videos with Adobe Captivate"
-date: 2024-05-18T02:02:03.053Z
-updated: 2024-05-19T02:02:03.053Z
+date: 2024-05-19T19:41:32.546Z
+updated: 2024-05-20T19:41:32.546Z
 tags: 
   - screen-recording
   - ai video
@@ -420,4 +420,5 @@ Follow @Max Wales
 <li><a href="https://sound-optimizing.techidaily.com/updated-digital-resonance-a-comprehensive-tutorial-for-echo-addition-in-windows-and-web-audio-applications/"><u>Updated Digital Resonance A Comprehensive Tutorial for Echo Addition in Windows and Web Audio Applications</u></a></li>
 <li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-se-2020-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone SE (2020)? How to Fix it?</u></a></li>
 </ul></div>
+
 

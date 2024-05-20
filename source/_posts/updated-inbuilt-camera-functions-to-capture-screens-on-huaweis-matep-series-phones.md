@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones"
-date: 2024-05-18T02:08:33.194Z
-updated: 2024-05-19T02:08:33.194Z
+date: 2024-05-19T19:41:45.950Z
+updated: 2024-05-20T19:41:45.950Z
 tags: 
   - screen-recording
   - ai video
@@ -420,4 +420,5 @@ Follow @Max Wales
 <li><a href="https://techidaily.com/best-fixes-for-realme-v30-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Realme V30 Hard Reset | Dr.fone</u></a></li>
 <li><a href="https://ai-topics.techidaily.com/updated-what-is-ai-voice-text-to-speech/"><u>Updated What Is AI Voice Text to Speech?</u></a></li>
 </ul></div>
+
 

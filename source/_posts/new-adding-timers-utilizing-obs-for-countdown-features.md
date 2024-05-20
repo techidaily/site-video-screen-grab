@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Adding Timers  Utilizing OBS for Countdown Features\""
-date: 2024-05-18T02:05:17.707Z
-updated: 2024-05-19T02:05:17.707Z
+date: 2024-05-19T19:41:39.296Z
+updated: 2024-05-20T19:41:39.296Z
 tags: 
   - screen-recording
   - ai video
@@ -271,4 +271,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-digital-drawing-board-converting-videos-into-cartoons-with-ease/"><u>New 2024 Approved Digital Drawing Board Converting Videos Into Cartoons with Ease</u></a></li>
 <li><a href="https://techidaily.com/unlock-android-phone-if-you-forget-the-tecno-pova-5-pro-password-or-pattern-lock-by-drfone-android-unlock-android-unlock/"><u>Unlock android phone if you forget the Tecno Pova 5 Pro password or pattern lock</u></a></li>
 </ul></div>
+
 

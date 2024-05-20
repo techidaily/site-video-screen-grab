@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, How To Record PS4 with OBS"
-date: 2024-05-18T02:20:43.810Z
-updated: 2024-05-19T02:20:43.810Z
+date: 2024-05-19T19:42:12.520Z
+updated: 2024-05-20T19:42:12.520Z
 tags: 
   - screen-recording
   - ai video
@@ -401,4 +401,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://ai-editing-video.techidaily.com/updated-can-you-make-an-fcpx-slideshow-undoubtedly-yes-with-the-unlimited-best-fcpx-slideshow-templates-available-to-know-how-to-follow-the-discussion-below/"><u>Updated Can You Make an Fcpx Slideshow? Undoubtedly Yes, with the Unlimited Best Fcpx Slideshow Templates Available. To Know How to, Follow the Discussion Below</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/professional-audio-editing-essentials-top-10-software-solutions/"><u>Professional Audio Editing Essentials Top 10 Software Solutions</u></a></li>
 </ul></div>
+
 

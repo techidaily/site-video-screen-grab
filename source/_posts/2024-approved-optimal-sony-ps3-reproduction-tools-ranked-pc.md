@@ -531,3 +531,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-apps.techidaily.com/sizing-up-your-photos-how-to-use-a-ratio-calculator-effectively-for-2024/"><u>Sizing Up Your Photos How to Use a Ratio Calculator Effectively for 2024</u></a></li>
 </ul></div>
 
+

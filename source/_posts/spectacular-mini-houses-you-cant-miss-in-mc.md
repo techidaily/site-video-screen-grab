@@ -1,7 +1,7 @@
 ---
 title: "\"Spectacular Mini-Houses You Can't Miss in MC\""
-date: 2024-05-18T02:14:14.938Z
-updated: 2024-05-19T02:14:14.938Z
+date: 2024-05-19T19:41:59.077Z
+updated: 2024-05-20T19:41:59.077Z
 tags: 
   - screen-recording
   - ai video
@@ -318,4 +318,5 @@ Follow @Shanoon Cox
 <li><a href="https://ai-video-translation.techidaily.com/updated-translate-video-from-english-to-arabic-with-ease-for-2024/"><u>Updated Translate Video From English to Arabic with Ease for 2024</u></a></li>
 <li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-nokia-g310-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Nokia G310 Devices</u></a></li>
 </ul></div>
+
 

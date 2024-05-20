@@ -418,3 +418,4 @@ Apple has now disabled the function of capturing internal and desktop sound in a
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-infinix-gt-10-pro-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Infinix GT 10 Pro? | Dr.fone</u></a></li>
 </ul></div>
 
+

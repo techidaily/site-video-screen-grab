@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  High Fidelity Playback of Games Using OBS\""
-date: 2024-05-18T02:12:49.614Z
-updated: 2024-05-19T02:12:49.614Z
+date: 2024-05-19T19:41:55.781Z
+updated: 2024-05-20T19:41:55.781Z
 tags: 
   - screen-recording
   - ai video
@@ -419,4 +419,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://apple-account.techidaily.com/in-2024-forgot-your-apple-id-password-and-email-from-apple-iphone-11-pro-heres-the-best-fixes-by-drfone-ios/"><u>In 2024, Forgot Your Apple ID Password and Email From Apple iPhone 11 Pro? Heres the Best Fixes</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/in-2024-fast-track-your-videos-how-to-increase-playback-speed-in-quicktime/"><u>In 2024, Fast Track Your Videos How to Increase Playback Speed in QuickTime</u></a></li>
 </ul></div>
+
 

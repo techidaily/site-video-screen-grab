@@ -1,7 +1,7 @@
 ---
 title: "The Complete OBS Playback Handbook for 2024"
-date: 2024-05-18T02:15:08.725Z
-updated: 2024-05-19T02:15:08.725Z
+date: 2024-05-19T19:42:00.738Z
+updated: 2024-05-20T19:42:00.738Z
 tags: 
   - screen-recording
   - ai video
@@ -387,4 +387,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://iphone-transfer.techidaily.com/in-2024-6-methods-for-switching-from-apple-iphone-15-plus-to-samsung-drfone-by-drfone-transfer-from-ios/"><u>In 2024, 6 Methods for Switching from Apple iPhone 15 Plus to Samsung | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-asus-rog-phone-7-ultimate-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Asus ROG Phone 7 Ultimate</u></a></li>
 </ul></div>
+
 

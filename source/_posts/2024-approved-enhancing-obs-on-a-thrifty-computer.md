@@ -262,3 +262,4 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://review-topics.techidaily.com/htc-can-t-play-avchd-mts-video-by-aiseesoft-video-converter-play-mts-on-android/"><u>HTC can’t play AVCHD .mts video</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Overcoming Fixed Color Voids in Recording Software\""
-date: 2024-05-18T02:10:41.765Z
-updated: 2024-05-19T02:10:41.765Z
+date: 2024-05-19T19:41:50.343Z
+updated: 2024-05-20T19:41:50.343Z
 tags: 
   - screen-recording
   - ai video
@@ -261,4 +261,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Sony Xperia 5 V? | Dr.fone</u></a></li>
 <li><a href="https://techidaily.com/how-to-easily-hard-reset-my-oppo-reno-8t-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Oppo Reno 8T | Dr.fone</u></a></li>
 </ul></div>
+
 

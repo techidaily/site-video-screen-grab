@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Quick Setup  OBS & Zoom Coexistence Made Simple\""
-date: 2024-05-18T02:11:13.735Z
-updated: 2024-05-19T02:11:13.735Z
+date: 2024-05-19T19:41:51.393Z
+updated: 2024-05-20T19:41:51.393Z
 tags: 
   - screen-recording
   - ai video
@@ -415,4 +415,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://iphone-unlock.techidaily.com/resolve-your-apple-iphone-se-2022-keeps-asking-for-outlook-password-drfone-by-drfone-ios/"><u>Resolve Your Apple iPhone SE (2022) Keeps Asking for Outlook Password | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Lava Yuva 2 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

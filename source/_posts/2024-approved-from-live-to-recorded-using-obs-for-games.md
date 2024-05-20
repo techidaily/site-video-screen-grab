@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Live to Recorded  Using OBS for Games\""
-date: 2024-05-18T02:09:39.519Z
-updated: 2024-05-19T02:09:39.519Z
+date: 2024-05-19T19:41:48.463Z
+updated: 2024-05-20T19:41:48.463Z
 tags: 
   - screen-recording
   - ai video
@@ -426,4 +426,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-final-cut-pro-x-title-tutorial-a-step-by-step-guide/"><u>2024 Approved Final Cut Pro X Title Tutorial A Step-by-Step Guide</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-13-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On Apple iPhone 13 Online</u></a></li>
 </ul></div>
+
 

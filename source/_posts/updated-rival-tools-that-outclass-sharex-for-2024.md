@@ -267,3 +267,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://video-content-creator.techidaily.com/updated-setting-up-videoleap-on-macbook-download-install-and-start-editing/"><u>Updated Setting Up Videoleap on MacBook Download, Install, and Start Editing</u></a></li>
 </ul></div>
 
+

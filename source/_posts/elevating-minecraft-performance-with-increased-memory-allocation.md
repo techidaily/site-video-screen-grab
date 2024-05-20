@@ -1,7 +1,7 @@
 ---
 title: "Elevating Minecraft Performance with Increased Memory Allocation"
-date: 2024-05-18T02:14:49.663Z
-updated: 2024-05-19T02:14:49.663Z
+date: 2024-05-19T19:42:00.126Z
+updated: 2024-05-20T19:42:00.126Z
 tags: 
   - screen-recording
   - ai video
@@ -599,4 +599,5 @@ Follow @Ollie Mattison
 <li><a href="https://android-location.techidaily.com/9-best-free-android-monitoring-apps-to-monitor-phone-remotely-for-your-nokia-105-classic-drfone-by-drfone-virtual/"><u>9 Best Free Android Monitoring Apps to Monitor Phone Remotely For your Nokia 105 Classic | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-best-way-to-freeze-frame-in-final-cut-pro/"><u>Updated Best Way to Freeze-Frame in Final Cut Pro</u></a></li>
 </ul></div>
+
 

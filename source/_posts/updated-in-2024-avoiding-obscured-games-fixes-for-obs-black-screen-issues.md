@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Avoiding Obscured Games  Fixes for OBS Black Screen Issues\""
-date: 2024-05-18T02:12:41.216Z
-updated: 2024-05-19T02:12:41.216Z
+date: 2024-05-19T19:41:55.490Z
+updated: 2024-05-20T19:41:55.490Z
 tags: 
   - screen-recording
   - ai video
@@ -251,4 +251,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-text-messages-from-oppo-find-x6-to-new-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Text Messages from Oppo Find X6 to New Phone | Dr.fone</u></a></li>
 <li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-rotate-flip-and-spin-top-10-online-video-rotation-tools/"><u>Updated 2024 Approved Rotate, Flip, and Spin Top 10 Online Video Rotation Tools</u></a></li>
 </ul></div>
+
 

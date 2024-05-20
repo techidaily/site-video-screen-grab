@@ -1,7 +1,7 @@
 ---
 title: "Groundbreaking Open Source Software for Modern Video Conferencing"
-date: 2024-05-18T02:15:05.455Z
-updated: 2024-05-19T02:15:05.455Z
+date: 2024-05-19T19:42:00.609Z
+updated: 2024-05-20T19:42:00.609Z
 tags: 
   - screen-recording
   - ai video
@@ -717,4 +717,5 @@ Follow @Richard Bennett
 <li><a href="https://pokemon-go-android.techidaily.com/ipogo-will-be-the-new-ispoofer-on-realme-12-proplus-5g-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Realme 12 Pro+ 5G? | Dr.fone</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/updated-imovie-expert-tips-how-to-achieve-cleaner-soundscape-in-your-videos-for-2024/"><u>Updated IMovie Expert Tips How to Achieve Cleaner Soundscape in Your Videos for 2024</u></a></li>
 </ul></div>
+
 

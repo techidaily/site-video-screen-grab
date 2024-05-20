@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Fixed  Camera Resumes with OBS\""
-date: 2024-05-18T02:22:56.159Z
-updated: 2024-05-19T02:22:56.159Z
+date: 2024-05-19T19:42:17.085Z
+updated: 2024-05-20T19:42:17.085Z
 tags: 
   - screen-recording
   - ai video
@@ -267,4 +267,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-honor-90-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Honor 90 | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/recommended-best-applications-for-mirroring-your-itel-a60s-screen-drfone-by-drfone-android/"><u>Recommended Best Applications for Mirroring Your Itel A60s Screen | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -513,3 +513,4 @@ Regardless of your platform, you might still want to utilize an audio editing ap
 <li><a href="https://smart-video-creator.techidaily.com/new-elevate-your-videos-mastering-lower-thirds-in-fcpx/"><u>New Elevate Your Videos Mastering Lower Thirds in FCPX</u></a></li>
 </ul></div>
 
+

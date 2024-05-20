@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Recording Your Games in HD  PS4 & OBS Studio Guide\""
-date: 2024-05-18T02:01:55.426Z
-updated: 2024-05-19T02:01:55.426Z
+date: 2024-05-19T19:41:32.233Z
+updated: 2024-05-20T19:41:32.233Z
 tags: 
   - screen-recording
   - ai video
@@ -390,4 +390,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-nokia-c300-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Nokia C300.</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/2024-approved-best-video-editing-software-to-blur-faces-in-video/"><u>2024 Approved Best Video Editing Software to Blur Faces in Video</u></a></li>
 </ul></div>
+
 

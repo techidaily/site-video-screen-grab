@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Overcoming Low-Resolution Output in OBS\""
-date: 2024-05-18T01:58:22.241Z
-updated: 2024-05-19T01:58:22.241Z
+date: 2024-05-19T19:41:24.666Z
+updated: 2024-05-20T19:41:24.666Z
 tags: 
   - screen-recording
   - ai video
@@ -283,4 +283,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://smart-video-creator.techidaily.com/new-transform-your-footage-2-effective-ways-to-create-time-lapse-videos-for-2024/"><u>New Transform Your Footage 2 Effective Ways to Create Time Lapse Videos for 2024</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/new-critical-appraisal-of-sound-forge-pros-cons-and-potentials-for-2024/"><u>New Critical Appraisal of Sound Forge Pros, Cons, and Potentials for 2024</u></a></li>
 </ul></div>
+
 

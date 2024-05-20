@@ -1,7 +1,7 @@
 ---
 title: "Capture King's Arena"
-date: 2024-05-18T02:13:17.854Z
-updated: 2024-05-19T02:13:17.854Z
+date: 2024-05-19T19:41:56.844Z
+updated: 2024-05-20T19:41:56.844Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ If you are a beginner, Streamlabs is an automatic choice because the user interf
 <li><a href="https://video-creation-software.techidaily.com/new-transform-your-footage-a-step-by-step-guide-to-ken-burns-effect-in-final-cut-pro-for-2024/"><u>New Transform Your Footage A Step-by-Step Guide to Ken Burns Effect in Final Cut Pro for 2024</u></a></li>
 <li><a href="https://ai-vdieo-software.techidaily.com/new-edit-like-a-pro-top-free-4k-video-editing-software/"><u>New Edit Like a Pro Top Free 4K Video Editing Software</u></a></li>
 </ul></div>
+
 

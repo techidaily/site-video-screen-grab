@@ -598,3 +598,4 @@ If you are confused if you should install Screen Recorder Pro to record your scr
 <li><a href="https://video-content-creator.techidaily.com/video-aspect-ratio-a-step-by-step-guide-to-resizing-for-2024/"><u>Video Aspect Ratio A Step-by-Step Guide to Resizing for 2024</u></a></li>
 </ul></div>
 
+

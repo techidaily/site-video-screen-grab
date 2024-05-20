@@ -1,7 +1,7 @@
 ---
 title: "Correcting OBS Darkness During Live Streams"
-date: 2024-05-18T02:13:55.637Z
-updated: 2024-05-19T02:13:55.637Z
+date: 2024-05-19T19:41:58.503Z
+updated: 2024-05-20T19:41:58.503Z
 tags: 
   - screen-recording
   - ai video
@@ -282,4 +282,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-editing-video.techidaily.com/2024-approved-how-to-concatenate-videos-using-ffmpeg/"><u>2024 Approved How to Concatenate Videos Using FFmpeg</u></a></li>
 <li><a href="https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-nokia-c300-drfone-by-drfone-virtual/"><u>In 2024, 3 Effective Methods to Fake GPS location on Android For your Nokia C300 | Dr.fone</u></a></li>
 </ul></div>
+
 

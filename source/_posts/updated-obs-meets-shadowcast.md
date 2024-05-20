@@ -1,7 +1,7 @@
 ---
 title: "[Updated] OBS Meets ShadowCast"
-date: 2024-05-18T02:22:07.840Z
-updated: 2024-05-19T02:22:07.840Z
+date: 2024-05-19T19:42:15.539Z
+updated: 2024-05-20T19:42:15.539Z
 tags: 
   - screen-recording
   - ai video
@@ -238,4 +238,5 @@ If you want to record high-end games, ShadowPlay is ideal as it does not affect 
 <li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-comprehensive-guide-to-mastering-ipogo-for-pokemon-go-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, A Comprehensive Guide to Mastering iPogo for Pokémon GO On Apple iPhone 14 | Dr.fone</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/the-6-best-sim-unlock-services-that-actually-work-on-your-vivo-y36i-device-by-drfone-android/"><u>The 6 Best SIM Unlock Services That Actually Work On Your Vivo Y36i Device</u></a></li>
 </ul></div>
+
 

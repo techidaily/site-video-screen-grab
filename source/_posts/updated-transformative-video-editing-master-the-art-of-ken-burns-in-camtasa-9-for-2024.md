@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Transformative Video Editing  Master the Art of Ken Burns in Camtasa 9 for 2024\""
-date: 2024-05-18T02:06:41.744Z
-updated: 2024-05-19T02:06:41.744Z
+date: 2024-05-19T19:41:41.872Z
+updated: 2024-05-20T19:41:41.872Z
 tags: 
   - screen-recording
   - ai video
@@ -375,4 +375,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-tools.techidaily.com/updated-the-cream-of-the-crop-10-exceptional-video-editing-programs/"><u>Updated The Cream of the Crop 10 Exceptional Video Editing Programs</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/new-elite-compilation-the-leading-song-recorders-everyone-should-use-for-2024/"><u>New Elite Compilation The Leading Song Recorders Everyone Should Use for 2024</u></a></li>
 </ul></div>
+
 

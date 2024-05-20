@@ -1,7 +1,7 @@
 ---
 title: "[New] Transforming Smartphones Into Portable Cameras"
-date: 2024-05-18T02:00:30.878Z
-updated: 2024-05-19T02:00:30.878Z
+date: 2024-05-19T19:41:29.351Z
+updated: 2024-05-20T19:41:29.351Z
 tags: 
   - screen-recording
   - ai video
@@ -603,4 +603,5 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-xiaomi-redmi-note-13-pro-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Xiaomi Redmi Note 13 Pro 5G</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/here-are-some-pro-tips-for-pokemon-go-pvp-battles-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Here are Some Pro Tips for Pokemon Go PvP Battles On Sony Xperia 10 V | Dr.fone</u></a></li>
 </ul></div>
+
 

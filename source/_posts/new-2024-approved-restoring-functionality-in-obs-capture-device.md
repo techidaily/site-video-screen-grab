@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Restoring Functionality in OBS Capture Device\""
-date: 2024-05-18T02:06:39.573Z
-updated: 2024-05-19T02:06:39.573Z
+date: 2024-05-19T19:41:41.801Z
+updated: 2024-05-20T19:41:41.801Z
 tags: 
   - screen-recording
   - ai video
@@ -267,4 +267,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-realme-c55-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Realme C55 to Other Android Devices? | Dr.fone</u></a></li>
 <li><a href="https://android-location-track.techidaily.com/top-7-phone-number-locators-to-track-oppo-a58-4g-location-drfone-by-drfone-virtual-android/"><u>Top 7 Phone Number Locators To Track Oppo A58 4G Location | Dr.fone</u></a></li>
 </ul></div>
+
 

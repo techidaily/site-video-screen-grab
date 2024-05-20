@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Simultaneous Screen & Camera Capture Guide"
-date: 2024-05-18T02:23:53.165Z
-updated: 2024-05-19T02:23:53.165Z
+date: 2024-05-19T19:42:19.381Z
+updated: 2024-05-20T19:42:19.381Z
 tags: 
   - screen-recording
   - ai video
@@ -364,4 +364,5 @@ Follow @Max Wales
 <li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-exploring-archives-for-articulated-grunt-effects/"><u>New 2024 Approved Exploring Archives for Articulated Grunt Effects</u></a></li>
 <li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-realme-12plus-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Realme 12+ 5G Devices</u></a></li>
 </ul></div>
+
 

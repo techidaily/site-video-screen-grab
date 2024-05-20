@@ -501,3 +501,4 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 <li><a href="https://voice-adjusting.techidaily.com/new-extensive-info-on-vimeo-video-aspect-ratio-detailled/"><u>New Extensive Info on Vimeo Video - Aspect Ratio Detailled</u></a></li>
 </ul></div>
 
+

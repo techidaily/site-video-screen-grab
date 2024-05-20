@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Sync Zoom Meeting Times Across Mobile & Desktop Calendars"
-date: 2024-05-18T02:18:41.265Z
-updated: 2024-05-19T02:18:41.265Z
+date: 2024-05-19T19:42:08.459Z
+updated: 2024-05-20T19:42:08.459Z
 tags: 
   - screen-recording
   - ai video
@@ -365,4 +365,5 @@ Follow @Richard Bennett
 <li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-apple-iphone-8-plus-drfone-by-drfone-ios/"><u>How to Unlock Apple iPhone 8 Plus? | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/how-to-change-infinix-note-30-vip-racing-edition-lock-screen-password-by-drfone-android/"><u>How To Change Infinix Note 30 VIP Racing Edition Lock Screen Password?</u></a></li>
 </ul></div>
+
 

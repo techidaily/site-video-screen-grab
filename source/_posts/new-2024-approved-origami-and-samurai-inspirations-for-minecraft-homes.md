@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Origami & Samurai Inspirations for Minecraft Homes\""
-date: 2024-05-18T02:17:53.622Z
-updated: 2024-05-19T02:17:53.622Z
+date: 2024-05-19T19:42:06.509Z
+updated: 2024-05-20T19:42:06.509Z
 tags: 
   - screen-recording
   - ai video
@@ -346,4 +346,5 @@ Follow @Ollie Mattison
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-top-15-male-anime-characters-by-voting/"><u>Updated In 2024, Top 15 Male Anime Characters By Voting</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-top-rated-mts-video-editors-expert-reviews/"><u>New 2024 Approved Top-Rated MTS Video Editors Expert Reviews</u></a></li>
 </ul></div>
+
 

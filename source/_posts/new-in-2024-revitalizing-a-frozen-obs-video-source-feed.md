@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Revitalizing a Frozen OBS Video Source Feed"
-date: 2024-05-18T02:00:39.049Z
-updated: 2024-05-19T02:00:39.049Z
+date: 2024-05-19T19:41:29.600Z
+updated: 2024-05-20T19:41:29.600Z
 tags: 
   - screen-recording
   - ai video
@@ -272,4 +272,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://sound-optimizing.techidaily.com/new-2024-approved-elevating-your-home-films-auditory-impact-a-2023-perspective/"><u>New 2024 Approved Elevating Your Home Films Auditory Impact A 2023 Perspective</u></a></li>
 <li><a href="https://techidaily.com/use-device-manager-to-identify-missing-or-malfunctioning-your-drivers-with-windows-device-manager-on-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing or malfunctioning your drivers with Windows Device Manager on Windows 7</u></a></li>
 </ul></div>
+
 

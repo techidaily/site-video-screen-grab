@@ -1,7 +1,7 @@
 ---
 title: "[New] Skype Call Recording for Windows, OS X Users"
-date: 2024-05-18T02:19:25.358Z
-updated: 2024-05-19T02:19:25.358Z
+date: 2024-05-19T19:42:09.873Z
+updated: 2024-05-20T19:42:09.873Z
 tags: 
   - screen-recording
   - ai video
@@ -616,4 +616,5 @@ Follow @Max Wales
 <li><a href="https://smart-video-editing.techidaily.com/in-2024-pc-video-editing-made-easy-a-review-of-vn-editor/"><u>In 2024, PC Video Editing Made Easy A Review of VN Editor</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-freeze-frame-clone-effect-for-2024/"><u>Updated How to Create Freeze Frame Clone Effect for 2024</u></a></li>
 </ul></div>
+
 

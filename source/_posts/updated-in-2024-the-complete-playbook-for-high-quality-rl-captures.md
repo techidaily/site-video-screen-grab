@@ -471,3 +471,4 @@ League of Legends is a high-end game and you cannot let recording in the backgro
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-honor-play-40c-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Honor Play 40C to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

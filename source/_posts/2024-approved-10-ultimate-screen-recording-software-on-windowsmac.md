@@ -1136,3 +1136,4 @@ Follow @Liza Brown
 <li><a href="https://animation-videos.techidaily.com/updated-in-2024-adobe-animate-riggings-proper-tutorial-for-you/"><u>Updated In 2024, Adobe Animate Riggings PROPER Tutorial for You</u></a></li>
 </ul></div>
 
+

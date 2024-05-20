@@ -764,3 +764,4 @@ Follow @Richard Bennett
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-the-art-of-vertical-storytelling-phone-aspect-ratio-best-practices/"><u>New In 2024, The Art of Vertical Storytelling Phone Aspect Ratio Best Practices</u></a></li>
 </ul></div>
 
+

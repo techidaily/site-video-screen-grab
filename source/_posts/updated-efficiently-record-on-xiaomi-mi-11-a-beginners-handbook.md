@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Efficiently Record on Xiaomi Mi 11 - A Beginner's Handbook\""
-date: 2024-05-18T02:23:14.976Z
-updated: 2024-05-19T02:23:14.976Z
+date: 2024-05-19T19:42:17.841Z
+updated: 2024-05-20T19:42:17.841Z
 tags: 
   - screen-recording
   - ai video
@@ -566,4 +566,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://video-ai-editor.techidaily.com/in-2024-top-cartoon-animation-creators-for-mobile-devices/"><u>In 2024, Top Cartoon Animation Creators for Mobile Devices</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-sharefake-gps-on-uber-for-infinix-smart-8-drfone-by-drfone-virtual-android/"><u>How to share/fake gps on Uber for Infinix Smart 8 | Dr.fone</u></a></li>
 </ul></div>
+
 

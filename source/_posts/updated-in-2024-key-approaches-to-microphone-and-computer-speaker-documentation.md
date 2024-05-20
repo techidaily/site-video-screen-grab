@@ -769,3 +769,4 @@ This article highlights the various methods that can be used to record pc sound 
 <li><a href="https://smart-video-creator.techidaily.com/new-free-sound-effects-for-final-cut-pro-a-step-by-step-guide/"><u>New Free Sound Effects for Final Cut Pro A Step-by-Step Guide</u></a></li>
 </ul></div>
 
+

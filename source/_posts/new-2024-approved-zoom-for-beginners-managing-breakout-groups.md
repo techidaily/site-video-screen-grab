@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Zoom for Beginners  Managing Breakout Groups\""
-date: 2024-05-18T02:22:28.227Z
-updated: 2024-05-19T02:22:28.227Z
+date: 2024-05-19T19:42:16.241Z
+updated: 2024-05-20T19:42:16.241Z
 tags: 
   - screen-recording
   - ai video
@@ -524,4 +524,5 @@ Follow @Richard Bennett
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-realme-c51-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Realme C51 Location on Viber | Dr.fone</u></a></li>
 <li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-tecno-phantom-v-flip-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Tecno Phantom V Flip ? Fix It Easily | Dr.fone</u></a></li>
 </ul></div>
+
 

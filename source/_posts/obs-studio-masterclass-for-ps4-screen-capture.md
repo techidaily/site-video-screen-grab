@@ -1,7 +1,7 @@
 ---
 title: "Obs Studio Masterclass for PS4 Screen Capture"
-date: 2024-05-18T02:19:09.575Z
-updated: 2024-05-19T02:19:09.575Z
+date: 2024-05-19T19:42:09.357Z
+updated: 2024-05-20T19:42:09.357Z
 tags: 
   - screen-recording
   - ai video
@@ -419,4 +419,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-itel-p55-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Itel P55 Quickly | Dr.fone</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-samsung-galaxy-f34-5g-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Samsung Galaxy F34 5G to BlackBerry | Dr.fone</u></a></li>
 </ul></div>
+
 

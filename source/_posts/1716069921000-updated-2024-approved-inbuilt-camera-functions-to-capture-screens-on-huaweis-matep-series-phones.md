@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Inbuilt Camera Functions to Capture Screens on Huawei's Mate/P Series Phones.\""
-date: 2024-05-18T02:19:08.220Z
-updated: 2024-05-19T02:19:08.220Z
+date: 2024-05-19T19:42:09.325Z
+updated: 2024-05-20T19:42:09.325Z
 tags: 
   - screen-recording
   - ai video
@@ -389,4 +389,5 @@ Follow @Max Wales
 <li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-samsung-galaxy-s23-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Samsung Galaxy S23</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/new-unleash-your-inner-producer-explore-the-best-8-daw-apps-available-on-android/"><u>New Unleash Your Inner Producer Explore the Best 8 DAW Apps Available on Android</u></a></li>
 </ul></div>
+
 

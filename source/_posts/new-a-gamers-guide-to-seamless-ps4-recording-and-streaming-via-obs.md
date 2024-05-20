@@ -1,7 +1,7 @@
 ---
 title: "[New] A Gamer's Guide to Seamless PS4 Recording and Streaming via OBS"
-date: 2024-05-18T02:18:53.513Z
-updated: 2024-05-19T02:18:53.513Z
+date: 2024-05-19T19:42:08.838Z
+updated: 2024-05-20T19:42:08.838Z
 tags: 
   - screen-recording
   - ai video
@@ -357,4 +357,5 @@ If you want to record your gameplay on your computer when you play with PS4, you
 <li><a href="https://android-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-vivo-y36i-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to stop parent tracking your Vivo Y36i | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-your-oppo-find-x7-ultra-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Oppo Find X7 Ultra Lock Screen Password</u></a></li>
 </ul></div>
+
 

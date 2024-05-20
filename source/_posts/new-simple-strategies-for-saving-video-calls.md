@@ -399,3 +399,4 @@ With the advancement in technology, we are entering into a digital revolution. Y
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-itel-a05s-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Itel A05s Screen to PC with Chromecast | Dr.fone</u></a></li>
 </ul></div>
 
+

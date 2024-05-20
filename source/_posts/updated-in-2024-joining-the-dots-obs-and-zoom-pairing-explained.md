@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Joining the Dots  OBS & Zoom Pairing Explained\""
-date: 2024-05-18T02:09:34.597Z
-updated: 2024-05-19T02:09:34.597Z
+date: 2024-05-19T19:41:48.108Z
+updated: 2024-05-20T19:41:48.108Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://ai-voice-clone.techidaily.com/2024-approved-top-10-ai-script-writers-to-choose/"><u>2024 Approved Top 10 AI Script Writers to Choose</u></a></li>
 <li><a href="https://smart-video-editing.techidaily.com/new-in-2024-video-ratio-made-simple-a-beginners-guide-to-resizing/"><u>New In 2024, Video Ratio Made Simple A Beginners Guide to Resizing</u></a></li>
 </ul></div>
+
 

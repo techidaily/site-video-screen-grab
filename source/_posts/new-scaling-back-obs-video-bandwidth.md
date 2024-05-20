@@ -1,7 +1,7 @@
 ---
 title: "[New] Scaling Back OBS Video Bandwidth"
-date: 2024-05-18T02:15:21.780Z
-updated: 2024-05-19T02:15:21.780Z
+date: 2024-05-19T19:42:01.159Z
+updated: 2024-05-20T19:42:01.159Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://change-location.techidaily.com/how-to-stop-life360-from-tracking-you-on-poco-c55-drfone-by-drfone-virtual-android/"><u>How to Stop Life360 from Tracking You On Poco C55? | Dr.fone</u></a></li>
 <li><a href="https://android-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-oppo-k11x-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Oppo K11x</u></a></li>
 </ul></div>
+
 

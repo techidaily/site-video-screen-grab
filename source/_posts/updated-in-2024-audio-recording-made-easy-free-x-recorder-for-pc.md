@@ -471,3 +471,4 @@ This is an amazing app as it does everything that you want it to and more. Altho
 <li><a href="https://unlock-android.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-tecno-pova-6-pro-5g-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Tecno Pova 6 Pro 5G</u></a></li>
 </ul></div>
 
+

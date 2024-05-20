@@ -399,3 +399,4 @@ For macOS 10.12 or later
 <li><a href="https://smart-video-creator.techidaily.com/2024-approved-no-sound-in-avidemux-dont-worry-weve-got-you-covered/"><u>2024 Approved No Sound in Avidemux? Dont Worry, Weve Got You Covered</u></a></li>
 </ul></div>
 
+

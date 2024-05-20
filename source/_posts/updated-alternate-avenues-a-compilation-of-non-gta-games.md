@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Alternate Avenues  A Compilation of Non-GTA Games\""
-date: 2024-05-18T02:10:21.977Z
-updated: 2024-05-19T02:10:21.977Z
+date: 2024-05-19T19:41:49.753Z
+updated: 2024-05-20T19:41:49.753Z
 tags: 
   - screen-recording
   - ai video
@@ -840,4 +840,5 @@ So, this was our list of 10 best games like GTA 5\. We tried our best to keep th
 <li><a href="https://ios-unlock.techidaily.com/unlock-iphone-7-plus-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 7 Plus With Forgotten Passcode Different Methods You Can Try</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/2024-approved-top-vhs-converter-apps-for-mobile-devices/"><u>2024 Approved Top VHS Converter Apps for Mobile Devices</u></a></li>
 </ul></div>
+
 

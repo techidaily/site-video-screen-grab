@@ -612,3 +612,4 @@ Follow @Richard Bennett
 <li><a href="https://animation-videos.techidaily.com/new-tips-to-create-animated-social-media-posts-in-canva/"><u>New Tips to Create Animated Social Media Posts in Canva</u></a></li>
 </ul></div>
 
+

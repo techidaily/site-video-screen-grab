@@ -400,3 +400,4 @@ Follow @Max Wales
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-honor-play-8t-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Honor Play 8T | Dr.fone</u></a></li>
 </ul></div>
 
+

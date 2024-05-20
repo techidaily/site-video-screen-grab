@@ -560,3 +560,4 @@ If you are confused if you should install Screen Recorder Pro to record your scr
 <li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-itel-p40-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Itel P40 Back to Operation | Dr.fone</u></a></li>
 </ul></div>
 
+

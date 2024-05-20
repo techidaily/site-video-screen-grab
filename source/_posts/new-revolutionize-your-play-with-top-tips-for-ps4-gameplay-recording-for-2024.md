@@ -377,3 +377,4 @@ Hopefully, you have understood how to record videos on PS4\. If your gameplay is
 <li><a href="https://audio-editing.techidaily.com/new-the-secrets-of-sound-regulation-mastering-audio-levels-in-davinci-resolve/"><u>New The Secrets of Sound Regulation Mastering Audio Levels in DaVinci Resolve</u></a></li>
 </ul></div>
 
+

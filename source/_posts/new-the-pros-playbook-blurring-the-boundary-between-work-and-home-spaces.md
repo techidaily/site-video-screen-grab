@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Pro's Playbook  Blurring the Boundary Between Work and Home Spaces\""
-date: 2024-05-18T02:17:49.002Z
-updated: 2024-05-19T02:17:49.002Z
+date: 2024-05-19T19:42:06.353Z
+updated: 2024-05-20T19:42:06.353Z
 tags: 
   - screen-recording
   - ai video
@@ -510,4 +510,5 @@ Follow @Richard Bennett
 <li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-motorola-moto-g84-5g-drfone-by-drfone-virtual-android/"><u>3 Things You Must Know about Fake Snapchat Location On Motorola Moto G84 5G | Dr.fone</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/steps-to-create-gold-text-effects-after-effects-for-2024/"><u>Steps to Create Gold Text Effects After Effects for 2024</u></a></li>
 </ul></div>
+
 

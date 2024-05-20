@@ -1,7 +1,7 @@
 ---
 title: "Seamlessly Integrate the Ken Burns Effect Into Camtasia"
-date: 2024-05-18T02:18:52.969Z
-updated: 2024-05-19T02:18:52.969Z
+date: 2024-05-19T19:42:08.824Z
+updated: 2024-05-20T19:42:08.824Z
 tags: 
   - screen-recording
   - ai video
@@ -397,4 +397,5 @@ Follow @Max Wales
 <li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-tecno-camon-20-pro-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Oppo Reno 9A | Dr.fone</u></a></li>
 </ul></div>
+
 

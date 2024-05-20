@@ -549,3 +549,4 @@ If you are confused if you should install Screen Recorder Pro to record your scr
 <li><a href="https://screen-mirror.techidaily.com/how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-realme-note-50-drfone-by-drfone-android/"><u>How To Use Allshare Cast To Turn On Screen Mirroring On Realme Note 50 | Dr.fone</u></a></li>
 </ul></div>
 
+

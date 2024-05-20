@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capturing Sounds  Audacity Tutorial for Mac Users for 2024\""
-date: 2024-05-18T02:07:18.870Z
-updated: 2024-05-19T02:07:18.870Z
+date: 2024-05-19T19:41:43.519Z
+updated: 2024-05-20T19:41:43.519Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://animation-videos.techidaily.com/new-in-2024-adobe-animate-riggings-tutorial-for-you/"><u>New In 2024, Adobe Animate Riggings Tutorial for You</u></a></li>
 <li><a href="https://apple-account.techidaily.com/in-2024-can-i-remove-the-apple-watch-activation-lock-by-iphone-6s-plus-without-the-previous-owner-by-drfone-ios/"><u>In 2024, Can I Remove the Apple Watch Activation Lock By iPhone 6s Plus without the Previous Owner?</u></a></li>
 </ul></div>
+
 

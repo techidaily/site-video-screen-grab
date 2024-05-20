@@ -1,7 +1,7 @@
 ---
 title: "[New] Resolving Disabled State of OBS Fullscreen for 2024"
-date: 2024-05-18T02:21:18.043Z
-updated: 2024-05-19T02:21:18.043Z
+date: 2024-05-19T19:42:13.976Z
+updated: 2024-05-20T19:42:13.976Z
 tags: 
   - screen-recording
   - ai video
@@ -300,4 +300,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-motorola-moto-g24-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Motorola Moto G24?</u></a></li>
 <li><a href="https://fake-location.techidaily.com/fixing-foneazy-mockgo-not-working-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>Fixing Foneazy MockGo Not Working On Vivo V27 Pro | Dr.fone</u></a></li>
 </ul></div>
+
 

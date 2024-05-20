@@ -1,7 +1,7 @@
 ---
 title: "Diminishing Excessive Encoding (OBS)"
-date: 2024-05-18T02:10:54.460Z
-updated: 2024-05-19T02:10:54.460Z
+date: 2024-05-19T19:41:50.766Z
+updated: 2024-05-20T19:41:50.766Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-contacts-files-on-samsung-galaxy-s23-ultra-by-fonelab-android-recover-contacts/"><u>Complete guide for recovering contacts files on Samsung Galaxy S23 Ultra.</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/new-subtitle-edit-mac-alternative-find-your-new-go-to-subtitle-editor-for-2024/"><u>New Subtitle Edit Mac Alternative Find Your New Go-To Subtitle Editor for 2024</u></a></li>
 </ul></div>
+
 

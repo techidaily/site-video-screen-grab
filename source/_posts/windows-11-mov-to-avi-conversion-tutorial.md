@@ -1,7 +1,7 @@
 ---
 title: "Windows 11 MOV to AVI Conversion Tutorial"
-date: 2024-05-18T02:09:40.612Z
-updated: 2024-05-19T02:09:40.612Z
+date: 2024-05-19T19:41:48.490Z
+updated: 2024-05-20T19:41:48.490Z
 tags: 
   - screen-recording
   - ai video
@@ -692,4 +692,5 @@ You can record MOV file on Windows as well as Mac when you have the recorder tha
 <li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-vivo-y55s-5g-2023-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Vivo Y55s 5G (2023) FRP Locks</u></a></li>
 <li><a href="https://review-topics.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-vivo-y17s-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Vivo Y17s in 3 Ways | Dr.fone</u></a></li>
 </ul></div>
+
 

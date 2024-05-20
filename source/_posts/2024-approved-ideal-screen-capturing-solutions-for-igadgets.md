@@ -395,3 +395,4 @@ Follow @Shanoon Cox
 <li><a href="https://ai-editing-video.techidaily.com/new-want-to-capture-captivating-detailed-videos-if-yes-then-you-need-to-learn-the-recording-of-super-slow-motion-videos-in-this-article-i-will-show-you-how-/"><u>New Want to Capture Captivating, Detailed Videos? If Yes, Then You Need to Learn the Recording of Super Slow Motion Videos. In This Article, I Will Show You How to Record a Super Slow-Motion Video on Your Android and iPhone</u></a></li>
 </ul></div>
 
+

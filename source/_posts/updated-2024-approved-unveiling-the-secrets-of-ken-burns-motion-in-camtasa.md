@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Unveiling the Secrets of Ken Burns Motion in Camtasa\""
-date: 2024-05-18T01:59:24.361Z
-updated: 2024-05-19T01:59:24.361Z
+date: 2024-05-19T19:41:26.638Z
+updated: 2024-05-20T19:41:26.638Z
 tags: 
   - screen-recording
   - ai video
@@ -358,4 +358,5 @@ Follow @Max Wales
 <li><a href="https://voice-adjusting.techidaily.com/updated-the-prime-selection-best-podcast-hosting-platforms-of-the-year-2023/"><u>Updated The Prime Selection Best Podcast Hosting Platforms of the Year 2023</u></a></li>
 <li><a href="https://sim-unlock.techidaily.com/in-2024-the-ultimate-guide-to-unlocking-your-apple-iphone-14-plus-on-metropcs-by-drfone-ios/"><u>In 2024, The Ultimate Guide to Unlocking Your Apple iPhone 14 Plus on MetroPCS</u></a></li>
 </ul></div>
+
 

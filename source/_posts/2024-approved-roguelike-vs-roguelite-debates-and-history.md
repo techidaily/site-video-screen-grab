@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Roguelike Vs. Roguelite  Debates and History\""
-date: 2024-05-18T01:59:59.739Z
-updated: 2024-05-19T01:59:59.739Z
+date: 2024-05-19T19:41:27.942Z
+updated: 2024-05-20T19:41:27.942Z
 tags: 
   - screen-recording
   - ai video
@@ -326,4 +326,5 @@ Follow @Ollie Mattison
 <li><a href="https://fix-guide.techidaily.com/how-to-fix-part-of-the-touch-screen-not-working-on-realme-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Part of the Touch Screen Not Working on Realme 12 5G | Dr.fone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-vivo-y100-5g-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Vivo Y100 5G</u></a></li>
 </ul></div>
+
 

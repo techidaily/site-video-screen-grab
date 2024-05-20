@@ -1,7 +1,7 @@
 ---
 title: "[New] Integrating OBS in Daily Skype Monitoring"
-date: 2024-05-18T02:09:57.352Z
-updated: 2024-05-19T02:09:57.352Z
+date: 2024-05-19T19:41:48.997Z
+updated: 2024-05-20T19:41:48.997Z
 tags: 
   - screen-recording
   - ai video
@@ -364,4 +364,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://video-creation-software.techidaily.com/updated-in-2024-pc-video-editors-like-gopro-quik-top-picks-and-reviews/"><u>Updated In 2024, PC Video Editors Like GoPro Quik Top Picks and Reviews</u></a></li>
 <li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-from-your-iphone-se-2020-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status From Your iPhone SE (2020)</u></a></li>
 </ul></div>
+
 

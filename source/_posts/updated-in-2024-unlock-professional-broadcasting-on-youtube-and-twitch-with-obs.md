@@ -168,3 +168,4 @@ OBS is an open-source [video recorder](https://tools.techidaily.com/wondershare/
 <li><a href="https://video-ai-editor.techidaily.com/new-filmora-x-takes-a-giant-leap-introducing-arm-compatibility/"><u>New Filmora X Takes a Giant Leap Introducing ARM Compatibility</u></a></li>
 </ul></div>
 
+

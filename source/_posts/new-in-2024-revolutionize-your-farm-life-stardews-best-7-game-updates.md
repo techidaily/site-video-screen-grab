@@ -309,3 +309,4 @@ Get started easily with Filmora's powerful performance, intuitive interface, and
 <li><a href="https://ai-driven-video-production.techidaily.com/new-resize-with-confidence-a-detailed-guide-to-image-ratios/"><u>New Resize with Confidence A Detailed Guide to Image Ratios</u></a></li>
 </ul></div>
 
+

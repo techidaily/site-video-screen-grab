@@ -394,3 +394,4 @@ We have answered your question on how to record gameplay on PC Windows 10\. You 
 <li><a href="https://audio-editing.techidaily.com/bringing-high-quality-sound-to-your-fingers-on-the-keyboard-audacity-installation-for-ubuntu-users/"><u>Bringing High-Quality Sound to Your Fingers on the Keyboard Audacity Installation for Ubuntu Users</u></a></li>
 </ul></div>
 
+

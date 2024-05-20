@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Optimal OBS Configurations for Thrifty Computers\""
-date: 2024-05-18T02:21:46.902Z
-updated: 2024-05-19T02:21:46.902Z
+date: 2024-05-19T19:42:14.883Z
+updated: 2024-05-20T19:42:14.883Z
 tags: 
   - screen-recording
   - ai video
@@ -226,4 +226,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-poco-x6-pro-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Poco X6 Pro | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-nokia-c12-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Nokia C12 Phones? | Dr.fone</u></a></li>
 </ul></div>
+
 

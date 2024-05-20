@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Examining OBS's Recording Features in Detail"
-date: 2024-05-18T02:17:23.715Z
-updated: 2024-05-19T02:17:23.715Z
+date: 2024-05-19T19:42:05.496Z
+updated: 2024-05-20T19:42:05.496Z
 tags: 
   - screen-recording
   - ai video
@@ -517,4 +517,5 @@ OBS is a splendid application to make web-based recordings happen and stream cat
 <li><a href="https://ai-video-apps.techidaily.com/updated-unify-your-visuals-a-step-by-step-color-matching-tutorial-for-powerdirector-for-2024/"><u>Updated Unify Your Visuals A Step-by-Step Color Matching Tutorial for PowerDirector for 2024</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/mastering-sound-a-comprehensive-guide-to-normalizing-audio-in-multimedia-content-for-2024/"><u>Mastering Sound A Comprehensive Guide to Normalizing Audio in Multimedia Content for 2024</u></a></li>
 </ul></div>
+
 

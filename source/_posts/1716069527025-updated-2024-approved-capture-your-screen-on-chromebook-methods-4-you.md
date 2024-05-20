@@ -472,3 +472,4 @@ Follow @Max Wales
 <li><a href="https://smart-video-creator.techidaily.com/new-speed-up-or-slow-down-your-camtasia-recordings/"><u>New Speed Up or Slow Down Your Camtasia Recordings</u></a></li>
 </ul></div>
 
+

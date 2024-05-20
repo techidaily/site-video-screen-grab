@@ -651,3 +651,4 @@ Follow @Richard Bennett
 <li><a href="https://audio-shaping.techidaily.com/new-2024-approved-understanding-amplitude-adjustments-in-audacity-a-comprehensive-overview/"><u>New 2024 Approved Understanding Amplitude Adjustments in Audacity A Comprehensive Overview</u></a></li>
 </ul></div>
 
+

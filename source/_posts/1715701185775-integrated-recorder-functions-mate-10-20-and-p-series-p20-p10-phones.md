@@ -1,7 +1,7 @@
 ---
 title: "\"Integrated Recorder Functions  Mate 10, 20 & P-Series (P20, P10) Phones.\""
-date: 2024-05-18T02:21:24.865Z
-updated: 2024-05-19T02:21:24.865Z
+date: 2024-05-19T19:42:14.176Z
+updated: 2024-05-20T19:42:14.176Z
 tags: 
   - screen-recording
   - ai video
@@ -387,4 +387,5 @@ Follow @Max Wales
 <li><a href="https://review-topics.techidaily.com/recover-iphone-7-data-from-ios-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>Recover iPhone 7 Data From iOS iCloud | Dr.fone</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/how-to-balance-your-stream-sound-with-obs-audio-ducking-in-2024/"><u>How to Balance Your Stream Sound with OBS Audio Ducking, In 2024</u></a></li>
 </ul></div>
+
 

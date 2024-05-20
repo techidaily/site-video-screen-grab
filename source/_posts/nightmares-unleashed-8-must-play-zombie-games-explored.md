@@ -1,7 +1,7 @@
 ---
 title: "\"Nightmares Unleashed  8 Must-Play Zombie Games Explored\""
-date: 2024-05-18T02:16:35.649Z
-updated: 2024-05-19T02:16:35.649Z
+date: 2024-05-19T19:42:03.962Z
+updated: 2024-05-20T19:42:03.962Z
 tags: 
   - screen-recording
   - ai video
@@ -372,4 +372,5 @@ Get started today with Filmora's powerful performance, user-friendly interface, 
 <li><a href="https://smart-video-editing.techidaily.com/new-setting-up-your-dream-machine-for-premiere-pro-a-beginners-guide/"><u>New Setting Up Your Dream Machine for Premiere Pro A Beginners Guide</u></a></li>
 <li><a href="https://howto.techidaily.com/authentication-error-occurred-on-realme-12-5g-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Realme 12 5G? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
 </ul></div>
+
 

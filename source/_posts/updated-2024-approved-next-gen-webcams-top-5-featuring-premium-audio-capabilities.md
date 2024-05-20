@@ -604,3 +604,4 @@ Follow @Max Wales
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-vivo-y27-4g-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Vivo Y27 4G to Samsung Phone | Dr.fone</u></a></li>
 </ul></div>
 
+

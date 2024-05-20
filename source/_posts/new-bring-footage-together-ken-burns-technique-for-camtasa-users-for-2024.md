@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Bring Footage Together  Ken Burns Technique for Camtasa Users for 2024\""
-date: 2024-05-18T02:09:09.626Z
-updated: 2024-05-19T02:09:09.626Z
+date: 2024-05-19T19:41:47.173Z
+updated: 2024-05-20T19:41:47.173Z
 tags: 
   - screen-recording
   - ai video
@@ -369,4 +369,5 @@ Follow @Max Wales
 <li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-from-your-apple-iphone-8-plus-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status From Your Apple iPhone 8 Plus</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-poco-c55-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Poco C55 Screen to PC Using WiFi | Dr.fone</u></a></li>
 </ul></div>
+
 

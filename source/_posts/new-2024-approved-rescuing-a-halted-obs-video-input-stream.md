@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Rescuing a Halted OBS Video Input Stream\""
-date: 2024-05-18T02:12:57.765Z
-updated: 2024-05-19T02:12:57.765Z
+date: 2024-05-19T19:41:56.105Z
+updated: 2024-05-20T19:41:56.105Z
 tags: 
   - screen-recording
   - ai video
@@ -262,4 +262,5 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-lenovo-thinkphone-to-pc-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Lenovo ThinkPhone to PC? | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/new-quick-fixes-for-audio-extraction-in-imovie-using-your-apple-device/"><u>New Quick Fixes for Audio Extraction in iMovie Using Your Apple Device</u></a></li>
 </ul></div>
+
 

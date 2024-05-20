@@ -430,3 +430,4 @@ Follow @Liza Brown
 <li><a href="https://techidaily.com/how-to-reset-a-lava-yuva-2-pro-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Lava Yuva 2 Pro Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
 
+

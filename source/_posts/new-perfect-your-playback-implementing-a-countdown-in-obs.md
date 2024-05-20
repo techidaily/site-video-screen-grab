@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Perfect Your Playback  Implementing a Countdown in OBS\""
-date: 2024-05-18T01:58:13.290Z
-updated: 2024-05-19T01:58:13.290Z
+date: 2024-05-19T19:41:24.362Z
+updated: 2024-05-20T19:41:24.362Z
 tags: 
   - screen-recording
   - ai video
@@ -252,4 +252,5 @@ OBS Studio can look intimidating at first. But once you learn the ropes, this de
 <li><a href="https://sound-optimizing.techidaily.com/2024-approved-the-dynamics-of-musical-tension-implementing-thematic-variations-to-elevate-film-scores/"><u>2024 Approved The Dynamics of Musical Tension Implementing Thematic Variations to Elevate Film Scores</u></a></li>
 <li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-xiaomi-redmi-12-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Xiaomi Redmi 12 5G Devices | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Inbuilt Screen Capture  Huawei's Mate Series & P Lineup Phones.\""
-date: 2024-05-18T02:03:59.685Z
-updated: 2024-05-19T02:03:59.685Z
+date: 2024-05-19T19:41:36.464Z
+updated: 2024-05-20T19:41:36.464Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ Follow @Max Wales
 <li><a href="https://smart-video-creator.techidaily.com/in-2024-get-creative-with-kapwing-a-simple-guide-to-making-slow-motion-videos/"><u>In 2024, Get Creative with Kapwing A Simple Guide to Making Slow-Motion Videos</u></a></li>
 <li><a href="https://audio-editing.techidaily.com/in-2024-step-by-step-guide-swapping-out-the-soundtrack-in-your-movie-file/"><u>In 2024, Step-by-Step Guide Swapping Out the Soundtrack in Your Movie File</u></a></li>
 </ul></div>
+
 

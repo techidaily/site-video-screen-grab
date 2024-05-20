@@ -541,3 +541,4 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-create-a-freeze-frame-sequence-in-video/"><u>Updated How to Create A Freeze Frame Sequence in Video</u></a></li>
 </ul></div>
 
+

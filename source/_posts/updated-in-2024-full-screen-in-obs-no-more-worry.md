@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Full Screen in Obs, No More Worry"
-date: 2024-05-18T02:11:01.525Z
-updated: 2024-05-19T02:11:01.525Z
+date: 2024-05-19T19:41:50.998Z
+updated: 2024-05-20T19:41:50.998Z
 tags: 
   - screen-recording
   - ai video
@@ -266,4 +266,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://iphone-unlock.techidaily.com/disabling-iphone-6-plus-parental-restrictions-withwithout-password-drfone-by-drfone-ios/"><u>Disabling iPhone 6 Plus Parental Restrictions With/Without Password | Dr.fone</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-best-of-the-best-top-16-free-avi-video-rotation-software-for-any-platform/"><u>Updated In 2024, Best of the Best Top 16 Free AVI Video Rotation Software for Any Platform</u></a></li>
 </ul></div>
+
 

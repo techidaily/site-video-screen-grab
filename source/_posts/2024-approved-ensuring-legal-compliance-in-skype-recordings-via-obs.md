@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Ensuring Legal Compliance in Skype Recordings via OBS\""
-date: 2024-05-18T02:24:01.223Z
-updated: 2024-05-19T02:24:01.223Z
+date: 2024-05-19T19:42:19.635Z
+updated: 2024-05-20T19:42:19.635Z
 tags: 
   - screen-recording
   - ai video
@@ -339,4 +339,5 @@ So form the above discussion it can be concluded that OBS for screen recording c
 <li><a href="https://ai-editing-video.techidaily.com/new-how-to-create-your-own-luts-for-your-video-with-filmora-for-2024/"><u>New How to Create Your Own LUTs for Your Video with Filmora for 2024</u></a></li>
 <li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo Y78 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

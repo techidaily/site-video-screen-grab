@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Leading Screenshot Tools on Ubuntu Platforms\""
-date: 2024-05-18T02:12:56.127Z
-updated: 2024-05-19T02:12:56.127Z
+date: 2024-05-19T19:41:56.032Z
+updated: 2024-05-20T19:41:56.032Z
 tags: 
   - screen-recording
   - ai video
@@ -687,4 +687,5 @@ Assuming you at any point need to record your screen on Ubuntu Linux, there are 
 <li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-free-quicktime-video-editing-software-top-10-choices/"><u>Updated 2024 Approved Free QuickTime Video Editing Software Top 10 Choices</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-repair-system-of-iphone-13-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair System of iPhone 13? | Dr.fone</u></a></li>
 </ul></div>
+
 

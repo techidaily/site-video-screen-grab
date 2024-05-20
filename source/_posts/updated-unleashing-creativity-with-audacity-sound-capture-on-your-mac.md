@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Unleashing Creativity with Audacity Sound Capture on Your Mac"
-date: 2024-05-18T02:15:37.534Z
-updated: 2024-05-19T02:15:37.534Z
+date: 2024-05-19T19:42:01.654Z
+updated: 2024-05-20T19:42:01.654Z
 tags: 
   - screen-recording
   - ai video
@@ -327,4 +327,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://ai-video-editing.techidaily.com/updated-blender-a-video-editor-for-all-professor-for-2024/"><u>Updated Blender - A Video Editor for All Professor for 2024</u></a></li>
 <li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Infinix Hot 30 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

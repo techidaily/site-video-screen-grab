@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Essential Steps for iPhone Screen Shotting"
-date: 2024-05-18T02:15:26.390Z
-updated: 2024-05-19T02:15:26.390Z
+date: 2024-05-19T19:42:01.310Z
+updated: 2024-05-20T19:42:01.310Z
 tags: 
   - screen-recording
   - ai video
@@ -558,4 +558,5 @@ Detailed tutorials provided by the official channel
 <li><a href="https://ai-editing-video.techidaily.com/new-create-true-3d-text-effects-using-after-effects/"><u>New Create True 3D Text Effects Using After Effects</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/2024-approved-step-by-step-audio-capture-in-garageband-your-personalized-tutorial/"><u>2024 Approved Step-by-Step Audio Capture in GarageBand Your Personalized Tutorial</u></a></li>
 </ul></div>
+
 

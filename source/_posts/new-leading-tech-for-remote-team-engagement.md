@@ -642,3 +642,4 @@ Follow @Richard Bennett
 <li><a href="https://audio-editing.techidaily.com/new-mute-audio-and-add-new-sound-in-windows-movie-maker/"><u>New Mute Audio and Add New Sound in Windows Movie Maker</u></a></li>
 </ul></div>
 
+

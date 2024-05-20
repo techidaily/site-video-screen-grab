@@ -1,7 +1,7 @@
 ---
 title: "[Updated] The Ken Burns Method in Camtasia 9 Explained Simply for 2024"
-date: 2024-05-18T02:16:48.932Z
-updated: 2024-05-19T02:16:48.932Z
+date: 2024-05-19T19:42:04.396Z
+updated: 2024-05-20T19:42:04.396Z
 tags: 
   - screen-recording
   - ai video
@@ -330,4 +330,5 @@ Follow @Max Wales
 <li><a href="https://unlock-android.techidaily.com/how-to-lock-apps-on-xiaomi-mix-fold-3-to-protect-your-individual-information-by-drfone-android/"><u>How to Lock Apps on Xiaomi Mix Fold 3 to Protect Your Individual Information</u></a></li>
 <li><a href="https://video-creation-software.techidaily.com/new-2024-approved-os-x-mavericks-the-ultimate-mp4-file-editor/"><u>New 2024 Approved OS X Mavericks The Ultimate MP4 File Editor</u></a></li>
 </ul></div>
+
 

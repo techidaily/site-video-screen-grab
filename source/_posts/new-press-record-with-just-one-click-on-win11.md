@@ -1,7 +1,7 @@
 ---
 title: "[New] Press 'Record' With Just One Click on Win11"
-date: 2024-05-18T02:08:35.391Z
-updated: 2024-05-19T02:08:35.391Z
+date: 2024-05-19T19:41:46.021Z
+updated: 2024-05-20T19:41:46.021Z
 tags: 
   - screen-recording
   - ai video
@@ -434,4 +434,5 @@ Alternatively, if you have specific needs for on-screen recordings, such as the 
 <li><a href="https://audio-shaping.techidaily.com/5-premium-no-cost-decibel-regulators-for-mp3-files/"><u>5 Premium No-Cost Decibel Regulators for MP3 Files</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/updated-guide-to-add-transition-effects-in-premiere-pro/"><u>Updated Guide to Add Transition Effects in Premiere Pro</u></a></li>
 </ul></div>
+
 

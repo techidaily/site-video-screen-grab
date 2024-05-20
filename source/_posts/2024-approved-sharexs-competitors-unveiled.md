@@ -277,3 +277,4 @@ ShareX is great if you want to capture screenshots of your current screen as wel
 <li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-lava-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Lava Pattern Lock Screen</u></a></li>
 </ul></div>
 
+

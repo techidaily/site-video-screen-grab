@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In-Depth Guide  OBS for Gamers for 2024\""
-date: 2024-05-18T02:16:19.948Z
-updated: 2024-05-19T02:16:19.948Z
+date: 2024-05-19T19:42:03.476Z
+updated: 2024-05-20T19:42:03.476Z
 tags: 
   - screen-recording
   - ai video
@@ -409,4 +409,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-oppo-a18-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Oppo A18 Devices | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-15-pro-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 15 Pro Location by Number | Dr.fone</u></a></li>
 </ul></div>
+
 

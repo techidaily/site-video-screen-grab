@@ -330,3 +330,4 @@ Follow @Richard Bennett
 <li><a href="https://ai-vdieo-software.techidaily.com/new-how-to-edit-audio-of-a-video-on-fcp/"><u>New How to Edit Audio of a Video on FCP</u></a></li>
 </ul></div>
 
+

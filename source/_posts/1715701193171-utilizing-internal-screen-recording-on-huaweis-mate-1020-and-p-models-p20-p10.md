@@ -1,7 +1,7 @@
 ---
 title: "Utilizing Internal Screen Recording on Huawei's Mate 10/20 & P Models (P20, P10)."
-date: 2024-05-18T02:00:27.060Z
-updated: 2024-05-19T02:00:27.060Z
+date: 2024-05-19T19:41:29.201Z
+updated: 2024-05-20T19:41:29.201Z
 tags: 
   - screen-recording
   - ai video
@@ -420,4 +420,5 @@ Follow @Max Wales
 <li><a href="https://video-content-creator.techidaily.com/new-2024-approved-shooting-up-expert-advice-for-creating-vertical-content-on-your-phone/"><u>New 2024 Approved Shooting Up Expert Advice for Creating Vertical Content on Your Phone</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-honor-magic-5-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Honor Magic 5 Pro Pattern Lock Screen</u></a></li>
 </ul></div>
+
 

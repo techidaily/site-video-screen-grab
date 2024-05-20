@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, The Ken Burns Method in Camtasia 9 Explained Simply"
-date: 2024-05-18T02:12:47.172Z
-updated: 2024-05-19T02:12:47.172Z
+date: 2024-05-19T19:41:55.696Z
+updated: 2024-05-20T19:41:55.696Z
 tags: 
   - screen-recording
   - ai video
@@ -359,4 +359,5 @@ Follow @Max Wales
 <li><a href="https://sound-tweaking.techidaily.com/2024-approved-curated-list-of-prime-pop-sounds-to-elevate-film-and-video-experiences/"><u>2024 Approved Curated List of Prime Pop Sounds to Elevate Film & Video Experiences</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-top-6-online-audio-archives-for-high-quality-whoosh-sounds/"><u>Updated In 2024, Top 6 Online Audio Archives for High-Quality Whoosh Sounds</u></a></li>
 </ul></div>
+
 

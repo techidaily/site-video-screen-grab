@@ -308,3 +308,4 @@ For macOS 10.12 or later
 <li><a href="https://techidaily.com/different-methods-for-resetting-samsung-galaxy-f04-phones-with-screen-locked-and-not-drfone-by-drfone-reset-android-reset-android/"><u>Different Methods for Resetting Samsung Galaxy F04 Phones with Screen Locked and Not | Dr.fone</u></a></li>
 </ul></div>
 
+

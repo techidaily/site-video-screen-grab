@@ -332,3 +332,4 @@ There may be a lot of other similar applications like VSDC on the internet out t
 <li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-infinix-smart-8-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Infinix Smart 8</u></a></li>
 </ul></div>
 
+

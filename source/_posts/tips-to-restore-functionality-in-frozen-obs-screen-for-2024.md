@@ -1,7 +1,7 @@
 ---
 title: "Tips to Restore Functionality in Frozen OBS Screen for 2024"
-date: 2024-05-18T02:09:06.920Z
-updated: 2024-05-19T02:09:06.920Z
+date: 2024-05-19T19:41:47.084Z
+updated: 2024-05-20T19:41:47.084Z
 tags: 
   - screen-recording
   - ai video
@@ -276,4 +276,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://easy-unlock-android.techidaily.com/still-using-pattern-locks-with-realme-gt-neo-5-se-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Realme GT Neo 5 SE? Tips, Tricks and Helpful Advice</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/new-in-2024-the-future-of-entertainment-is-here-ranking-the-premiere-av-mixers/"><u>New In 2024, The Future of Entertainment Is Here Ranking the Premiere AV Mixers</u></a></li>
 </ul></div>
+
 

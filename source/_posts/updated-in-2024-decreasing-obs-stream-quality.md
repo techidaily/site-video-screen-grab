@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Decreasing OBS Stream Quality"
-date: 2024-05-18T02:00:33.866Z
-updated: 2024-05-19T02:00:33.866Z
+date: 2024-05-19T19:41:29.444Z
+updated: 2024-05-20T19:41:29.444Z
 tags: 
   - screen-recording
   - ai video
@@ -283,4 +283,5 @@ OBS high encoding warning or encoding overloaded warning is not uncommon. In fac
 <li><a href="https://screen-mirror.techidaily.com/a-guide-honor-90-lite-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Honor 90 Lite Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
 <li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-flac-conversion-made-easy-your-go-to-guide-for-the-best-tools/"><u>Updated In 2024, FLAC Conversion Made Easy Your Go-To Guide for the Best Tools</u></a></li>
 </ul></div>
+
 

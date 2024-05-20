@@ -913,3 +913,4 @@ To record online teaching all you have to do is install one of the applications 
 <li><a href="https://screen-mirror.techidaily.com/how-to-stream-apple-iphone-13-to-computer-drfone-by-drfone-ios/"><u>How to Stream Apple iPhone 13 to Computer? | Dr.fone</u></a></li>
 </ul></div>
 
+

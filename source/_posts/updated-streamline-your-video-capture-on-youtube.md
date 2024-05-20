@@ -752,3 +752,4 @@ Depending on the device you are using, you have to follow the specific method on
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-pictures-files-from-oppo-a2-by-fonelab-android-recover-pictures/"><u>How To  Restore Missing Pictures Files from Oppo A2.</u></a></li>
 </ul></div>
 
+

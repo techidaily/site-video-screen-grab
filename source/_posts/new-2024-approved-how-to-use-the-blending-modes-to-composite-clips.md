@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  How to Use The Blending Modes To Composite Clips\""
-date: 2024-05-18T02:16:59.534Z
-updated: 2024-05-19T02:16:59.534Z
+date: 2024-05-19T19:42:04.723Z
+updated: 2024-05-20T19:42:04.723Z
 tags: 
   - screen-recording
   - ai video
@@ -471,4 +471,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-tools.techidaily.com/2024-approved-make-stunning-videos-in-minutes-wevideo/"><u>2024 Approved Make Stunning Videos in Minutes WeVideo</u></a></li>
 <li><a href="https://ai-editing-video.techidaily.com/new-2024-approved-how-to-make-ninja-jump-effect/"><u>New 2024 Approved How To Make Ninja Jump Effect</u></a></li>
 </ul></div>
+
 

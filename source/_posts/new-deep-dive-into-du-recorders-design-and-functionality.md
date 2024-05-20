@@ -1,7 +1,7 @@
 ---
 title: "[New] Deep Dive Into Du Recorder's Design and Functionality"
-date: 2024-05-18T02:15:45.677Z
-updated: 2024-05-19T02:15:45.677Z
+date: 2024-05-19T19:42:01.930Z
+updated: 2024-05-20T19:42:01.930Z
 tags: 
   - screen-recording
   - ai video
@@ -588,4 +588,5 @@ The article above is very detailed and is full of information for any soul who a
 <li><a href="https://video-creation-software.techidaily.com/new-where-to-find-free-public-domain-videos-for-any-project/"><u>New Where to Find Free Public Domain Videos for Any Project</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On OnePlus Ace 2 Pro? | Dr.fone</u></a></li>
 </ul></div>
+
 

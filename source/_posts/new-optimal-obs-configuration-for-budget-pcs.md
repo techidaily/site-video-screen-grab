@@ -1,7 +1,7 @@
 ---
 title: "[New] Optimal OBS Configuration for Budget PCs"
-date: 2024-05-18T02:07:14.773Z
-updated: 2024-05-19T02:07:14.773Z
+date: 2024-05-19T19:41:43.119Z
+updated: 2024-05-20T19:41:43.119Z
 tags: 
   - screen-recording
   - ai video
@@ -234,4 +234,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://ai-video-editing.techidaily.com/in-2024-quick-solved-how-to-add-subtitles-to-a-video-on-iphones/"><u>In 2024, Quick Solved How to Add Subtitles to a Video on iPhones</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-s-best-pc-video-dubbing-programs-reviews-and-downloads/"><u>Updated 2024 Approved S Best PC Video Dubbing Programs Reviews and Downloads</u></a></li>
 </ul></div>
+
 

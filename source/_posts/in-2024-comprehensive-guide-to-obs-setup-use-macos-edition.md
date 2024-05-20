@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Comprehensive Guide to OBS Setup, Use, macOS Edition"
-date: 2024-05-18T02:15:06.547Z
-updated: 2024-05-19T02:15:06.547Z
+date: 2024-05-19T19:42:00.656Z
+updated: 2024-05-20T19:42:00.656Z
 tags: 
   - screen-recording
   - ai video
@@ -379,4 +379,5 @@ Unlike OBS, which only offers a few recording options, Filmora includes all of t
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-in-2024-make-movies-that-wow-a-comprehensive-guide-to-professional-video-production/"><u>Updated In 2024, Make Movies That Wow A Comprehensive Guide to Professional Video Production</u></a></li>
 <li><a href="https://sound-tweaking.techidaily.com/synchronizing-sonic-elements-controlling-audio-duration-and-tonality-in-adobe-rush-for-2024/"><u>Synchronizing Sonic Elements Controlling Audio Duration and Tonality in Adobe Rush for 2024</u></a></li>
 </ul></div>
+
 

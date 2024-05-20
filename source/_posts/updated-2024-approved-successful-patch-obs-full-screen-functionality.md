@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Successful Patch  OBS Full Screen Functionality\""
-date: 2024-05-18T02:11:05.323Z
-updated: 2024-05-19T02:11:05.323Z
+date: 2024-05-19T19:41:51.124Z
+updated: 2024-05-20T19:41:51.124Z
 tags: 
   - screen-recording
   - ai video
@@ -267,4 +267,5 @@ OBS full screen not working is a common issue that many users have reported on v
 <li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Motorola Edge 2023 | Dr.fone</u></a></li>
 <li><a href="https://sound-optimizing.techidaily.com/updated-2024-approved-mastering-pc-sound-capture-an-audacity-guide/"><u>Updated 2024 Approved Mastering PC Sound Capture An Audacity Guide</u></a></li>
 </ul></div>
+
 

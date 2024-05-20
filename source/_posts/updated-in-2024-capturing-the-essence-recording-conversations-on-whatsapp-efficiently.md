@@ -475,3 +475,4 @@ Hopefully, you have understood how to record WhatsApp video call on your device.
 <li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-11-pro-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 11 Pro to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
 </ul></div>
 
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Best 7 First-Person Shooters of the Year\""
-date: 2024-05-18T02:21:07.986Z
-updated: 2024-05-19T02:21:07.986Z
+date: 2024-05-19T19:42:13.644Z
+updated: 2024-05-20T19:42:13.644Z
 tags: 
   - screen-recording
   - ai video
@@ -498,4 +498,5 @@ For macOS 10.12 or later
 <li><a href="https://ai-driven-video-production.techidaily.com/new-the-art-of-video-import-and-export-in-adobe-premiere-pro-2023-tips-and-tricks-for-2024/"><u>New The Art of Video Import and Export in Adobe Premiere Pro 2023 Tips and Tricks for 2024</u></a></li>
 <li><a href="https://video-ai-editor.techidaily.com/in-2024-edit-like-a-pro-gopro-video-editing-for-mac-users-2023-update/"><u>In 2024, Edit Like a Pro GoPro Video Editing for Mac Users (2023 Update)</u></a></li>
 </ul></div>
+
 

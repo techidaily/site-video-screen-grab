@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Audacity on Mac  A Beginner's Guide to Recording Audio\""
-date: 2024-05-18T02:21:37.645Z
-updated: 2024-05-19T02:21:37.645Z
+date: 2024-05-19T19:42:14.565Z
+updated: 2024-05-20T19:42:14.565Z
 tags: 
   - screen-recording
   - ai video
@@ -275,4 +275,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Samsung Galaxy F04 | Dr.fone</u></a></li>
 <li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-call-logs-from-poco-m6-pro-5g-by-fonelab-android-recover-call-logs/"><u>Best Android Data Recovery - undelete lost call logs from Poco M6 Pro 5G</u></a></li>
 </ul></div>
+
 

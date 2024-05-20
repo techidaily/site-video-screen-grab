@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Game Capture  A Guide to Using OBS for 2024\""
-date: 2024-05-18T02:01:38.565Z
-updated: 2024-05-19T02:01:38.565Z
+date: 2024-05-19T19:41:31.627Z
+updated: 2024-05-20T19:41:31.627Z
 tags: 
   - screen-recording
   - ai video
@@ -402,4 +402,5 @@ We have answered all the queries on how to record gameplay with OBS. OBS is the 
 <li><a href="https://howto.techidaily.com/8-workable-fixes-to-the-sim-not-provisioned-mm2-error-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Workable Fixes to the SIM not provisioned MM#2 Error on Xiaomi Redmi Note 12 5G | Dr.fone</u></a></li>
 <li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-itel-a70-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Itel A70</u></a></li>
 </ul></div>
+
 

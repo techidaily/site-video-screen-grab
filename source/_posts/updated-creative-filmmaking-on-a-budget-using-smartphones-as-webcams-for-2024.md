@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Creative Filmmaking on a Budget  Using Smartphones as Webcams for 2024\""
-date: 2024-05-18T02:18:26.304Z
-updated: 2024-05-19T02:18:26.304Z
+date: 2024-05-19T19:42:07.715Z
+updated: 2024-05-20T19:42:07.715Z
 tags: 
   - screen-recording
   - ai video
@@ -617,4 +617,5 @@ Follow @Max Wales
 <li><a href="https://blog-min.techidaily.com/how-to-repair-pdf-document-on-a-flash-drive-by-stellar-guide/"><u>How to Repair PDF Document on a Flash Drive</u></a></li>
 <li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-tecno-spark-10-5g-by-drfone-android/"><u>In 2024, How to Bypass FRP on Tecno Spark 10 5G?</u></a></li>
 </ul></div>
+
 

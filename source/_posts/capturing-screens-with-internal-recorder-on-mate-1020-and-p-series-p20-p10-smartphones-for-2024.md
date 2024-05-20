@@ -1,7 +1,7 @@
 ---
 title: "Capturing Screens with Internal Recorder on Mate 10/20 & P Series (P20, P10) Smartphones for 2024"
-date: 2024-05-18T02:19:50.685Z
-updated: 2024-05-19T02:19:50.685Z
+date: 2024-05-19T19:42:10.709Z
+updated: 2024-05-20T19:42:10.709Z
 tags: 
   - screen-recording
   - ai video
@@ -406,4 +406,5 @@ Follow @Max Wales
 <li><a href="https://android-location-track.techidaily.com/top-9-oppo-reno-10-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Oppo Reno 10 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
 <li><a href="https://location-social.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-oneplus-nord-3-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On OnePlus Nord 3 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

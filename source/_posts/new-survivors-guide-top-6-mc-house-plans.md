@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Survivor's Guide  Top 6 MC House Plans\""
-date: 2024-05-18T02:13:33.603Z
-updated: 2024-05-19T02:13:33.603Z
+date: 2024-05-19T19:41:57.359Z
+updated: 2024-05-20T19:41:57.359Z
 tags: 
   - screen-recording
   - ai video
@@ -391,4 +391,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-quicktime-video-editing-essentials-for-mac-users/"><u>Updated 2024 Approved QuickTime Video Editing Essentials for Mac Users</u></a></li>
 <li><a href="https://voice-adjusting.techidaily.com/new-unlocking-audio-potential-the-ultimate-guide-to-using-voice-recorders-on-s10s9/"><u>New Unlocking Audio Potential The Ultimate Guide to Using Voice Recorders on S10/S9</u></a></li>
 </ul></div>
+
 

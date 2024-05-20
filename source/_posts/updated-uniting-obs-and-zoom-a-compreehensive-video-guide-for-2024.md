@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Uniting OBS and Zoom  A Compreehensive Video Guide for 2024\""
-date: 2024-05-18T02:24:00.415Z
-updated: 2024-05-19T02:24:00.415Z
+date: 2024-05-19T19:42:19.623Z
+updated: 2024-05-20T19:42:19.623Z
 tags: 
   - screen-recording
   - ai video
@@ -415,4 +415,5 @@ OBS enables recording into several video formats. But the major reason why you m
 <li><a href="https://techidaily.com/how-to-reset-oneplus-11r-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus 11R without Losing Data | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-nokia-105-classic-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Nokia 105 Classic for Streaming | Dr.fone</u></a></li>
 </ul></div>
+
 

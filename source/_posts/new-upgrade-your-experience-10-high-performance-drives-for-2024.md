@@ -569,3 +569,4 @@ Follow @Ollie Mattison
 <li><a href="https://audio-shaping.techidaily.com/normalizing-audio-in-davinci-resolve-a-step-by-step-guide-for-2024/"><u>Normalizing Audio in DaVinci Resolve A Step-by-Step Guide for 2024</u></a></li>
 </ul></div>
 
+

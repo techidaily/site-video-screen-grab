@@ -1,7 +1,7 @@
 ---
 title: "\"Shogun's Call  A List of Top 10 Games Reflecting Tsushi Values\""
-date: 2024-05-18T02:13:44.472Z
-updated: 2024-05-19T02:13:44.472Z
+date: 2024-05-19T19:41:57.846Z
+updated: 2024-05-20T19:41:57.846Z
 tags: 
   - screen-recording
   - ai video
@@ -620,4 +620,5 @@ Follow @Ollie Mattison
 <li><a href="https://ai-video-apps.techidaily.com/2024-approved-windows-11-video-editing-the-best-tools-for-the-job/"><u>2024 Approved Windows 11 Video Editing The Best Tools for the Job</u></a></li>
 <li><a href="https://ai-video-editing.techidaily.com/updated-how-to-brighten-a-video-in-windows-10-easily/"><u>Updated How to Brighten a Video in Windows 10 Easily</u></a></li>
 </ul></div>
+
 

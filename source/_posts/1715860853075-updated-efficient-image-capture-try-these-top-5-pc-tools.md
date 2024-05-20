@@ -508,3 +508,4 @@ For macOS 10.12 or later
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-synchronize-your-audio-and-videos-properly/"><u>New How To Synchronize Your Audio And Videos Properly?</u></a></li>
 </ul></div>
 
+

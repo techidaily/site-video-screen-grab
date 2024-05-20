@@ -1,7 +1,7 @@
 ---
 title: "Affordable PC OBS Tuning Guide"
-date: 2024-05-18T02:09:01.722Z
-updated: 2024-05-19T02:09:01.722Z
+date: 2024-05-19T19:41:46.887Z
+updated: 2024-05-20T19:41:46.887Z
 tags: 
   - screen-recording
   - ai video
@@ -278,4 +278,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-free-up-space-5-best-video-compression-apps-for-iphone-and-ipad/"><u>Updated 2024 Approved Free Up Space 5 Best Video Compression Apps for iPhone and iPad</u></a></li>
 <li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-xs-max-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone XS Max Passcode not Working? | Dr.fone</u></a></li>
 </ul></div>
+
 

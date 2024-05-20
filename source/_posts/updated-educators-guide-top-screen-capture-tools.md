@@ -934,3 +934,4 @@ To record online teaching all you have to do is install one of the applications 
 <li><a href="https://sound-tweaking.techidaily.com/new-comprehensive-manual-for-capturing-sound-with-your-iphone/"><u>New Comprehensive Manual for Capturing Sound with Your iPhone</u></a></li>
 </ul></div>
 
+

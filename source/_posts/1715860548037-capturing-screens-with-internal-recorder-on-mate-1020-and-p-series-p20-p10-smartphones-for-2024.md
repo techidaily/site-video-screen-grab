@@ -1,7 +1,7 @@
 ---
 title: "Capturing Screens with Internal Recorder on Mate 10/20 & P Series (P20, P10) Smartphones. For 2024"
-date: 2024-05-18T02:12:10.995Z
-updated: 2024-05-19T02:12:10.995Z
+date: 2024-05-19T19:41:54.443Z
+updated: 2024-05-20T19:41:54.443Z
 tags: 
   - screen-recording
   - ai video
@@ -377,4 +377,5 @@ Follow @Max Wales
 <li><a href="https://fake-location.techidaily.com/life360-circle-everything-you-need-to-know-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Life360 Circle Everything You Need to Know On Motorola G24 Power | Dr.fone</u></a></li>
 <li><a href="https://android-unlock.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-vivo-y77t-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Vivo Y77t Device</u></a></li>
 </ul></div>
+
 

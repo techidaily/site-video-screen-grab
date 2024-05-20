@@ -378,3 +378,4 @@ Get started today with Filmora's powerful performance, user-friendly interface, 
 <li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-infinix-smart-7-hd-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Infinix Smart 7 HD Phones? | Dr.fone</u></a></li>
 </ul></div>
 
+

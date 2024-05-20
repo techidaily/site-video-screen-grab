@@ -278,3 +278,4 @@ OBS Studio is especially popular in the gaming community since it helps you crea
 <li><a href="https://screen-mirror.techidaily.com/6-methods-to-share-apple-iphone-12-screen-with-pc-drfone-by-drfone-ios/"><u>6 Methods to Share Apple iPhone 12 Screen with PC | Dr.fone</u></a></li>
 </ul></div>
 
+

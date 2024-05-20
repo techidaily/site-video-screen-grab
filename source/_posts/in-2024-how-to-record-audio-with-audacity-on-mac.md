@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Record Audio with Audacity on Mac?"
-date: 2024-05-18T02:07:12.590Z
-updated: 2024-05-19T02:07:12.590Z
+date: 2024-05-19T19:41:43.060Z
+updated: 2024-05-20T19:41:43.060Z
 tags: 
   - screen-recording
   - ai video
@@ -300,4 +300,5 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 <li><a href="https://android-location.techidaily.com/fake-android-location-without-rooting-for-your-realme-narzo-60-5g-drfone-by-drfone-virtual/"><u>Fake Android Location without Rooting For Your Realme Narzo 60 5G | Dr.fone</u></a></li>
 <li><a href="https://screen-mirror.techidaily.com/in-2024-how-tecno-spark-10-4g-mirror-screen-to-pc-drfone-by-drfone-android/"><u>In 2024, How Tecno Spark 10 4G Mirror Screen to PC? | Dr.fone</u></a></li>
 </ul></div>
+
 

@@ -1,7 +1,7 @@
 ---
 title: "\"CapturaFX FireFox Add-Ons\""
-date: 2024-05-18T02:16:35.109Z
-updated: 2024-05-19T02:16:35.109Z
+date: 2024-05-19T19:42:03.945Z
+updated: 2024-05-20T19:42:03.945Z
 tags: 
   - screen-recording
   - ai video
@@ -660,4 +660,5 @@ Assuming you need to record the substance when perusing sites utilizing Firefox,
 <li><a href="https://techidaily.com/how-to-soft-reset-realme-12-proplus-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Realme 12 Pro+ 5G phone? | Dr.fone</u></a></li>
 <li><a href="https://android-pokemon-go.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
 </ul></div>
+
 

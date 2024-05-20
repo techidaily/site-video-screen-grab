@@ -1,7 +1,7 @@
 ---
 title: "[New] Customized OBS Guide for Budget Builds"
-date: 2024-05-18T01:58:56.643Z
-updated: 2024-05-19T01:58:56.643Z
+date: 2024-05-19T19:41:25.743Z
+updated: 2024-05-20T19:41:25.743Z
 tags: 
   - screen-recording
   - ai video
@@ -259,4 +259,5 @@ There may be a lot of other software which serve the same purpose but the best o
 <li><a href="https://ai-video-apps.techidaily.com/new-best-gopro-quik-alternatives-for-desktop-video-editing-for-2024/"><u>New Best GoPro Quik Alternatives for Desktop Video Editing for 2024</u></a></li>
 <li><a href="https://ai-driven-video-production.techidaily.com/a-full-review-of-splice-video-editor/"><u>A Full Review of Splice Video Editor</u></a></li>
 </ul></div>
+
 

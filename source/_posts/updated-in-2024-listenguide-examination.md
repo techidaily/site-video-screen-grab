@@ -286,3 +286,4 @@ Summarizing the story up, it is of no doubt how extremely basic and easy the UI 
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-infinix-smart-7-hd-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Infinix Smart 7 HD to iPad | Dr.fone</u></a></li>
 </ul></div>
 
+

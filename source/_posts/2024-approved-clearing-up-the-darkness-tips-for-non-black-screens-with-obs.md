@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Clearing Up the Darkness  Tips for Non-Black Screens with OBS\""
-date: 2024-05-18T02:00:28.152Z
-updated: 2024-05-19T02:00:28.152Z
+date: 2024-05-19T19:41:29.241Z
+updated: 2024-05-20T19:41:29.241Z
 tags: 
   - screen-recording
   - ai video
@@ -256,4 +256,5 @@ So this tutorial intends to help you through this OBS black screen problem in-ga
 <li><a href="https://ai-vdieo-software.techidaily.com/unlock-efficient-typing-top-mac-speech-to-text-software-with-no-installation-required/"><u>Unlock Efficient Typing Top Mac Speech-to-Text Software with No Installation Required</u></a></li>
 <li><a href="https://ai-video-apps.techidaily.com/new-in-2024-in-depth-analysis-splice-video-editors-features-and-performance/"><u>New In 2024, In-Depth Analysis Splice Video Editors Features and Performance</u></a></li>
 </ul></div>
+
 

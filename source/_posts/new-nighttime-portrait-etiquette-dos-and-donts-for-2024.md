@@ -214,3 +214,4 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
 <li><a href="https://techidaily.com/how-to-factory-reset-itel-a60-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Itel A60 in 5 Easy Ways | Dr.fone</u></a></li>
 </ul></div>
 
+

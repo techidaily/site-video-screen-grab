@@ -396,3 +396,4 @@ In order to record the full screen of your computer, you will need a screen reco
 <li><a href="https://techidaily.com/how-to-reset-a-honor-play-40c-phone-that-is-locked-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset a Honor Play 40C Phone That Is Locked | Dr.fone</u></a></li>
 </ul></div>
 
+

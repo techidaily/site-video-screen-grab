@@ -364,3 +364,4 @@ If you're already using Fraps for benchmarking or simply keeping track of framer
 <li><a href="https://ai-video-apps.techidaily.com/updated-phone-friendly-format-tips-for-shooting-vertical-video-for-2024/"><u>Updated Phone-Friendly Format Tips for Shooting Vertical Video for 2024</u></a></li>
 </ul></div>
 
+

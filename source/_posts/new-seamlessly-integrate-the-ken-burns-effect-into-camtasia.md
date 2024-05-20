@@ -1,7 +1,7 @@
 ---
 title: "[New] Seamlessly Integrate the Ken Burns Effect Into Camtasia"
-date: 2024-05-18T02:04:54.560Z
-updated: 2024-05-19T02:04:54.560Z
+date: 2024-05-19T19:41:38.498Z
+updated: 2024-05-20T19:41:38.498Z
 tags: 
   - screen-recording
   - ai video
@@ -345,4 +345,5 @@ Follow @Max Wales
 <li><a href="https://ai-video-editing.techidaily.com/new-how-to-make-a-video-by-mouse-in-filmora/"><u>New How To Make a Video by Mouse in Filmora?</u></a></li>
 <li><a href="https://audio-shaping.techidaily.com/updated-in-2024-hollywood-hues-celebrity-tone-modification-gadgets-step-by-step-instructions-and-diverse-options/"><u>Updated In 2024, Hollywood Hues Celebrity Tone Modification Gadgets, Step-by-Step Instructions and Diverse Options</u></a></li>
 </ul></div>
+
 
