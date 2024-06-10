@@ -1,7 +1,7 @@
 ---
 title: "The Ultimate List of Android MOBAs"
-date: 2024-05-18T02:29:20.181Z
-updated: 2024-05-19T02:29:20.181Z
+date: 2024-06-09T03:09:00.361Z
+updated: 2024-06-10T03:09:00.361Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes The Ultimate List of Android MOBAs"
 excerpt: "This Article Describes The Ultimate List of Android MOBAs"
 keywords: "Android MOBAs Guide,Top Android MOBA Games,Best Android MOBAs,Android MOBA Rankings,Essential MOBA Apps (Android),Android MOBA Reviews,Ultimate Android MOBA List"
-thumbnail: https://www.lifewire.com/thmb/D7l9wVfRkR02O_cphLk2NQX7Fjw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ScreenShot2018-12-08at3.04.00PM-5c0c23f6c9e77c00018eae4e.png
+thumbnail: https://thmb.techidaily.com/cec958dbb28e58c65e080cad326f07d4e7cdd67a50648dc244def701160f50d9.png
 ---
 
 ## The Ultimate List of Android MOBAs

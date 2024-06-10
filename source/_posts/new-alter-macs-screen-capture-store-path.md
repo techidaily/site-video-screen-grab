@@ -1,7 +1,7 @@
 ---
 title: "[New] Alter Mac's Screen Capture Store Path"
-date: 2024-05-18T02:52:12.600Z
-updated: 2024-05-19T02:52:12.600Z
+date: 2024-06-09T03:08:53.867Z
+updated: 2024-06-10T03:08:53.867Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Alter Mac's Screen Capture Store Path"
 excerpt: "This Article Describes [New] Alter Mac's Screen Capture Store Path"
 keywords: "Alter Mac Screenshots,Mac Screen Grabs,Mac Capture Tools,AlterMac Store View,Mac Image Capture,Quick Mac Images,Path to Mac Snaps"
-thumbnail: https://www.lifewire.com/thmb/EPDzjUiegMEW3vQpFQEPlf_7s2U=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1135364530-dec5678c0c2c427ba18ae21452ff6326.jpg
+thumbnail: https://thmb.techidaily.com/8b5881e327b9c1ba2eb90535b5e52b8fb37d29efd85f95b1f8c43ff4375091ae.jpg
 ---
 
 ## Alter Mac's Screen Capture Store Path

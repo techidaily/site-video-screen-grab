@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Image Full-Screen Webpage\""
-date: 2024-05-18T02:47:31.132Z
-updated: 2024-05-19T02:47:31.132Z
+date: 2024-06-09T03:08:53.490Z
+updated: 2024-06-10T03:08:53.490Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Image Full-Screen Webpage\""
 excerpt: "\"This Article Describes [New] Image Full-Screen Webpage\""
 keywords: "\"Fullscreen Image Display,Screen-Full Images Online,Large Resolution Web Graphics,High-Res Backgrounds for Web,Expansive Web Pics,Enlarge Web Images,Unlimited View Imagery\""
-thumbnail: https://www.lifewire.com/thmb/NJLgSOS-_Qq21qgfdWY713OPYzI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-527803604-ad6f389c89ff4be1b953a3c2cdc64c09.jpg
+thumbnail: https://thmb.techidaily.com/a362218194355c666b0860326aa79761dfe27d2518f12f424f4610cd1ffe517b.jpg
 ---
 
 ## Image Full-Screen Webpage

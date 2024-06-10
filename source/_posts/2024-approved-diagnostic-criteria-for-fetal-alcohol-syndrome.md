@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Diagnostic Criteria for Fetal Alcohol Syndrome\""
-date: 2024-05-18T02:31:27.626Z
-updated: 2024-05-19T02:31:27.626Z
+date: 2024-06-09T03:08:56.585Z
+updated: 2024-06-10T03:08:56.585Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Diagnostic Criteria for Fetal Alcohol Syndrome\""
 excerpt: "\"This Article Describes 2024 Approved: Diagnostic Criteria for Fetal Alcohol Syndrome\""
 keywords: "\"FAS Diagnosis Criteria,Fetal Alcohol Effects,Alcohol-Related Birth Disorder,AAFS Detection Methods,Preventing Fetal Alcohol Syndrome,Fetal Impact of Drinking,Early Signs of FAS\""
-thumbnail: https://www.lifewire.com/thmb/cgUXvRRGmHncjkXVnnc2mDDxd-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AnneParkShedloskytvOS-2d4178dd6b7d46a08c34ab8b750fe23e.jpg
+thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f6a739d5a50d45eaa5fd443d.jpg
 ---
 
 ## Diagnostic Criteria for Fetal Alcohol Syndrome

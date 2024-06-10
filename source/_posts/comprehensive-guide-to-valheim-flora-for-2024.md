@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Guide to Valheim Flora for 2024"
-date: 2024-05-19T19:43:28.601Z
-updated: 2024-05-20T19:43:28.601Z
+date: 2024-06-09T03:08:54.752Z
+updated: 2024-06-10T03:08:54.752Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Comprehensive Guide to Valheim Flora for 2024"
 excerpt: "This Article Describes Comprehensive Guide to Valheim Flora for 2024"
 keywords: "Valheim Plant Life,Valheim Nature Tips,Flora in Valheim Guide,Comprehensive Valheim Plants,Exploring Flora in Valheim,Valheim Herbal Encyclopedia,Mastering Valheim Botany"
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## Comprehensive Guide to Valheim Flora

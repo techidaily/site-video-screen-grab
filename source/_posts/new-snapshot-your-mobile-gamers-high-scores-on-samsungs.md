@@ -1,7 +1,7 @@
 ---
 title: "[New] Snapshot Your Mobile Gamers' High Scores on Samsungs"
-date: 2024-05-18T02:41:36.595Z
-updated: 2024-05-19T02:41:36.595Z
+date: 2024-06-09T03:08:53.558Z
+updated: 2024-06-10T03:08:53.558Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Snapshot Your Mobile Gamers' High Scores on Samsungs"
 excerpt: "This Article Describes [New] Snapshot Your Mobile Gamers' High Scores on Samsungs"
 keywords: "Samsung Gamers High Score,Mobile Gaming Top Scores,Samson Score Leaderboard,Game Scores Snapshot Mobile,High Scorers Mobile Gaming,Gamers' Score Tracking Samsung,Snap Mobile Game High Scores"
-thumbnail: https://www.lifewire.com/thmb/BEu1dTImTgj-gj19IMN4njOxWDE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/set-top-dvr-1130767-f2aa7f11e3d2442b966d53b8aa2d25fd.png
+thumbnail: https://thmb.techidaily.com/70a221261e83ff3179ef93192d51afbff1f7257579ffa960f9e7a085032e4b04.png
 ---
 
 ## Snapshot Your Mobile Gamers' High Scores on Samsungs

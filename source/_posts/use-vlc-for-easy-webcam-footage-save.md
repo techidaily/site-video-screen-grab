@@ -1,7 +1,7 @@
 ---
 title: "Use VLC for Easy Webcam Footage Save"
-date: 2024-05-18T02:53:36.596Z
-updated: 2024-05-19T02:53:36.596Z
+date: 2024-06-09T03:08:57.945Z
+updated: 2024-06-10T03:08:57.945Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Use VLC for Easy Webcam Footage Save"
 excerpt: "This Article Describes Use VLC for Easy Webcam Footage Save"
 keywords: "Save Webcam Video,Easy VLC Webcam Capture,VLC Record Webcam,Webcam Save VLC,Simple VLC Webcam Recording,VLC Video Capture Webcam,Streaming Webcam VLC"
-thumbnail: https://www.lifewire.com/thmb/kSmIkt41HTX2fBvFrYUa0wu300k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TikTok-vs-YouTube-a42ac0c72a4f4b1d9da8b7ae85b4205e.jpg
+thumbnail: https://thmb.techidaily.com/e9711d2ba9e06d496671fabcb5c03dc2cfd9b4b1eb26d7f5f5a9a68662ceb542.jpg
 ---
 
 ## Use VLC for Easy Webcam Footage Save

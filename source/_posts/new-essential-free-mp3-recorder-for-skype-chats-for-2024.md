@@ -1,7 +1,7 @@
 ---
 title: "[New] Essential Free MP3 Recorder for Skype Chats for 2024"
-date: 2024-05-19T19:41:24.607Z
-updated: 2024-05-20T19:41:24.607Z
+date: 2024-06-09T03:08:53.154Z
+updated: 2024-06-10T03:08:53.154Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Essential Free MP3 Recorder for Skype Chats for 2024"
 excerpt: "This Article Describes [New] Essential Free MP3 Recorder for Skype Chats for 2024"
 keywords: "Skype MP3 Recorder,Free Audio Capture,Chat to MP3 Converter,Portable MP3 Recorder,Online Call Recordings,Skype Voice Export,Mobile MP3 Recorder"
-thumbnail: https://www.lifewire.com/thmb/2zy8MTQaG4uUA0T7RXXxi-EpxMA=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/ps5controller-0d702b25f7fa47b482999811cfc7af39.jpg
+thumbnail: https://thmb.techidaily.com/36cb4ddf3fc78c71836e11f4a803426f35040ec4e34c37b6c57cca04ad1d4891.jpg
 ---
 
 ## Essential Free MP3 Recorder for Skype Chats

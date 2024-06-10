@@ -1,7 +1,7 @@
 ---
 title: "\"Speaking with Impact in Google Meet  The Guidebook\""
-date: 2024-05-18T02:51:35.413Z
-updated: 2024-05-19T02:51:35.413Z
+date: 2024-06-09T03:08:52.727Z
+updated: 2024-06-10T03:08:52.727Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Speaking with Impact in Google Meet: The Guidebook\""
 excerpt: "\"This Article Describes Speaking with Impact in Google Meet: The Guidebook\""
 keywords: "Google Meet Tips,Effective Online Speech,Engaging Remote Presentations,Impactful Virtual Talks,Mastering Webinars,Interactive Google Sessions,Strong Digital Communication"
-thumbnail: https://www.lifewire.com/thmb/q2YzogdKG5J-JDQw9ed7I5Iu49A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/full-frame-shot-of-speakers-1138109687-33289baddc314b44ae87abc2fc8060cd-e7bccad6d81244509ed97ddf557f89e4.jpg
+thumbnail: https://thmb.techidaily.com/ea7251ad5bb332eeb62074bdad75a97d412bc5c90367153732b7b65655c151cd.jpg
 ---
 
 ## Speaking with Impact in Google Meet: The Guidebook

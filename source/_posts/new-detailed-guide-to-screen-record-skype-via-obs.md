@@ -1,7 +1,7 @@
 ---
 title: "[New] Detailed Guide to Screen Record Skype via OBS"
-date: 2024-05-19T19:41:50.288Z
-updated: 2024-05-20T19:41:50.288Z
+date: 2024-06-09T03:08:55.495Z
+updated: 2024-06-10T03:08:55.495Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Detailed Guide to Screen Record Skype via OBS"
 excerpt: "This Article Describes [New] Detailed Guide to Screen Record Skype via OBS"
 keywords: "Skype Screen Recording,OBS Skype Capture,OBS Screen Share,Skype Video Record,OBS Capture Guide,Skype Screencasting,OBS for Skype Screenshots"
-thumbnail: https://www.lifewire.com/thmb/vyzcJX9d4xPRDFBKmvNTGXpael0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229620-9cff560054804b72a431e9492c7445b4.jpg
+thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660eba98a715724fa951b431ee.jpg
 ---
 
 ## Detailed Guide to Screen Record Skype via OBS

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] High Definition Capture  Best PC Cameras for Windows 11\""
-date: 2024-05-19T19:42:03.613Z
-updated: 2024-05-20T19:42:03.613Z
+date: 2024-06-09T03:08:56.426Z
+updated: 2024-06-10T03:08:56.426Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] High Definition Capture: Best PC Cameras for Windows 11\""
 excerpt: "\"This Article Describes [New] High Definition Capture: Best PC Cameras for Windows 11\""
 keywords: "HDPC WinCams,Windows 11 Cameras,High Res PC Cams,Premium PC Video Capture,UltraHD WinCapture,Best HD Windows Cameras,Top PC Video Recording"
-thumbnail: https://www.lifewire.com/thmb/bOmeScOWFc7_QUmHNXKw7Hqwkm0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/bestfirestickapps-5bcba08546e0fb005177a983-0591296fac8241ccb8497f9f29901acd.jpg
+thumbnail: https://thmb.techidaily.com/4ac54b51c1cafa3a284440c31d27701c82afd968d6a73268fe3b019a529c7811.jpg
 ---
 
 ## High Definition Capture: Best PC Cameras for Windows 11

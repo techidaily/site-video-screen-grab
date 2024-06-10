@@ -1,7 +1,7 @@
 ---
 title: "[New] Record & Evaluate Speech Files"
-date: 2024-05-18T02:43:47.030Z
-updated: 2024-05-19T02:43:47.030Z
+date: 2024-06-09T03:08:56.334Z
+updated: 2024-06-10T03:08:56.334Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Record & Evaluate Speech Files"
 excerpt: "This Article Describes [New] Record & Evaluate Speech Files"
 keywords: "Speech File Analysis,Audio Recording Review,Vocal Track Assessment,Oral Transcript Examination,Sound Quality Insight,Voice Evaluation Guide,Dialogue Capture Analysis"
-thumbnail: https://www.lifewire.com/thmb/cnbU86cA88gNmLB_6vGsp1ZnxFM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asian-woman-talking-into-microphone-722208887-5b2a989730371300373a0447.jpg
+thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
 ---
 
 ## Record & Evaluate Speech Files

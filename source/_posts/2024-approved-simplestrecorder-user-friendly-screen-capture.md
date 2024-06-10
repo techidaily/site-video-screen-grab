@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  SimplestRecorder  User-Friendly Screen Capture\""
-date: 2024-05-18T02:59:45.839Z
-updated: 2024-05-19T02:59:45.839Z
+date: 2024-06-09T03:08:55.138Z
+updated: 2024-06-10T03:08:55.138Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: SimplestRecorder: User-Friendly Screen Capture\""
 excerpt: "\"This Article Describes 2024 Approved: SimplestRecorder: User-Friendly Screen Capture\""
 keywords: "EasyScreenCapture,SimpleRecorderUse,RecorderUserSnap,FriendlyCaptureTool,QuickRecordViewing,SimplestScreenshot,AccessibleScreenRec"
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## SimplestRecorder: User-Friendly Screen Capture

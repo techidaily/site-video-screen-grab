@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Cerebral Quests  The Ultimate List of Escape Rooms for 2024\""
-date: 2024-05-19T19:42:00.329Z
-updated: 2024-05-20T19:42:00.329Z
+date: 2024-06-09T03:08:52.833Z
+updated: 2024-06-10T03:08:52.833Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Cerebral Quests: The Ultimate List of Escape Rooms for 2024\""
 excerpt: "\"This Article Describes [New] Cerebral Quests: The Ultimate List of Escape Rooms for 2024\""
 keywords: "Escape Room Lists,Escape Challenge,Brainy Games,Mind Locked Rooms,Quest Minds Escape,Escapade Cerebral,Thinking Breakout Room"
-thumbnail: https://www.lifewire.com/thmb/YPMhKL59WGdTUpxCrpaB_OS--cc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-set-up-speech-to-text-on-android-0-928c48ab121248f9aa543a136d971f9a.jpg
+thumbnail: https://thmb.techidaily.com/2e5cadcabaa5bc146e9286cd6ccf5e30c43742afdff538e1080a5add013b39bf.jpg
 ---
 
 ## Cerebral Quests: The Ultimate List of Escape Rooms

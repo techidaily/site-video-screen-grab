@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Live Transmission Directly to Instagram via OBS\""
-date: 2024-05-18T02:56:20.682Z
-updated: 2024-05-19T02:56:20.682Z
+date: 2024-06-09T03:09:00.478Z
+updated: 2024-06-10T03:09:00.478Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Live Transmission Directly to Instagram via OBS\""
 excerpt: "\"This Article Describes 2024 Approved: Live Transmission Directly to Instagram via OBS\""
 keywords: "\"Insta Live Broadcasting,OBS to Instagram,Direct Instagram Stream,OBS Media Sharing,Real-Time Insta Upload,Instagram Transmission OBS,OBS Live Direct Stream\""
-thumbnail: https://www.lifewire.com/thmb/vyzcJX9d4xPRDFBKmvNTGXpael0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-944229620-9cff560054804b72a431e9492c7445b4.jpg
+thumbnail: https://thmb.techidaily.com/e271cbb6eb6a65ff2648f6dddd1fc0c078a843660eba98a715724fa951b431ee.jpg
 ---
 
 ## Live Transmission Directly to Instagram via OBS

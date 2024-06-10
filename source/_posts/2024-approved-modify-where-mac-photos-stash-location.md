@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Modify Where Mac Photos Stash Location\""
-date: 2024-05-19T19:41:23.502Z
-updated: 2024-05-20T19:41:23.502Z
+date: 2024-06-09T03:08:58.645Z
+updated: 2024-06-10T03:08:58.645Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Modify Where Mac Photos Stash Location\""
 excerpt: "\"This Article Describes 2024 Approved: Modify Where Mac Photos Stash Location\""
 keywords: "Change Photo Save Path Mac,Edit Mac Photo Storage,Alter Mac Picture Location,Mac Photos New Directory,Reschedule Photo Saving Mac,Modify Mac Image Hide Place,Mac Photo Stash Update"
-thumbnail: https://www.lifewire.com/thmb/RZ6a_Dm3h0STkAi4OwMdfZPBurY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/DTS-Virtual-X-logo-w-illustration-xxbb-59403d7b3df78c537b1ef6b2.jpg
+thumbnail: https://thmb.techidaily.com/73ab3c04255810df2615a2a01c8a14174dd9b221f2d60ec5b3831dd32989cbba.jpg
 ---
 
 ## Modify Where Mac Photos Stash Location

@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Asian Themed Mini Mansions for Creative Builders"
-date: 2024-05-18T02:30:45.537Z
-updated: 2024-05-19T02:30:45.537Z
+date: 2024-06-09T03:08:59.258Z
+updated: 2024-06-10T03:08:59.258Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Asian Themed Mini Mansions for Creative Builders"
 excerpt: "This Article Describes In 2024, Asian Themed Mini Mansions for Creative Builders"
 keywords: "Asian Mini Mansions,Mini Home Creation,Mini Mansion Designs,Asian Style Mansions,Creative Mini Homes,Themed Mini Houses,Builders' Mini Projects"
-thumbnail: https://www.lifewire.com/thmb/ADwMZAl5AjJaezwcgc229Y2W9FU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1558254975-0a8ae81a4cd04f3eba064dd56ba8b030.jpg
+thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f83678c9c2635006dd72b341f.jpg
 ---
 
 ## Asian Themed Mini Mansions for Creative Builders

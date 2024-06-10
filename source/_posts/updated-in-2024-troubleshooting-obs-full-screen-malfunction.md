@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Troubleshooting OBS Full Screen Malfunction"
-date: 2024-05-18T02:51:01.751Z
-updated: 2024-05-19T02:51:01.751Z
+date: 2024-06-09T03:08:57.153Z
+updated: 2024-06-10T03:08:57.153Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, Troubleshooting OBS Full Screen Malfunction"
 excerpt: "This Article Describes [Updated] In 2024, Troubleshooting OBS Full Screen Malfunction"
 keywords: "OBS Full Screen Fix,Fullscreen OBS Error,Resolve OBS Glitch,Fix OBS Freeze Screen,OBS Malfunction Resolution,Troubleshoot OBS Display,OBS Full Screen Issue"
-thumbnail: https://www.lifewire.com/thmb/cnbU86cA88gNmLB_6vGsp1ZnxFM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/asian-woman-talking-into-microphone-722208887-5b2a989730371300373a0447.jpg
+thumbnail: https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg
 ---
 
 ## Troubleshooting OBS Full Screen Malfunction

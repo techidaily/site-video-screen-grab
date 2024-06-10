@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  The Art of Muting Background Sounds in Skype\""
-date: 2024-05-19T19:41:26.608Z
-updated: 2024-05-20T19:41:26.608Z
+date: 2024-06-09T03:08:57.189Z
+updated: 2024-06-10T03:08:57.189Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] 2024 Approved: The Art of Muting Background Sounds in Skype\""
 excerpt: "\"This Article Describes [New] 2024 Approved: The Art of Muting Background Sounds in Skype\""
 keywords: "Skype Sound Toggle,Silence Skype Chat,Noise Cancellation Skype,Skype Ambient Quiet,Mute Skype Background,Clear Skype Conversation,Skype Audio Blocking"
-thumbnail: https://www.lifewire.com/thmb/6e-dHhpfl-OgzUpZXzufYG-qf-Y=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/movie-night-at-home-with-popcorn_t20_yv3PA9-5c815f7fc9e77c0001fd5b49.jpg
+thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e55514d7bc0ce5bafaca00aee.jpg
 ---
 
 ## The Art of Muting Background Sounds in Skype
