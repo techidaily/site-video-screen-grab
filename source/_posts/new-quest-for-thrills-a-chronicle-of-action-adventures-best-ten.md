@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Quest for Thrills  A Chronicle of Action-Adventures' Best Ten\""
-date: 2024-05-18T02:53:11.936Z
-updated: 2024-05-19T02:53:11.936Z
+date: 2024-06-18T02:53:49.886Z
+updated: 2024-06-19T02:53:49.886Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Quest for Thrills: A Chronicle of Action-Adventures' Best Ten\""
 excerpt: "\"This Article Describes [New] Quest for Thrills: A Chronicle of Action-Adventures' Best Ten\""
 keywords: "Action Adventure Top Titles,Thrill Quest Best Tens,Action Chronicles #10,Epic Adventure Hits,Best Actions in Adventures,Thrills in Action Journeys,Ultimate Adventure Ten"
-thumbnail: https://www.lifewire.com/thmb/9RF2k5zJ8slFGgduRb1qj6IFxoo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-77744394-e5f79596e54a4ba6a914eed31be7efc4.jpg
+thumbnail: https://thmb.techidaily.com/99f8be9be102276bc593db3bcc6b07419f9816f2452ed4f5c2e0bd34aa16b628.jpg
 ---
 
 ## Quest for Thrills: A Chronicle of Action-Adventures' Best Ten

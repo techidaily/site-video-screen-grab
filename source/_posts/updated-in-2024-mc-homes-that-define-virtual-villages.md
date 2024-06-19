@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, MC Homes that Define Virtual Villages"
-date: 2024-05-18T02:45:14.796Z
-updated: 2024-05-19T02:45:14.796Z
+date: 2024-06-18T02:53:48.994Z
+updated: 2024-06-19T02:53:48.994Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] In 2024, MC Homes that Define Virtual Villages"
 excerpt: "This Article Describes [Updated] In 2024, MC Homes that Define Virtual Villages"
 keywords: "\"Virtual Villages MC Homes,Defining Virtual Home Designs,Virtual Villages Architecture,Innovative Virtual Community Homes,Homes for Digital Village Life,Virtual Living Spaces MC Homes,MC Homes: Architectural Visionaries\""
-thumbnail: https://www.lifewire.com/thmb/7xkPKaI2xi5sTbIeFjMPxaWn7Gc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apple-tvos_a-star-is-born_060319-b01aea7d8a1949609359d8d96b1a22e0.jpg
+thumbnail: https://thmb.techidaily.com/3a8d29dc752129bc6cecd890184a07ba60927370b95afc8af67003c49b108b72.jpg
 ---
 
 ## MC Homes that Define Virtual Villages

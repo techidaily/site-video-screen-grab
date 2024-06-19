@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Huawei's Built-In Recorder  Screen Capture for Mate and P Series\""
-date: 2024-05-19T19:41:57.594Z
-updated: 2024-05-20T19:41:57.594Z
+date: 2024-06-18T02:53:44.554Z
+updated: 2024-06-19T02:53:44.554Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, Huawei's Built-In Recorder: Screen Capture for Mate and P Series\""
 excerpt: "\"This Article Describes [Updated] In 2024, Huawei's Built-In Recorder: Screen Capture for Mate and P Series\""
 keywords: "\"Huawei Mate Screen Record,P Series Recording Mode,Huawei Mate Capture Feature,Huawei Mate Screenshot,P Series Built-In Recorder,Mate/P Series Screen Save,Huawei Mate/P Video Capture\""
-thumbnail: https://www.lifewire.com/thmb/AOVQTNyOWIZPYiKZehcoYQS3DNU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-820926684-5c7747ebc45847708ac311b709bdc1f2.jpg
+thumbnail: https://thmb.techidaily.com/0608abec5e89fbdabfc438dbc05f250f26c6343ebf5ad117060d9466fac18ee3.jpg
 ---
 
 ## Huawei's Built-In Recorder: Screen Capture for Mate and P Series

@@ -1,7 +1,7 @@
 ---
 title: "\"OBS Studio for Gamers  PS4 Screenshots & Recordings Guide for 2024\""
-date: 2024-05-19T19:41:27.498Z
-updated: 2024-05-20T19:41:27.498Z
+date: 2024-06-18T02:53:40.284Z
+updated: 2024-06-19T02:53:40.284Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes OBS Studio for Gamers: PS4 Screenshots & Recordings Guide for 2024\""
 excerpt: "\"This Article Describes OBS Studio for Gamers: PS4 Screenshots & Recordings Guide for 2024\""
 keywords: "OBS Gamer Tips,PS4 Screenshot Guide,Game Recording Software,OBS Studio Basics,Video Capture on PS4,Gamers' Screen Record,Streaming with OBS PS4"
-thumbnail: https://www.lifewire.com/thmb/CRTquSF_UbubOfDqEN31hiqf2eI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/internet-archive-logo-5980e6f0845b340011748640.png
+thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e22482d093bffe3ae2ca67e1.png
 ---
 
 ## OBS Studio for Gamers: PS4 Screenshots & Recordings Guide

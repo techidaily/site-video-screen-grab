@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Efficient Audio Documentation in Academia Using Macs"
-date: 2024-05-19T19:41:45.582Z
-updated: 2024-05-20T19:41:45.582Z
+date: 2024-06-18T02:53:48.574Z
+updated: 2024-06-19T02:53:48.574Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes In 2024, Efficient Audio Documentation in Academia Using Macs"
 excerpt: "This Article Describes In 2024, Efficient Audio Documentation in Academia Using Macs"
 keywords: "\"DocuAudio Efficiency,Academic Sound Logging,Mac-Based Recording,Audio Tech Scholarly,Academic Audiosync,Macdoc Audiography,Learning AudioMacs\""
-thumbnail: https://www.lifewire.com/thmb/p0ylhoIohfzUUD_zptkk_cS1LaE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/zenbook-17-fold-oled-72de5601b7334834a2962b7a8c7b4e9b-16fb2ba97f414911a71ffd37c82c541e.png
+thumbnail: https://thmb.techidaily.com/95c7607cc85834758f594e36f86b8274633568f32ba37267dd79e6e802f121e2.png
 ---
 
 ## Efficient Audio Documentation in Academia Using Macs

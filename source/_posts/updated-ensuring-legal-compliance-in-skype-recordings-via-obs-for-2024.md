@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Ensuring Legal Compliance in Skype Recordings via OBS for 2024"
-date: 2024-05-19T19:42:03.460Z
-updated: 2024-05-20T19:42:03.460Z
+date: 2024-06-18T02:53:44.083Z
+updated: 2024-06-19T02:53:44.083Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Ensuring Legal Compliance in Skype Recordings via OBS for 2024"
 excerpt: "This Article Describes [Updated] Ensuring Legal Compliance in Skype Recordings via OBS for 2024"
 keywords: "\"Legal Skype Recording Tips,OBS for Skype Compliance,Skype Recordings & Laws,Obs-Compliant Video Calling,Ensuring Skype Legality,OBS Legal Features,Skype Lawful Broadcasting\""
-thumbnail: https://www.lifewire.com/thmb/FWDwuZy1CDGbqb0qwCy_mcmpESI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/best-sports-movies-creed-michael-b-jordan-cbca95120e5243edb7eca00403eaa626.jpg
+thumbnail: https://thmb.techidaily.com/efc3f590fc068b65cc8e4c4fda82884c66683db0be7b320fd391a90a34b6fb91.jpg
 ---
 
 ## Ensuring Legal Compliance in Skype Recordings via OBS

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Live Streaming Tools Head to Head  OBS vs Fraps\""
-date: 2024-05-19T19:42:16.818Z
-updated: 2024-05-20T19:42:16.818Z
+date: 2024-06-18T02:53:53.706Z
+updated: 2024-06-19T02:53:53.706Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Live Streaming Tools Head to Head: OBS vs Fraps\""
 excerpt: "\"This Article Describes 2024 Approved: Live Streaming Tools Head to Head: OBS vs Fraps\""
 keywords: "\"OBS Vs Fraps Stream,Live Stream Battle,OBS Compared,Fraps VS Streaming,Real-Time Video Tools,Direct Streaming Showdown,Live OBS vs Fraps\""
-thumbnail: https://www.lifewire.com/thmb/HEBDZLC1jMr1OKZ2CcKnILwP_lk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sonyplaystation5-dc53869451d7416cbb32881a35c3fc32.jpg
+thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056bf2dd14982465e8c7b5b6a1.jpg
 ---
 
 ## Live Streaming Tools Head to Head: OBS vs Fraps

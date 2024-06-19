@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Eternal Display Documentation"
-date: 2024-05-18T02:34:48.244Z
-updated: 2024-05-19T02:34:48.244Z
+date: 2024-06-18T02:53:49.307Z
+updated: 2024-06-19T02:53:49.307Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [Updated] Eternal Display Documentation"
 excerpt: "This Article Describes [Updated] Eternal Display Documentation"
 keywords: "\"Eternal Display Info Guide,Documenting Perpetual Displays,Display Standards Manual,Permanent Screen Details,Endless Screen Explanations,Continuous Display Notes,Long-Lasting Display Help\""
-thumbnail: https://www.lifewire.com/thmb/vwXY4ZVwcerLrMyrYuIV0bJij5Y=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/google-logo-dbc6703838ab40ffac436f7f360b79f7.png
+thumbnail: https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a435028604a3c634507f598f5.png
 ---
 
 ## Eternal Display Documentation

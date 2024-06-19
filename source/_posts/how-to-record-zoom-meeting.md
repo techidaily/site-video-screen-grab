@@ -1,7 +1,7 @@
 ---
 title: "How to Record Zoom Meeting"
-date: 2024-05-18T02:30:14.329Z
-updated: 2024-05-19T02:30:14.329Z
+date: 2024-06-18T02:53:39.548Z
+updated: 2024-06-19T02:53:39.548Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes How to Record Zoom Meeting"
 excerpt: "This Article Describes How to Record Zoom Meeting"
 keywords: "Zoom Recording Guide,Screen Capture in Zoom,Zoom Call Recording Tips,How To Zoom Audio Capture,Essential Zoom Recordings,Easy Zoom Meeting Save,Securely Log Zoom Sessions"
-thumbnail: https://www.lifewire.com/thmb/mQGqL0eWRfBieVMGM5ZlJAtwh3c=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-a-mobile-boarding-pass-eb61458058f44011ad7ed012566127e4.jpg
+thumbnail: https://thmb.techidaily.com/aefba9f0ac6f593076f657b0dfeebc66593ffd1b9ade996e1956601a5424d0a8.jpg
 ---
 
 ## How to Record Zoom Meeting

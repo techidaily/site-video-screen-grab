@@ -1,7 +1,7 @@
 ---
 title: "Building Your Screencasting Skills From the Ground Up"
-date: 2024-05-18T02:46:18.809Z
-updated: 2024-05-19T02:46:18.809Z
+date: 2024-06-18T02:53:40.039Z
+updated: 2024-06-19T02:53:40.039Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Building Your Screencasting Skills From the Ground Up"
 excerpt: "This Article Describes Building Your Screencasting Skills From the Ground Up"
 keywords: "\"Screencast Skill Build,Learn Screencasts Fundamentals,Beginner Screencast Guide,Start Screencasting Basics,Screencast Learning Path,Master Screencast Skills,Ground-Up Screencast Training\""
-thumbnail: https://www.lifewire.com/thmb/HkQrnB6Inkx8Rh4KIo-rh5RAck0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/computerkeyboard-5c070d3ec9e77c0001b19701.jpg
+thumbnail: https://thmb.techidaily.com/8530b2fd89e3e28803e6b6f24f28af836c48a65e9da7986f6cee296d3fed5998.jpg
 ---
 
 ## Building Your Screencasting Skills From the Ground Up

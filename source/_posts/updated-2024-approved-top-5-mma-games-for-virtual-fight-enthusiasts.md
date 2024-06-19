@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Top 5 MMA Games for Virtual Fight Enthusiasts\""
-date: 2024-05-19T19:42:06.096Z
-updated: 2024-05-20T19:42:06.096Z
+date: 2024-06-18T02:53:37.340Z
+updated: 2024-06-19T02:53:37.340Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Top 5 MMA Games for Virtual Fight Enthusiasts\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Top 5 MMA Games for Virtual Fight Enthusiasts\""
 keywords: "MMA Gaming Guide,Virtual Fight Gamehub,Top MMA Game Choices,Best MMA Virtual Fights,Essential MMA Gameplay,Ultimate Fighting Games,Leading MMA Video Games"
-thumbnail: https://www.lifewire.com/thmb/OhMYY4yKeVVtP9XO0SmqFIVtLJg=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dualsenseedge-749ef030e3c84376926d817913be924b.jpg
+thumbnail: https://thmb.techidaily.com/2738dcb65655ca3023848f9ec7026a9cce211e70815a31f4f65d2f9ea9ded629.jpg
 ---
 
 ## Top 5 MMA Games for Virtual Fight Enthusiasts

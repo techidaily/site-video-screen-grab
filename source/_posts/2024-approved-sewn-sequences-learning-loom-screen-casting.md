@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Sewn Sequences  Learning Loom Screen Casting\""
-date: 2024-05-18T02:59:43.909Z
-updated: 2024-05-19T02:59:43.909Z
+date: 2024-06-18T02:53:35.552Z
+updated: 2024-06-19T02:53:35.552Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Sewn Sequences: Learning Loom Screen Casting\""
 excerpt: "\"This Article Describes 2024 Approved: Sewn Sequences: Learning Loom Screen Casting\""
 keywords: "Learn Loom Casters,Sewn Sequence Tutorial,Screen Cast Loom Teach,Loom Casting Skills,Master Seamstress Tools,Loom Screencast Art,Weaving Video Crafting"
-thumbnail: https://www.lifewire.com/thmb/17eYx3JlNgYWrNsT2X2f6cCUjf0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/edit-tweet-after-publish-3476767-34af9aa3b62b4bf4b11891460076916b.png
+thumbnail: https://thmb.techidaily.com/a9309627364580efd732c4c8f6349cf67c0dc25ea886bdb64936441ab4225274.png
 ---
 
 ## Sewn Sequences: Learning Loom Screen Casting

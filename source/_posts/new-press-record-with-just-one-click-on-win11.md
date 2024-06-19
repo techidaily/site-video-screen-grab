@@ -1,7 +1,7 @@
 ---
 title: "[New] Press 'Record' With Just One Click on Win11"
-date: 2024-05-19T19:41:46.021Z
-updated: 2024-05-20T19:41:46.021Z
+date: 2024-06-18T02:53:47.516Z
+updated: 2024-06-19T02:53:47.516Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes [New] Press 'Record' With Just One Click on Win11"
 excerpt: "This Article Describes [New] Press 'Record' With Just One Click on Win11"
 keywords: "\"Record Win11 Quickly,Windows 11 Easy Recording,Press Record Win11,Single-Click Win11 Audio,Win11 Immediate Capture,One-Click PC Audio Save,Windows 11 Record Button\""
-thumbnail: https://www.lifewire.com/thmb/gOgqwLvt0rf3-WdwEBSByMeqIHo=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1353420724-65161751b9924195880d3273e327cb54.jpg
+thumbnail: https://thmb.techidaily.com/c196f6b4394e95f28b75708e950be08411857a7cc6fdf0b1b999475eb2576da4.jpg
 ---
 
 ## Press 'Record' With Just One Click on Win11

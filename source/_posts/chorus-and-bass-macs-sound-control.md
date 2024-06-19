@@ -1,7 +1,7 @@
 ---
 title: "\"Chorus & Bass  Mac's Sound Control\""
-date: 2024-05-18T02:54:33.686Z
-updated: 2024-05-19T02:54:33.686Z
+date: 2024-06-18T02:53:36.779Z
+updated: 2024-06-19T02:53:36.779Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Chorus & Bass: Mac's Sound Control\""
 excerpt: "\"This Article Describes Chorus & Bass: Mac's Sound Control\""
 keywords: "Mac Audio Mixing,Chorus Effect Mac,Bass Leveling Mac,Mac Music Editors,Chorus & Bass Software,Balanced Stereo Outputs,Professional Sound Control"
-thumbnail: https://www.lifewire.com/thmb/x0mFXdBc-1Q_2JlWzJG0rvyCFFg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dormroomentfeatured-5b5e9dd3c9e77c004f28632e.jpg
+thumbnail: https://thmb.techidaily.com/0bfbb82ab5214d9df42dfb4686963b4575f40401ca2b8aa427adfd091e8a1d2a.jpg
 ---
 
 ## Chorus & Bass: Mac's Sound Control

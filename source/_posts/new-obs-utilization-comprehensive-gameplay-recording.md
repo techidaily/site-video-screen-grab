@@ -1,7 +1,7 @@
 ---
 title: "\"[New] OBS Utilization  Comprehensive Gameplay Recording\""
-date: 2024-05-18T02:49:41.686Z
-updated: 2024-05-19T02:49:41.686Z
+date: 2024-06-18T02:53:51.679Z
+updated: 2024-06-19T02:53:51.679Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] OBS Utilization: Comprehensive Gameplay Recording\""
 excerpt: "\"This Article Describes [New] OBS Utilization: Comprehensive Gameplay Recording\""
 keywords: "\"Gaming Recordings OBS,OBS for Games,Gameplay OBS Capture,OBS in Gaming,OBS Screen Recording,Game-Level OBS Use,Comprehensive OBS Play\""
-thumbnail: https://www.lifewire.com/thmb/iVAserBnC6bUM-CQ2W6IX-_Wms0=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-taylor-swift-movies-in-order-a8e26851d3d94bf183a144766801c16c.jpg
+thumbnail: https://thmb.techidaily.com/e05f2d33f2fefb8dc7c06028c76750542668dde0166f66e5a57d5c818d2809aa.jpg
 ---
 
 ## OBS Utilization: Comprehensive Gameplay Recording

@@ -1,7 +1,7 @@
 ---
 title: "\"Android MOBAs  A Decade of Favorite Titles - Top 10\""
-date: 2024-05-19T19:41:54.724Z
-updated: 2024-05-20T19:41:54.724Z
+date: 2024-06-18T02:53:45.175Z
+updated: 2024-06-19T02:53:45.175Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Android MOBAs: A Decade of Favorite Titles - Top 10\""
 excerpt: "\"This Article Describes Android MOBAs: A Decade of Favorite Titles - Top 10\""
 keywords: "Android MOBA Games,Best Android MOBA Games,Top MOBA Titles Android,Mobile MOBAs Ranked,Decade's Top MOBAs,Popular Android MOBA,Leading Android MOBAs"
-thumbnail: https://www.lifewire.com/thmb/vPFd-AMhh9AKItKjaheXQPgowy4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/SDC18_Keynote_OneUI-5be8d33f46e0fb002d108acf.jpg
+thumbnail: https://thmb.techidaily.com/8b7337516e3ab4c7de40944c48ebe243474ab75d4e4c1c2d693991f9d3085553.jpg
 ---
 
 ## Android MOBAs: A Decade of Favorite Titles - Top 10

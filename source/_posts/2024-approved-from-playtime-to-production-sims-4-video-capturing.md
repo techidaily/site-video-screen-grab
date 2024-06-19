@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  From Playtime to Production  Sims 4 Video Capturing\""
-date: 2024-05-18T02:45:51.352Z
-updated: 2024-05-19T02:45:51.352Z
+date: 2024-06-18T02:53:39.787Z
+updated: 2024-06-19T02:53:39.787Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: From Playtime to Production: Sims 4 Video Capturing\""
 excerpt: "\"This Article Describes 2024 Approved: From Playtime to Production: Sims 4 Video Capturing\""
 keywords: "Sims 4 Recording,Sims 4 ScreenCapture,Production with Sims 4,PlaySims Capture Mode,SimLife Video Making,Sim World Cinematography,Digital Storytelling in Sims 4"
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## From Playtime to Production: Sims 4 Video Capturing

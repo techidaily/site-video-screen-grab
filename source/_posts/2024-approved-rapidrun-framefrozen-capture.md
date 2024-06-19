@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  RapidRun FrameFrozen Capture\""
-date: 2024-05-18T02:59:38.042Z
-updated: 2024-05-19T02:59:38.042Z
+date: 2024-06-18T02:53:39.958Z
+updated: 2024-06-19T02:53:39.958Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: RapidRun FrameFrozen Capture\""
 excerpt: "\"This Article Describes 2024 Approved: RapidRun FrameFrozen Capture\""
 keywords: "Linux ScreenCapture Tools,Flawless Linux Capture Software,Proven Linux Screenshot Solutions,Efficient Linux Image Grabber,Reliable Linux Screen Capturing,Quality Linux Graphics Snatching,Trustworthy Linux Photo Recorder"
-thumbnail: https://www.lifewire.com/thmb/yUwTZpCNo69jlc1KnyqQFn2f6SQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-screen-mirroring-842272124-5a7897e104d1cf0037763c0a.jpg
+thumbnail: https://thmb.techidaily.com/1ccc74ee674e5bb21d96568f803e367c477d95c5c3cb7fed4a8969e3e80f00a3.jpg
 ---
 
 ## RapidRun FrameFrozen Capture

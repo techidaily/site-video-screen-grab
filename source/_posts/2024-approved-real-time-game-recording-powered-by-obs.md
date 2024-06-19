@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Real-Time Game Recording Powered by OBS\""
-date: 2024-05-18T02:37:17.371Z
-updated: 2024-05-19T02:37:17.371Z
+date: 2024-06-18T02:53:37.466Z
+updated: 2024-06-19T02:53:37.466Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Real-Time Game Recording Powered by OBS\""
 excerpt: "\"This Article Describes 2024 Approved: Real-Time Game Recording Powered by OBS\""
 keywords: "\"Live Game Capture OBS,OBS Gaming Recording,Real-Time OBS Save,OBS Stream Gameplay,OBS Live Playback,Capture Games with OBS,Stream Real-Time Gaming\""
-thumbnail: https://www.lifewire.com/thmb/UchI0OfcFuiZjMJhTw31h6uHSHQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Race-982fb219114a48fb96b9c5a2c6f93847.jpg
+thumbnail: https://thmb.techidaily.com/6b8b8cd944b78f2fca9befdc6ff94bcc8ad2bce093f59dcdf2b6479e3403f82d.jpg
 ---
 
 ## Real-Time Game Recording Powered by OBS

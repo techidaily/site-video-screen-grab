@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Fraps for Gamers  A Screen Record Review\""
-date: 2024-05-19T19:41:46.876Z
-updated: 2024-05-20T19:41:46.876Z
+date: 2024-06-18T02:53:49.268Z
+updated: 2024-06-19T02:53:49.268Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Fraps for Gamers: A Screen Record Review\""
 excerpt: "\"This Article Describes In 2024, Fraps for Gamers: A Screen Record Review\""
 keywords: "Fraps Gamer View,Screen Recorder Game,Gamers Screen Save,Fraps Game Capture,Easy Gaming Frames,Quick Playback Record,Screen Gamer Review"
-thumbnail: https://www.lifewire.com/thmb/M6MEEf2A7TVTzphPjYFZQ34ewjs=/540x405/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/man-attaching-action-camera-to-chest-664655587-5c8c2559c9e77c0001ac184b.jpg
+thumbnail: https://thmb.techidaily.com/9420d8c67dc649498f45244e433ec706e66933c2bf2f2b4b3c5585601cba7b98.jpg
 ---
 
 ## Fraps for Gamers: A Screen Record Review

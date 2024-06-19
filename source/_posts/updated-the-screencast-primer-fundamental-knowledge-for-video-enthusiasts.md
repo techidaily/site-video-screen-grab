@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] The Screencast Primer  Fundamental Knowledge for Video Enthusiasts\""
-date: 2024-05-19T19:41:41.168Z
-updated: 2024-05-20T19:41:41.168Z
+date: 2024-06-18T02:53:54.090Z
+updated: 2024-06-19T02:53:54.090Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] The Screencast Primer: Fundamental Knowledge for Video Enthusiasts\""
 excerpt: "\"This Article Describes [Updated] The Screencast Primer: Fundamental Knowledge for Video Enthusiasts\""
 keywords: "Screencast Basics,Video Production Guide,Tech Tutorial Introduction,Digital Media Insight,Media Creation Fundamentals,Video Crafting Essentials,Enthusiasts' Tech Screencast"
-thumbnail: https://www.lifewire.com/thmb/5dWfE2pdmNCU9qpfDVc7QhYieRw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/X-Logo-on-Phone-35c83db6a3c34b689ab069ff50b96bcc.jpg
+thumbnail: https://thmb.techidaily.com/93e8b8eb6bc88169936766a6461fe23e663eb59793bd9736b13ed221555fa6ea.jpg
 ---
 
 ## The Screencast Primer: Fundamental Knowledge for Video Enthusiasts

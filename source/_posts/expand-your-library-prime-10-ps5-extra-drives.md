@@ -1,7 +1,7 @@
 ---
 title: "\"Expand Your Library  Prime 10 PS5 Extra-Drives\""
-date: 2024-05-18T02:53:35.518Z
-updated: 2024-05-19T02:53:35.518Z
+date: 2024-06-18T02:53:47.682Z
+updated: 2024-06-19T02:53:47.682Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Expand Your Library: Prime 10 PS5 Extra-Drives\""
 excerpt: "\"This Article Describes Expand Your Library: Prime 10 PS5 Extra-Drives\""
 keywords: "\"PS5 Drives Expansion,Extra-Drive Prime,PS5 Drive Upgrade,Prime PS5 Storage,Enhanced PS5 Library,Premium PS5 Drives,PS5 Extra Drives Access\""
-thumbnail: https://www.lifewire.com/thmb/KQEPD1j8h_qKr2PB3tJ6qZQQ508=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-104626001-5c34f065c9e77c00010b8cd5.jpg
+thumbnail: https://thmb.techidaily.com/ffa6265ad1a6a848473605e7aedcfa3ec46ffbe39326ff49e8d4fafd11fa0e00.jpg
 ---
 
 ## Expand Your Library: Prime 10 PS5 Extra-Drives

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Unfreezing Frozen OBS Stream Input\""
-date: 2024-05-18T02:42:09.481Z
-updated: 2024-05-19T02:42:09.481Z
+date: 2024-06-18T02:53:34.840Z
+updated: 2024-06-19T02:53:34.840Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Unfreezing Frozen OBS Stream Input\""
 excerpt: "\"This Article Describes 2024 Approved: Unfreezing Frozen OBS Stream Input\""
 keywords: "\"OBS Unfroze Stream,Thawing Frozen OBS,OBS Stream Defrost,Frosty OBS Input Fix,OBS Ice Break Stream,Melted OBS Input,Warm-Up Frozen OBS\""
-thumbnail: https://www.lifewire.com/thmb/emyPhVf3B4VLTCj8T835W3AqyOU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-93420821-0ce0b19097fb47d78dec8dbc039c1260.jpg
+thumbnail: https://thmb.techidaily.com/1e0694b6112d675bbb8f0d747ab36517f01502f4062f523abbe17fcfc5ae5fc7.jpg
 ---
 
 ## Unfreezing Frozen OBS Stream Input

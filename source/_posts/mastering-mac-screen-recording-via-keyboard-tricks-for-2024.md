@@ -1,7 +1,7 @@
 ---
 title: "\"Mastering Mac  Screen Recording via Keyboard Tricks for 2024\""
-date: 2024-05-18T02:36:02.335Z
-updated: 2024-05-19T02:36:02.335Z
+date: 2024-06-18T02:53:39.588Z
+updated: 2024-06-19T02:53:39.588Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Mastering Mac: Screen Recording via Keyboard Tricks for 2024\""
 excerpt: "\"This Article Describes Mastering Mac: Screen Recording via Keyboard Tricks for 2024\""
 keywords: "Mac Screen Record,Keyboard Mac Rec,Mac Screen Trick,KeyMac Recorder,Mastering Mac TRCK,Quick Mac ScreenTRC,Mac Key Recording"
-thumbnail: https://www.lifewire.com/thmb/x3esfFmI2Y55OmmlRvMWAY3TioM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-98471373-56a9ff935f9b58b7d0006b1a.jpg
+thumbnail: https://thmb.techidaily.com/836b19a99b81c291189dfbcf8add59f634c1fb8aacdfd70319b10cdaec65e638.jpg
 ---
 
 ## Mastering Mac: Screen Recording via Keyboard Tricks

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Chorus & Bass  Mac's Sound Control\""
-date: 2024-05-19T19:41:35.586Z
-updated: 2024-05-20T19:41:35.586Z
+date: 2024-06-18T02:53:40.250Z
+updated: 2024-06-19T02:53:40.250Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Chorus & Bass: Mac's Sound Control\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Chorus & Bass: Mac's Sound Control\""
 keywords: "Mac Audio Mixing,Chorus Effect Mac,Bass Leveling Mac,Mac Music Editors,Chorus & Bass Software,Balanced Stereo Outputs,Professional Sound Control"
-thumbnail: https://www.lifewire.com/thmb/Kjjyyc_72u15QvgACgVI3pdI338=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/003_the-best-lgbt-movies-on-netflix-right-now-june-2022-5069913-8dbc370e568349c8a347c650353f17b1.jpg
+thumbnail: https://thmb.techidaily.com/6d644818f4603c573461e1572ce0a1a0270aa91bb3cb0a406132a63c5b84e5a5.jpg
 ---
 
 ## Chorus & Bass: Mac's Sound Control
