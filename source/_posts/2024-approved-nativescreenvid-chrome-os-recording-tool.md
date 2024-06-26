@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  NativeScreenVid  Chrome OS Recording Tool\""
-date: 2024-05-19T19:42:19.789Z
-updated: 2024-05-20T19:42:19.789Z
+date: 2024-06-25T05:46:05.148Z
+updated: 2024-06-26T05:46:05.148Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: NativeScreenVid: Chrome OS Recording Tool\""
 excerpt: "\"This Article Describes 2024 Approved: NativeScreenVid: Chrome OS Recording Tool\""
 keywords: "Chrome OS Screen Recorder,NativeOS Capture Video,OSX Record Chrome Screen,Chromebook Vid Capture,ScreenRec Save Chrome,Chrome OS ScreenVid Tool,OSCapture NativeScreen"
-thumbnail: https://www.lifewire.com/thmb/CRTquSF_UbubOfDqEN31hiqf2eI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/internet-archive-logo-5980e6f0845b340011748640.png
+thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e22482d093bffe3ae2ca67e1.png
 ---
 
 ## NativeScreenVid: Chrome OS Recording Tool
@@ -93,7 +93,7 @@ Another amazing Google extension for screen recording that is used widely is Nim
 
 Once you are done with the installation settings, now you can click on the Nimbus icon from the top. The Nimbus GUI will show up with a variety of options. Let's stick with screen recording for now. Click on screen recording as shown. A new settings window will appear. You can enable mic, select webcam recording, watermark addition, etc from here. Once you are done with settings click to start recording. Select “entire screen” in the newly popped windows. Finally, click share, and bingo your recording will start. To stop the recording click stop sharing as shown in the figure below.
 
-##### [Filmora Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/)
+##### Filmora Screen Recorder
 
 Record computer screen and webcam
 

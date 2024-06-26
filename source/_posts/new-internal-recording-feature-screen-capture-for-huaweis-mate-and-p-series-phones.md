@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Internal Recording Feature  Screen Capture for Huawei's Mate & P Series Phones\""
-date: 2024-05-18T02:50:07.584Z
-updated: 2024-05-19T02:50:07.584Z
+date: 2024-06-25T05:46:02.194Z
+updated: 2024-06-26T05:46:02.194Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Internal Recording Feature: Screen Capture for Huawei's Mate & P Series Phones\""
 excerpt: "\"This Article Describes [New] Internal Recording Feature: Screen Capture for Huawei's Mate & P Series Phones\""
 keywords: "Mate Series Screen Capture,Huawei P Series Recorder,Mate Phones Recording Feature,Screen Capture Mate Devices,Huawei P Series Cam Capability,Phone Screen Capture Huawei,Recording Mate and P Series"
-thumbnail: https://www.lifewire.com/thmb/Upemm_83fheu5JnASUVL9rXiGqw=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/TheOscarsStatue-33f6c30d7ffd4694a4dd1d1113de57f5.jpg
+thumbnail: https://thmb.techidaily.com/50d4bf6106cc2e789648c53429943f049229011e6f572fe9945c7d91985d72b7.jpg
 ---
 
 ## Internal Recording Feature: Screen Capture for Huawei's Mate & P Series Phones

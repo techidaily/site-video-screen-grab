@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Fraps for Gamers  A Screen Record Review\""
-date: 2024-05-18T02:41:42.782Z
-updated: 2024-05-19T02:41:42.782Z
+date: 2024-06-25T05:46:08.455Z
+updated: 2024-06-26T05:46:08.455Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Fraps for Gamers: A Screen Record Review\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Fraps for Gamers: A Screen Record Review\""
 keywords: "Fraps Gamer View,Screen Recorder Game,Gamers Screen Save,Fraps Game Capture,Easy Gaming Frames,Quick Playback Record,Screen Gamer Review"
-thumbnail: https://www.lifewire.com/thmb/xLyhmkxw8rwSLNhzfV0GfYs8tZc=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-watch-tiktok-without-the-app-63a4562e4c4b4bd69477425853809a35.jpg
+thumbnail: https://thmb.techidaily.com/3ce7ce4cef66cdb03e7ac7e019dea8d112e1795f84ca632563f78a12990cc533.jpg
 ---
 
 ## Fraps for Gamers: A Screen Record Review

@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Tiny Tranquil Houses  Japanese Style for 2024\""
-date: 2024-05-19T19:41:29.705Z
-updated: 2024-05-20T19:41:29.705Z
+date: 2024-06-25T05:46:02.761Z
+updated: 2024-06-26T05:46:02.761Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Tiny Tranquil Houses: Japanese Style for 2024\""
 excerpt: "\"This Article Describes [New] Tiny Tranquil Houses: Japanese Style for 2024\""
 keywords: "Tiny Tranquil Homes,Zen Sleep Spaces,Japan Design Styles,Small Peaceful Dwellings,Quiet Houses JP Style,Japanese Cozy Units,Minimalist Serene Abodes"
-thumbnail: https://www.lifewire.com/thmb/lKoxPMpdBOHt8yxn5M8d3rrvNWY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/iOS-wwdc-7d655ca37a3b43b99fd9dac09bec13c4.jpg
+thumbnail: https://thmb.techidaily.com/d8f58ce885808b79b129b3a2207409d6b0df7e72b7b5c93436a642cc91c8c39d.jpg
 ---
 
 ## Tiny Tranquil Houses: Japanese Style

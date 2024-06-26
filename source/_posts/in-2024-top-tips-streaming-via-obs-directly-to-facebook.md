@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Top Tips  Streaming via OBS Directly to Facebook\""
-date: 2024-05-19T19:41:36.956Z
-updated: 2024-05-20T19:41:36.956Z
+date: 2024-06-25T05:46:08.828Z
+updated: 2024-06-26T05:46:08.828Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes In 2024, Top Tips: Streaming via OBS Directly to Facebook\""
 excerpt: "\"This Article Describes In 2024, Top Tips: Streaming via OBS Directly to Facebook\""
 keywords: "OBS Streaming Tips,FB OBS Live Stream,OBS Direct Facebook,Social Media Broadcast,Live Video OBS,Streaming OBS Feed,Broadcast via OBS to FB"
-thumbnail: https://www.lifewire.com/thmb/RWcl_Joktvj_rmr9ViWUZrsB7e4=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/homepod-hero-5a79bc226bf06900378a7e1a.jpg
+thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f898253edd18111f294ce2b839027.jpg
 ---
 
 ## Top Tips: Streaming via OBS Directly to Facebook

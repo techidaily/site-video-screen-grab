@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Capturing Screen Content via Built-In Recorders in the Mate and P Series\""
-date: 2024-05-18T02:29:35.789Z
-updated: 2024-05-19T02:29:35.789Z
+date: 2024-06-25T05:46:09.530Z
+updated: 2024-06-26T05:46:09.530Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Capturing Screen Content via Built-In Recorders in the Mate and P Series\""
 excerpt: "\"This Article Describes [Updated] Capturing Screen Content via Built-In Recorders in the Mate and P Series\""
 keywords: "\"Mate Recorder Features,P Series Camera Capture,Inbuilt Screencap Tools,Mobile Content Recording,Built-In Screen Recorders,TechMate Recording Capabilities,ProPixel Screen Capture\""
-thumbnail: https://www.lifewire.com/thmb/_atXbVpqt-bBP3NhxI9aFSkiOqU=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1305200685-e977d0ca4e9a47e2b006e5b32a9922fd.jpg
+thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f8bfa2b570a90a8bfa430bd1.jpg
 ---
 
 ## Capturing Screen Content via Built-In Recorders in the Mate and P Series

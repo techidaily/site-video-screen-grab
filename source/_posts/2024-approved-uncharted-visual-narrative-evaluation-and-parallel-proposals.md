@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Uncharted Visual Narrative Evaluation & Parallel Proposals\""
-date: 2024-05-19T19:41:23.571Z
-updated: 2024-05-20T19:41:23.571Z
+date: 2024-06-25T05:46:04.931Z
+updated: 2024-06-26T05:46:04.931Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Uncharted Visual Narrative Evaluation & Parallel Proposals\""
 excerpt: "\"This Article Describes 2024 Approved: Uncharted Visual Narrative Evaluation & Parallel Proposals\""
 keywords: "Uncharted Story Analysis,Visual Narrative Study,Evaluating Uncharted Worlds,Parallel Vision Assessment,Creative Narrative Examination,Proposal Ideation for Films,Uncharted Visual Planning"
-thumbnail: https://www.lifewire.com/thmb/-bcmaokZfvwTgJE1q3LjnihDbBY=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-678913139-58a4ece73df78c345bcd781b.jpg
+thumbnail: https://thmb.techidaily.com/7f8f4d19272d4759318cbc88d919ca0c7c48f620077177c71b194a7d51d8ecab.jpg
 ---
 
 ## Uncharted Visual Narrative Evaluation & Parallel Proposals

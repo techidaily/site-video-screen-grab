@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Asian Miniature Villages in Creative Sphere of MC\""
-date: 2024-05-19T19:41:56.493Z
-updated: 2024-05-20T19:41:56.493Z
+date: 2024-06-25T05:46:08.855Z
+updated: 2024-06-26T05:46:08.855Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Asian Miniature Villages in Creative Sphere of MC\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Asian Miniature Villages in Creative Sphere of MC\""
 keywords: "Asian Villages Creativity,Miniature Art Asia,Miniscapes Asian,Cultural MC Spheres,Asian Miniatures Crafts,Creative Village Sculptures,MC's Miniature Worlds"
-thumbnail: https://www.lifewire.com/thmb/vIq8aJ1XOE0Q97nXhFUuoQCZpKI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/youtube-s-free-streaming-movies-and-tv-shows-1357439-ddbc3cf482e24a539c67009c07310ae1.png
+thumbnail: https://thmb.techidaily.com/be42a9800526c31b5bfdef3ed18cce59bd7b3192524b647f6f87b51df7e044d8.png
 ---
 
 ## Asian Miniature Villages in Creative Sphere of MC
