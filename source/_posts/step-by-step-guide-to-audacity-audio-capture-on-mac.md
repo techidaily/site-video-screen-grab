@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Guide to Audacity Audio Capture on Mac\""
-date: 2024-05-19T19:41:27.891Z
-updated: 2024-05-20T19:41:27.891Z
+date: 2024-07-03T20:55:29.851Z
+updated: 2024-07-04T20:55:29.851Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Step-by-Step Guide to Audacity Audio Capture on Mac\""
 excerpt: "\"This Article Describes Step-by-Step Guide to Audacity Audio Capture on Mac\""
 keywords: "\"Mac Audio Capture Guide,Audacity Mac Recording Steps,Basic Audacity Mac Capture,Simple Mac Audio Capture,Learn Audacity for Mac Capture,Step-by-Step Mac Audacity Record,Mastering Mac Sound Capture with Audacity\""
-thumbnail: https://www.lifewire.com/thmb/HEBDZLC1jMr1OKZ2CcKnILwP_lk=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sonyplaystation5-dc53869451d7416cbb32881a35c3fc32.jpg
+thumbnail: https://thmb.techidaily.com/c3ecdd732aca091f9e06be3caec567f3fcd17c056bf2dd14982465e8c7b5b6a1.jpg
 ---
 
 ## Step-by-Step Guide to Audacity Audio Capture on Mac

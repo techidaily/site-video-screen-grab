@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Capturing Skype Audio/Video  Windows & Mac Tips for 2024\""
-date: 2024-05-18T02:34:55.002Z
-updated: 2024-05-19T02:34:55.002Z
+date: 2024-07-03T20:55:30.421Z
+updated: 2024-07-04T20:55:30.421Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Capturing Skype Audio/Video: Windows & Mac Tips for 2024\""
 excerpt: "\"This Article Describes [New] Capturing Skype Audio/Video: Windows & Mac Tips for 2024\""
 keywords: "Skype Call Recording,Audio Capture Skype,Video Record Skype,Skype Screen Share Tips,Windows Skype Recordings,Mac Skype Screen Casts,Audio/Video Skype Capture"
-thumbnail: https://www.lifewire.com/thmb/CRTquSF_UbubOfDqEN31hiqf2eI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/internet-archive-logo-5980e6f0845b340011748640.png
+thumbnail: https://thmb.techidaily.com/b4ed3f08ab6e820bb58ff66c5f5e67696c65d753e22482d093bffe3ae2ca67e1.png
 ---
 
 ## Capturing Skype Audio/Video: Windows & Mac Tips

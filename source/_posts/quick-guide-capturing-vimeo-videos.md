@@ -1,7 +1,7 @@
 ---
 title: "\"Quick Guide  Capturing Vimeo Videos\""
-date: 2024-05-19T19:42:16.288Z
-updated: 2024-05-20T19:42:16.288Z
+date: 2024-07-03T20:55:31.026Z
+updated: 2024-07-04T20:55:31.026Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes Quick Guide: Capturing Vimeo Videos\""
 excerpt: "\"This Article Describes Quick Guide: Capturing Vimeo Videos\""
 keywords: "Quick Vimeo Video Guide,Vimeo Video Capture Tips,Easy Vimeo Recording Guide,Quick Vimeo to Video,Simple Vimeo Recording,Vimeo Video Capture Methods,Rapid Vimeo Video Guide"
-thumbnail: https://www.lifewire.com/thmb/71reoJ08pe9fxU7SLDHBCk0MgVg=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-use-remote-access-on-your-samsung-smart-tv-4688935-01-29c7de5dc77e4747a8070d12f0c3d84c.jpg
+thumbnail: https://thmb.techidaily.com/f35b950c7a8f4cdd1989c1e04c70b04dbfa6ce641c77398dacbaad68cbaf2be6.jpg
 ---
 
 ## Quick Guide: Capturing Vimeo Videos

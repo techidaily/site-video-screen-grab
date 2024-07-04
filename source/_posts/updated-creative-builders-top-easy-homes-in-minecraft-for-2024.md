@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Creative Builders  Top Easy Homes in Minecraft for 2024\""
-date: 2024-05-18T02:56:52.724Z
-updated: 2024-05-19T02:56:52.724Z
+date: 2024-07-03T20:55:30.170Z
+updated: 2024-07-04T20:55:30.170Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] Creative Builders: Top Easy Homes in Minecraft for 2024\""
 excerpt: "\"This Article Describes [Updated] Creative Builders: Top Easy Homes in Minecraft for 2024\""
 keywords: "\"Easy Mini-Homes MC,Creative MC Construction,Simple DIY Houses MC,Effortless MC Building,Top MC Homesteads,Minimalist MC Dwellings,Quick Craft Homes Minecraft\""
-thumbnail: https://www.lifewire.com/thmb/cgUXvRRGmHncjkXVnnc2mDDxd-k=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/AnneParkShedloskytvOS-2d4178dd6b7d46a08c34ab8b750fe23e.jpg
+thumbnail: https://thmb.techidaily.com/1a0a225965c2ce4acfd77f7b81b0abb5e4b211b4f6a739d5a50d45eaa5fd443d.jpg
 ---
 
 ## Creative Builders: Top Easy Homes in Minecraft

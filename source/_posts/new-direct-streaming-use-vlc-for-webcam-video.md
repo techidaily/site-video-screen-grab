@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Direct Streaming  Use VLC for Webcam Video\""
-date: 2024-05-18T02:52:28.506Z
-updated: 2024-05-19T02:52:28.506Z
+date: 2024-07-03T20:55:27.969Z
+updated: 2024-07-04T20:55:27.969Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] Direct Streaming: Use VLC for Webcam Video\""
 excerpt: "\"This Article Describes [New] Direct Streaming: Use VLC for Webcam Video\""
 keywords: "\"VLC WebCam Stream,Live WebCam VLC,VLC Direct Stream,VLC WebCam Broadcast,Real-Time WebCam VLC,VLC Video Transmission,Webcam VLC Directly\""
-thumbnail: https://www.lifewire.com/thmb/BFplsHvF2W-tN_GPJVyxOAwi8YM=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/E-reader-57b936e05f9b58cdfd3e07e1.jpg
+thumbnail: https://thmb.techidaily.com/98cce883f8c6d6df0bb852da7eb40767e5514e4304dfa4fcbf005c1298bed966.jpg
 ---
 
 ## Direct Streaming: Use VLC for Webcam Video

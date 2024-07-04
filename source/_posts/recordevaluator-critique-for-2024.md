@@ -1,7 +1,7 @@
 ---
 title: "RecordEvaluator Critique for 2024"
-date: 2024-06-18T02:53:40.376Z
-updated: 2024-06-19T02:53:40.376Z
+date: 2024-07-03T20:55:23.591Z
+updated: 2024-07-04T20:55:23.591Z
 tags: 
   - screen-recording
   - ai video
@@ -59,7 +59,7 @@ With the three RecordCast, you can record your screen or webcam, download it and
 
 ### Step 1: Sign Up
 
-The first and foremost step is to sign up using your existing Google account or Facebook account. You just need to visit the website from[here](https://www.recordcast.com/) and click sign up.
+The first and foremost step is to sign up using your existing Google account or Facebook account. You just need to visit the website from [here](https://www.recordcast.com/) and click sign up.
 
 ![recordcast record free now 1](https://images.wondershare.com/filmora/article-images/recordcast-record-free-now-1.jpg)
 

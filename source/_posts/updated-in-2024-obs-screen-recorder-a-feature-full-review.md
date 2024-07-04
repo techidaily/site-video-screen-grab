@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, OBS Screen Recorder  A Feature-Full Review\""
-date: 2024-05-18T02:37:35.694Z
-updated: 2024-05-19T02:37:35.694Z
+date: 2024-07-03T20:55:30.648Z
+updated: 2024-07-04T20:55:30.648Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In 2024, OBS Screen Recorder: A Feature-Full Review\""
 excerpt: "\"This Article Describes [Updated] In 2024, OBS Screen Recorder: A Feature-Full Review\""
 keywords: "OBS Screen Capture,Screen Record OBS,OBS Full Features,OBS Video Editor,OBS Screen Tech,OBS Recording Review,Advanced Screen Recorder"
-thumbnail: https://www.lifewire.com/thmb/__rERyiFiVgLZNIfMljI1DDoPFE=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/tropical-beach-wallpaper-beach-backgrounds-587fbb765f9b584db3241860.jpg
+thumbnail: https://thmb.techidaily.com/238e2de8d5663845563adee13d68f244664dc4975f435870883240d8e13b1f76.jpg
 ---
 
 ## OBS Screen Recorder: A Feature-Full Review

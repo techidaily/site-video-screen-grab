@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In-Depth Look at Fraps Screen Capture for 2024\""
-date: 2024-05-19T19:41:35.621Z
-updated: 2024-05-20T19:41:35.621Z
+date: 2024-07-03T20:55:31.976Z
+updated: 2024-07-04T20:55:31.976Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] In-Depth Look at Fraps Screen Capture for 2024\""
 excerpt: "\"This Article Describes [Updated] In-Depth Look at Fraps Screen Capture for 2024\""
 keywords: "\"Fraps Screenshots,In-Depth Fraps Analysis,Fraps Capture Techniques,Advanced Fraps Recording,Screen Capture with Fraps,Exploring Fraps Features,Fraps Video Capture Insight\""
-thumbnail: https://www.lifewire.com/thmb/FFBWrSKUv10PDo1VV6r976n9RLQ=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/linksys-default-password-list-2619153-5fccecc7c0b04133b2202a1fa9e8d37a.png
+thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a3a5a4a6ed566b778061c9ff.png
 ---
 
 ## In-Depth Look at Fraps Screen Capture

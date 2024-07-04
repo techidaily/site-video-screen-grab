@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Direct Methods for Documenting Virtual Meetings\""
-date: 2024-05-18T02:39:37.111Z
-updated: 2024-05-19T02:39:37.111Z
+date: 2024-07-03T20:55:26.437Z
+updated: 2024-07-04T20:55:26.437Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Direct Methods for Documenting Virtual Meetings\""
 excerpt: "\"This Article Describes 2024 Approved: Direct Methods for Documenting Virtual Meetings\""
 keywords: "\"VirtMeeting Transparency,DirectVMeeting Logs,Real-Time Meeting Recording,Live Meeting Notes,Virtual Meeting Summary,Secure Video Meetings,Online Gathering Documentation\""
-thumbnail: https://www.lifewire.com/thmb/INF6SYasZPz8DbBoNXqU2flP540=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/before-you-buy-a-video-projector-1847845-v3-ED-8a08e03f2cfc4835a13872618bd4ad00.png
+thumbnail: https://thmb.techidaily.com/68d72132debc55d7a219d5ad96f3f8ade10f55eb90774e1fcb8b0eea83e6c871.png
 ---
 
 ## Direct Methods for Documenting Virtual Meetings

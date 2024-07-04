@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  Roguelike Vs. Roguelite  Debates and History\""
-date: 2024-05-19T19:41:27.942Z
-updated: 2024-05-20T19:41:27.942Z
+date: 2024-07-03T20:55:25.687Z
+updated: 2024-07-04T20:55:25.687Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: Roguelike Vs. Roguelite: Debates and History\""
 excerpt: "\"This Article Describes 2024 Approved: Roguelike Vs. Roguelite: Debates and History\""
 keywords: "\"Roguelike Origins,Roguelite Evolution,Rogue-Like Genre,Roguelike Gameplay,Roguelite Mechanics,VsRoguelites History,Roguelike Debate Dynamics\""
-thumbnail: https://www.lifewire.com/thmb/X0NLJA7wZWOmsgBrRlyzzPD7H5A=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1065028028-8e770c58918e4cf8b0852e81cff60ed6.jpg
+thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff463421241eb49561be7ce4c.jpg
 ---
 
 ## Roguelike Vs. Roguelite: Debates and History

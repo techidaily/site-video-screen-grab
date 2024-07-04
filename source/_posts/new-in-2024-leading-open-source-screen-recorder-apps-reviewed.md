@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Leading Open-Source Screen Recorder Apps Reviewed\""
-date: 2024-05-19T19:41:48.821Z
-updated: 2024-05-20T19:41:48.821Z
+date: 2024-07-03T20:55:22.289Z
+updated: 2024-07-04T20:55:22.289Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [New] In 2024, Leading Open-Source Screen Recorder Apps Reviewed\""
 excerpt: "\"This Article Describes [New] In 2024, Leading Open-Source Screen Recorder Apps Reviewed\""
 keywords: "\"OSS Screen Recorders Review,OpenScreen Recorder Guide,Free Screen Capture Tools,Best Screen Grab Software,Open-Source Video Editor,Top ScreenRecorder Apps,Open Source Videography\""
-thumbnail: https://www.lifewire.com/thmb/TtsVrd32qSZ-IgZ8x0AB3dHyQVs=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/how-to-make-a-song-your-ringtone-on-android-4777573-5d571b57c5a5436e91ebb7fcae1c2b6b.jpg
+thumbnail: https://thmb.techidaily.com/878905428de37ec37afcf7b8018e7d924bf2c1ca322a8100dfaafbd0ac4bcb97.jpg
 ---
 
 ## Leading Open-Source Screen Recorder Apps Reviewed

@@ -1,7 +1,7 @@
 ---
 title: "\"2024 Approved  The Complete User’s Manual on DuRecorder\""
-date: 2024-05-19T19:41:35.058Z
-updated: 2024-05-20T19:41:35.058Z
+date: 2024-07-03T20:55:30.144Z
+updated: 2024-07-04T20:55:30.144Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes 2024 Approved: The Complete User’s Manual on DuRecorder\""
 excerpt: "\"This Article Describes 2024 Approved: The Complete User’s Manual on DuRecorder\""
 keywords: "\"DuRecorder Tips,Recording Guide,DuRecord Basics,Recording Software Manual,DuRecorder User Guide,Audio Recording Tutorials,DuRecorder How-To\""
-thumbnail: https://www.lifewire.com/thmb/ynTHMRKHlmkgnPU-C-PjPaOI_vk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-1345967858-4e7ba42433504ee899e05ceb500f3b68.jpg
+thumbnail: https://thmb.techidaily.com/c44b3c2a949ed90a1a74d6b8f5c0458cbf8a943f8d64ce0fc757b91844bd2888.jpg
 ---
 
 ## The Complete User’s Manual on DuRecorder
