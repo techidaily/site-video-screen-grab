@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Dungeons Deep & Deeper  Old School and Hybrid Games\""
-date: 2024-06-25T05:46:11.783Z
-updated: 2024-06-26T05:46:11.783Z
+date: 2024-07-18T11:56:00.268Z
+updated: 2024-07-19T11:56:00.268Z
 tags: 
   - screen-recording
   - ai video
@@ -27,6 +27,9 @@ thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a6
 
 Game developers and designers have experimented with a variety of video game genres across the years. None, however, have been stretched as far as roguelikes and roguelites. You've probably heard these terms used to describe recent hit games such as _Hades_, _Dead Cells,_ and _Binding of Isaac_ and have wondered if there's a difference. While both of these game types share a lot of common elements and the lines between them are seemingly blurred, there is a clear distinction between roguelikes and roguelites.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ![isaac-poster](https://images.wondershare.com/filmora/article-images/isaac-poster.jpg)
 
 ---
@@ -51,6 +54,9 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
@@ -81,6 +87,9 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -101,6 +110,9 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Roguelite Games
 
 For this genre, we've chosen three games that are completely different to illustrate the wider variety of titles that exists within the roguelite space.
@@ -109,18 +121,27 @@ For this genre, we've chosen three games that are completely different to illust
 
 _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) with roguelite elements. Just like all _Rogue_\-based games, dying in _Dead Cells_ means you start over from the beginning. However, not **all progress** is lost. As you progress through various biomes of the game, you'll unlock new traversal abilities that allow you to access new biomes and pathways. While some randomness exists in each biome, it feels less like levels are procedurally generated and more like a mixing of pre-determined layout components. You'll also stumble upon blueprints for items which you can then spend Cells you gather to make the items available to drop in future runs. By beating the game's final boss you can unlock progressively harder difficulties, making the game increasingly more brutal.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
 #### Slay the Spire
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
+<!-- affiliate ads begin -->
+<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<!-- affiliate ads end -->
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
 
 #### Hades
 
 Nominated for a Game of the Year award, _Hades_ is a beloved title that has converted many gamers to the roguelite genre. Your aim in the game, as the son of Hades, is to escape the Ancient Greek hell and ascend to the top of Olympus with the rest of the pantheon. The gameplay is fast-paced action hack-and-slash but it's in a top-down perspective which makes it feel a lot closer to _Rogue_ than other games in the genre. It also has a lot of elements that are randomized, including the location of helpful shops. Your build will also feel wildly different between runs as even the Gods that appear to power you up are random as well as the abilities they offer you to choose from.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
@@ -143,3 +164,55 @@ Follow @Ollie Mattison
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-agriplay-squad-top-10-farming-games-to-bond-over/"><u>[New] 2024 Approved  AgriPlay Squad  Top 10 Farming Games to Bond Over</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-deciphering-your-pathway-to-youtubes-maker-land/"><u>[New] 2024 Approved  Deciphering Your Pathway to YouTube's Maker Land</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-ultimate-guide-to-recording-video-without-auditory-disruption/"><u>[New] 2024 Approved  The Ultimate Guide to Recording Video without Auditory Disruption</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-game-console-deals-under-100/"><u>[New] 2024 Approved  Ultimate Game Console Deals  Under 100$</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-audiotest-review-for-2024/"><u>[New] AudioTest Review for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-tips-for-digitizing-internet-radio-programming/"><u>[New] Essential Tips for Digitizing Internet Radio Programming</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-beatback-bungalow-recordings-downloads-and-reviews/"><u>[New] In 2024, Beatback Bungalow  Recordings Downloads & Reviews</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-essentials-of-clear-coherent-ps3-game-recordings/"><u>[New] In 2024, The Essentials of Clear, Coherent PS3 Game Recordings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-pixelgrabber-w11-simplest-screen-to-video-converter-for-2024/"><u>[New] PixelGrabber W11  Simplest Screen to Video Converter for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-premier-updates-facebooks-latest-gems-unearthed-for-2024/"><u>[New] Premier Updates  Facebook's Latest Gems Unearthed for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-quick-methods-for-saving-videos-on-youtube-for-2024/"><u>[New] Quick Methods for Saving Videos on YouTube for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-speakers-file-download-inspect-for-2024/"><u>[New] Speaker's File Download, Inspect for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-switching-mac-screenshot-types-easily-for-2024/"><u>[New] Switching Mac Screenshot Types Easily for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unlocking-the-power-of-blur-in-virtual-meetings/"><u>[New] Unlocking the Power of Blur in Virtual Meetings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-elevate-your-storytelling-with-strategic-video-callouts/"><u>[Updated] 2024 Approved  Elevate Your Storytelling with Strategic Video Callouts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-latest-idevice-screenshots-capture-hacks/"><u>[Updated] 2024 Approved  Latest iDevice Screenshots Capture Hacks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-noise-reduction-for-videographers-best-freepriced-choices/"><u>[Updated] 2024 Approved  Noise Reduction for Videographers  Best Free/Priced Choices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-secrets-to-a-flawless-ps3-gameplay-record/"><u>[Updated] 2024 Approved  Secrets to a Flawless PS3 Gameplay Record</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-zoom-room-basics-for-newbies/"><u>[Updated] 2024 Approved  Zoom Room Basics for Newbies</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-dynamic-duels-and-daring-deeds-top-10-gaming-highlights-for-2024/"><u>[Updated] Dynamic Duels & Daring Deeds  Top 10 Gaming Highlights for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-elevating-your-podcast-game-mastering-video-and-audio-techniques-on-zoom-for-2024/"><u>[Updated] Elevating Your Podcast Game  Mastering Video and Audio Techniques on Zoom for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-enhancing-minecraft-through-optimal-ram-assignment/"><u>[Updated] Enhancing Minecraft Through Optimal RAM Assignment</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-exclusive-roundup-the-best-video-to-mp3-converters/"><u>[Updated] Exclusive Roundup  The Best Video to Mp3 Converters</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-experts-handbook-elevating-screencasting-proficiency-using-mobizen-technology-for-2024/"><u>[Updated] Expert's Handbook  Elevating Screencasting Proficiency Using Mobizen Technology for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-explore-10-prime-video-editing-apps-for-android-and-pc-for-2024/"><u>[Updated] Explore 10 Prime Video Editing Apps for Android and PC for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-exploring-free-screen-capture-tools/"><u>[Updated] Exploring Free Screen Capture Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-screen-capture-anything-including-netflix-on-a-mac-in-six-steps-for-2024/"><u>[Updated] How to Screen Capture Anything, Including Netflix, on a Mac in Six Steps for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-pro-tech-reviews-sharex-and-more/"><u>[Updated] In 2024, Pro Tech Reviews  ShareX & More</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-roadmap-for-distance-podcasting/"><u>[Updated] In 2024, The Ultimate Roadmap for Distance Podcasting</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-journey-through-the-maze-old-vs-innovative-rpgs-for-2024/"><u>[Updated] Journey Through the Maze  Old Vs. Innovative RPGs for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-optimal-free-webcam-video-grabber-app-for-2024/"><u>[Updated] Optimal Free Webcam Video Grabber App for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-essential-manual-to-operating-streamlabs-obs/"><u>[Updated] The Essential Manual to Operating Streamlabs OBS</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-trendsetting-tactic-tech-savvy-mac-access-via-watch/"><u>[Updated] Trendsetting Tactic  Tech-Savvy Mac Access via Watch</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unveiling-the-best-screen-capture-videographers-of-2023/"><u>[Updated] Unveiling the Best Screen Capture Videographers of 2023</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-xbox-game-memories-save-them-with-screenshots/"><u>[Updated] Xbox Game Memories, Save Them with Screenshots</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-essential-screen-recorders-for-todays-windows-users/"><u>2024 Approved  Essential Screen Recorders for Today's Windows Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-essential-strategies-for-high-quality-youtube-recording/"><u>2024 Approved  Essential Strategies for High-Quality YouTube Recording</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-freepaid-screen-recorders-a-google-meet-users-choice/"><u>2024 Approved  Free/Paid Screen Recorders  A Google Meet User's Choice</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-animated-arena-androids-top-12-game-lineup/"><u>2024 Approved  The Animated Arena  Android's Top 12 Game Lineup</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-uncover-the-best-6-screen-recording-software-on-mac/"><u>2024 Approved  Uncover the Best 6 Screen Recording Software on Mac</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-unveiling-the-powerhouse-techniques-in-facebooks-360-streaming/"><u>2024 Approved  Unveiling the Powerhouse Techniques in Facebook's 360 Streaming</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-change-location-on-facebook-dating-for-your-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-make-macbook-pro-video-tutorials-easy-for-2024/"><u>How to Make Macbook Pro Video Tutorials Easy for 2024</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-samsung-galaxy-a15-5g-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Samsung Galaxy A15 5G FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-selective-focus-topiphoto-blurrers-revealed/"><u>In 2024, Selective Focus  Topiphoto Blurrers Revealed</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimize-your-videos-quickly-with-story-remix-in-windows-10-photos-for-2024/"><u>Optimize Your Videos Quickly with Story Remix in Windows 10 Photos for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/timed-success-organizing-video-conferences-via-slackplusfilmora-for-2024/"><u>Timed Success  Organizing Video Conferences via Slack+Filmora for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/tips-for-recording-high-quality-mov-video-on-windows-11-for-2024/"><u>Tips for Recording High-Quality MOV Video on Windows 11 for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-remove-drums-from-a-song-online-easy-tips-and-tricks/"><u>Updated In 2024, Remove Drums From a Song Online Easy Tips and Tricks</u></a></li>
+</ul></div>

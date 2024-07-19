@@ -1,7 +1,7 @@
 ---
 title: "Exploring the Merits of OBS Studio & Fraps for Recording Screens"
-date: 2024-05-19T19:41:44.239Z
-updated: 2024-05-20T19:41:44.239Z
+date: 2024-07-18T08:02:27.547Z
+updated: 2024-07-19T08:02:27.547Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "This Article Describes Exploring the Merits of OBS Studio & Fraps for Recording Screens"
 excerpt: "This Article Describes Exploring the Merits of OBS Studio & Fraps for Recording Screens"
 keywords: "OBS Screen Capture,Fraps Screengrabs,OBS Vs. Fraps,Screencast Tools,OBS Studio Pros,Fraps Recording Benefits,Screen Record Software Comparison"
-thumbnail: https://www.lifewire.com/thmb/U4MhHoz9AdQJe4tEoeV-ONBuCas=/360x240/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/sony-ps5-d3975e63d2ff47e6ac4e81768b79801c.jpg
+thumbnail: https://thmb.techidaily.com/0aeedb6f0e08290ddfa4945f77d0426cb986cac7f0c8ef179d1c62c13237705d.jpg
 ---
 
 ## Exploring the Merits of OBS Studio & Fraps for Recording Screens
@@ -47,6 +47,9 @@ System Requirements – Fraps is compatible with the older version of Windows su
 
 Easy to use: Fraps comes with a clean and intuitive user interface. While recording, it shows you various useful parameters at one corner. You can customize various parameters for perfect recording.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. How To Use OBS Studio and Fraps -
 
 ## OBS: Here are the steps on how to record video with OBS Studio
@@ -55,10 +58,16 @@ Step 1: Download and install OBS Studio on your computer.
 
 Step 2: Go to Scenes tab, click on “+” button to create a new scene. You can create multiple scenes and switch between them while recording.
 
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs multiple scenes and switch](https://images.wondershare.com/filmora/article-images/obs-multiple-scenes-and-switch.jpg)
 
 Step 3: Go to Sources tab, click on “+” button and select Display Capture option to capture your screen. If you want to capture from gaming console or external video capture device, select accordingly.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![obs launch display capture](https://images.wondershare.com/filmora/article-images/obs-launch-display-cature.jpg)
 
 Step 4: Go to Controls tab, click on Start Recording to start recording.
@@ -73,6 +82,9 @@ Step 1: Download and install Fraps. You can go for the trial version and if sati
 
 Step 2: Open the application and under General tab, check the required parameters.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![fraps general required parameters](https://images.wondershare.com/filmora/article-images/fraps-heneral-required-parameters.jpg)
 
 Step 3: Go to Movies tab and set the settings as required.
@@ -113,6 +125,14 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora as per you operating system and launch the applications. Select PC Screen option at the top-right corner.
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
@@ -137,10 +157,45 @@ Step 1: Download and install Wondershare Filmora as per you operating system and
 
 Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
 
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
 
 Step 3: Click on Record button to start recording. When you are done, press F9 key to stop recording. You can then edit the recording and export instantly.
 
+![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Conclusion
+
+To sum it up for you, if you have a low configuration computer, you should opt for Fraps. If you have low-budget, you should go for OBS Studio. In terms of features, OBS is far better than Fraps even though it is completely free to use. If you compare the user interface, Fraps is the clear winner. If you want a better alternative to OBS Studio and Fraps, we recommend Wondershare Filmora as the best screen recording software for Windows and Mac.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Wondershare Filmora as per you operating system and launch the applications. Select PC Screen option at the top-right corner.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
+
+Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
+
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
+Step 3: Click on Record button to start recording. When you are done, press F9 key to stop recording. You can then edit the recording and export instantly.
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 ## Conclusion
@@ -153,6 +208,9 @@ For macOS 10.12 or later
 
 Step 1: Download and install Wondershare Filmora as per you operating system and launch the applications. Select PC Screen option at the top-right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
 Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
@@ -163,26 +221,9 @@ Step 3: Click on Record button to start recording. When you are done, press F9 k
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
-## Conclusion
-
-To sum it up for you, if you have a low configuration computer, you should opt for Fraps. If you have low-budget, you should go for OBS Studio. In terms of features, OBS is far better than Fraps even though it is completely free to use. If you compare the user interface, Fraps is the clear winner. If you want a better alternative to OBS Studio and Fraps, we recommend Wondershare Filmora as the best screen recording software for Windows and Mac.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Wondershare Filmora as per you operating system and launch the applications. Select PC Screen option at the top-right corner.
-
-![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
-
-Step 2: Customize the recording screen size and select the audio source as required. , If you want to record your facecam at one corner, turn on Record the Camera Stream option.
-
-![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
-
-Step 3: Click on Record button to start recording. When you are done, press F9 key to stop recording. You can then edit the recording and export instantly.
-
-![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
-
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 To sum it up for you, if you have a low configuration computer, you should opt for Fraps. If you have low-budget, you should go for OBS Studio. In terms of features, OBS is far better than Fraps even though it is completely free to use. If you compare the user interface, Fraps is the clear winner. If you want a better alternative to OBS Studio and Fraps, we recommend Wondershare Filmora as the best screen recording software for Windows and Mac.
@@ -212,3 +253,56 @@ To sum it up for you, if you have a low configuration computer, you should opt f
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-perfected-presence-the-art-of-blurring-conference-backdrops/"><u>[New] 2024 Approved  Perfected Presence  The Art of Blurring Conference Backdrops</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-best-8-value-video-communication-programs-for-pc-and-mac/"><u>[New] 2024 Approved  The Best 8 Value Video Communication Programs for PC and MAC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-screen-recorders-in-chrome-os-free-version/"><u>[New] 2024 Approved  Top Screen Recorders in Chrome OS, Free Version</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-best-zoom-audio-settings-for-getting-audio-quality-2-ways/"><u>[New] In 2024, Best Zoom Audio Settings for Getting Audio Quality [2 Ways]</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-from-silence-to-sounds-recording-with-audacity-on-a-mac/"><u>[New] In 2024, From Silence to Sounds  Recording with Audacity on a Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-professional-screen-snapshot-tool-windows-10/"><u>[New] In 2024, Professional Screen Snapshot Tool, Windows 10</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-ultimate-guide-to-productive-online-team-sessions/"><u>[New] In 2024, The Ultimate Guide to Productive Online Team Sessions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-top-10-hd-webcams-essential-purchasing-tips/"><u>[New] In 2024, Top 10 HD Webcams  Essential Purchasing Tips</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-optimal-cloud-audio-devices/"><u>[New] Optimal Cloud Audio Devices</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ptimize-youtube-submission-swift-rendering-and-uploading-methods-for-2024/"><u>[New] Optimize YouTube Submission - Swift Rendering and Uploading Methods for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-pixelperfect-pro-focus-on-mac-and-windows-snaps-for-2024/"><u>[New] PixelPerfect Pro  Focus on Mac & Windows Snaps for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-guide-fbx-free-gametime-tracking-for-2024/"><u>[New] The Ultimate Guide  FBX-Free Gametime Tracking for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-enhancing-gaming-experience-tools-beyond-microsofts-recorder/"><u>[Updated] 2024 Approved  Enhancing Gaming Experience  Tools Beyond Microsoft's Recorder</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-a-compreayers-guide-to-capturing-console-games-on-a-computer/"><u>[Updated] A Compreayer's Guide to Capturing Console Games on a Computer</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-agriculture-adventures-with-comrades-top-10-farmers-craft/"><u>[Updated] Agriculture Adventures with Comrades  Top 10 Farmer's Craft</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-emulate-history-essential-ps1-games-for-pc-lovers-for-2024/"><u>[Updated] Emulate History  Essential PS1 Games for PC Lovers for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-essential-techniques-for-securing-ps4-gameplay-moments/"><u>[Updated] Essential Techniques for Securing PS4 Gameplay Moments</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-flamegrab-ff-extras-for-2024/"><u>[Updated] Flamegrab FF Extras for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-eternal-clip-saver-software/"><u>[Updated] In 2024, Eternal Clip Saver Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mac-users-choice-why-screenflow-dominates-the-market/"><u>[Updated] In 2024, Mac Users' Choice  Why ScreenFlow Dominates the Market</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-transformative-recording-techniques-audacity-tips-and-tricks-on-a-mac/"><u>[Updated] In 2024, Transformative Recording Techniques  Audacity Tips and Tricks on a Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-vcr-video-vault-extensive-reviews-and-summary/"><u>[Updated] In 2024, VCR Video Vault  Extensive Reviews & Summary</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-inadvertent-tiktok-redownload-whats-next-in-2024/"><u>[Updated] Inadvertent TikTok Redownload – What's Next, In 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-practical-ways-to-save-and-download-vimeo-footage-for-2024/"><u>[Updated] Practical Ways to Save and Download Vimeo Footage for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-superiorly-crafted-radio-scripts/"><u>[Updated] Superiorly Crafted Radio Scripts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-urban-adventure-top-games-similar-to-gta-v-for-2024/"><u>[Updated] Urban Adventure  Top Games Similar to GTA V for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-decoding-the-functionality-of-youtubes-media-hub/"><u>2024 Approved  Decoding the Functionality of YouTube's Media Hub</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-lava-blaze-2-pro-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Lava Blaze 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/acquiring-fcp-for-zip-legal-strategies-explained/"><u>Acquiring FCP for Zip  Legal Strategies Explained</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-unlock-from-apple-iphone-11-pro-how-to-fix-it-by-drfone-ios/"><u>Apple ID Unlock From Apple iPhone 11 Pro? How to Fix it?</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/becoming-a-viral-visionary-with-these-10-tiktok-insights-for-2024/"><u>Becoming a Viral Visionary with These 10 TikTok Insights for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/easy-ways-to-record-webinar-on-windows-and-mac/"><u>Easy Ways to Record Webinar on Windows and Mac</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/effective-ways-to-fix-checkra1n-error-31-from-iphone-15-pro-by-drfone-ios/"><u>Effective Ways To Fix Checkra1n Error 31 From iPhone 15 Pro</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/how-to-add-a-spooky-shadow-effect-for-2024/"><u>How to Add a Spooky Shadow Effect for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-13-if-youve-tried-everything-by-drfone-ios/"><u>How To Bypass iCloud By Checkra1n Even On Apple iPhone 13 If Youve Tried Everything</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-apple-iphone-xr-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>How To Fix Apple iPhone XR Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ideal-tactic-fusing-gopro-footage-into-a-unified-360-video-experience/"><u>Ideal Tactic  Fusing GoPro Footage Into a Unified 360 Video Experience</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-cutting-edge-recording-for-a-greener-planet/"><u>In 2024, Cutting Edge Recording for a Greener Planet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-detailed-walkthrough-timer-creation-in-obs-broadcasts/"><u>In 2024, Detailed Walkthrough  Timer Creation in OBS Broadcasts</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-photovisionharmony-synchronize-ios-plus-sierra-photos/"><u>In 2024, PhotovisionHarmony  Synchronize iOS + Sierra Photos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unleashing-creativity-in-stories-adding-personalized-graphics/"><u>In 2024, Unleashing Creativity in Stories  Adding Personalized Graphics</u></a></li>
+<li><a href="https://animation-videos.techidaily.com/new-2024-approved-how-to-cartoonize-photo-photoshop-in-simple-steps/"><u>New 2024 Approved How to Cartoonize Photo Photoshop in Simple Steps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/perfect-screen-recording-made-simple-and-orderly/"><u>Perfect Screen Recording Made Simple & Orderly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/premium-audio-devices-for-online-recording-reviewed-2023/"><u>Premium Audio Devices for Online Recording Reviewed 2023</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/screen-capture-without-cost-best-free-software-guide/"><u>Screen Capture Without Cost  Best Free Software Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-end-to-end-guide-to-picsart-for-2024/"><u>The End-to-End Guide to PicsArt for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-guide-to-screen-recording-on-a-dell-workstation/"><u>The Ultimate Guide to Screen Recording on a Dell Workstation</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/upgrade-your-view-enabling-youtubes-high-quality-av1-option-for-2024/"><u>Upgrade Your View  Enabling YouTube's High-Quality AV1 Option for 2024</u></a></li>
+</ul></div>

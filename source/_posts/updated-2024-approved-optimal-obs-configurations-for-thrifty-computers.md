@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Optimal OBS Configurations for Thrifty Computers\""
-date: 2024-05-19T19:42:14.883Z
-updated: 2024-05-20T19:42:14.883Z
+date: 2024-07-18T09:03:15.849Z
+updated: 2024-07-19T09:03:15.850Z
 tags: 
   - screen-recording
   - ai video
@@ -12,7 +12,7 @@ categories:
 description: "\"This Article Describes [Updated] 2024 Approved: Optimal OBS Configurations for Thrifty Computers\""
 excerpt: "\"This Article Describes [Updated] 2024 Approved: Optimal OBS Configurations for Thrifty Computers\""
 keywords: "\"Optimal OBS,OBS Setup Guide,Cost-Effective OBS,Efficient OBS Configs,Budget-Friendly OBS,Thrifty PC OBS,Economical Broadcasting\""
-thumbnail: https://www.lifewire.com/thmb/zS1KzodK4IykQGo2jxig8PQhqso=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/apps-like-tiktok-the-best-alternatives-in-2020-9f3611f635da4198956585133eaf01cb.jpg
+thumbnail: https://thmb.techidaily.com/4f556f53b702be059c5baaa605e55372122aad0cd1b5268a8b5026540ff9ee16.jpg
 ---
 
 ## Optimal OBS Configurations for Thrifty Computers
@@ -31,16 +31,25 @@ First, you will need to launch your OBS software. On the main menu, you have to 
 
 ![obs video settings go to settings](https://images.wondershare.com/filmora/article-images/obs-video-settings-go-to-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 2: Settings That You Should Keep
 
 Starting with base resolution, it is the video resolution that we are going to send to the people who are going to watch our stream. So for the best one, click on it and choose **1280\*720**.
 
 Output tab, which is the resolution of the video that the people will watch. For fast and lag-free streaming it's best to keep both the output and base resolution the same to avoid any conversion between the resolution by CPU. So click on output resolution and choose **1280\*720** again. If you noticed your computer is still lagging then it's best to change to 480p but below this, it's not recommended.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs settings that you should keep](https://images.wondershare.com/filmora/article-images/obs-settings-that-you-should-keep.jpg)
 
 After that, it comes to the filter option. There are multiple filter options in this tab but for a fast and better result, you have to choose the **“bilinear”** filter as shown in the figure below. Finally, when it comes to frame per second you gotta be careful here. The more the fps the more it will put load on your CPU means it will become laggy but it is best to keep it **30 fps**, not more than this and not less than this if you are using a low-end PC or Laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 3: Output Settings
 
 Once you are done with the general video settings now it's time you should come to the output settings. For that, you will need to choose the output from the main vertical tab as shown in the figure below in 1\. You will see a new window appears with a variety of settings. Now it's time to choose the advanced setting as shown in 2 in the figure to see all settings to be edited.
@@ -75,14 +84,23 @@ By default, the profile option is disabled and you should keep these settings as
 
 So that’s it for the video settings. These are all the settings that you need to adjust before streaming. After doing it so you just need to click apply button below and bingo it is done.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## 2\. Audio Settings
 
 For a clear and better audio performance, it's also necessary you keep the optimum settings for the audio too. Well, you don’t have to worry now about the audio too. After reading this article you should keep the same audio settings here for your PC or Laptop.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Step 1: Output Audio
 
 The audio settings can be adjusted from two places. Let us discuss the first one. For that, you will need to select the output in the vertical tab and go to audio as shown in the figure below. You will see multiple tracks in these windows. It contains the audio settings for multiple sources. However, if you are using a single it's good to choose 320 in track one. For multiple, there is no need to change the audio track but to keep the same 320\. These are the perfect settings for most cases of the audio settings for your computer.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![obs output audio settings adjust](https://images.wondershare.com/filmora/article-images/obs-output-audio-settings-adjust.jpg)
 
 ### Step 2: Audio Tab Settings
@@ -119,6 +137,9 @@ The streaming tab can be accessed from the main vertical tab. After going to the
 
 ![obs stream settings tab service 1](https://images.wondershare.com/filmora/article-images/obs-stream-settings-tab-service-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Step 2: Streaming Settings
 
 **Service:**
@@ -129,6 +150,9 @@ Here you have to choose the platform on which you are going to stream your video
 
 This option let you choose a server to upload your streaming. It is best to keep it on “auto” because it will select the server with the best pings for quality streaming.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Best Alternative to OBS
 
 There is a lot of other [screen recording software](https://tools.techidaily.com/wondershare/filmora/download/) on the internet that offers many tools to do the streaming. But the only question that comes to mind that which one you should choose from all of them. A lot of you guys will be already using OBS. Of course, it is the best of all other software for streaming videos to the streaming platforms but still, if someone does not wants to OBS for some reason then he should opt for another amazing alternative application known as Filmora.
@@ -196,3 +220,46 @@ There may be a lot of other software which serve the same purpose but the best o
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-10-hits-you-cant-miss-on-spotify/"><u>[New] In 2024, 10 Hits You Can’t Miss on Spotify</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-craft-a-vibrant-youtube-experience-with-tracks/"><u>[New] In 2024, Craft a Vibrant Youtube Experience with Tracks</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-ultimate-compilation-best-tools-for-vimeo-files-for-2024/"><u>[New] Ultimate Compilation  Best Tools for Vimeo Files for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-exclusive-reviews-top-5-external-hdds-for-xbox-gamers-for-2024/"><u>[Updated] Exclusive Reviews  Top 5 External HDDs for Xbox Gamers for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-how-to-maximize-income-a-simplified-3-step-process-for-youtube-revenue-monitoring/"><u>[Updated] How To Maximize Income  A Simplified 3-Step Process for YouTube Revenue Monitoring</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-tweet-treasure-trove-discovering-the-days-hot-videos-for-2024/"><u>[Updated] Tweet Treasure Trove  Discovering the Day's Hot Videos for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-a-step-by-step-manual-to-freeze-backgrounds-in-affinity-photo/"><u>2024 Approved  A Step-by-Step Manual to Freeze Backgrounds in Affinity Photo</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-20-anime-song-intros/"><u>2024 Approved  Superior 20 Anime Song Intros</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/efficient-methods-for-nvidia-screen-recording-for-2024/"><u>Efficient Methods for NVIDIA Screen Recording for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/efficient-methods-for-recording-minecraft-sessions/"><u>Efficient Methods for Recording Minecraft Sessions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/efficient-movie-recording-strategies-across-desktops-and-handhents-for-2024/"><u>Efficient Movie Recording Strategies Across Desktops and Handhents for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/efficient-obs-settings-for-thrifty-users-for-2024/"><u>Efficient OBS Settings for Thrifty Users for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/efficient-practices-logging-google-voice-dialogues-for-2024/"><u>Efficient Practices  Logging Google Voice Dialogues for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/efficient-screenshot-and-video-recorder-choice-guide-for-pc-for-2024/"><u>Efficient Screenshot & Video Recorder Choice Guide for PC for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/efficiently-capturing-professional-movies-on-your-windows-pc-for-2024/"><u>Efficiently Capturing Professional Movies on Your Windows PC for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/efficiently-merging-webcam-with-monitor-data/"><u>Efficiently Merging Webcam with Monitor Data</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/efficiently-record-on-xiaomi-mi-11-a-beginners-handbook/"><u>Efficiently Record on Xiaomi Mi 11 - A Beginner's Handbook</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/effortless-techniques-for-lenovo-capture-tasks-for-2024/"><u>Effortless Techniques for Lenovo Capture Tasks for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/effortlessly-record-audio-on-your-mac-using-audacity/"><u>Effortlessly Record Audio on Your Mac Using Audacity</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elevate-your-live-streaming-expert-camrecorder-guidance/"><u>Elevate Your Live Streaming  Expert CamRecorder Guidance</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elevate-your-streams-from-obs-to-fb-directly/"><u>Elevate Your Streams  From OBS to FB Directly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elevate-your-video-call-experience-with-the-best-live-recording-gadgets/"><u>Elevate Your Video Call Experience with The Best Live Recording Gadgets</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elevate-your-video-edits-ken-burns-in-camtasia-for-2024/"><u>Elevate Your Video Edits  Ken Burns in Camtasia for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elevate-zooms-audio-tailored-settings-for-immersive-listening/"><u>Elevate Zoom's Audio  Tailored Settings for Immersive Listening</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elevating-video-production-the-advantages-of-bandicams-technology-for-2024/"><u>Elevating Video Production  The Advantages of Bandicam's Technology for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elevating-your-gaming-the-xbox-recorder-playbook-for-2024/"><u>Elevating Your Gaming  The Xbox Recorder Playbook for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/eliminate-unwanted-screen-elements-during-cam-record-for-2024/"><u>Eliminate Unwanted Screen Elements During Cam Record for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elite-callers-on-windows-top-8-sorted/"><u>Elite Callers on Windows  Top 8 Sorted</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elite-environmentally-friendly-cinematography-tech/"><u>Elite Environmentally Friendly Cinematography Tech</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elite-escapade-experiences-the-finest-action-adventure-gems/"><u>Elite Escapade Experiences  The Finest Action-Adventure Gems</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elite-list-of-best-online-sound-capturing-devices-2023/"><u>Elite List of Best Online Sound Capturing Devices 2023</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elite-scripting-developing-a-countdown-mechanism-in-obs/"><u>Elite Scripting  Developing a Countdown Mechanism in OBS</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-key-approaches-to-microphone-and-computer-speaker-documentation/"><u>In 2024, Key Approaches to Microphone & Computer Speaker Documentation</u></a></li>
+<li><a href="https://ai-voice-clone.techidaily.com/new-2024-approved-what-is-ai-text-to-video-wondershare-virbo-glossary/"><u>New 2024 Approved What Is AI Text to Video? | Wondershare Virbo Glossary</u></a></li>
+<li><a href="https://games-able.techidaily.com/optimal-monitors-gameplay-at-165hz/"><u>Optimal Monitors: Gameplay at 165Hz</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-poco-c51-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Poco C51? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-future-is-here-top-7-tools-to-generate-nft-tokens-for-2024/"><u>The Future Is Here - Top 7 Tools to Generate NFT Tokens for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-top-jokesters-for-2024/"><u>Twitter's Top Jokesters for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-pc-video-editing-made-easy-gopro-quik-and-its-alternatives/"><u>Updated 2024 Approved PC Video Editing Made Easy GoPro Quik and Its Alternatives</u></a></li>
+</ul></div>

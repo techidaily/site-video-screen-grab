@@ -1,7 +1,7 @@
 ---
 title: "How to Blur the Background in Teams Meeting? [Desktop & Mobile]"
-date: 2024-06-09T03:09:03.002Z
-updated: 2024-06-10T03:09:03.002Z
+date: 2024-07-18T11:53:14.519Z
+updated: 2024-07-19T11:53:14.519Z
 tags: 
   - screen-recording
   - ai video
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/0c4c453f95a612f76b387ff712305941e5398ae6d
 
 # How to Blur the Background in Teams Meeting? \[Desktop & Mobile\]
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -39,6 +42,14 @@ With that said, the following sections explain **how to blur the background in M
 
 ---
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Blur Background on Teams on a Windows Laptop Before or During a Video Call?
 
 Microsoft Teams allows you to blur the background of the webcam footage before you start or join a video call, during an ongoing session. The methods of getting this done on the laptop computers are explained below in detail.
@@ -53,6 +64,9 @@ If you have a meeting scheduled at a particular time but don’t know what to do
 
 Launch Microsoft Teams, and make sure that the **Chat** icon is selected in the left pane. From the top of the **Chat** pane, click the **New Meeting** (**Camcorder**) icon, and click **Start meeting**.
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Start Microsoft Teams video call on Windows laptop](https://images.wondershare.com/filmora/article-images/start-video-call-teams.jpg)
 
 **Step 2: Check the Devices**
@@ -65,10 +79,16 @@ On the **Meeting with** box, make sure that the **Video** and **Audio** switches
 
 From the **Background settings** pane that appears next, and click to select the **Blur** tile. After this, you can safely click the **Join now** button to start a Teams video meeting with the blurred background.
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![  Microsoft Teams background blur](https://images.wondershare.com/filmora/article-images/blur-video-background-microsoft-teams.jpg)
 
 **Note:** While using other operating systems/laptops like Linux, Chromebook, etc., the process of blurring the background before a video call is identical. This means all you need to do is, initiate a new video meeting, click the **Background effects** (**Person**) icon from under the preview screen, and select the **Blur** tile before clicking the **Join now** button.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Method 2: Blur Background on Teams During Video Call
 
 If you started or joined a Teams meeting without blurring the background, and want to do so during an ongoing call, you can follow the instructions given below to learn **how to blur background in Teams** while in a virtual conference session:
@@ -107,12 +127,18 @@ Launch Microsoft Teams on your Mac computer, make sure that the **Chat** section
 
 On the **Meeting with** box, from under the preview screen, turn on the **Video** and **Audio** switches if not already enabled. Click the **Background effects** (**Person**) icon present next to the **Video** and **Audio** switches, and click to select the **Blur** tile from the **Background settings** pane that appears on the right.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ Microsoft Teams Mac blur background](https://images.wondershare.com/filmora/article-images/microsoft-teams-mac-background-effect-blur.jpg)
 
 **Step 3: Start or Join the Meeting**
 
 Once the above configurations are done, click **Join now** from under the preview screen to start or join a new video call with the blurred background.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Blur Background on Teams During a Video Call
 
 In addition to blurring the background before initiating a video call, even the Mac version of Microsoft Teams lets you get this done when you are in the middle of an ongoing meeting session as well. The process is given below:
@@ -133,6 +159,9 @@ When the **Background settings** pane appears on the left, click to select the *
 
 ![ Microsoft Teams Mac blur background during call](https://images.wondershare.com/filmora/article-images/blur-background-during-teams-video-call-mac.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Blur Background in Teams Mobile App Before or During a Video Call?
 
 At the time of this writing, the Microsoft Teams mobile app allows you to change the background only during a video call and that too only on the iOS platform, be it iPhone or iPad. If you’re using the Android phone or tablet, you may not blur the background on Teams video call. You can learn **how to blur the background in Microsoft Teams** while using an iOS device (iPhone X is used here for illustration) by following the steps given below:
@@ -141,12 +170,18 @@ At the time of this writing, the Microsoft Teams mobile app allows you to change
 
 Launch Microsoft Teams on your iPhone or iPad, ensure that the **Chat** icon is selected from the bottom of the interface, tap the **Instant meeting** (**Camcorder**) icon from the top-right corner of the screen, and tap **Start meeting** from the bottom of the box that appears next.
 
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![start Microsoft Teams  call on iPhone](https://images.wondershare.com/filmora/article-images/start-video-call-teams-iphone.jpg)
 
 **Step 2: Get to the Background Effects Screen**
 
 On the next screen, tap to enable both **Video** and **Audio** functions from the bottom, tap the **More actions** icon, and then tap **Background effects** from the box that comes up.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/microsoft-teams-iphone-background-effects.jpg)
 
 **Step 3: Blur the Background**
@@ -190,6 +225,9 @@ What’s more, if you want to [remove the background and replace it with a new o
 
 Check the video below to find out more creative usage of the Human Segmentation effect:
 
+<!-- affiliate ads begin -->
+<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -208,3 +246,63 @@ Follow @Richard Bennett
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-optimizing-skype-call-audio-environment/"><u>[New] 2024 Approved  Optimizing Skype Call Audio Environment</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-securing-footage-techniques-for-obscuring-sensitive-info/"><u>[New] 2024 Approved  Securing Footage  Techniques for Obscuring Sensitive Info</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-essential-guide-to-live-broadcasts-optimizing-with-obs-for-youtube-and-twitch/"><u>[New] 2024 Approved  The Essential Guide to Live Broadcasts  Optimizing with OBS for YouTube & Twitch</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-canon-pro-editing-essentials-10plus-available-paid-and-free-choice/"><u>[New] Canon Pro-Editing Essentials – 10+ Available, Paid & Free Choice</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-3-ways-to-record-lectures-on-mac/"><u>[New] In 2024, 3 Ways to Record Lectures on Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-a-step-by-step-tutorial-on-video-angles-using-vlc/"><u>[New] In 2024, A Step-by-Step Tutorial on Video Angles Using VLC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-comprehensive-techniques-recording-movies-with-windowsmacosios/"><u>[New] In 2024, Comprehensive Techniques  Recording Movies with Windows/macOS/iOS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-premier-ios-gaming-experience-leading-emulators-for-psp-enthusiasts/"><u>[New] In 2024, Premier iOS Gaming Experience  Leading Emulators for PSP Enthusiasts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-premier-mc-village-residential-plans/"><u>[New] In 2024, Premier MC Village Residential Plans</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-securing-your-zoom-conference-room-audio-and-video-considerations/"><u>[New] In 2024, Securing Your Zoom Conference Room  Audio & Video Considerations</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-maximize-your-sims-legacy-top-techniques-for-capturing-sims-4-adventures-for-2024/"><u>[New] Maximize Your Sim's Legacy  Top Techniques for Capturing Sims 4 Adventures for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-no-watermark-video-capture-mastery-free-for-2024/"><u>[New] No-Watermark Video Capture Mastery, Free for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-perfecting-presentations-choosing-from-top-10-free-screen-captures-for-mac-for-2024/"><u>[New] Perfecting Presentations  Choosing From Top 10 Free Screen Captures for Mac for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-quickquip-quartermotion-grip/"><u>[New] QuickQuip QuarterMotion Grip</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-simplestrecorder-user-friendly-screen-capture-for-2024/"><u>[New] SimplestRecorder  User-Friendly Screen Capture for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamline-your-playtime-with-nvidia/"><u>[New] Streamline Your Playtime with NVIDIA</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-12-screen-recorder-tools-clear-and-free/"><u>[New] Top 12 Screen Recorder Tools  Clear & Free</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-tunefabs-cutting-edge-approach-to-live-streaming-for-2024/"><u>[New] Tunefab's Cutting-Edge Approach to Live Streaming for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-visionaries-of-virtuality-leading-2024-business-strategy-games/"><u>[New] Visionaries of Virtuality  Leading 2024 Business Strategy Games</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-essential-dos-and-donts-for-twilight-self-portraiture/"><u>[Updated] 2024 Approved  Essential Do's and Don'ts for Twilight Self-Portraiture</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-optimizing-your-facecam-video-recordings/"><u>[Updated] 2024 Approved  Optimizing Your Facecam Video Recordings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-superior-selection-androids-leading-video-call-for-large-groups/"><u>[Updated] 2024 Approved  Superior Selection  Android's Leading Video Call for Large Groups</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-avoiding-obscured-games-fixes-for-obs-black-screen-issues-for-2024/"><u>[Updated] Avoiding Obscured Games  Fixes for OBS Black Screen Issues for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-best-software-for-capturing-your-desktop-screen-pcmac-for-2024/"><u>[Updated] Best Software for Capturing Your Desktop Screen, PC/Mac for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-optimizing-your-hp-experience-expert-guide-to-screen-capture/"><u>[Updated] In 2024, Optimizing Your HP Experience  Expert Guide to Screen Capture</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-streamlined-steps-easy-recording-on-vimeo/"><u>[Updated] In 2024, Streamlined Steps  Easy Recording on Vimeo</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-vivacious-talker-examined-revision-no-8/"><u>[Updated] In 2024, Vivacious Talker Examined  Revision No. 8</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-innovative-methods-to-archive-lol-dueling/"><u>[Updated] Innovative Methods to Archive LOL Dueling</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-simplifying-meeting-execution-combining-slacks-ease-with-filmora-writes-for-2024/"><u>[Updated] Simplifying Meeting Execution  Combining Slack's Ease With Filmora' Writes for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-experts-guide-to-xbox-one-screen-captures-for-2024/"><u>[Updated] The Expert's Guide to Xbox One Screen Captures for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-from-play-to-view-a-guide-to-recording-overwatch-games/"><u>2024 Approved  From Play to View  A Guide to Recording Overwatch Games</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-master-your-videos-on-ms-video-central/"><u>2024 Approved  Master Your Videos on MS Video Central</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-remote-classroom-video-archive/"><u>2024 Approved  Remote Classroom Video Archive</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/becoming-an-expert-at-obs-studio-android-focus-for-2024/"><u>Becoming an Expert at OBS Studio  Android Focus for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/capturing-beats-studio-mac-basics-for-2024/"><u>Capturing Beats  Studio Mac Basics for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/comparative-reviews-beyond-the-norms-of-sharex-for-2024/"><u>Comparative Reviews  Beyond the Norms of ShareX for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/easy-steps-on-how-to-create-a-new-apple-id-account-on-iphone-15-plus-by-drfone-ios/"><u>Easy Steps on How To Create a New Apple ID Account On iPhone 15 Plus</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/guide-capturing-your-desktop-using-ezvide-software-for-2024/"><u>Guide  Capturing Your Desktop, Using EZvide Software for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Vivo V27e? | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-15-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-stop-recording-on-quicktime-for-2024/"><u>How To Stop Recording on QuickTime for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-elevate-your-gaming-by-recording-ps3-games/"><u>In 2024, Elevate Your Gaming by Recording PS3 Games</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-from-play-to-pixels-compreehensive-ps4-recording-with-obs-studio/"><u>In 2024, From Play to Pixels  Compreehensive PS4 Recording with OBS Studio</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-social-media-savvy-turning-friends-into-customers-and-coins/"><u>In 2024, Social Media Savvy  Turning Friends Into Customers and Coins</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unleash-your-visual-language-with-these-youtube-theme-makers/"><u>In 2024, Unleash Your Visual Language with These YouTube Theme Makers</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-why-cant-i-install-the-ipogo-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Why cant I install the ipogo On Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/inside-camstudios-updated-screen-recorder-techniques/"><u>Inside CamStudio's Updated Screen Recorder Techniques</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/livestream-titans-clash-facebook-youtube-and-twitspaces-for-2024/"><u>Livestream Titans Clash  FACEbook, YOUTube, and TWITSpaces for 2024</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/make-your-whatsapp-status-stand-out-essential-apps-for-2024/"><u>Make Your WhatsApp Status Stand Out Essential Apps for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-soundtrack-posts-a-copyright-primer-for-insta-for-2024/"><u>Mastering the Art of Soundtrack Posts  A Copyright Primer for Insta for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-best-video-editing-software-for-windows-10-imovie-alternatives/"><u>New In 2024, Best Video Editing Software for Windows 10 IMovie Alternatives</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/new-when-struggling-to-find-a-suitable-game-recorder-for-your-pc-you-might-come-across-many-options-explore-the-best-game-recorders-for-sharing-game-highlig/"><u>New When Struggling to Find a Suitable Game Recorder for Your PC, You Might Come Across Many Options. Explore the Best Game Recorders for Sharing Game Highlights</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/snapchat-savvy-elevating-your-photographic-style-with-app-edits/"><u>Snapchat Savvy  Elevating Your Photographic Style with App Edits</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/step-by-step-obs-tutorial-for-skype-sessions-for-2024/"><u>Step-by-Step OBS Tutorial for Skype Sessions for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-guide-to-screen-capture-via-screencastify/"><u>The Ultimate Guide to Screen Capture via Screencastify</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-2024-approved-best-webm-to-mp4-converters-for-seamless-video-conversion/"><u>Updated 2024 Approved Best WebM to MP4 Converters for Seamless Video Conversion</u></a></li>
+<li><a href="https://ai-editing-video.techidaily.com/updated-create-realistic-fire-effects-by-filmora-for-2024/"><u>Updated Create Realistic Fire Effects by Filmora for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, The Ken Burns Method in Camtasia 9 Explained Simply"
-date: 2024-07-03T20:55:23.183Z
-updated: 2024-07-04T20:55:23.183Z
+date: 2024-07-18T08:24:27.173Z
+updated: 2024-07-19T08:24:27.173Z
 tags: 
   - screen-recording
   - ai video
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/8ab6ea565c08148258cccefd3c4e69bde02c4b3db
 
 # How to Make a Ken Burns Effect in Camtasia 9?
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -117,6 +120,9 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### Step 1\. Import Your Images/Still Photos
@@ -175,12 +181,18 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - Wondershare Filmora
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 #### Step 1\. Import Your Images/Still Photos
@@ -205,6 +217,9 @@ Once you are fully satisfied with the Ken Burns effect on your video, you can sa
 
 Remember that this tool isn’t just a single trick pony, and you can use Wondershare Filmora to add a number of other effects to your videos including transitions, textual content, audio recording, cropping, caption, motion tracking, green screen, and more.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -221,6 +236,9 @@ Follow @Max Wales
 
 One of the most positive impacts generated by the Camtasia Ken Burns effect is that it enables your still photos to be used in a video as though they were a part of it. The effect is not only easy to understand but also quite user-friendly to apply. That is why it is often used by beginners and amateur YouTubers and content creators to add flair to their videos. Let's see how you can use the Camtasia Ken Burns effect.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Make a Ken Burns Effect in Camtasia 9?
 
 You have to bear in mind that Camtasia 9 isn’t the easiest editing software to use, and you will have to go through multiple steps to add the Ken Burns effect.
@@ -239,6 +257,9 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - Wondershare Filmora
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -302,3 +323,48 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-discover-top-affordable-video-editors-of-2023-today/"><u>[New] 2024 Approved  Discover Top Affordable Video Editors of 2023 Today!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mc-homestead-plans-the-top-6/"><u>[New] 2024 Approved  MC Homestead Plans  The Top 6</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-optimal-speech-recognition-the-google-methodology/"><u>[New] 2024 Approved  Optimal Speech Recognition  The Google Methodology</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unlock-advanced-techniques-to-record-and-edit-videos-on-adobe-connect/"><u>[New] 2024 Approved  Unlock Advanced Techniques to Record & Edit Videos on Adobe Connect</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-w10-quick-recording-software/"><u>[New] 2024 Approved  W10 Quick Recording Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-expert-screen-capture-selection-for-windows-users/"><u>[New] Expert Screen Capture Selection for Windows Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-freecam-x-live-streaming-software-reviewed/"><u>[New] FreeCam X Live Streaming Software Reviewed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-build-circles-and-spheres-in-minecraft/"><u>[New] How to Build Circles and Spheres in Minecraft</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-dynamic-presentations-how-to-integrate-screens-into-online-spaces/"><u>[New] In 2024, Dynamic Presentations  How to Integrate Screens Into Online Spaces</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-leveraging-azure-ai-for-audio-to-text-translation/"><u>[New] Leveraging Azure AI for Audio to Text Translation</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-streamline-your-tech-experience-with-top-10-free-mac-capture-apps-for-2024/"><u>[New] Streamline Your Tech Experience with Top 10 FREE Mac Capture Apps for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-beginners-guide-to-captivating-instagram-video-audiences/"><u>[New] The Beginner's Guide to Captivating Instagram Video Audiences</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-tips-to-stream-rust-like-a-pro-for-2024/"><u>[New] Top Tips to Stream Rust Like a Pro for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-bite-sized-tips-for-aspiring-video-editors/"><u>[Updated] 2024 Approved  Bite-Sized Tips for Aspiring Video Editors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-skype-audio-capture-expert-picks-and-reviews/"><u>[Updated] 2024 Approved  Skype Audio Capture  Expert Picks and Reviews</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-brief-sequences-lasting-impressions-time-lapse-with-samsung/"><u>[Updated] Brief Sequences, Lasting Impressions  Time-Lapse with Samsung</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-discover-the-leading-free-naming-resources-11-must-have-makers-for-2024/"><u>[Updated] Discover the Leading Free Naming Resources - 11 Must-Have Makers for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-essential-guide-utilizing-screencastify-recorder/"><u>[Updated] Essential Guide  Utilizing Screencastify Recorder</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-from-basics-to-best-achieving-superior-sound-via-zoom-for-podcasting/"><u>[Updated] From Basics to Best  Achieving Superior Sound via Zoom for Podcasting</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-ultimate-guide-to-constructing-mc-neighborhoods/"><u>[Updated] In 2024, The Ultimate Guide to Constructing MC Neighborhoods</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-top-10-game-changing-apps-for-live-sports-and-premier-league-watching/"><u>[Updated] In 2024, Top 10 Game-Changing Apps for Live Sports & Premier League Watching</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-the-art-of-digital-image-preservation-for-2024/"><u>[Updated] Mastering the Art of Digital Image Preservation for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-10-stress-relieving-games-for-2024/"><u>[Updated] Top 10 Stress Relieving Games for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-photoshop-tricks-conceal-faces-and-spaces/"><u>2024 Approved  Expert Photoshop Tricks  Conceal Faces & Spaces</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-full-review-of-camstudios-screen-capture-features/"><u>2024 Approved  Full Review of CamStudio's Screen Capture Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-recordingease-minimalistic-win-11-screen-captures/"><u>2024 Approved  RecordingEase  Minimalistic Win 11 Screen Captures</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/elevating-video-quality-incorporating-bb-and-lc-elements-in-fb-for-2024/"><u>Elevating Video Quality  Incorporating BB and LC Elements in FB for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/essential-tips-for-mov-saving-on-windows-10-for-2024/"><u>Essential Tips for MOV Saving on Windows 10 for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/from-novice-to-native-speaker-mondlys-triumph/"><u>From Novice to Native Speaker - Mondly's Triumph</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/game-capture-without-xboxs-intrusive-game-bar-for-2024/"><u>Game Capture without Xbox’s Intrusive Game Bar for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-infinix-hot-40-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Infinix Hot 40 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-exclusive-look-top-5-value-for-money-gaming-mice-and-keyboards/"><u>In 2024, Exclusive Look  Top 5 Value-for-Money Gaming Mice & Keyboards</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-how-to-use-zoom-breakout-rooms/"><u>In 2024, How to Use Zoom Breakout Rooms</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-posting-a-youtube-video-via-insta-stories-a-step-by-step-guide/"><u>In 2024, Posting a YouTube Video via Insta Stories  A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-poco-c51-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Poco C51 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/leading-apps-for-flawless-android-screenshots-and-recording/"><u>Leading Apps for Flawless Android Screenshots & Recording</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mindful-moments-easy-engrossing-phone-games/"><u>Mindful Moments  Easy, Engrossing Phone Games</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-camtasia-essentials-speeding-up-and-slowing-down-videos/"><u>New Camtasia Essentials Speeding Up and Slowing Down Videos</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/egies-for-boosting-your-youtube-shorts-audience-for-2024/"><u>Strategies for Boosting Your YouTube Shorts Audience for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/updated-investigating-canine-emotional-responses-understanding-the-roar-of-discontent-for-2024/"><u>Updated Investigating Canine Emotional Responses Understanding the Roar of Discontent for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/updated-transform-your-footage-the-top-10-most-useful-fcpx-plugins-free-and-paid-for-2024/"><u>Updated Transform Your Footage The Top 10 Most Useful FCPX Plugins Free and Paid for 2024</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Capturing Your Screen on PC  Free Ways to Do It\""
-date: 2024-06-18T02:53:35.336Z
-updated: 2024-06-19T02:53:35.336Z
+date: 2024-07-18T10:56:36.522Z
+updated: 2024-07-19T10:56:36.522Z
 tags: 
   - screen-recording
   - ai video
@@ -19,6 +19,9 @@ thumbnail: https://thmb.techidaily.com/76a953455d282504d07d30484b3d441976cd7c068
 
 # How to Record Your Desktop Screen on Windows For Free \[3 Methods\]
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -29,12 +32,18 @@ Only a couple of decades ago, producing a simple video clip was a complicated pr
 
 If you are looking for a fast and inexpensive way to capture your desktop activities, you've come to the right place. In this article, we will show you how to **record your desktop screen** with free built-in software on Windows or with some free screen recording software.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![record desktop screen](https://images.wondershare.com/filmora/article-images/record-desktop-screen.jpg)
 
 ## Screen Capture: Record Screen vs. Take Screenshot
 
 Before we proceed any further, we must first highlight the distinction between a screenshot and a [screen recording](https://tools.techidaily.com/wondershare/filmora/download/). A single static image or a screenshot is just a picture of a computer screen at any given moment. In contrast, a screen recording or a screencast, as it is sometimes called, is a video that captures your desktop activities over a prolonged period.
 
+<!-- affiliate ads begin -->
+<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -52,8 +61,23 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Record Your Desktop Screen on Windows for Free \[3 Methods\]
 
 Even though it is not common knowledge Windows OS offers built-in tools that enable its users to record their screens for free, these tools have their limitations. Furthermore, there are many free computer programs and online tools that make the process of screen capturing simple and fun. Let’s figure out how to achieve it now.
@@ -62,6 +86,9 @@ Even though it is not common knowledge Windows OS offers built-in tools that ena
 * [Method 2: Using Free Screen Recording Software to Capture Desktop Screen on Windows](#method2)
 * [Method 3: Using Free Online Screen Recording Tools to Capture Desktop Screen on Windows](#method3)
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 1: Using Free Built-in tools to Record Screen on Windows for Free
 
 Recording a desktop screen is not an overly complicated process, but PC users that have no previous experience may need some time to figure out how to make high-quality recordings of their screens.
@@ -86,6 +113,9 @@ However, the DVR feature in Xbox app will allow you to choose the duration of yo
 
 #### 2. Using Built-in MS PowerPoint to Record Screen for free on Windows
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![Record with PPT](https://images.wondershare.com/filmora/article-images/power-point-recording.jpg)
 
 Microsoft's PowerPoint software is a well-known tool for the production of professional presentations, but the latest version of this computer program (PowerPoint 2013 or Office 2016) also provides the screen recording option. To start the recording session, you simply have to launch PowerPoint and head over to the **'Insert'** tab.
@@ -116,6 +146,9 @@ However, to start using this powerful online screen recording tool, you must fir
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Recommended Screen Recording Software for Recording Screen on Windows & Mac Computer for Free
 
 If you are looking for recording software that also allows you to edit your video footage with plentiful video editing features, we recommend you try [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) based on the following powerful recording and editing features.
@@ -144,12 +177,18 @@ Only a couple of decades ago, producing a simple video clip was a complicated pr
 
 If you are looking for a fast and inexpensive way to capture your desktop activities, you've come to the right place. In this article, we will show you how to **record your desktop screen** with free built-in software on Windows or with some free screen recording software.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![record desktop screen](https://images.wondershare.com/filmora/article-images/record-desktop-screen.jpg)
 
 ## Screen Capture: Record Screen vs. Take Screenshot
 
 Before we proceed any further, we must first highlight the distinction between a screenshot and a [screen recording](https://tools.techidaily.com/wondershare/filmora/download/). A single static image or a screenshot is just a picture of a computer screen at any given moment. In contrast, a screen recording or a screencast, as it is sometimes called, is a video that captures your desktop activities over a prolonged period.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -201,6 +240,9 @@ However, the DVR feature in Xbox app will allow you to choose the duration of yo
 
 #### 2. Using Built-in MS PowerPoint to Record Screen for free on Windows
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Record with PPT](https://images.wondershare.com/filmora/article-images/power-point-recording.jpg)
 
 Microsoft's PowerPoint software is a well-known tool for the production of professional presentations, but the latest version of this computer program (PowerPoint 2013 or Office 2016) also provides the screen recording option. To start the recording session, you simply have to launch PowerPoint and head over to the **'Insert'** tab.
@@ -209,8 +251,14 @@ Locate the **Screen Recording** button and once you click on it, proceed to clic
 
 The screen recording options MS PowerPoint provides are somewhat limited, which is the reason why this feature should only be used if you have to produce a screen recording in a short time.
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Method 2: Using Free Screen Recording Software to Capture Desktop Screen on Windows
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Record with PPT](https://images.wondershare.com/filmora/article-images/flashback-express-screen-recording.jpg)
 
 The built-in software on Windows 10 may be a great way to produce a quick screen recording, but if you want to create professional software walkthroughs, let's play videos or tutorials then using a free screen recording software such as [FlashBack Express](https://www.flashbackrecorder.com/express/) is a much better option. You can hardly go wrong if you decide to use this screen recorder that enables you to precisely designate the area of the screen you want to capture.
@@ -231,6 +279,9 @@ However, to start using this powerful online screen recording tool, you must fir
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Recommended Screen Recording Software for Recording Screen on Windows & Mac Computer for Free
 
 If you are looking for recording software that also allows you to edit your video footage with plentiful video editing features, we recommend you try [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) based on the following powerful recording and editing features.
@@ -241,6 +292,142 @@ If you are looking for recording software that also allows you to edit your vide
 * Basic editing features like split, cut, delete, and powerful features including speed changing, blending modes, and various video effects
 * Multiple export options: export to various formats or upload to social media platform directly
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+Max Wales
+
+Max Wales is a writer and a lover of all things video.
+
+Follow @Max Wales
+
+##### Max Wales
+
+ Mar 27, 2024• Proven solutions
+
+Only a couple of decades ago, producing a simple video clip was a complicated process that required expensive equipment as well as a considerable amount of skill and knowledge about the art and craft of video making. Today, people who want to create a tutorial or a gaming video can produce high-quality video recordings of their desktop screens.
+
+If you are looking for a fast and inexpensive way to capture your desktop activities, you've come to the right place. In this article, we will show you how to **record your desktop screen** with free built-in software on Windows or with some free screen recording software.
+
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
+![record desktop screen](https://images.wondershare.com/filmora/article-images/record-desktop-screen.jpg)
+
+## Screen Capture: Record Screen vs. Take Screenshot
+
+Before we proceed any further, we must first highlight the distinction between a screenshot and a [screen recording](https://tools.techidaily.com/wondershare/filmora/download/). A single static image or a screenshot is just a picture of a computer screen at any given moment. In contrast, a screen recording or a screencast, as it is sometimes called, is a video that captures your desktop activities over a prolonged period.
+
+![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+### The All-in-One Screen Recorder & Video Editor
+
+* Record desktop screen, voiceover, and webcam simultaneously
+* Edit recorded clips quickly with a wide range of professional tools
+* Built-in plentiful templates and effects
+* Export to MP4, MOV, MKV, GIF and multiple formats
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+
+## How to Record Your Desktop Screen on Windows for Free \[3 Methods\]
+
+Even though it is not common knowledge Windows OS offers built-in tools that enable its users to record their screens for free, these tools have their limitations. Furthermore, there are many free computer programs and online tools that make the process of screen capturing simple and fun. Let’s figure out how to achieve it now.
+
+* [Method 1: Using Free Built-in Tools to Record Screen on Windows](#method1)
+* [Method 2: Using Free Screen Recording Software to Capture Desktop Screen on Windows](#method2)
+* [Method 3: Using Free Online Screen Recording Tools to Capture Desktop Screen on Windows](#method3)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
+### Method 1: Using Free Built-in tools to Record Screen on Windows for Free
+
+Recording a desktop screen is not an overly complicated process, but PC users that have no previous experience may need some time to figure out how to make high-quality recordings of their screens.
+
+#### 1. Using Built-in Xbox App to Record Screen on Windows 10
+
+###### Open and Run Xbox app in the background
+
+Before Windows 10 was released, recording a screen required you to have a screen recording software, but now the recent versions of Windows 10 come equipped with the Xbox app that lets you capture your desktop screen. If you are having trouble finding this app, simply type Xbox into the search bar and click on its icon to launch it.
+
+###### Enable Game Bar feature
+
+![Record on Windows 10](https://images.wondershare.com/filmora/windows-10-game-bar-image.jpg)
+
+Hold the Windows + G buttons until a pop-up screen appears, and then select 'Yes, this is a game' option when it popped up "Do you want to open Game Bar" if you are using it for the first time. You will see the Game Bar interface with several controls including the Xbox app, screenshot, screen recording, and settings options. If you want to record your microphone and your voice, just checkbox “Record mic”.
+
+###### Record Screen Activity
+
+To record your desktop screen activity, you can either hold the Windows, Alt, and R buttons on your keyboard to start the recording session, or you can simply click on the 'Start Recording' icon. The same shortcut can be used to stop recording. All videos will be saved in the same destination folder named Video/Capture, and the app won't let you change this setting.
+
+However, the DVR feature in Xbox app will allow you to choose the duration of your video or increase the quality of the video you're recording but the mouse cursor will not be recorded. Some computers that support Windows 10 will not let you use this app if your video card doesn't support AMD VCE, Intel Quick Sync H.260, or Nvidia NVENC encoders.
+
+#### 2. Using Built-in MS PowerPoint to Record Screen for free on Windows
+
+![Record with PPT](https://images.wondershare.com/filmora/article-images/power-point-recording.jpg)
+
+Microsoft's PowerPoint software is a well-known tool for the production of professional presentations, but the latest version of this computer program (PowerPoint 2013 or Office 2016) also provides the screen recording option. To start the recording session, you simply have to launch PowerPoint and head over to the **'Insert'** tab.
+
+Locate the **Screen Recording** button and once you click on it, proceed to click on the '**Select Area**' option that will enable you to designate the area of the screen you want to record. If you would like to capture an entire screen, hold the Windows, SHIFT, and F keys simultaneously. After you've made the selection simply hit the **Record** button to initiate the screen recording session.
+
+The screen recording options MS PowerPoint provides are somewhat limited, which is the reason why this feature should only be used if you have to produce a screen recording in a short time.
+
+### Method 2: Using Free Screen Recording Software to Capture Desktop Screen on Windows
+
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Record with PPT](https://images.wondershare.com/filmora/article-images/flashback-express-screen-recording.jpg)
+
+The built-in software on Windows 10 may be a great way to produce a quick screen recording, but if you want to create professional software walkthroughs, let's play videos or tutorials then using a free screen recording software such as [FlashBack Express](https://www.flashbackrecorder.com/express/) is a much better option. You can hardly go wrong if you decide to use this screen recorder that enables you to precisely designate the area of the screen you want to capture.
+
+This software produced by the Blueberry Software company lets you record anything on your screen and it also enables you to record video from your webcam. If you opt to install this screen recording software on your PC, you'll be able to record computer audio, schedule the recording session, and besides, you'll never have to worry about annoying watermarks because FlashBack Express produces watermark-free videos.
+
+The process of setting up the screen recording session is remarkably easy since all you have to do is hit the record button and the software will allow you to record videos of any duration. Despite the many advantages, this screen recording software offers, the FlashBack Pro version of the computer program is better suited for users who want more control over the screen recording settings.
+
+### Method 3: Using Free Online Screen Recording Tools to Capture Desktop Screen on Windows for free
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![Record with o-matic](https://images.wondershare.com/filmora/article-images/screen-o-matic.jpg)
+
+We all live fast-paced lives, and sometimes we simply don't have the time to go through the trouble of installing software on a computer. Luckily there are countless free online screen recording tools like [Screencast-O-Matic](https://screencast-o-matic.com/screen%5Frecorder) that can be used to create a desktop screen recording quickly.
+
+Screencast-O-Matic is a free online tool that provides several great screen recording options that let you select the area of the screen you want to capture, pick the size of the output video, record narration, or choose whether you want to record the screen, webcam or both at the same time. Setting up a recording session is simple since it only requires you to click on the record button after you've adjusted the settings.
+
+However, to start using this powerful online screen recording tool, you must first download and install the web launch recorder. Furthermore, the option that lets you record Computer Audio is only available on the Pro version of this online tool, while the maximum length of a video recorded with the free version of Screencast-O-Matic cannot exceed 15 minutes. The maximum quality of a video file this online tool can produce is 720p, which can be problematic for PC users who want to produce a high-quality video.
+
+---
+
+## Recommended Screen Recording Software for Recording Screen on Windows & Mac Computer for Free
+
+If you are looking for recording software that also allows you to edit your video footage with plentiful video editing features, we recommend you try [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) based on the following powerful recording and editing features.
+
+* Able to Record Desktop Screen And Webcam Simultaneously
+* Able to Record Computer Audio And Voice Over
+* Splendid Annotations (creative blur and mosaic effects included) and Cursor Effects
+* Basic editing features like split, cut, delete, and powerful features including speed changing, blending modes, and various video effects
+* Multiple export options: export to various formats or upload to social media platform directly
+
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
@@ -261,12 +448,18 @@ If you are looking for a fast and inexpensive way to capture your desktop activi
 
 ![record desktop screen](https://images.wondershare.com/filmora/article-images/record-desktop-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Screen Capture: Record Screen vs. Take Screenshot
 
 Before we proceed any further, we must first highlight the distinction between a screenshot and a [screen recording](https://tools.techidaily.com/wondershare/filmora/download/). A single static image or a screenshot is just a picture of a computer screen at any given moment. In contrast, a screen recording or a screencast, as it is sometimes called, is a video that captures your desktop activities over a prolonged period.
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -304,6 +497,18 @@ Before Windows 10 was released, recording a screen required you to have a screen
 
 ###### Enable Game Bar feature
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Record on Windows 10](https://images.wondershare.com/filmora/windows-10-game-bar-image.jpg)
 
 Hold the Windows + G buttons until a pop-up screen appears, and then select 'Yes, this is a game' option when it popped up "Do you want to open Game Bar" if you are using it for the first time. You will see the Game Bar interface with several controls including the Xbox app, screenshot, screen recording, and settings options. If you want to record your microphone and your voice, just checkbox “Record mic”.
@@ -326,6 +531,9 @@ The screen recording options MS PowerPoint provides are somewhat limited, which 
 
 ### Method 2: Using Free Screen Recording Software to Capture Desktop Screen on Windows
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Record with PPT](https://images.wondershare.com/filmora/article-images/flashback-express-screen-recording.jpg)
 
 The built-in software on Windows 10 may be a great way to produce a quick screen recording, but if you want to create professional software walkthroughs, let's play videos or tutorials then using a free screen recording software such as [FlashBack Express](https://www.flashbackrecorder.com/express/) is a much better option. You can hardly go wrong if you decide to use this screen recorder that enables you to precisely designate the area of the screen you want to capture.
@@ -356,123 +564,14 @@ If you are looking for recording software that also allows you to edit your vide
 * Basic editing features like split, cut, delete, and powerful features including speed changing, blending modes, and various video effects
 * Multiple export options: export to various formats or upload to social media platform directly
 
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-Max Wales
-
-Max Wales is a writer and a lover of all things video.
-
-Follow @Max Wales
-
-##### Max Wales
-
- Mar 27, 2024• Proven solutions
-
-Only a couple of decades ago, producing a simple video clip was a complicated process that required expensive equipment as well as a considerable amount of skill and knowledge about the art and craft of video making. Today, people who want to create a tutorial or a gaming video can produce high-quality video recordings of their desktop screens.
-
-If you are looking for a fast and inexpensive way to capture your desktop activities, you've come to the right place. In this article, we will show you how to **record your desktop screen** with free built-in software on Windows or with some free screen recording software.
-
-![record desktop screen](https://images.wondershare.com/filmora/article-images/record-desktop-screen.jpg)
-
-## Screen Capture: Record Screen vs. Take Screenshot
-
-Before we proceed any further, we must first highlight the distinction between a screenshot and a [screen recording](https://tools.techidaily.com/wondershare/filmora/download/). A single static image or a screenshot is just a picture of a computer screen at any given moment. In contrast, a screen recording or a screencast, as it is sometimes called, is a video that captures your desktop activities over a prolonged period.
-
-![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
-
-### The All-in-One Screen Recorder & Video Editor
-
-* Record desktop screen, voiceover, and webcam simultaneously
-* Edit recorded clips quickly with a wide range of professional tools
-* Built-in plentiful templates and effects
-* Export to MP4, MOV, MKV, GIF and multiple formats
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
-
-## How to Record Your Desktop Screen on Windows for Free \[3 Methods\]
-
-Even though it is not common knowledge Windows OS offers built-in tools that enable its users to record their screens for free, these tools have their limitations. Furthermore, there are many free computer programs and online tools that make the process of screen capturing simple and fun. Let’s figure out how to achieve it now.
-
-* [Method 1: Using Free Built-in Tools to Record Screen on Windows](#method1)
-* [Method 2: Using Free Screen Recording Software to Capture Desktop Screen on Windows](#method2)
-* [Method 3: Using Free Online Screen Recording Tools to Capture Desktop Screen on Windows](#method3)
-
-### Method 1: Using Free Built-in tools to Record Screen on Windows for Free
-
-Recording a desktop screen is not an overly complicated process, but PC users that have no previous experience may need some time to figure out how to make high-quality recordings of their screens.
-
-#### 1. Using Built-in Xbox App to Record Screen on Windows 10
-
-###### Open and Run Xbox app in the background
-
-Before Windows 10 was released, recording a screen required you to have a screen recording software, but now the recent versions of Windows 10 come equipped with the Xbox app that lets you capture your desktop screen. If you are having trouble finding this app, simply type Xbox into the search bar and click on its icon to launch it.
-
-###### Enable Game Bar feature
-
-![Record on Windows 10](https://images.wondershare.com/filmora/windows-10-game-bar-image.jpg)
-
-Hold the Windows + G buttons until a pop-up screen appears, and then select 'Yes, this is a game' option when it popped up "Do you want to open Game Bar" if you are using it for the first time. You will see the Game Bar interface with several controls including the Xbox app, screenshot, screen recording, and settings options. If you want to record your microphone and your voice, just checkbox “Record mic”.
-
-###### Record Screen Activity
-
-To record your desktop screen activity, you can either hold the Windows, Alt, and R buttons on your keyboard to start the recording session, or you can simply click on the 'Start Recording' icon. The same shortcut can be used to stop recording. All videos will be saved in the same destination folder named Video/Capture, and the app won't let you change this setting.
-
-However, the DVR feature in Xbox app will allow you to choose the duration of your video or increase the quality of the video you're recording but the mouse cursor will not be recorded. Some computers that support Windows 10 will not let you use this app if your video card doesn't support AMD VCE, Intel Quick Sync H.260, or Nvidia NVENC encoders.
-
-#### 2. Using Built-in MS PowerPoint to Record Screen for free on Windows
-
-![Record with PPT](https://images.wondershare.com/filmora/article-images/power-point-recording.jpg)
-
-Microsoft's PowerPoint software is a well-known tool for the production of professional presentations, but the latest version of this computer program (PowerPoint 2013 or Office 2016) also provides the screen recording option. To start the recording session, you simply have to launch PowerPoint and head over to the **'Insert'** tab.
-
-Locate the **Screen Recording** button and once you click on it, proceed to click on the '**Select Area**' option that will enable you to designate the area of the screen you want to record. If you would like to capture an entire screen, hold the Windows, SHIFT, and F keys simultaneously. After you've made the selection simply hit the **Record** button to initiate the screen recording session.
-
-The screen recording options MS PowerPoint provides are somewhat limited, which is the reason why this feature should only be used if you have to produce a screen recording in a short time.
-
-### Method 2: Using Free Screen Recording Software to Capture Desktop Screen on Windows
-
-![Record with PPT](https://images.wondershare.com/filmora/article-images/flashback-express-screen-recording.jpg)
-
-The built-in software on Windows 10 may be a great way to produce a quick screen recording, but if you want to create professional software walkthroughs, let's play videos or tutorials then using a free screen recording software such as [FlashBack Express](https://www.flashbackrecorder.com/express/) is a much better option. You can hardly go wrong if you decide to use this screen recorder that enables you to precisely designate the area of the screen you want to capture.
-
-This software produced by the Blueberry Software company lets you record anything on your screen and it also enables you to record video from your webcam. If you opt to install this screen recording software on your PC, you'll be able to record computer audio, schedule the recording session, and besides, you'll never have to worry about annoying watermarks because FlashBack Express produces watermark-free videos.
-
-The process of setting up the screen recording session is remarkably easy since all you have to do is hit the record button and the software will allow you to record videos of any duration. Despite the many advantages, this screen recording software offers, the FlashBack Pro version of the computer program is better suited for users who want more control over the screen recording settings.
-
-### Method 3: Using Free Online Screen Recording Tools to Capture Desktop Screen on Windows for free
-
-![Record with o-matic](https://images.wondershare.com/filmora/article-images/screen-o-matic.jpg)
-
-We all live fast-paced lives, and sometimes we simply don't have the time to go through the trouble of installing software on a computer. Luckily there are countless free online screen recording tools like [Screencast-O-Matic](https://screencast-o-matic.com/screen%5Frecorder) that can be used to create a desktop screen recording quickly.
-
-Screencast-O-Matic is a free online tool that provides several great screen recording options that let you select the area of the screen you want to capture, pick the size of the output video, record narration, or choose whether you want to record the screen, webcam or both at the same time. Setting up a recording session is simple since it only requires you to click on the record button after you've adjusted the settings.
-
-However, to start using this powerful online screen recording tool, you must first download and install the web launch recorder. Furthermore, the option that lets you record Computer Audio is only available on the Pro version of this online tool, while the maximum length of a video recorded with the free version of Screencast-O-Matic cannot exceed 15 minutes. The maximum quality of a video file this online tool can produce is 720p, which can be problematic for PC users who want to produce a high-quality video.
-
----
-
-## Recommended Screen Recording Software for Recording Screen on Windows & Mac Computer for Free
-
-If you are looking for recording software that also allows you to edit your video footage with plentiful video editing features, we recommend you try [Filmora](https://tools.techidaily.com/wondershare/filmora/download/) based on the following powerful recording and editing features.
-
-* Able to Record Desktop Screen And Webcam Simultaneously
-* Able to Record Computer Audio And Voice Over
-* Splendid Annotations (creative blur and mosaic effects included) and Cursor Effects
-* Basic editing features like split, cut, delete, and powerful features including speed changing, blending modes, and various video effects
-* Multiple export options: export to various formats or upload to social media platform directly
-
-[![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
-
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -506,3 +605,47 @@ Follow @Max Wales
 
 
 
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-balancing-content-creation-and-employment/"><u>[New] 2024 Approved  Balancing Content Creation and Employment</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mastering-minimization-32-top-rated-apps-to-tidy-up-videos-on-android/"><u>[New] Mastering Minimization  32 Top-Rated Apps to Tidy Up Videos on Android</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-quicktime-screen-recording-with-audio-guide/"><u>[Updated] 2024 Approved  QuickTime Screen Recording with Audio Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-divide-and-conquer-adding-chapters-to-vimeo-for-2024/"><u>[Updated] Divide and Conquer  Adding Chapters to Vimeo for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-exclusive-apps-to-remove-logos-from-androidios-videos/"><u>[Updated] Exclusive Apps to Remove Logos From Android/iOS Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-master-clearer-photos-unveiling-the-top-10-web-edits/"><u>[Updated] Master Clearer Photos  Unveiling the Top 10 Web Edits</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-kingdoms-collide-ranking-top-7-total-war-historical-games/"><u>2024 Approved  Kingdoms Collide  Ranking Top 7 Total War Historical Games</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-leading-free-capture-software-top-15-recommendations/"><u>2024 Approved  Leading Free Capture Software  Top 15 Recommendations</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-leading-video-call-options-safe-small-enterprises-guide/"><u>2024 Approved  Leading Video Call Options  Safe Small Enterprises Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-learning-leaders-list-discovering-the-top-10-teacher-tools/"><u>2024 Approved  Learning Leaders’ List  Discovering the Top 10 Teacher Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-live-feed-obs-on-instagram-app/"><u>2024 Approved  Live Feed  OBS on Instagram App</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mac-webcam-video-recording-demystified-a-comprehensive-guide-5-steps/"><u>2024 Approved  Mac Webcam Video Recording Demystified  A Comprehensive Guide (5 Steps)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-macs-choice-of-capture-an-in-depth-look-at-premium-software/"><u>2024 Approved  Mac's Choice of Capture  An In-Depth Look at Premium Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-macbook-webcam-recording-guide/"><u>2024 Approved  MacBook Webcam Recording Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mastering-live-show-recordings-the-modern-way/"><u>2024 Approved  Mastering Live Show Recordings  The Modern Way</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/2024-approved-mastering-the-art-of-customizing-twitter-video-thumbnails/"><u>2024 Approved  Mastering the Art of Customizing Twitter Video Thumbnails</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mastering-the-art-of-online-conference-coordination/"><u>2024 Approved  Mastering the Art of Online Conference Coordination</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mastery-in-mac-screen-capture-format-conversion/"><u>2024 Approved  Mastery in Mac  Screen Capture Format Conversion</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-melodic-matrix-mac-sound-recording/"><u>2024 Approved  Melodic Matrix  Mac Sound Recording</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-melodyrecorder-free-an-experts-evaluation/"><u>2024 Approved  MelodyRecorder Free  An Expert's Evaluation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-microscreenmugger-assessment-report/"><u>2024 Approved  MicroScreenMugger Assessment Report</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-minimca-homes-the-ultimate-guide-for-entry-level-builders/"><u>2024 Approved  MiniMCA Homes  The Ultimate Guide for Entry-Level Builders</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mobile-moba-showdown-androids-best-games-list/"><u>2024 Approved  Mobile MOBA Showdown - Android's Best Games List</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-multimedia-mac-recording-software-with-sound/"><u>2024 Approved  Multimedia Mac Recording Software with Sound</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-music-device-innovations-spotlighted/"><u>2024 Approved  Music Device Innovations Spotlighted</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-myvidhub-testing-a-quest-for-more-features/"><u>2024 Approved  MyVidHub Testing  A Quest for More Features?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-navigating-audio-capture-in-minecraft-a-mac-experts-handbook/"><u>2024 Approved  Navigating Audio Capture in Minecraft  A Mac Expert's Handbook</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/2024-approved-windows-1087-video-editing-tutorial-master-microsoft-video-editor/"><u>2024 Approved Windows 10/8/7 Video Editing Tutorial Master Microsoft Video Editor</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/cult-classic-reimaginings-top-20-anime-on-tiktok/"><u>Cult Classic Reimaginings  Top 20 Anime on TikTok</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/does-money-flow-into-shopping-guides-vids/"><u>Does Money Flow Into Shopping Guides Vids?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/expert-pick-prime-drone-gimbals-for-2024/"><u>Expert Pick  Prime Drone Gimbals for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-iphone-techniques-for-full-sphere-videography/"><u>In 2024, IPhone Techniques for Full-Sphere Videography</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastering-video-selection-adding-to-your-youtube-playlists/"><u>In 2024, Mastering Video Selection  Adding to Your YouTube Playlists</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-2024-approved-upload-ps4-screenshots-to-social-media-a-beginners-tutorial/"><u>New 2024 Approved Upload PS4 Screenshots to Social Media A Beginners Tutorial</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-the-ultimate-camtasia-shortcut-speeding-up-and-slowing-down-videos/"><u>New The Ultimate Camtasia Shortcut Speeding Up and Slowing Down Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/no-cost-screen-record-the-ultimate-win11-tools-1-5-listing-for-2024/"><u>No-Cost Screen Record  The Ultimate Win11 Tools #1-5 Listing for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/optimal-distance-approach-to-professional-podcasts/"><u>Optimal Distance Approach to Professional Podcasts</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-best-ispoofer-alternative-to-try-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>The Best iSpoofer Alternative to Try On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-final-word-on-powerdirector-a-complete-review-for-2024/"><u>The Final Word on PowerDirector  A Complete Review for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-in-2024-advanced-audio-editing-how-to-achieve-seamless-volume-automation-using-final-cut-pro-x-ducking-tools/"><u>Updated In 2024, Advanced Audio Editing How to Achieve Seamless Volume Automation Using Final Cut Pro X Ducking Tools</u></a></li>
+</ul></div>
