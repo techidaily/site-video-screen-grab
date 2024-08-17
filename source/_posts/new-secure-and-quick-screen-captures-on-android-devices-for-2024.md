@@ -1,0 +1,244 @@
+---
+title: "[New] Secure & Quick Screen Captures on Android Devices for 2024"
+date: 2024-08-16T20:33:48.816Z
+updated: 2024-08-17T20:33:48.816Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+categories: 
+  - ai
+  - screen
+description: "This Article Describes [New] Secure & Quick Screen Captures on Android Devices for 2024"
+excerpt: "This Article Describes [New] Secure & Quick Screen Captures on Android Devices for 2024"
+keywords: "Secure Screencap Android,Fast Android Screen Grab,Android Security Img Save,Quick Android Image Copy,Safe Screen Capture Android,Efficient Android Screenshot,Reliable Android Picture Taking"
+thumbnail: https://thmb.techidaily.com/dd1b377f0a177d81939c2e9879a9449aa15d2816c9d71de8279c052980247986.jpg
+---
+
+## Secure & Quick Screen Captures on Android Devices
+
+# How to Record Screen and Video on Android?
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+##### Liza Brown
+
+ Mar 27, 2024• Proven solutions
+
+A screen recording of your Android phone can be quite useful if you want to upload a video that shows how to use a certain app to YouTube or if you are passionate about mobile games and you'd like to share your achievements with the online gaming community, or offer demonstrational help to somebody, create a demo about the app you developed or even a to create a walkthrough for a levels of a game.
+
+iPhone users that have [iOS 11 running on their devices can use built-in apps](https://tools.techidaily.com/wondershare/filmora/download/) that allow them to record their screen, but things are a bit more difficult for Android users in need of a quick way to capture a screen on their Android phone. If you would like to find out how to record your screen on an Android phone or tablet, there are various options on offer such as using an app, connecting to computer via official ADB method and also custom ROMs together with built in facility. Let’s find out what best fits for you.
+
+* [Part 1: Using screen recorder apps to capture a screen for KitKat and above](#screenrecorder)
+* [Part 2: Capture your Android screen with ADB](#adb)
+* [Part 3: Capture Android Screen on a Computer with Mirroring Software](#captureviamirroring)
+* [Part 4: Capture Screen on Android with Capture Card](#capturecard)
+
+---
+
+If you are looking for a recording software which also allows you to edit your video footage with plentiful video editing features, we recommend you try [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/) based on the following powerful recording and editing features.
+
+[![Download Filmora9 Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Filmora9 Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
+
+* Add Markers to important points during recording
+* Record high paced games at up to 120 fps
+* Capture video, system audio, webcam and mic at the same time
+* Record the entire screen or just a part of your screen
+
+---
+
+## Part 1: Using screen recorder apps on Android KitKat to capture a screen
+
+Almost 12% of all Android devices that access the Google Play, run on Android 4.4 OS, also known as KitKat. This Android OS was released in 2013, and it is the first OS for Android Smartphones that enabled its users to create screen recordings, although only via the Android Developer SDK, with the help of Android Debug Bridge. Furthermore, this option only works if the device is connected to a computer, and you also need to have access to the phone's Developer mode.
+
+One year after the KitKat OS was introduced to the public Google developed a new version of the Android OS, popularly named Lolipop, which allowed users to record their Smartphone's screen with an app. The name Lollipop refers to versions 5.0 and 5.1.1 of the Android OS, and in February 2018, 24,6% of all Android devices accessing Google Play had the Lollipop OS. The more recent versions of Android OS, like Android 'Marshmallow', also provide support for screen recording apps.
+
+If you have Lollipop or Marshmallow OS installed on your Android Smartphone, you can use the [Lollipop Screen Recorder](https://play.google.com/store/apps/details?id=com.rivulus.screenrecording&hl=en) app, although plenty more screen recording apps are available on the Google Play. Let's have a look at the steps you'll need to take in order to figure out how to record your screen on your Android phone with Lollipop Screen Recorder.
+
+#### Step 1  Download and install Lollipop Screen Recorder
+
+Open the Google Play application on your phone and search for the Lollipop Screen Recorder app. You can download it for free, so after the installation of the app is complete, launch it and proceed to adjust the settings for your screen recording session.
+
+#### Step 2 Fine-tuning the settings
+
+![ Lollipop Screen Recorder ](https://images.wondershare.com/filmora/article-images/lollipop-screen-recorder.jpg)
+
+Lollipop Screen Recorder features only three settings, that let you choose whether you want to shoot in Landscape or Portrait mode, change the resolution of the video recording and enable the audio recording feature.
+
+It is important to pay attention to the size of the file you are producing, especially if you want to send it to someone because if you pick the maximum Recording Resolution, the video file of your screen recording is going to be huge. Tutorials in which you show how an app is used or how to fix a certain problem on an Android Phone can benefit from the Record Microphone Audio option because it will enable you to explain the steps with your voice.
+
+#### Step 3  Recording the screen of an Android device
+
+![ Lollipop Screen Recorder ](https://images.wondershare.com/filmora/article-images/lollipop-screen-recorder-start-recording.jpg)
+
+Now that you've adjusted all the settings for a screen recording session, you should click on the circular icon located in the upper right corner of the app.
+
+After you tap on the icon a message will pop up on the screen informing you that the app is about to start a new screen recording session. Check the Don't show again checkbox and proceed to tap on the Start Now button. Once the screen recording session is in progress, you can leave the Lollipop Screen Recorder app and perform all activities you wanted to capture with your Android Smartphone.
+
+#### Step 4  Finishing the recording session
+
+The app's notification bar is going to be located at the top of the Smartphone's screen, during the screen recording session, so in order to stop recording you simply need to find the notification with the label 'Recording Screen' and press stop.
+
+![ Lollipop Screen Recorder ](https://images.wondershare.com/filmora/article-images/lollipop-screen-recorder-recorded-file.jpg)
+
+Go back to the Lollipop Screen Recorder and you'll be able to find the video file in the app's main window. You can play the video directly from the Lollipop Screen recorder or you can share it to your Gmail account directly from the app. If you don't like the screen recording you made, you can tap on the Delete button and start a new session.
+
+**Pros:** Amazingly easy to use and it lets you capture videos in Portrait and Landscape modes.
+
+**Cons:** Lollipop Screen Recorder can only capture screens in the device's native resolution, and it doesn't provide any customization options.
+
+_[Find out more video recorders for Android Phones and Tablets](https://tools.techidaily.com/wondershare/filmora/download/)_
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Part 2: Connecting Your Android Devices to Windows PC or Mac to Capture Screen
+
+Using an app to record the screen of your Android smartphone is just one method in which this task can be accomplished. Let's have a look at a few other methods that can also be used to record an Android Smartphone screen.
+
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Method 1: Capture your Android screen with ADB
+
+This option is great in the event of app doesn’t work for you. Android SDK are available to download from [Android developer](http://developer.android.com/sdk/index.html). This feature allows you to record video via USB with the bundled Android Debug Bridge. To use this feature, your device should run on Android 4.4 or later.
+
+Android Debug Bridge is a command-line utility that can control your Android Smartphone from a computer, copy files and add or remove apps. However, if you want to use ADB you'll first need to go through the setup process, and even add it to the Windows System PATH.
+
+#### Step 1: Enabling the ADB
+
+![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer.jpg)
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+Locate the SDK's installation folder on your PC, and click on the ADB option in the Platform Tools menu. Hold the Shift key and right-click and then select the 'Open PowerShell Widow Here' option. How this message looks like depends on the version of Windows OS you have, so alternatively, it may read 'Open Command Prompt Here'.
+
+#### Step 2: Connecting the Android Smartphone to a computer
+
+![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer-confirm.jpg)
+
+Use the USB cable to connect your Android device to a computer, and before proceeding any further enable the USB Debugging and Developer features on your phone.
+
+A pop-up message should appear on your Smartphone's screen asking you if you'd like to allow debugging from the PC to which the device is connected. Click OK and head back to the ADB terminal you launched.
+
+#### Step 3: Starting a screen recording session
+
+You should be able to see the terminal window on your computer's screen. Run test commands just to be sure that everything works perfectly, but if everything is in order the terminal should look like this.
+
+![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer-command.jpg)
+
+Inserting the following command into the terminal: adb shell screenrecord/sdcard/test.mp4 will start a new screen recording session.
+
+![ Record Android Screen via Computer](https://images.wondershare.com/filmora/article-images/record-android-screen-via-computer-command-line.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+
+The session cannot be longer than three minutes, but if you want to stop recording sooner than that, you can simply hold the CTRL+C while the terminal window is still active.
+
+**Pros:** Enables users who have KitKat OS installed on their Smartphones to capture the screen on their device.
+
+**Cons:** If you choose to record the screen of your Android device using this method, you should be aware of the fact that you won't be able to record audio and that a screen recording can't be longer than 3 minutes.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+### Method 2: Capture Android Screen on a Computer with Mirroring Software
+
+Both the methods I mentioned above require Android 4.1 (Jelly bean) or later on your device. That doesn’t necessarily mean that you can’t record video with older android devices.
+In such cases you can use android SDK to mirror the device’s display and record it using a desktop screen-capture software. Mirroring Software will enable you to record the screen on an Android device without rooting. You can use [Wondershare MirrorGo](https://tools.techidaily.com/wondershare/drfone/android-screen-mirror/) software to mirror cast the screen from your mobile phone to a display on your computer. Here's how to record your screen on Android without rooting.
+
+#### Step 1: Install Wondershare MirrorGo
+
+Start the process of setting up your screen recording session by downloading the MirrorGo Android recorder software for free from the manufacturer's website. Launch the software and connect your Android Smartphone to the MirrorGo. You'll be able to see the screen of your Android device on the PC's screen. The software will synchronize all actions between two displays.
+
+#### Step 2: Record the Screen
+
+Locate the Android Recorder button, and click on it to commence the screen recording session. You can play mobile video games or create a detailed tutorial on how to use a certain Android app.
+
+#### Step 3: Complete the recording and access the video file
+
+Click on the Android Recorder button to stop the session, and once the screen capturing process is finished, a pop window on your Smartphone's screen will notify you that your video is saved and it will also show you the location on which the file was saved on your computer.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
+### Method 3: Capture Screen on Android with Capture Card
+
+Capture Cards are devices that enable you to record screens on a wide range of different devices including X-box or PS4\. Although they are frequently used to capture the gameplay of a video game, capture cards can also be used to capture a screen on an Android Smartphone.
+
+These external video adapters let you connect the Android device and a computer, although you'll have to spend some time to properly set up a screen recording session with a capture card. Some capture cards can cost as much as $200, so if you want to utilize this method to capture a screen on your Android Smartphone you should be prepared to invest money in such a project.
+
+But the cost is the only downside of this otherwise very effective method of recording a screen on an Android device. The amount of options capture cards offer is staggering, but before you start recording a screen on your Smartphone you must make sure that you have the right hardware and software equipment.
+
+What if this also doesn’t work for you? Don’t give up. You still stand a chance if your android device has an HDMI port. You can connect your device to a digital video camera and do the recording. Failing this, your solution will depend on a PC with HDMI PCI Express card or a USB HDMI adaptor powered with a suitable video capture software.
+
+Sometimes you shouldn’t depend on installing apps. With the help of a ROM flasher, you can get a screen recorded included in your devices ROM. Therefore, if you already have a custom ROM running on your device, better to have a look if a screen recorder is installed. If so, it is a matter of activating it.
+
+![author avatar](https://lh5.googleusercontent.com/-AIMmjowaFs4/AAAAAAAAAAI/AAAAAAAAABc/Y5UmwDaI7HU/s250-c-k/photo.jpg)
+
+Liza Brown
+
+Liza Brown is a writer and a lover of all things video.
+
+Follow @Liza Brown
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-loom-screen-recorder-downloader/"><u>[New] 2024 Approved  Loom Screen Recorder Downloader</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-breaking-into-the-world-of-youtube-stellar-intros-in-imovie-for-2024/"><u>[New] Breaking Into the World of YouTube  Stellar Intros in iMovie for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-exclusive-online-cam-dance-duels/"><u>[New] Exclusive Online Cam Dance Duels</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-flashstoppage-instant-video-quit-guide-for-2024/"><u>[New] FlashStoppage  Instant Video Quit Guide for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-hunt-and-beat-top-10-games-inspired-by-ghost-of-tsushima-for-2024/"><u>[New] Hunt & Beat  Top 10 Games Inspired by Ghost of Tsushima for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-audible-mac-visual-record-functionality/"><u>[New] In 2024, Audible Mac Visual Record Functionality</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-pixeled-play-logbook/"><u>[New] Pixeled Play Logbook</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-quest-for-superior-video-capture-tools-for-2024/"><u>[New] The Quest for Superior Video Capture Tools for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-strategy-for-recording-complete-facebook-calls/"><u>[New] The Ultimate Strategy for Recording Complete Facebook Calls</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-tier-hd-screen-recording-technology/"><u>[New] Top-Tier HD Screen Recording Technology</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-ultimate-ice-cream-viewer-tech-overview-for-2024/"><u>[New] Ultimate Ice Cream Viewer Tech Overview for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-zdsoft-capture-master-overview-and-evaluation-for-2024/"><u>[New] ZDSoft Capture Master  Overview & Evaluation for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-isolate-subject-in-recording-for-clearer-videos/"><u>[Updated] 2024 Approved  Isolate Subject in Recording for Clearer Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-noise-reduction-for-videographers-best-freepriced-choices/"><u>[Updated] 2024 Approved  Noise Reduction for Videographers  Best Free/Priced Choices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-agriculture-pals-top-10-friendly-farm-games-for-2024/"><u>[Updated] Agriculture Pals  Top 10 Friendly Farm Games for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-unbeatable-mobilized-game-slowdowns/"><u>[Updated] In 2024, Unbeatable Mobilized Game Slowdowns</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-playful-pioneers-the-kids-game-bazaar-for-2024/"><u>[Updated] Playful Pioneers  The Kids' Game Bazaar for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-epitome-of-hd-recording-curated-list-unveiled/"><u>[Updated] The Epitome of HD Recording  Curated List Unveiled</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-vlc-screencasting-live-feed-webcam-integration-for-2024/"><u>[Updated] VLC  Screencasting Live Feed – Webcam Integration for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-best-android-options-10-gb-emulation-tools/"><u>2024 Approved  Best Android Options  10 GB Emulation Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-hurry-hoarding-images-and-intonations/"><u>2024 Approved  Hurry Hoarding  Images & Intonations</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mac-users-guide-the-full-spectrum-of-screenflow-pro/"><u>2024 Approved  Mac Users Guide  The Full Spectrum of ScreenFlow Pro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-upgrade-webcam-videos-with-simple-editing-techniques/"><u>2024 Approved  Upgrade WebCam Videos with Simple Editing Techniques</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/2024-approved-discover-the-highest-rated-mp3-recorders-for-both-pc-and-mac-environments/"><u>2024 Approved Discover the Highest-Rated MP3 Recorders for Both PC and Mac Environments</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/g-a-digital-clock-to-your-youtube-video-playback/"><u>Adding a Digital Clock to Your YouTube Video Playback</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1715701144078-an-easy-to-follow-methodology-for-initiating-a-productive-skype-conversation-among-various-os-users/"><u>An Easy-to-Follow Methodology for Initiating a Productive Skype Conversation Among Various OS Users.</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/apeak-recorder-reviewed-speed-quality-and-ease-of-use-scored/"><u>Apeak Recorder Reviewed  Speed, Quality, and Ease of Use Scored</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/backupbreeze-professionals-opinion-for-2024/"><u>BackupBreeze Professionals Opinion for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/demystifying-video-recordingediting-a-comprehensive-guide-on-adobe-connect-for-2024/"><u>Demystifying Video Recording/Editing  A Comprehensive Guide on Adobe Connect for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/gamers-secrets-to-effective-playback-logging/"><u>Gamers' Secrets to Effective Playback Logging</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-xr-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone XR using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-best-tools-for-live-gameplay-screen-grabs/"><u>In 2024, Best Tools for Live Gameplay Screen Grabs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-clearview-recorder-xtreme-win10/"><u>In 2024, ClearView Recorder Xtreme (Win10)</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-still-using-pattern-locks-with-xiaomi-redmi-note-13-pro-5g-tips-tricks-and-helpful-advice-by-drfone-android/"><u>In 2024, Still Using Pattern Locks with Xiaomi Redmi Note 13 Pro 5G? Tips, Tricks and Helpful Advice</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-windows-10-syncing-guide-effortless-mov-file-management/"><u>In 2024, Windows 10 Syncing Guide  Effortless .mov File Management</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/livestreaming-tools-evaluation-which-bets-on-performance-in-2024/"><u>Livestreaming Tools Evaluation  Which Bets on Performance, In 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/master-guide-to-online-video-calls-free-edition-best/"><u>Master Guide to Online Video Calls  Free Edition Best</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/practical-approach-switching-video-orientation-in-vlc-for-2024/"><u>Practical Approach  Switching Video Orientation in VLC for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/the-ultimate-trick-to-find-your-stashed-instagram-reels-at-a-glance/"><u>The Ultimate Trick to Find Your Stashed Instagram Reels at a Glance</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/top-6-best-4k-full-frame-camera/"><u>Top 6 Best 4K Full Frame Camera</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/standing-and-proficiently-implementing-cc-copyrights/"><u>Understanding and Proficiently Implementing CC Copyrights</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
