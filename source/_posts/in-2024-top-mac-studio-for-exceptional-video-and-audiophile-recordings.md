@@ -1,0 +1,207 @@
+---
+title: "In 2024, Top Mac Studio for Exceptional Video & Audiophile Recordings"
+date: 2024-08-24T02:30:56.456Z
+updated: 2024-08-25T02:30:56.456Z
+tags: 
+  - screen-recording
+  - ai video
+  - ai audio
+categories: 
+  - ai
+  - screen
+description: "This Article Describes In 2024, Top Mac Studio for Exceptional Video & Audiophile Recordings"
+excerpt: "This Article Describes In 2024, Top Mac Studio for Exceptional Video & Audiophile Recordings"
+keywords: "\"Mac Studio Pro Audio,High-Res Audio Recording,Ultimate Mac Editing Suite,Premium Studio Mac Software,Audiophile Quality Capture,Excellent Video Production,Top Studio for Sound Enthusiasts\""
+thumbnail: https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f8bfa2b570a90a8bfa430bd1.jpg
+---
+
+## Top Mac Studio for Exceptional Video & Audiophile Recordings
+
+For a lot of professionals, shifting to the completely virtual setup has turned into quite a hassle. There are certain tools that are needed to be installed on the device so that everyone is able to share the project developments with their colleagues and team. One of the tools that one must install is a screen recorder with audio. It's a tool that will allow you to capture all the desktop activity and it's being widely used by the creators who are producing guides and tutorials.
+
+Mac is the operating system that is known for its versatile functionality and all the basic tools are offered preinstalled with the package. These are the basic tools that will come with limited features. If you are a heavy user and want some advanced features on your screen recording tool, we would recommend going for a paid one. In this blog, we will discuss a few tools that are available for you, both paid and free. Let's dive in without any further adieu.
+
+Part 1. [Free Ways to Record Mac Screen with Audio](#part1)
+
+Part 2. [Best Recorders to Record Screen and Audio on Mac](#part2)
+
+## Part 1\. Free Ways to Record Mac Screen with Audio
+
+Before getting to more advanced tools, it's better to go through a couple of free screen and audio recorders that you can use.
+
+### Use QuickTime Player
+
+If you are using a Mac, you must have used QuickTime Player to watch media. It's a tool that has multiple functions rather than just a player. It comes preinstalled on all the Macs and you will not need to pay any amount to unlock its features.
+
+![quicktime player](https://images.wondershare.com/filmora/article-images/quicktime-new-movie-recording.jpg)
+
+Users will get to record the screen along with mic and system audio using this tool and while you are on it, you should know that it is just a recorder and not an editor. The interface that you will get is highly intuitive and user friendly where the recording process is extremely simple and straightforward.
+
+How to record?
+
+* Launch the Search and enter QuickTime Player. To get started with the recording, press and hold the Ctrl key, click on the app icon.
+* Alternatively, you can open the app and click on the File button to screen record on Mac with audio. Click on the New Screen Recording button.
+* It will greet you with a new compact dashboard that will offer a few controls for the screen recording. In the center, you will get a Record button with a few options in the dropdown menu to enable the mouse clicks.
+* Here, you will also get to enable the mouse clicks to be recorded in the captured screen. It will help a lot of creators who are into creating guides and tutorials for their online audience.
+* Once everything is set, it's time to hit the Record button and it will give you a drag & drop tool to make the screen selection. If you want to record the full screen, all you need to do is click anywhere on the screen to start recording.
+* To select a specific area, you will need to drag and drop from any corner of the screen.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
+### Use Screenshot Toolbar
+
+The above tool is the one with just the screen recording feature and the screenshot toolbar is the one with multiple functions. It is also preinstalled on all the Macs with MacOS Mojave and above.
+
+![screen toolbar mac](https://images.wondershare.com/filmora/article-images/screen-toolbar-on-mac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
+This tool offers you screen recording and snapshot with a plethora of options. You will get to select a specific window or area using the different selection options. This toolbar will also let you screen record Mac with internal audio. Let's go through the steps below.
+
+How to record?
+
+* Launch the content that you want to record and then, you will need to press the Cmd+Shift+5 combination to launch the screenshot toolbar.
+* On the left, there will be options to take the screen snapshot according to your preference. The first tool will capture the full screen, the next will be used to capture a specific window, and the last will be used to make a custom selection.
+* Right next to it, users will get the recording options. You can either go with recording the full screen or you can use the mouse to select a specific area.
+* To get a few advanced settings, you will need to click on the Options button to access the dropdown menu. Here, you will also get to enable/disable the mic input.
+* Once all the parameters for the Macbook screen recording with audio are set, it's time to hit the Record button. In the Options, you will also get to set up the save location.
+
+## Part 2\. Best Recorders to Record Screen and Audio on Mac
+
+The tools that we have mentioned above are completely free and have very limited functionality. For advanced users, these preinstalled apps aren't recommended. In this section, we are going to discuss two apps that are equipped with a range of advanced customizations.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Wondershare Filmora
+
+There are various creators who are struggling to find a [screen recording tool](https://tools.techidaily.com/wondershare/filmora/download/) along with an editor. After going through this guide, we hope that you are able to get done with all the tweaks and customizations that you want for your video.
+
+Wondershare Filmora is an advanced tool that packs a range of features to give your content a professional look. The recording and editing process is quite simple on the Mac record screen and audio and we are going to jot the steps down here.
+
+![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<!-- affiliate ads end -->
+How to record?
+
+* Launch the app and a dialog box will appear with a couple of options. To start a new screen recording, click on New Project.
+* Now, the app will take up all the screen space with various sections. Here, you will get a Record button in the middle. The screen will look something similar to this.
+* You will need to create a new project by clicking the File button from the top taskbar. Once clicked, it will give you a number of options in the dropdown menu. Click on Record Media and it will have an expanded menu list. Click on Record PC Screen.
+* A new dialog box will appear and here, you will get all the options related to the screen recording.
+* Upfront, you will get to select the screen area that you want to record. You can either go with Full Screen or enter a custom width & height to set the recording area. You will also have the option of using the drag & drop tool to select any specific section.
+* Right next to it, you will get the mic button and you can click on it to enable/disable. It will be paired with the option to turn on/off the recording of the system sound.
+* To access more settings, you can click on the gear icon. For example, you will have the option of recording the mouse clicks in the captured screen recording.
+* Once done, hit the Record button and it will give you a 5-second buffer time and the recording will be started. To stop the screen recorder Mac with internal audio, you will need to press the Stop button on the taskbar.
+* It will be automatically saved to the Filmora folder and you will also be able to add the file to the editor's Media Panel for any sort of post-processing.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+<!-- affiliate ads begin -->
+<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### VLC Screen Recorder
+
+Among a range of tools that are available in the market for the purpose of screen recording, VLC Recorder holds a very high ranking when it comes to free tools. It's an open-source platform with a plethora of features that will attract various advanced users.
+
+![vlc screen recorder](https://images.wondershare.com/filmora/article-images/vlc-add-audio.jpg)
+
+The interface that you will get here is highly intuitive and you will not face any sort of hassle while setting up or even recording the screen. There are also many advanced options in terms of customization of the preferred settings. Let's go through the process in the following section.
+
+How to record?
+
+* Launch the app and navigate to the File button on the taskbar. Click on it and go to the Open Capture Device option.
+* A new dialog box will appear and it will give you all the options to easily record Mac screen with internal audio. The Capture tab will let you add the webcam footage along with mic input as basic settings.
+* We are discussing the screen recording process here so for that you have to change the Input Devices to Screen.
+* Now, choose the screen resolution along with the frames per second. By default, the FPS will be set to 5, however, for the screen recording, we would recommend setting it to 30\. If the VLC isn't able to handle it properly, you can set it to 15, as well.
+* Make sure that the Capture Audio checkbox is enabled and built-in mic or your external mic is selected. Click on the Settings button for more advanced options.
+* Once you have configured everything, it's time to get back to the previous dialog box and hit Open. It will start recording.
+* To stop the recording, you will simply need to press the Stop button on the bottom left.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+## Conclusion
+
+The methods that we have discussed here are quite simple and you will get some very advanced features for the screen recording tasks. We are seeing a surge in the demand of these apps and it has become an essential tool for those who are remotely working. The tools that we have discussed here are able to answer the question of how to record Mac screen with internal audio and mic input without any hassle. The free tools that come preinstalled are limited in features but the recorded content is in high quality.
+
+Part 2. [Best Recorders to Record Screen and Audio on Mac](#part2)
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-screen-to-file-solutions-with-apowersoft/"><u>[New] 2024 Approved  Screen-to-File Solutions with Apowersoft</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-streamlined-techniques-for-console-gaming-captures/"><u>[New] 2024 Approved  Streamlined Techniques for Console Gaming Captures</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-game-console-deals-under-100/"><u>[New] 2024 Approved  Ultimate Game Console Deals  Under 100$</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-adopt-a-universal-strategy-how-to-record-your-favorite-youtube-lives-on-any-device-for-2024/"><u>[New] Adopt a Universal Strategy  How To Record Your Favorite YouTube Lives on Any Device for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-elite-10-sound-recording-essentials-on-spotify-platform-for-2024/"><u>[New] Elite 10 Sound Recording Essentials on Spotify Platform for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-use-whiteboard-in-zoom-meeting-for-2024/"><u>[New] How to Use Whiteboard in Zoom Meeting for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-cutting-edge-obs-use-in-android-broadcasting/"><u>[New] In 2024, Cutting-Edge OBS Use in Android Broadcasting</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-dissecting-vsdcs-capabilities-in-screen-recording-vs-alternatives/"><u>[New] In 2024, Dissecting VSDC's Capabilities in Screen Recording vs Alternatives</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-perfectly-crafted-windows-simulators-for-ps3-games/"><u>[New] In 2024, Perfectly Crafted Windows Simulators for PS3 Games</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-top-5-innovative-mac-capturing-tools-not-bandicam/"><u>[New] In 2024, Top 5 Innovative Mac Capturing Tools, Not Bandicam</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-recording-your-world-how-camstudio-redefined/"><u>[New] Recording Your World - How CamStudio Redefined</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-revolutionary-recording-techniques-for-ipads/"><u>[New] Revolutionary Recording Techniques for iPads</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-the-loop-life-tips-to-make-your-boomerangs-addictive-for-2024/"><u>[New] The Loop Life  Tips to Make Your Boomerangs Addictive for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-easy-steps-to-record-skype-on-both-platforms/"><u>[Updated] 2024 Approved  Easy Steps to Record Skype on Both Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-superior-online-sound-devices-ranked-for-recording-2023/"><u>[Updated] 2024 Approved  Superior Online Sound Devices Ranked for Recording 2023</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-comprehensive-analysis-of-bandicam-as-a-recording-tool-for-2024/"><u>[Updated] Comprehensive Analysis of Bandicam as a Recording Tool for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-direct-screen-capture-chromium-version-for-2024/"><u>[Updated] Direct Screen Capture  Chromium Version for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-building-an-mc-village-housing-essentials/"><u>[Updated] In 2024, Building an MC Village  Housing Essentials</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-designing-dynamic-movie-synopses/"><u>[Updated] In 2024, Designing Dynamic Movie Synopses</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-essential-guide-to-action-screening-saving/"><u>[Updated] In 2024, Essential Guide to Action Screening Saving</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-depth-look-at-voice-memo-features-on-your-ios-device-for-2024/"><u>[Updated] In-Depth Look at Voice Memo Features on Your iOS Device for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-link-zoom-calls-to-iphoneandroid-events-seamlessly/"><u>[Updated] Link Zoom Calls to iPhone/Android Events Seamlessly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-premier-selection-of-best-indoor-android-games-no-wi-fi-required/"><u>[Updated] Premier Selection of Best Indoor Android Games (No Wi-Fi Required)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-best-practices-for-silent-film-making/"><u>[Updated] The Best Practices for Silent Film Making</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-essential-technique-screen-recording-on-the-go/"><u>[Updated] The Essential Technique  Screen Recording on the Go</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-companion-for-your-gaming-setup-xbox-recorder-for-2024/"><u>[Updated] The Ultimate Companion for Your Gaming Setup  Xbox Recorder for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-5-timelapse-recording-software/"><u>[Updated] Top 5 Timelapse Recording Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unlocking-potential-your-guide-to-obs-android-broadcasts/"><u>[Updated] Unlocking Potential  Your Guide to OBS Android Broadcasts</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-charting-2023s-social-trend-peaks-in-graphs/"><u>2024 Approved  Charting 2023'S Social Trend Peaks in Graphs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-expertise-in-making-screen-captures-on-ios-easier/"><u>2024 Approved  Expertise in Making Screen Captures on iOS Easier</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-inaugural-recording-evaluation-guide/"><u>2024 Approved  Inaugural Recording Evaluation Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-remote-recording-techniques-for-podcasts/"><u>2024 Approved  Remote Recording Techniques for Podcasts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-revolutionize-your-gaming-by-recording-on-win10/"><u>2024 Approved  Revolutionize Your Gaming by Recording on Win10</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-tips-from-pros-elevating-your-twitch-video-quality/"><u>2024 Approved  Tips From Pros  Elevating Your Twitch Video Quality</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/8-best-multiple-video-call-and-chat-tools-for-conference-and-friends/"><u>8 Best Multiple Video Call & Chat Tools for Conference and Friends</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/amd-radeon-r9-360-driver-update-and-download-instructions-for-windows-11-users/"><u>AMD Radeon R9 360 Driver Update and Download Instructions for Windows 11 Users</u></a></li>
+<li><a href="https://solve-news.techidaily.com/comprehensive-low-codeno-code-strategies-for-streamlining-invoice-management/"><u>Comprehensive Low-Code/No-Code Strategies for Streamlining Invoice Management</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/cutting-edge-screencasting-harness-the-power-of-visual-storytelling/"><u>Cutting Edge Screencasting  Harness the Power of Visual Storytelling</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/economical-hardware-peak-performance-via-obs-for-2024/"><u>Economical Hardware - Peak Performance via OBS for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/efficient-practices-archiving-google-voice-transcripts/"><u>Efficient Practices  Archiving Google Voice Transcripts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-script-to-screen-youtube-tutorial-and-alternative-pathways-for-2024/"><u>From Script to Screen  YouTube Tutorial & Alternative Pathways for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/harmonyhook-screen-recordings-a-review/"><u>HarmonyHook Screen Recordings  A Review</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/in-2024-direct-link-sharing-twitter-writes-on-whatsapp/"><u>In 2024, Direct Link  Sharing Twitter' Writes on WhatsApp</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-game-changing-strategies-for-effective-video-capture/"><u>In 2024, Game-Changing Strategies for Effective Video Capture</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-hidden-footage-techniques-redacting-personal-information-effectively/"><u>In 2024, Hidden Footage Techniques  Redacting Personal Information Effectively</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-melody-manual-grab-listen-and-scrutinize-songs/"><u>In 2024, Melody Manual  Grab, Listen & Scrutinize Songs</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-warriors-echoes-celebrating-ghost-of-tsushima-analogues/"><u>In 2024, Warrior's Echoes  Celebrating Ghost of Tsushima Analogues</u></a></li>
+<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Samsung Galaxy M14 4G | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/methods-to-revitalize-computer-screen-output/"><u>Methods to Revitalize Computer Screen Output</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/radeon-remembrance-set/"><u>Radeon Remembrance Set</u></a></li>
+<li><a href="https://driver-error.techidaily.com/resolution-to-recurring-amd-glitches/"><u>Resolution to Recurring AMD Glitches</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/step-by-step-approach-to-mastering-the-steam-pro-controller-on-switch/"><u>Step-by-Step Approach to Mastering the Steam Pro Controller on Switch</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-guide-to-integrating-music-and-editing-in-canva-vids-for-2024/"><u>The Guide to Integrating Music & Editing in Canva Vids for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-latest-in-video-capturing-apeaksoft-2023-edition-analysis-for-2024/"><u>The Latest in Video Capturing  Apeaksoft 2023 Edition Analysis for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/update-your-d-link-drivers-on-windows-step-by-step-guide-and-troubleshooting/"><u>Update Your D-Link Drivers on Windows: Step-by-Step Guide and Troubleshooting</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/zap-the-blackout-top-tips-for-facebook-videos-on-secure-browsers/"><u>Zap the Blackout  Top Tips for Facebook Videos on Secure Browsers</u></a></li>
+</ul></div>
+
+<ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="ca-pub-7571918770474297"
+      data-ad-slot="8358498916"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
