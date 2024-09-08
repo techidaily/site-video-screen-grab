@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Become a Communication Connoisseur with Google Meet\""
-date: 2024-09-02T13:27:38.215Z
-updated: 2024-09-03T13:27:38.215Z
+date: 2024-09-07T02:52:31.659Z
+updated: 2024-09-08T02:52:31.659Z
 tags: 
   - screen-recording
   - ai video
@@ -21,6 +21,12 @@ thumbnail: https://thmb.techidaily.com/485101ae8f555e145174a15eda6071c25617b2b00
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##### Richard Bennett
 
  Mar 27, 2024• Proven solutions
@@ -40,6 +46,18 @@ If you are looking to figure out **how to chat in Google Meet**, then keep on re
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Chat in Google Meet on a Desktop Computer?
 
 There are times when individuals have something very essential to share with the participants in the meeting, however, it just is not their turn to talk. During times such as these, the Google Meet chat feature can come in very handy!
@@ -58,12 +76,30 @@ Click on the blank text box and type the message that you would like to share.
 
 ![ Google Meet chat message  window](https://images.wondershare.com/filmora/article-images/type-texts-google-meet-chat.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 After typing the message, in order to send it to all the participants in the meeting, click the send button. Another way of sending the message is simply by pressing the “Enter” key on your keyboard.
 
 As soon as you press the arrow, your message will be visible to all the members available in the meeting at that point in time.
 
 ![ Google Meet chat with all](https://images.wondershare.com/filmora/article-images/google-meet-chat-with-all.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Chat in Google Meet Mobile App?
 
 Don’t have your laptop on you and you need to attend a Google Meet conference and use the chat feature? Well, you can easily use the chat feature on your mobile device as well!
@@ -78,14 +114,38 @@ When you press the further options button on Google Meet, more options will show
 
 ![ Google Meet in-call message button](https://images.wondershare.com/filmora/article-images/google-meet-mobile-in-call-messge-chat.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 After you click the option, your screen will show a text box pop-up on your entire screen. This is where you will type out a message or paste a link that you would like to share with other members of the Google Meet conference. Once you have typed a write up of the message that you would like to convey in the meeting, simply press send.
 
 ![ Google Meet sent chat message mobile](https://images.wondershare.com/filmora/article-images/send-google-meet-chat-message-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 After you click send, the message/messages will be shared with all other participants in the meeting. Keep in mind you cannot delete messages on Google Meet, so send messages wisely. By using the chat feature individuals can get their message across to all the members in the meeting without disrupting the entire meeting itself. There is no need to unmute your microphone to communicate when you have the chat feature available to you as well.
 
 ![ Google Meet sent chat with all mobile](https://images.wondershare.com/filmora/article-images/chat-with-all-google-meet-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3: How to Create a Group Chat on Google Meet?
 
 While there is no way to create a group chat on Google Meet directly, what individuals can do is create a hangout and then turn on videos. This way people of a certain group can video call as well as chat simultaneously.
@@ -96,6 +156,12 @@ After doing that, paste the email address of the participant that you would like
 
 ![ create group chat on Google Meet  ](https://images.wondershare.com/filmora/article-images/create-group-chat-google-meet-hangouts.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Following that, send them a hangouts link and enable video.
 
 Once that is done individuals can now chat and video conference at the same time.
@@ -106,16 +172,10 @@ Many individuals wonder if they can privately chat on Google Meet, however that 
 
 For instance, if a participant leaves a meeting and you send a message when they have left, then that participant joins again, the participant will not be able to receive or view your message. However, all those present in the session while the message was sent can read it. There is no option to create a private chat on Google Meet as of now.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ## Part 5: How to Change Google Meet Chat Font Size?
 
 Google Meet comes fully equipped with numerous features and functions, however, changing the chat font size is not one of them. Participants cannot make any changes to the font of messages sent in the chatbox. They cannot increase the size, spacing, font style, or color of the messages that are being sent. While these options are available in other Google Application features such as Gmail and more. They are still yet to come into play on Google Meet.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 6: How to Add Emojis to Google Meet Chat?
 
 Want to make your messages on Google Meet slightly quirky or funny, why not add an emoji to spice things up! Emojis are the perfect way to grab attention to pressing messages, which individuals might overlook otherwise. You may have noticed that the Google Meet chat feature does not have an emoji button visible to you, however, you can still send emojis on Google Meet.
@@ -126,21 +186,33 @@ Once you have joined the Google Meet session, make your way over to the bottom r
 
 ![ Google Meet chat option ](https://images.wondershare.com/filmora/article-images/google-meet-chat-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 After clicking on the speech bubble icon, a messaging window will open on the right side of your screen.
 
 From there go over to the messaging text box and right-click on your computer device for an additional options menu. No matter which device you are using, the first option in the additional menu will be that of emoticons and symbols.
 
 ![ Google Meet emoji and symbols option](https://images.wondershare.com/filmora/article-images/google-meet-emoji-symbols-option.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 Click the emoji and symbols option and a popup of all the emojis available on your device will appear on the screen, as shown in the image below.
 
 ![ Add emojis to Google Meet chat](https://images.wondershare.com/filmora/article-images/add-emoji-to-google-meet-chat.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<span id="1936838">
+					<video width="374" height="48" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 7: How to Turn off Google Meet Chat?
 
@@ -159,7 +231,16 @@ A popup will appear on the right-hand side of your screen with options and setti
 ![ Google Meet turn off chat](https://images.wondershare.com/filmora/article-images/turn-off-chat-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 8: How to Retrieve Google Meet Chat History?
 
@@ -171,9 +252,6 @@ Making use of the Google Meets chat feature can be extremely handy and helpful i
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
