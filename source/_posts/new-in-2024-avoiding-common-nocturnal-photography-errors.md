@@ -1,7 +1,7 @@
 ---
 title: "[New] In 2024, Avoiding Common Nocturnal Photography Errors"
-date: 2024-07-18T11:10:51.202Z
-updated: 2024-07-19T11:10:51.202Z
+date: 2024-09-09T00:56:38.238Z
+updated: 2024-09-13T09:03:55.524Z
 tags: 
   - screen-recording
   - ai video
@@ -21,14 +21,18 @@ It has been seen that most portrait photography is carried out during the daytim
 
 Well, **night-mode portraits** can be such an opportunity. However, it can be a little challenging for you. Night portrait shoots require the photographer to manipulate shutter speed, aperture, ISO, and more. Besides, there are certain dos and don'ts that you also need to keep in mind. Keep reading to know more about this.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![night potraits](https://images.wondershare.com/filmora/article-images/2022/11/night-potraits.jpg)
 
 ## Part 1: Must-Dos in Night Portraits
 
 Let's start this discussion by exploring the major dos related to **night portraits** photoshoots. Some dos that you should consider are:
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Shooting with a topic
 
@@ -50,6 +54,13 @@ Don't forget to take advantage of your camera's night mode portrait option to ge
 
 The camera will then take a series of photos at multiple exposure levels and then merge them to create a single image with great details. Even though **night mode portraits** can help you a lot, they may not work well while taking photos of moving objects. The reason behind this is that this mode takes multiple shots, and moving subjects would be blurred out. If it is a static scene, then go for it.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Shooting with a Stabilizer
 
 For better results, you can use a camera stabilizer. A camera stabilizer will offer you the ability to take beautiful and smooth shots while moving. Stabilizers come in different configurations and sizes. They can effectively lower the vibration of the camera while moving. But shooting with a monopod, gimbal, or other rigs can be a little challenging for you. However, there are some tips that you can keep in your mind for better results, for example:
@@ -61,37 +72,49 @@ For better results, you can use a camera stabilizer. A camera stabilizer will of
 * Close down the aperture.
 * Allow your subject to move into the focus distance.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![pexels marcelo dias 1970482](https://images.wondershare.com/filmora/article-images/2022/11/pexels-marcelo-dias-1970482.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Experts suggest using a sturdy camera tripod, and it will be better to get a remote release. With this, you can trigger the camera without touching the shutter button, and it will reduce the movement of the camera.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: Don't-Dos in Night Portraits
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Don't dress in dark
 
 When it comes to wearing black for night portraits, experts suggest avoiding it unless you have proper light settings and you have your make-up done by an expert who can correct the color for shadows. Sometimes, dark clothes may create an aging effect on the subject. Besides, if the lighting condition is not good, the photos will become much darker due to your dark dress. So, wear light-colored dresses. Besides, don't use shirts that have visible text, brand names or logos.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![pexels nikolai ulltang 572463](https://images.wondershare.com/filmora/article-images/2022/11/pexels-nikolai-ulltang-572463.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Don't do a capture shoot
 
 Most photographers use single shooting mode or go for the capture shoot in many cases. That could be the manual mode, and sometimes it is done to adjust the shutter and aperture manually. During night shooting, some photographers use higher ISO. This means the lens will allow more light to come in. As a result, it can create a smear while capturing a moving object. But in some cases, using continuous shooting can help you to capture some of the best moments for **night portraits.** If you are shooting in a fast-paced scenario, then this can help you a lot. You may not use all the images you have captured, but you can find perfect portraits.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 3\. Don't Overuse Light- The Right Shutter Speed, ISO and Aperture
 
 Another thing you need to avoid here is the overuse of light. You need to work on the primary exposure settings, i.e., the ISO, aperture and shutter speed. You should keep in mind that these three configurations will create exposure and influence the photos' overall brightness. One thing to consider while choosing the setting is to have a photo with a lot of detail in the mid-tones, highlights, and shadows.
@@ -100,28 +123,50 @@ When you overuse the light, it can affect the scene's depth of field. Besides, t
 
 Talking about the shutter speed, for stationary subjects, you can go for 1/160s. If it is a moving subject, then 1/500s or above can work for you. Now, coming to the ISO, the default ISO value, i.e., ISO 100, is good for taking the highest-quality photos. If you think your portraits are overexposed, then increase the shutter speed to control the light.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 4\. Don't forget about white balance and Adjust It Before Shooting
 
 Speaking about white balance, it is a setting to make sure the colors in the photos are natural and accurate and the photos don't have unrealistic colors. If the subject appears white in real but blue or red in the photos, then you need to adjust the white balance. Daylight white balance will be very warm for night photos. That's why you need to go for cooler settings, around 3200 to 4800, based on your environment and location.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![pexels simon robben 473107](https://images.wondershare.com/filmora/article-images/2022/11/pexels-simon-robben-473107.jpg)
 
 For example, in city areas, a lower setting, i.e., 3400 to 3900k, can work great. On the other hand, for darker skies, white balance settings of 4000k and above will offer you the best results. Begin with the above suggestion and click some test photos while increasing 100k after every shot to find the right white balance settings.
 
 However, you can also preset the white balance in your camera or edit the photos during post-processing to adjust the white balance. For example, you can use color correction to fix colors. Using this, you can make the photos look brighter or darker to make them appear natural and realistic. Always use a vector scope to make sure that your colors are accurate.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## FAQs
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### How To Capture Good Portraits at Night?
 
 As per the experts, the lower the aperture, the more light your camera will receive. This can make your **night mode portraits** difficult. So, you need to go for a slower shutter speed and make sure that there will be subject or camera movement. All you need to do is control the light.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### What Should You Need to Avoid in Portrait Photography?
 
 Some common mistakes that you need to avoid while shooting portraits are poor lighting, poor composition, bad background, using the incorrect lens, not properly focusing on the eyes, overexposure and more. Just follow the above-mentioned tips to get stunning night portraits.
@@ -158,8 +203,19 @@ You should use your camera in manual mode. Besides, utilizing long camera shutte
      data-full-width-responsive="true"></ins>
 
 
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-facebook-favorites-top-8-androidiphone-apps-for-social-popularity-for-2024/"><u>[New] Facebook Favorites Top 8 Android/iPhone Apps for Social Popularity for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-screenflow-for-mac-review/"><u>[New] In 2024, ScreenFlow for Mac Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-step-by-step-breakdown-hassle-free-ios-device-recordings/"><u>[Updated] In 2024, Step-by-Step Breakdown Hassle-Free iOS Device Recordings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-maximizing-game-replays-in-roblox-with-macos-tips/"><u>[Updated] Maximizing Game Replays in Roblox with macOS Tips</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-nubia-z50s-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Nubia Z50S Pro Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/eight-proven-ways-to-locate-persons-using-internet-search-technologies/"><u>Eight Proven Ways to Locate Persons Using Internet Search Technologies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-amp-up-your-media-get-free-soundtracks/"><u>In 2024, Amp Up Your Media Get Free Soundtracks!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/leveraging-phone-capabilities-for-efficient-video-recording/"><u>Leveraging Phone Capabilities for Efficient Video Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/navigate-with-finesse-your-windows-11-laptops-touch-settings/"><u>Navigate with Finesse: Your Windows 11 Laptop's Touch Settings</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/proven-strategies-for-vimeo-media-insertion-in-ppts/"><u>Proven Strategies for Vimeo Media Insertion in PPTs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/stepwise-blend-integrating-obs-and-zoom/"><u>Stepwise Blend Integrating OBS and Zoom</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-imei-unlokers-for-your-tecno-spark-10c-phone-by-drfone-android/"><u>Top IMEI Unlokers for Your Tecno Spark 10C Phone</u></a></li>
+</ul></div>
 
