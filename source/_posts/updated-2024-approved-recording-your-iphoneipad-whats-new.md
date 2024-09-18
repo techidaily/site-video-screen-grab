@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Recording Your iPhone/iPad  What's New\""
-date: 2024-09-08T21:57:30.728Z
-updated: 2024-09-12T20:03:01.163Z
+date: 2024-09-13T11:59:52.389Z
+updated: 2024-09-18T04:26:50.900Z
 tags: 
   - screen-recording
   - ai video
@@ -44,29 +44,9 @@ So, in this article, we will show you how to record your iPhone/iPad screen whet
 
 ![ios 11](https://images.wondershare.com/filmora/ios11.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
    1. Open the Control Center by swiping up from the bottom of your iPhone/iPad.
 
 ![ios screen recording ](https://images.wondershare.com/filmora/article-images/ios-screen-recording.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 1. Tap the screen recording icon that looks like a solid circle enclosed in another circle. And you will see the start recording option and a microphone button. If you want to record the microphone audio, then tap it to turn on the microphone. Then, tap on Start Recording to start.
 
@@ -77,25 +57,11 @@ So, in this article, we will show you how to record your iPhone/iPad screen whet
 
 ![iPhone/iPad screen recorder](https://images.wondershare.com/filmora/ios%20stop.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 1. This will stop the screen recording and the recorded video will be saved in the Photos app.
 
 That's the steps of how to record your iPhone screen in iOS 11 and later versions. If you want to edit the recorded video with some video editing apps, do not miss [the top 10 best video editors for iPhone and iPad](https://tools.techidaily.com/wondershare/filmora/download/).
 
 If your iOS device is running a previous version older than iOS 11, and you do not want to update, then you can record your iPhone screen with some best screen recorders for iOS, or record with QuickTime. In the following section, we will show you how to do it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: Use [QuickTime](https://support.apple.com/quicktime) to Record Screens of iPhone/iPad (Version Before iOS 11)
 
@@ -106,13 +72,6 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 1\. Connect your iOS device (iPhone/iPad/iPod touch) to your Mac with a USB cable.
 
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20logo.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2\. Launch QuickTime on your Mac available in the application folder.
 
@@ -140,19 +99,6 @@ iPhone/iPad screen recorder is a very useful tool when you want to record tutori
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
@@ -170,14 +116,28 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-experts-guide-to-the-best-ipad-voice-recording-tools-3/"><u>[New] 2024 Approved Expert's Guide to the Best iPad Voice Recording Tools #3</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-compilation-offline-ios-games-to-delight-in-for-2024/"><u>[New] The Ultimate Compilation Offline iOS Games to Delight In for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-simplify-your-multitasking-using-shortcut-keys-for-macs-screen-capture/"><u>[Updated] 2024 Approved Simplify Your Multitasking Using Shortcut Keys for Mac's Screen Capture</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-digital-video-capturing-for-professionals-stepwise-process/"><u>[Updated] Digital Video Capturing for Professionals - Stepwise Process</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/2024s-best-value-instant-cameras-under-100/"><u>2024'S Best Value Instant Cameras Under $100</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-contacts-from-honor-by-fonelab-android-recover-contacts/"><u>How to recover deleted contacts from Honor .</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-laughing-along-to-mimicked-melodies/"><u>In 2024, Laughing Along to Mimicked Melodies</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-renaming-yourself-in-google-meet-pcandroid-tips/"><u>In 2024, Renaming Yourself in Google Meet PC/Android Tips</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/troubleshooting-the-d3dx926dll-error-a-comprehensive-approach/"><u>Troubleshooting the d3dx9_26.dll Error: A Comprehensive Approach</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-perfecting-your-xbox-one-gaming-archive/"><u>[New] Perfecting Your Xbox One Gaming Archive</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-rookies-guide-to-youtube-entrepreneurship-and-earnings/"><u>[New] The Rookie's Guide to YouTube Entrepreneurship and Earnings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-fullscreen-capturing-software-pcmac-edition/"><u>[Updated] 2024 Approved Top Fullscreen Capturing Software, PC/Mac Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mastering-youtube-live-recording-on-every-gadget/"><u>[Updated] In 2024, Mastering YouTube Live Recording on Every Gadget</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ioss-choice-of-top-ps2-game-simulation-software-for-2024/"><u>[Updated] IOS's Choice of Top PS2 Game Simulation Software for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-leading-the-charge-in-sustainable-filmmaking/"><u>[Updated] Leading the Charge in Sustainable Filmmaking</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/from-novice-to-expert-comprehensive-guide-on-programming-interchangeable-remote-controllers/"><u>From Novice to Expert: Comprehensive Guide on Programming Interchangeable Remote Controllers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-migrate-android-data-from-poco-x6-to-new-android-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Migrate Android Data From Poco X6 to New Android Phone? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-investigating-freezing-moments-in-photobooth-recordings/"><u>In 2024, Investigating Freezing Moments in Photobooth Recordings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-vdr-hd-vision-recorder-report-full-overview/"><u>In 2024, VDR HD Vision Recorder Report Full Overview</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/irecorder-the-screen-recording-standard/"><u>IRecorder The Screen Recording Standard</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/t-youtube-visitors-tips-to-evade-automated-audiences-for-2024/"><u>Outwit YouTube Visitors Tips to Evade Automated Audiences for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/professional-xp-pen-artist-16-pro-touchscreen-graphic-tablet-comprehensive-evaluation/"><u>Professional Xp-Pen Artist 16 Pro Touchscreen Graphic Tablet Comprehensive Evaluation</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-sharing-made-simple-integrating-fb-content-across-3-services/"><u>Social Sharing Made Simple: Integrating FB Content Across 3 Services</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-wininetdll-issues-a-step-by-step-fix-tutorial/"><u>Troubleshooting Wininet.dll Issues - A Step-by-Step Fix Tutorial</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/tutorial-completo-como-grabar-imagenes-en-formato-iso-en-cddvd-con-windows-11-8-y-7-explicado-paso-a-paso/"><u>Tutorial Completo: Cómo Grabar Imágenes en Formato ISO en CD/DVD Con Windows 11, 8 Y 7 Explicado Paso a Paso</u></a></li>
 </ul></div>
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938698/19272" target="_top" id="1938698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938698" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

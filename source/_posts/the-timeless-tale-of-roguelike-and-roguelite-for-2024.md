@@ -1,7 +1,7 @@
 ---
 title: "The Timeless Tale of Roguelike and Roguelite for 2024"
-date: 2024-09-09T17:51:58.396Z
-updated: 2024-09-13T00:16:28.218Z
+date: 2024-09-17T01:59:08.238Z
+updated: 2024-09-18T11:09:36.427Z
 tags: 
   - screen-recording
   - ai video
@@ -39,25 +39,11 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
 
@@ -78,16 +64,10 @@ It's roguelites that are also usually a mix of different genres with _Rogue_ sty
 ---
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## A Clear Distinction
@@ -108,6 +88,13 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -126,20 +113,20 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
----
-
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Roguelite Games
 
@@ -151,25 +138,11 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Slay the Spire
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### Hades
 
@@ -182,13 +155,6 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -205,20 +171,12 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-broadcast-power-play-which-livestream-tool-should-you-use-in-2024/"><u>[New] Broadcast Power Play Which Livestream Tool Should You Use, In 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-comprehensive-guide-to-obs-setup-use-macos-edition-for-2024/"><u>[New] Comprehensive Guide to OBS Setup, Use, macOS Edition for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/new-exploring-snapchats-top-stories-for-2024/"><u>[New] Exploring Snapchat's Top Stories for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/new-free-3d-text-psd-goldmine-top-selections/"><u>[New] Free 3D Text PSD Goldmine - Top Selections</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-ghostly-snapsnapping-stealthy-techniques-for-photo-taking-on-snapchat/"><u>[New] In 2024, Ghostly SnapSnapping Stealthy Techniques for Photo-Taking on Snapchat</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-ultimate-guide-capturing-your-ps4-experience/"><u>[New] In 2024, The Ultimate Guide Capturing Your PS4 Experience</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-no-fuss-guide-to-recording-virtual-classes-on-windowsmacos/"><u>[Updated] 2024 Approved No-Fuss Guide to Recording Virtual Classes on Windows/macOS</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-leading-edge-in-game-capture-moving-past-fbx-methods/"><u>[Updated] In 2024, Leading Edge in Game Capture Moving Past FBX Methods</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-recruitment-powerhouses-top-ten-shorts/"><u>[Updated] Recruitment Powerhouses - Top Ten Shorts</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-footage-frenzy-pro-vs-platinum-with-gopro-hero5-and-hero4/"><u>2024 Approved Footage Frenzy Pro vs Platinum with GoPro Hero5 and Hero4</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/green-screen-essentials-your-first-step-guide-into-color-key-techniques-for-2024/"><u>Green Screen Essentials Your First-Step Guide Into Color Key Techniques for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-ispoofer-on-tecno-pova-5-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Tecno Pova 5? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-top-tier-streaming-tech-ranking-5-top-conference-recorder-devices/"><u>In 2024, Top-Tier Streaming Tech Ranking 5 Top Conference Recorder Devices</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-transform-meetings-with-easy-to-follow-zoom-sharing-tips/"><u>In 2024, Transform Meetings with Easy-to-Follow Zoom Sharing Tips</u></a></li>
-<li><a href="https://some-skills.techidaily.com/top-9-free-android-mp3-extractors-for-2024/"><u>Top 9 FREE Android MP3 Extractors for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-tips-for-smooth-screen-sync-in-google-meet/"><u>[New] 2024 Approved Tips for Smooth Screen Sync in Google Meet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-maximize-lenovos-recording-features-now/"><u>[New] Maximize Lenovo's Recording Features Now</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/op-screen-recorders-for-live-broadcasts-on-youtube-for-2024/"><u>[New] Top Screen Recorders for Live Broadcasts on YouTube for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-game-on-compile-your-collection-of-the-top-12-pc-clickers/"><u>[Updated] In 2024, Game On Compile Your Collection of the Top 12 PC Clickers</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-how-to-make-a-collage-on-iphone-handy-tips/"><u>In 2024, How to Make a Collage on iPhone [Handy Tips]</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/samsung-screen-captures-of-your-gaming-spree/"><u>Samsung Screen Captures of Your Gaming Spree</u></a></li>
 </ul></div>
 

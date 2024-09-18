@@ -1,7 +1,7 @@
 ---
 title: "\"Maximizing Play in Apex Legends Without Cross-Platform Limitations for 2024\""
-date: 2024-07-18T11:04:11.502Z
-updated: 2024-07-19T11:04:11.502Z
+date: 2024-09-12T21:50:24.074Z
+updated: 2024-09-17T22:29:19.747Z
 tags: 
   - screen-recording
   - ai video
@@ -25,14 +25,6 @@ thumbnail: https://thmb.techidaily.com/633e4476d735dff824b3250c253c09c234e7613f8
 
  Mar 27, 2024• Proven solutions
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/apex-poster.png)
 
 From the past few months, a few questions are asked: Can we crossplay in Apex Legends? How to disable crossplay? How about cross-progression? Further, which platform is the best to play on? What's the difference between Steam and Origin?
@@ -47,9 +39,6 @@ In this article, all of the questions above will be answered. No doubt, we have 
 
 Apex Legends Gameplay Basics:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-gameplay.jpg)
 
 In this battle royal game, you are a part of a 3-person squad. There are 14 playable characters to choose from, and they are called legends in the game. If you compare all legends, you will find that they are equal in strength, speed, and firepower. It's their special abilities that make them different from each other. Every character has a unique ability that can help you in-game to leverage other players. So, you can choose a legend that suits your playstyle and is a perfect fit for your squad.
@@ -76,9 +65,6 @@ Firstly, crossplay is enabled by default. Assume now you're playing apex on PS4/
 
 Step1, to disable it, you need to go to the setting button at the lobby's right bottom, as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
@@ -101,9 +87,6 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Xbox Series X and S**
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/xbox-seriesx.jpg)Xbox series S and X are the latest generations of Xbox. They rival their competitor PS5 and offer competitive performance when you compare these consoles with a PS5\. They do offer better gaming performance and better graphics. But, the question is, Can you play Apex on the latest generations of Xbox? The answer is yes. You will get better performance in terms of graphics and FPS but currently, the game isn't fully optimized for the latest generations. In the coming days it is expected that the game will be optimized for the latest consoles and you can enjoy the game to the fullest. Currently, you can enjoy 1440p gaming on these consoles and can get up to 120fps.
 
 **Sony PlayStation 4**
@@ -151,9 +134,6 @@ With Apex Legends available on so many platforms, sometimes it can be difficult 
 
 Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wondershare Filmora X.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
@@ -182,9 +162,6 @@ In this article, all of the questions above will be answered. No doubt, we have 
 
 Apex Legends Gameplay Basics:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-gameplay.jpg)
 
 In this battle royal game, you are a part of a 3-person squad. There are 14 playable characters to choose from, and they are called legends in the game. If you compare all legends, you will find that they are equal in strength, speed, and firepower. It's their special abilities that make them different from each other. Every character has a unique ability that can help you in-game to leverage other players. So, you can choose a legend that suits your playstyle and is a perfect fit for your squad.
@@ -195,9 +172,6 @@ There is a ring around the battleground that shrinks after fixed short intervals
 
 One thing that you must keep in mind while playing this game is that killing an opponent is a bit longer than other FPS (First Person Shooting) games. To kill an opponent, you may need to rely on several headshots, your legends' unique ability, and the support of your teammates.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Although this game is free of cost, it offers several in-game purchases. You can purchase Apex Coins, which is an in-game currency. ![](https://images.wondershare.com/filmora/article-images/Apex-ingame-purchase.jpg)
 
 You can use it to purchase loot boxes that contain skins and costumes. There are two locked characters in the game also, and you need to purchase them with Apex coins. So, you can get the maximum out of this game by spending some money and giving time to this game.
@@ -214,14 +188,8 @@ Firstly, crossplay is enabled by default. Assume now you're playing apex on PS4/
 
 Step1, to disable it, you need to go to the setting button at the lobby's right bottom, as shown below.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
 
 #### **Does it have cross-progression?**
@@ -271,9 +239,6 @@ PC Requirements For Apex Legends:
 
 **Nintendo Switch**
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![](https://images.wondershare.com/filmora/article-images/Apex-switch.png)
 
 On March 9, 2021, EA released a version of this game for Nintendo switch. Currently, it is playable on the switch, and you can only match up with switch players, but soon it will be available to play with cross-platform support. It is a big achievement for EA to make this game playable on a small screen.
@@ -294,9 +259,6 @@ Bonus：Want to record and edit your wonderful Apex gameplay? Give it a go on Wo
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -327,8 +289,25 @@ Follow @Richard Bennett
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-affordable-wireless-charging-pads-for-modern-phones/"><u>[New] 2024 Approved Affordable Wireless Charging Pads for Modern Phones</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-unraveling-the-creators-who-elevate-digital-expressions-for-2024/"><u>[New] Unraveling the Creators Who Elevate Digital Expressions for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-ignite-your-channels-engagement-with-targeted-youtube-links/"><u>[Updated] Ignite Your Channel's Engagement with Targeted YouTube Links</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-deciphering-ios-mechanism-for-image-capture/"><u>[Updated] In 2024, Deciphering IO's Mechanism for Image Capture</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-streamline-your-video-capture-on-youtube/"><u>[Updated] Streamline Your Video Capture on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/capturing-your-touch-top-8-free-android-recorders-for-2024/"><u>Capturing Your Touch Top 8 Free Android Recorders for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discover-the-best-photoshop-free-image-editors-on-a-budget/"><u>Discover the Best Photoshop-Free Image Editors on a Budget</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/elevate-podcast-quality-with-advanced-garageband-editing-methods-for-2024/"><u>Elevate Podcast Quality with Advanced GarageBand Editing Methods for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/ideal-selection-7-best-mac-video-apps/"><u>Ideal Selection 7 Best Mac Video Apps</u></a></li>
+<li><a href="https://driver-download.techidaily.com/improve-video-and-photo-quality-with-the-newest-lenovo-camera-drivers-in-windows-7-environment/"><u>Improve Video and Photo Quality with the Newest Lenovo Camera Drivers in Windows 7 Environment</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/securing-spotlight-uploading-imovie-to-vimeo-successfully/"><u>Securing Spotlight Uploading iMovie to Vimeo Successfully</u></a></li>
+</ul></div>
 
-
-
-
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Maximizing Your Steam Experience with a Switch Pro Controller for 2024"
-date: 2024-09-10T00:21:08.765Z
-updated: 2024-09-13T00:09:56.264Z
+date: 2024-09-16T07:48:25.998Z
+updated: 2024-09-17T17:12:04.000Z
 tags: 
   - screen-recording
   - ai video
@@ -42,13 +42,6 @@ This article will tell you how to enable your Nintendo Switch Pro controller to 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Wired Connection for Switch Pro Controllers**
 
 Windows describe it as a DirectInput controller instead of an XInput controller, so getting it to work with PC games can prove tedious. However, thanks to Value-adding full Switch controller support to Steam, you will probably be able to play most of your favorite games.
@@ -59,21 +52,7 @@ Windows describe it as a DirectInput controller instead of an XInput controller,
 
 ![switch-pro-controller-connected-with-cable](https://images.wondershare.com/filmora/article-images/switch-pro-controller-connected-with-cable.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 There you have it! Windows 10 will recognize your controller as a "Pro Controller." You can now proceed with installing Steam.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Wirelessly connect your Switch Pro controller to your PC**
 
@@ -82,13 +61,6 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 * Once you have charged the Pro Controller, you can press and hold the Sync button on the top of the controller for a few seconds until the indicator lights begin to flash.
 
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * Right-click the Bluetooth icon in the system tray.
 
@@ -121,20 +93,13 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **What To Do With Non-Steam Games?**
@@ -153,6 +118,13 @@ This is how you can use your switch pro controller with your PC. Now you can eas
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082533/7443" target="_top" id="2082533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Ollie Mattison
 
 Ollie Mattison is a writer and a lover of all things video.
@@ -168,16 +140,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-audiotrack-evaluation/"><u>[New] 2024 Approved AudioTrack Evaluation</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-final-thoughts-on-youtubing-best-makers-tips-and-templates/"><u>[New] 2024 Approved Final Thoughts on YouTubing - Best Makers, Tips, and Templates</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-plainvidwin11-intuitive-simple-screen-recorder-for-pcs/"><u>[New] PlainVidWin11 Intuitive, Simple Screen Recorder for PCs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-x-sync-studio-platform-personal-computing-for-2024/"><u>[New] X-Sync Studio Platform, Personal Computing for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-audience-engagement-strategies-for-compelling-screencast-videos/"><u>[Updated] 2024 Approved Audience Engagement Strategies for Compelling Screencast Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-enlightening-path-to-capturing-your-mac-screens/"><u>[Updated] In 2024, Enlightening Path to Capturing Your Mac Screens</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-ridiculous-rhythms-satirical-song-stories/"><u>[Updated] In 2024, Ridiculous Rhythms Satirical Song Stories</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/comment-supprimer-le-drm-de-vos-livres-electroniques-amazon-kindle-pour-une-lecture-illimitee/"><u>Comment Supprimer Le DRM De Vos Livres Électroniques Amazon Kindle Pour Une Lecture Illimitée</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-top-tier-tools-transforming-remote-discussions/"><u>In 2024, Top-Tier Tools Transforming Remote Discussions</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-trouble-with-iphone-se-swipe-up-try-these-11-solutions-drfone-by-drfone-ios/"><u>In 2024, Trouble with iPhone SE Swipe-Up? Try These 11 Solutions | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-oppo-k11-5g-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Oppo K11 5G? Fixed | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-mastering-angular-adjustments-in-vlc-player/"><u>[New] In 2024, Mastering Angular Adjustments in VLC Player</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-low-end-pc-visual-data-harvesters/"><u>[Updated] 2024 Approved Low-End PC Visual Data Harvesters</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-personalizing-teams-windows-for-effective-calls/"><u>[Updated] In 2024, Personalizing Teams Windows for Effective Calls</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-tips-for-three-engaging-video-descriptions-on-ig/"><u>[Updated] In 2024, Tips for Three Engaging Video Descriptions on IG</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-obs-meets-shadowcast/"><u>[Updated] OBS Meets ShadowCast</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-fb-hd-stream-to-local-storage/"><u>2024 Approved FB HD Stream to Local Storage</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-mastering-the-art-of-youtube-video-submissions-for-maximum-reach/"><u>2024 Approved Mastering the Art of YouTube Video Submissions for Maximum Reach</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-smooth-techniques-painless-ios-screen-recordings/"><u>2024 Approved Smooth Techniques Painless iOS Screen Recordings</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-oppo-f23-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/creative-tinder-bio-ideas-to-make-your-profiles-cant-resist/"><u>Creative Tinder Bio Ideas to Make Your Profiles Can't Resist</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-5-simple-steps-to-record-your-youtube-streams/"><u>In 2024, 5 Simple Steps to Record Your YouTube Streams</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-iconic-instagram-aesthetics-compilation/"><u>In 2024, Iconic Instagram Aesthetics Compilation</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-alienware-aurora-r7-high-performance-at-what-cost/"><u>In-Depth Analysis of Alienware Aurora R7: High Performance at What Cost?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-depth-look-at-vsdc-plus-top-competitors-for-2024/"><u>In-Depth Look at VSDC, Plus Top Competitors for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/revitalizing-your-pc-a-step-by-step-guide-to-updating-device-drivers-in-windows-11/"><u>Revitalizing Your PC: A Step-by-Step Guide to Updating Device Drivers in Windows 11</u></a></li>
 </ul></div>
 

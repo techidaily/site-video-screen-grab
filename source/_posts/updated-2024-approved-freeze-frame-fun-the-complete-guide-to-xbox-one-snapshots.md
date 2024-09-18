@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Freeze Frame Fun  The Complete Guide to Xbox One Snapshots\""
-date: 2024-09-05T20:08:26.800Z
-updated: 2024-09-13T02:37:33.401Z
+date: 2024-09-13T05:22:34.698Z
+updated: 2024-09-17T18:21:32.629Z
 tags: 
   - screen-recording
   - ai video
@@ -35,13 +35,6 @@ Let's have a look at how you can take screenshots in video games you play on you
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -59,31 +52,11 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Capturing Screenshots on Xbox One Using the Controller
 
 There is nothing complicated about taking a screenshot of your favorite game on Xbox One using the device's controller. All you have to do is double-click on the Xbox button and the screenshot will be captured. A sidebar will appear on the screen asking you if you want to take a screenshot or record the last 30 seconds of the gameplay. Just hit the Y button to save the screenshot. A dialog box will appear on the screen informing you that the screenshot has been saved successfully.
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 An increasing number of video games for Xbox One can be played in 4K resolution, but in order to play a game in a 4K resolution, you must have a 4K TV set. Moreover, the 4K and HDR capabilities your TV must be enabled before you start playing an Xbox One game in 4K. Taking a 4K screenshot on Xbox One requires you to adjust the capturing settings.
 
@@ -91,23 +64,9 @@ Press the Xbox button on the controller, and locate the System menu. Select the 
 
 Keep in mind that 4K screenshots are significantly larger in size than those in HD or any other resolution so if you would like to share a screenshot on social media you'll first have to download it to your Windows 10 PC and resize it. What's more taking screenshots or [recording videos](https://tools.techidaily.com/wondershare/filmora/download/) on Xbox One is only possible after you launch a game.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Capture Screenshots on Xbox One Using Voice Commands
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-voice-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Older versions of Xbox One feature the Kinect motion sensor, while the more recent versions have the Microsoft's Cortana sensor. Both of them enable you to take screenshots using voice commands. If your Xbox One has the Kinect motion sensor, you should issue the 'Xbox take a screenshot' command. Viewing the screenshot immediately after it was taken, requires you to say 'Xbox open that' and the screenshot will pop up on the screen or you can just push and hold the Xbox button on the controller.
 
@@ -116,10 +75,10 @@ You can say ' Hey _Cortana, take a screenshot'_ if your Xbox One features a Cort
 It is important to say the command clearly so the AI can understand what you are trying to do, and for that reason, you should try to avoid capturing screenshots or recording videos via voice commands in noisy rooms.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Manage and Share Screenshots on Xbox One?
@@ -146,6 +105,19 @@ What is your favorite method of taking screenshots on Xbox One? We're anxious to
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -161,16 +133,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-digital-extension-fb-stories-archive/"><u>[New] 2024 Approved Digital Extension Fb Stories Archive</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-dissecting-tunefabs-technology-for-flawless-capture/"><u>[New] 2024 Approved Dissecting Tunefab's Technology for Flawless Capture</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-art-of-vrecorder-integration-simple-download-and-use-tutorials/"><u>[Updated] In 2024, The Art of VRecorder Integration Simple Download & Use Tutorials</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-melodyrecorder-free-an-experts-evaluation-for-2024/"><u>[Updated] MelodyRecorder Free An Expert's Evaluation for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/avoiding-common-pitfalls-when-posting-on-instagram/"><u>Avoiding Common Pitfalls When Posting on Instagram</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/crossfade-mastery-in-professional-mixing-logic-pro-x-edition/"><u>Crossfade Mastery in Professional Mixing - Logic Pro X Edition</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xs-max-apples-new-iphone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XS Max, Apples New iPhone</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/mellow-your-playlist-device-specific-techniques/"><u>Mellow Your Playlist Device-Specific Techniques</u></a></li>
-<li><a href="https://article-tips.techidaily.com/pc-transfer-protocols-effective-five-ways-to-send-your-files-for-2024/"><u>PC Transfer Protocols Effective Five Ways to Send Your Files for 2024</u></a></li>
-<li><a href="https://facebook.techidaily.com/streamline-social-syncing-integrate-facebook-storage-with-top-services/"><u>Streamline Social Syncing: Integrate Facebook Storage with Top Services.</u></a></li>
-<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-tecno-spark-20-proplus-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Tecno Spark 20 Pro+ ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-mastery-over-windows-10s-photo-app-stability-challenges/"><u>[New] 2024 Approved Mastery Over Windows 10'S Photo App Stability Challenges</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-professional-video-demos-harnessing-captivates-power/"><u>[New] Professional Video Demos Harnessing Captivate's Power</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-breaking-the-internet-hashtag-wisdom-for-short-films/"><u>[Updated] In 2024, Breaking the Internet Hashtag Wisdom for Short Films</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-live-transmission-directly-to-instagram-via-obs-for-2024/"><u>[Updated] Live Transmission Directly to Instagram via OBS for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-premium-windows-11-webcam-recorder-lineup/"><u>[Updated] Premium Windows 11 Webcam Recorder Lineup</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-step-by-step-visual-tutorial-applying-filters-and-masks-in-meet/"><u>2024 Approved Step-by-Step Visual Tutorial Applying Filters & Masks in Meet</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ai-arenas-the-debate-of-chatgpt-vs-google-bard-supremacy/"><u>AI Arenas: The Debate of ChatGPT Vs. Google Bard Supremacy</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-vivo-x100-pro-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Vivo X100 Pro Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/enabling-dual-authentication-features-on-your-gmail-account-for-added-security/"><u>Enabling Dual-Authentication Features on Your Gmail Account for Added Security</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-google-pixel-7a-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Google Pixel 7a to Outlook | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-realtime-recording-arena/"><u>In 2024, RealTime Recording Arena</u></a></li>
+<li><a href="https://solve-news.techidaily.com/kostenloses-top-videoschnitt-tool-fur-windows-1187-and-macos-perfekt-zum-ausschneiden-von-videoinhalten/"><u>Kostenloses Top-Videoschnitt-Tool Für Windows (11,8,7) & macOS - Perfekt Zum Ausschneiden Von Videoinhalten</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-no-gps-signal-heres-every-possible-solution-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>Pokemon Go No GPS Signal? Heres Every Possible Solution On Realme 10T 5G | Dr.fone</u></a></li>
 </ul></div>
 
