@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Concurrent Display Archiving\""
-date: 2024-09-11T01:50:05.470Z
-updated: 2024-09-18T11:12:43.568Z
+date: 2024-09-20T06:07:06.817Z
+updated: 2024-09-22T21:39:22.750Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,13 @@ The first step towards setting up a screencasting session with multiple displays
 
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
 Widely accepted as one of the best open-source broadcasting and screen recording software ever created, OBS Studio also enables its users to record multiple screens simultaneously. The plug-in for the OBS called Simple Scene Switcher that detects on which monitor the mouse cursor is and that automatically switches between two monitors as you drag a mouse is a great option if you don't want to record multiple displays at the same time. The plug-in lets you switch between windows without disrupting the flow of the video, which makes it particularly useful for LoL players and in numerous other situations. Here's how you can record multiple monitors with OBS.
@@ -69,6 +76,13 @@ Go to OBS Studio's main window and click on the Settings button in the lower rig
 Sum up the two values of the wider sides of the screens and insert the value you get into the Base Resolution bar. For example, if one monitor has a 1366X768 resolution and the second one has a 1024X768 resolution, you should add 1024 to the 1366 and insert the resulting value (2390) as the wide resolution value in Base Resolution Bar.
 
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
+
+<!-- affiliate ads begin -->
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Capturing Multiple Monitor Displays with Camtasia
 
@@ -96,25 +110,25 @@ In case that you want to record your secondary monitor, we recommend you to try 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
+<span id="1304648">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -132,15 +146,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-a-list-hd-screen-recorders-for-optimal-performance-for-2024/"><u>[New] A-List HD Screen Recorders for Optimal Performance for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-chordcatcher-software-insight/"><u>[New] In 2024, ChordCatcher Software Insight</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twittersphere-treasures-primes-top-watchers-and-likes/"><u>[New] In 2024, Twittersphere Treasures Prime’s Top Watchers & Likes</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-seamlessly-integrate-the-ken-burns-effect-into-camtasia/"><u>[New] Seamlessly Integrate the Ken Burns Effect Into Camtasia</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-the-art-of-finding-instagram-filters-on-a-budget/"><u>[Updated] 2024 Approved The Art of Finding Instagram Filters on a Budget</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-natural-vs-artificial-balancing-your-sets-illumination/"><u>[Updated] Natural Vs. Artificial Balancing Your Set's Illumination</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-superior-sonic-collectors-for-seminars/"><u>[Updated] Superior Sonic Collectors for Seminars</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-top-5-emulated-game-boy-advance-games-a-comprehensive-guide-for-pc-users-for-2024/"><u>[Updated] Top 5 Emulated Game Boy Advance Games - A Comprehensive Guide for PC Users for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-efficiencyinusingyourwebcamforcapturing/"><u>2024 Approved EfficiencyInUsingYourWebcamForCapturing</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/new-audio-post-production-in-fcp-tips-and-tricks-for-2024/"><u>New Audio Post-Production in FCP Tips and Tricks for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-itop-insider-review-top-notch-screencast-software-compared/"><u>[New] 2024 Approved ITop Insider Review Top-Notch Screencast Software Compared</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mi-11s-screen-recording-elevate-your-digital-storytelling/"><u>[New] 2024 Approved Mi 11'S Screen Recording Elevate Your Digital Storytelling</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unlocking-green-screen-magic-video-production-tips/"><u>[New] 2024 Approved Unlocking Green Screen Magic Video Production Tips</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-capture-the-moment-innovative-approaches-to-live-video-download-for-2024/"><u>[New] Capture the Moment Innovative Approaches to Live Video Download for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-easier-cinematography-perfecting-fade-effects-for-2024/"><u>[New] Easier Cinematography Perfecting Fade Effects for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigate-motion-sickness-in-virtual-reality-with-ease/"><u>[New] Navigate Motion Sickness in Virtual Reality with Ease</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-secrets-of-saving-gameplay-on-windows-10-for-2024/"><u>[New] Secrets of Saving Gameplay on Windows 10 for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-tune-into-tomorrow-fbs-free-downloads/"><u>[New] Tune Into Tomorrow FB's Free Downloads</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-effective-webinar-logging-tips-avoiding-common-pitfalls-windows-macos/"><u>[Updated] 2024 Approved Effective Webinar Logging Tips Avoiding Common Pitfalls (Windows, macOS)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mastering-lol-recording-three-easy-techniques/"><u>[Updated] In 2024, Mastering LOL Recording Three Easy Techniques</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-key-approaches-to-building-effective-youtube-collaborations/"><u>[Updated] Key Approaches to Building Effective YouTube Collaborations</u></a></li>
+<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-motorola-g24-power-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Motorola G24 Power is off? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/clickbait-crafting-secrets-to-facebooks-favorites-for-2024/"><u>Clickbait Crafting Secrets to Facebook's Favorites for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/elevating-live-tiktok-content-via-zoom/"><u>Elevating Live TikTok Content via Zoom</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-tecno-camon-20-pro-5g-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Tecno Camon 20 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-sony-xperia-5-v-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Sony Xperia 5 V | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/live-gaming-recording-battle-pick-your-preference-obs-or-shadowplay-for-2024/"><u>Live Gaming Recording Battle Pick Your Preference, OBS or ShadowPlay for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/superior-internet-audio-devices-reviewed-and-ranked-2023/"><u>Superior Internet Audio Devices Reviewed & Ranked 2023</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/windowgrabber-3d-top-choice/"><u>WindowGrabber 3D - Top Choice</u></a></li>
 </ul></div>
 

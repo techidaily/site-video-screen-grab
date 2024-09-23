@@ -1,7 +1,7 @@
 ---
 title: Master The Art of Smooth Gaming – Tips to Prevent Disco Elysium From Crashing
-date: 2024-09-17T04:44:02.667Z
-updated: 2024-09-18T10:35:33.067Z
+date: 2024-09-19T01:32:21.455Z
+updated: 2024-09-23T02:17:07.582Z
 tags:
   - win11
   - win10
@@ -61,6 +61,13 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -75,13 +82,6 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 **4)**  Relaunch the game to test your issue.
 
 If Disco Elysium still crashes, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4 – Disable extraneous software
 
@@ -103,6 +103,13 @@ If Disco Elysium still crashes, try the next fix below.
 
 If Disco Elysium won’t work correctly, read on and try Fix 5.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5 – Verify integrity of game files
 
  Files of your game installation might get corrupt, or be deleted as a false positive by antivirus. This could cause issues such as crashes during gameplay.
@@ -119,11 +126,25 @@ If Disco Elysium won’t work correctly, read on and try Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
  This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Relaunch Disco Elysium.
 
@@ -143,13 +164,6 @@ If your game still crashes after this, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Disco Elysium – The Final Cut** , and select **Manage > Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2019-11-25_11-20-09-edited.jpg)
@@ -168,33 +182,19 @@ If the crashing issue still exists, there’s still 1 fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-44.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)**  Restart your computer and your game.
 
 If the game still crashes, then try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 9 – Run as administrator
@@ -207,9 +207,29 @@ To run your game as administrator, follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_16-59-37.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the **Compatibility** tab and check **Run this program as an administrator** . Then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_17-00-12.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4) Repeat steps 1-2 to grant Steam admin rights.
 
@@ -236,16 +256,25 @@ To run your game as administrator, follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-streamline-your-playtime-with-nvidia/"><u>[New] Streamline Your Playtime with NVIDIA</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-professional-webcam-recording-solutions-explored/"><u>[Updated] 2024 Approved Professional WebCam Recording Solutions Explored</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-excellent-auditory-recording-devices-for-classrooms/"><u>[Updated] In 2024, Excellent Auditory Recording Devices for Classrooms</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/2-covert-techniques-silent-screen-recording-on-snapchat-apps/"><u>2. Covert Techniques: Silent Screen Recording on Snapchat Apps</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-cutting-edge-filmmaking-on-your-ios-device/"><u>2024 Approved Cutting-Edge Filmmaking on Your iOS Device</u></a></li>
-<li><a href="https://blog-min.techidaily.com/best-live-streaming-platforms-for-every-content-creators-needs/"><u>Best Live Streaming Platforms for Every Content Creator's Needs</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Tecno Phantom V Flip? | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-premium-scenery-selections-for-streams/"><u>In 2024, Premium Scenery Selections for Streams</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/pixelgrabber-w11-simplest-screen-to-video-converter-for-2024/"><u>PixelGrabber W11 Simplest Screen to Video Converter for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-5-non-root-auto-clicker-apps-on-android-devices/"><u>Top 5 Non-Root Auto Clicker Apps on Android Devices</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/varias-maneiras-de-fazer-o-olho-direito-em-pt/"><u>Várias Maneiras De Fazer O Olho Direito Em PT</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-go-live-on-twitter-a-practical-guide/"><u>[New] 2024 Approved Go Live on Twitter A Practical Guide</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-transform-flv-into-youtube-hits-with-these-top-alternatives/"><u>[New] 2024 Approved Transform FLV Into YouTube Hits with These Top Alternatives</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-crafting-compelling-narratives-with-spotify-ads/"><u>[New] Crafting Compelling Narratives with Spotify Ads</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1716068691809-updated-2024-approved-expert-picks-top-12-screen-recording-software-no-time-limit/"><u>[Updated] 2024 Approved Expert Picks Top 12 Screen Recording Software, No Time Limit!</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-from-creation-to-calculation-your-guide-to-a-3-step-strategy-for-youtube-revenue-insight-for-2024/"><u>[Updated] From Creation to Calculation Your Guide to a 3-Step Strategy for YouTube Revenue Insight for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-easy-to-follow-guide-recording-non-root-android-sounds/"><u>2024 Approved Easy-to-Follow Guide Recording Non-Root Android Sounds</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-innovations-in-capturing-high-quality-facetime-calls/"><u>2024 Approved Innovations in Capturing High-Quality FaceTime Calls</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-visualsnap-win11-instant-desktop-capture-and-save/"><u>2024 Approved VisualSnap Win11 Instant Desktop Capture & Save</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/best-5-webcams-with-mic-for-2024/"><u>Best 5 Webcams with Mic for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/descargar-conversiones-de-archivo-amv-libre-de-codigo-guia-del-asistente-de-movavi/"><u>Descargar Conversiones De Archivo AMV Libre De Código: Guía Del Asistente De Movavi</u></a></li>
+<li><a href="https://driver-error.techidaily.com/device-caught-in-resource-loophole/"><u>Device Caught in Resource Loophole</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/efficiently-capturing-professional-movies-on-your-windows-pc-for-2024/"><u>Efficiently Capturing Professional Movies on Your Windows PC for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/exquisite-top-ten-nintendo-switch-combat-games-max-156-for-2024/"><u>Exquisite Top Ten Nintendo Switch Combat Games (Max 156) for 2024</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/harness-the-power-of-cookiebot-elevate-your-websites-seo-and-conversion-rates/"><u>Harness the Power of Cookiebot: Elevate Your Website's SEO & Conversion Rates!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-realme-narzo-n53-by-drfone-android/"><u>In 2024, AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Realme Narzo N53</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-best-7-first-person-shooters-of-the-year/"><u>In 2024, Best 7 First-Person Shooters of the Year</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-brain-snatching-battlegrounds-the-best-zombie-gaming-showdowns/"><u>In 2024, Brain-Snatching Battlegrounds The Best Zombie Gaming Showdowns</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-discover-top-tier-clicker-games-for-a-fulfilling-pc-experience/"><u>In 2024, Discover Top-Tier Clicker Games for a Fulfilling PC Experience</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-elevating-your-instagram-presence-with-optimized-video-sizes/"><u>In 2024, Elevating Your Instagram Presence with Optimized Video Sizes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722977517480-successful-installation-broadcom-gige-network-adapter-driver-downloads-for-windows-11-fixed-issues/"><u>Successful Installation: Broadcom GigE Network Adapter Driver Downloads for Windows 11 - Fixed Issues</u></a></li>
 </ul></div>
 
