@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Extensive Breakdown  Gecata Tracking Device Assessment for 2024\""
-date: 2024-09-17T18:24:17.247Z
-updated: 2024-09-22T17:45:47.842Z
+date: 2024-09-27T07:51:59.187Z
+updated: 2024-09-29T02:59:01.417Z
 tags: 
   - screen-recording
   - ai video
@@ -49,6 +49,13 @@ Many players like transferring screenshots of their current engagement to provid
 
 Before uploading the video to any stage, the product allows you to easily edit, convert, and adjust the file size, bit rate, outlining rate, and other characteristics of the video. The device may record and encode video up to multiple times faster when used in conjunction with NVIDIA NVENC and Intel HD Graphics equipment performance increases.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148774/18498" target="_top" id="2148774">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148774" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148774/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Use Gecata to Record Games
 
 Movavi Gecata is a relatively new continuing interaction recording program that costs just $19.95 and has all of the features that gamers want. PC games are more well-known than they have ever been, and players are eager to document their interactions. Some people have to transmit to their friends, while some do it professionally as Twitch or YouTube decorations. Regardless of the intended use, make sure you think about Gecata in light of the surrounding reality of interest.
@@ -87,120 +94,6 @@ Gecata supports a variety of codecs, makes use of NVIDIA and Intel hardware acce
 * Watermarks on recordings in the free version
 * Lags with intensive games like Call of Duty and Shutter Games
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934292/19272" target="_top" id="1934292">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934292" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934292/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Part 4: Alternative Software to Gecata to Record Games
-
-Even though Gecata allows you to broadcast and record at the same time, it's simple to overlay your camera and manage everything using hotkeys so you don't have to interrupt the interaction. The user interface is simple, yet it's functional and easy to navigate. You may record any game in 4K ultra-HD resolution, whether it's a 2D or 3D game. It also has editing capabilities, making it one of the most popular games recording programs available. Likewise, it is membership-based, which is unusual in the game catch software industry, so you should think about it. We recommend [Filmora video recorder](https://tools.techidaily.com/wondershare/filmora/download/) as one choice. Whatever you want to record, whether it's gaming, web player videos, continuing commentary, music, or anything else.
-
-Furthermore, since the finest games are found on Windows PCs, the best screen recorder for games will almost always be Windows PC software. Filmora, on the other hand, is accessible for the two phases in the event of an incident. Filmora allows you to record the whole screen, a specific location, your camera, or even just a small zone around your mouse, and it outputs in all of the major formats, including MP4\. The implicit manager allows you to add text, lines, call-outs, and other on-screen elements, which is useful if you want to create an educational exercise rather than merely record your continuing interaction. It can also record sound from anything playing on your PC or Mac. Filmora is a tool created just for you. It's more than simply a game recorder; it also allows you to modify your recordings.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-**Step 1: Open Filmora Game Recorder**
-
-![filmora screen recorder](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-To begin, The next step is to launch the software program so that you can begin recording the gameplay without delay. To do so, go to the start-up window's New Recording button, which will launch the recorder as follows:
-
-**Step 2: Customize the Inputs for Recording**
-
-With the integrated options in Filmora's recorder, you may completely modify your recordings. You may also choose between using a microphone, system sound, or both to record your games.
-
-**Step 3: Begin/End Recording**
-
-Now is the time to start the recording, which you can do by pressing the red circular recording button, which will ultimately start the recording of your gaming. Also, to stop the recording, use the square-shaped stop button.
-
-**Step 4: Organize and Share Your Recordings**
-
-Finally, you may use completely customizable editing tools to alter your game recordings. To do so, use Filmora's editor and modify your recorded gameplay files using simple to advanced editing methods.
-
-After you've finished editing your recordings, click the Export option to save them to your selected place in the appropriate video format. You may also upload your recorded files straight to your YouTube channel, as well as other cloud storage services like Google Drive and OneDrive. To share your gameplays straight to your YouTube channel, just go to the YouTube navigation bar and pick the Sign-in option.
-
-## Conclusion
-
-There are many different types of game recording software for Windows available, and each one claims to be the best on the market. As game recording software apps are excellent for constant game screen recording, especially for gaming YouTubers that have comparable levels of engagement with their viewers. Movavi's Gecata is a lightweight streaming and game recording application for Windows PCs that ensures a single tick of action. That is why we prefer Filmora since it is feature-rich, provides you total control over settings, and allows you to pick whether you want to use your PC's sound or a microphone.
-
-**Cons:**
-
-* Watermarks on recordings in the free version
-* Lags with intensive games like Call of Duty and Shutter Games
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Part 4: Alternative Software to Gecata to Record Games
-
-Even though Gecata allows you to broadcast and record at the same time, it's simple to overlay your camera and manage everything using hotkeys so you don't have to interrupt the interaction. The user interface is simple, yet it's functional and easy to navigate. You may record any game in 4K ultra-HD resolution, whether it's a 2D or 3D game. It also has editing capabilities, making it one of the most popular games recording programs available. Likewise, it is membership-based, which is unusual in the game catch software industry, so you should think about it. We recommend [Filmora video recorder](https://tools.techidaily.com/wondershare/filmora/download/) as one choice. Whatever you want to record, whether it's gaming, web player videos, continuing commentary, music, or anything else.
-
-Furthermore, since the finest games are found on Windows PCs, the best screen recorder for games will almost always be Windows PC software. Filmora, on the other hand, is accessible for the two phases in the event of an incident. Filmora allows you to record the whole screen, a specific location, your camera, or even just a small zone around your mouse, and it outputs in all of the major formats, including MP4\. The implicit manager allows you to add text, lines, call-outs, and other on-screen elements, which is useful if you want to create an educational exercise rather than merely record your continuing interaction. It can also record sound from anything playing on your PC or Mac. Filmora is a tool created just for you. It's more than simply a game recorder; it also allows you to modify your recordings.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-**Step 1: Open Filmora Game Recorder**
-
-![filmora screen recorder](https://images.wondershare.com/filmora/guide/recording-01.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-To begin, The next step is to launch the software program so that you can begin recording the gameplay without delay. To do so, go to the start-up window's New Recording button, which will launch the recorder as follows:
-
-**Step 2: Customize the Inputs for Recording**
-
-With the integrated options in Filmora's recorder, you may completely modify your recordings. You may also choose between using a microphone, system sound, or both to record your games.
-
-**Step 3: Begin/End Recording**
-
-Now is the time to start the recording, which you can do by pressing the red circular recording button, which will ultimately start the recording of your gaming. Also, to stop the recording, use the square-shaped stop button.
-
-**Step 4: Organize and Share Your Recordings**
-
-Finally, you may use completely customizable editing tools to alter your game recordings. To do so, use Filmora's editor and modify your recorded gameplay files using simple to advanced editing methods.
-
-After you've finished editing your recordings, click the Export option to save them to your selected place in the appropriate video format. You may also upload your recorded files straight to your YouTube channel, as well as other cloud storage services like Google Drive and OneDrive. To share your gameplays straight to your YouTube channel, just go to the YouTube navigation bar and pick the Sign-in option.
-
-## Conclusion
-
-There are many different types of game recording software for Windows available, and each one claims to be the best on the market. As game recording software apps are excellent for constant game screen recording, especially for gaming YouTubers that have comparable levels of engagement with their viewers. Movavi's Gecata is a lightweight streaming and game recording application for Windows PCs that ensures a single tick of action. That is why we prefer Filmora since it is feature-rich, provides you total control over settings, and allows you to pick whether you want to use your PC's sound or a microphone.
-
-**Cons:**
-
-* Watermarks on recordings in the free version
-* Lags with intensive games like Call of Duty and Shutter Games
-
 ## Part 4: Alternative Software to Gecata to Record Games
 
 Even though Gecata allows you to broadcast and record at the same time, it's simple to overlay your camera and manage everything using hotkeys so you don't have to interrupt the interaction. The user interface is simple, yet it's functional and easy to navigate. You may record any game in 4K ultra-HD resolution, whether it's a 2D or 3D game. It also has editing capabilities, making it one of the most popular games recording programs available. Likewise, it is membership-based, which is unusual in the game catch software industry, so you should think about it. We recommend [Filmora video recorder](https://tools.techidaily.com/wondershare/filmora/download/) as one choice. Whatever you want to record, whether it's gaming, web player videos, continuing commentary, music, or anything else.
@@ -235,6 +128,13 @@ Finally, you may use completely customizable editing tools to alter your game re
 
 After you've finished editing your recordings, click the Export option to save them to your selected place in the appropriate video format. You may also upload your recorded files straight to your YouTube channel, as well as other cloud storage services like Google Drive and OneDrive. To share your gameplays straight to your YouTube channel, just go to the YouTube navigation bar and pick the Sign-in option.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Conclusion
 
 There are many different types of game recording software for Windows available, and each one claims to be the best on the market. As game recording software apps are excellent for constant game screen recording, especially for gaming YouTubers that have comparable levels of engagement with their viewers. Movavi's Gecata is a lightweight streaming and game recording application for Windows PCs that ensures a single tick of action. That is why we prefer Filmora since it is feature-rich, provides you total control over settings, and allows you to pick whether you want to use your PC's sound or a microphone.
@@ -263,11 +163,111 @@ For macOS 10.12 or later
 ![filmora screen recorder](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+To begin, The next step is to launch the software program so that you can begin recording the gameplay without delay. To do so, go to the start-up window's New Recording button, which will launch the recorder as follows:
+
+**Step 2: Customize the Inputs for Recording**
+
+With the integrated options in Filmora's recorder, you may completely modify your recordings. You may also choose between using a microphone, system sound, or both to record your games.
+
+**Step 3: Begin/End Recording**
+
+Now is the time to start the recording, which you can do by pressing the red circular recording button, which will ultimately start the recording of your gaming. Also, to stop the recording, use the square-shaped stop button.
+
+**Step 4: Organize and Share Your Recordings**
+
+Finally, you may use completely customizable editing tools to alter your game recordings. To do so, use Filmora's editor and modify your recorded gameplay files using simple to advanced editing methods.
+
+After you've finished editing your recordings, click the Export option to save them to your selected place in the appropriate video format. You may also upload your recorded files straight to your YouTube channel, as well as other cloud storage services like Google Drive and OneDrive. To share your gameplays straight to your YouTube channel, just go to the YouTube navigation bar and pick the Sign-in option.
+
+## Conclusion
+
+There are many different types of game recording software for Windows available, and each one claims to be the best on the market. As game recording software apps are excellent for constant game screen recording, especially for gaming YouTubers that have comparable levels of engagement with their viewers. Movavi's Gecata is a lightweight streaming and game recording application for Windows PCs that ensures a single tick of action. That is why we prefer Filmora since it is feature-rich, provides you total control over settings, and allows you to pick whether you want to use your PC's sound or a microphone.
+
+**Cons:**
+
+* Watermarks on recordings in the free version
+* Lags with intensive games like Call of Duty and Shutter Games
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Part 4: Alternative Software to Gecata to Record Games
+
+Even though Gecata allows you to broadcast and record at the same time, it's simple to overlay your camera and manage everything using hotkeys so you don't have to interrupt the interaction. The user interface is simple, yet it's functional and easy to navigate. You may record any game in 4K ultra-HD resolution, whether it's a 2D or 3D game. It also has editing capabilities, making it one of the most popular games recording programs available. Likewise, it is membership-based, which is unusual in the game catch software industry, so you should think about it. We recommend [Filmora video recorder](https://tools.techidaily.com/wondershare/filmora/download/) as one choice. Whatever you want to record, whether it's gaming, web player videos, continuing commentary, music, or anything else.
+
+Furthermore, since the finest games are found on Windows PCs, the best screen recorder for games will almost always be Windows PC software. Filmora, on the other hand, is accessible for the two phases in the event of an incident. Filmora allows you to record the whole screen, a specific location, your camera, or even just a small zone around your mouse, and it outputs in all of the major formats, including MP4\. The implicit manager allows you to add text, lines, call-outs, and other on-screen elements, which is useful if you want to create an educational exercise rather than merely record your continuing interaction. It can also record sound from anything playing on your PC or Mac. Filmora is a tool created just for you. It's more than simply a game recorder; it also allows you to modify your recordings.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+**Step 1: Open Filmora Game Recorder**
+
+![filmora screen recorder](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+To begin, The next step is to launch the software program so that you can begin recording the gameplay without delay. To do so, go to the start-up window's New Recording button, which will launch the recorder as follows:
+
+**Step 2: Customize the Inputs for Recording**
+
+With the integrated options in Filmora's recorder, you may completely modify your recordings. You may also choose between using a microphone, system sound, or both to record your games.
+
+**Step 3: Begin/End Recording**
+
+Now is the time to start the recording, which you can do by pressing the red circular recording button, which will ultimately start the recording of your gaming. Also, to stop the recording, use the square-shaped stop button.
+
+**Step 4: Organize and Share Your Recordings**
+
+Finally, you may use completely customizable editing tools to alter your game recordings. To do so, use Filmora's editor and modify your recorded gameplay files using simple to advanced editing methods.
+
+After you've finished editing your recordings, click the Export option to save them to your selected place in the appropriate video format. You may also upload your recorded files straight to your YouTube channel, as well as other cloud storage services like Google Drive and OneDrive. To share your gameplays straight to your YouTube channel, just go to the YouTube navigation bar and pick the Sign-in option.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Conclusion
+
+There are many different types of game recording software for Windows available, and each one claims to be the best on the market. As game recording software apps are excellent for constant game screen recording, especially for gaming YouTubers that have comparable levels of engagement with their viewers. Movavi's Gecata is a lightweight streaming and game recording application for Windows PCs that ensures a single tick of action. That is why we prefer Filmora since it is feature-rich, provides you total control over settings, and allows you to pick whether you want to use your PC's sound or a microphone.
+
+**Cons:**
+
+* Watermarks on recordings in the free version
+* Lags with intensive games like Call of Duty and Shutter Games
+
+## Part 4: Alternative Software to Gecata to Record Games
+
+Even though Gecata allows you to broadcast and record at the same time, it's simple to overlay your camera and manage everything using hotkeys so you don't have to interrupt the interaction. The user interface is simple, yet it's functional and easy to navigate. You may record any game in 4K ultra-HD resolution, whether it's a 2D or 3D game. It also has editing capabilities, making it one of the most popular games recording programs available. Likewise, it is membership-based, which is unusual in the game catch software industry, so you should think about it. We recommend [Filmora video recorder](https://tools.techidaily.com/wondershare/filmora/download/) as one choice. Whatever you want to record, whether it's gaming, web player videos, continuing commentary, music, or anything else.
+
+Furthermore, since the finest games are found on Windows PCs, the best screen recorder for games will almost always be Windows PC software. Filmora, on the other hand, is accessible for the two phases in the event of an incident. Filmora allows you to record the whole screen, a specific location, your camera, or even just a small zone around your mouse, and it outputs in all of the major formats, including MP4\. The implicit manager allows you to add text, lines, call-outs, and other on-screen elements, which is useful if you want to create an educational exercise rather than merely record your continuing interaction. It can also record sound from anything playing on your PC or Mac. Filmora is a tool created just for you. It's more than simply a game recorder; it also allows you to modify your recordings.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+**Step 1: Open Filmora Game Recorder**
+
+![filmora screen recorder](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 To begin, The next step is to launch the software program so that you can begin recording the gameplay without delay. To do so, go to the start-up window's New Recording button, which will launch the recorder as follows:
 
@@ -311,5 +311,21 @@ There are many different types of game recording software for Windows available,
      data-full-width-responsive="true"></ins>
 
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-mastering-the-seamless-transition-from-obs-to-facebook-live/"><u>[New] 2024 Approved Mastering the Seamless Transition From OBS to Facebook Live</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-connecting-worlds-mastering-video-chats-on-xbox-one-with-zoom/"><u>[New] Connecting Worlds Mastering Video Chats on Xbox One with Zoom</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-advanced-steps-a-compre-point-of-view-on-screen-record-with-adobe-captivate/"><u>[New] In 2024, Advanced Steps A Compre Point of View on Screen Record with Adobe Captivate</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-guide-new-camera-recording-tech-overview-for-2024/"><u>[New] Ultimate Guide New Camera Recording Tech Overview for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-security-accessories-for-webcams/"><u>[Updated] 2024 Approved Top Security Accessories for Webcams</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-snap-your-way-unique-discover-over-120-private-story-creation-tips-and-tricks/"><u>[Updated] Snap Your Way Unique Discover over 120 Private Story Creation Tips and Tricks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-advanced-screenshot-options-for-windows-users/"><u>2024 Approved Advanced Screenshot Options for Windows Users</u></a></li>
+<li><a href="https://games-able.techidaily.com/elgato-stream-decks-recommendations-for-every-budget/"><u>Elgato Stream Decks: Recommendations for Every Budget</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-how-to-increase-followers-on-instagram-ultimate-guide/"><u>In 2024, How to Increase Followers on Instagram - Ultimate Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/transform-your-workflow-comprehensive-tutorial-for-bulk-video-converting-with-handbrake/"><u>Transform Your Workflow: Comprehensive Tutorial for Bulk Video Converting with HandBrake</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-pc-issues-fixing-sword-and-fairy-7-crashes/"><u>Troubleshooting PC Issues: Fixing Sword and Fairy 7 Crashes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-infinix-smart-8-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Infinix Smart 8 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-the-power-of-claude-discover-how-it-can-transform-your-experience/"><u>Unveiling the Power of Claude ^ - Discover How It Can Transform Your Experience</u></a></li>
+<li><a href="https://facebook.techidaily.com/water-sports-collectives-quit-social-channels/"><u>Water Sports Collectives Quit Social Channels</u></a></li>
+</ul></div>
 
