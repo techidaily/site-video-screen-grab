@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Mastering Mac Screen Saving  The Shortcut Guide\""
-date: 2024-09-27T00:16:13.104Z
-updated: 2024-09-29T02:43:19.362Z
+date: 2024-09-30T20:40:11.233Z
+updated: 2024-10-04T20:49:18.150Z
 tags: 
   - screen-recording
   - ai video
@@ -39,13 +39,6 @@ Press Command, shift, and 5 on the console at the same time. The screen capture 
 
 ![shortcut recorder mac](https://images.wondershare.com/filmora/article-images/shortcut-recorder-mac.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 2: Select Recording Mode**
 
 Pick whether you need to "Record Entire Screen" or "Record Selected Portion." If you decide to record just a part of your screen, a container will appear permitting you to drag and resize the recording window. Click on "Choices" to see what different inclinations you can pick. You can set a commencement clock, pick which receiver to utilize, and choose where to save your recording, for instance, as shown here:
@@ -53,10 +46,10 @@ Pick whether you need to "Record Entire Screen" or "Record Selected Portion." If
 ![select recording mode mac](https://images.wondershare.com/filmora/article-images/select-recording-mode-mac.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3: Start Recording**
@@ -70,6 +63,13 @@ Whenever you've chosen the choices you need, it's an ideal opportunity to record
 To stop the recording, click on the little square stop button in the upper right corner of the menu bar from the highest point of your screen. You can likewise hit Command, control, ESC to quit recording. Or on the other hand, hit Command, shift, 5 and the screen capture bar will return with a stop button you can click. Or on the other hand, assuming that you have a Touch Bar, you'll see a stop button in the upper left. When you quit recording, you'll momentarily see a thumbnail of the video in the lower-right corner of your screen. Assuming you swipe the thumbnail to one side or sit idle, your recording will consequently save as a MOV format in the directory you've set.
 
 ![stop mac shortcut recording](https://images.wondershare.com/filmora/article-images/stop-shortcut-recording-mac.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2\. Alternative Software to Record Screen on Mac
 
@@ -100,16 +100,10 @@ From that recorder interface, click on the record button and select the Record P
 ![wondershare screen recorder settings](https://images.wondershare.com/filmora/article-images/wondershare-screen-recorder-settings.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3: Start Recording**
@@ -123,10 +117,10 @@ At last, when you're ready, hit the Record button and it shall start the recordi
 After you're done with the recording, hit the Stop button and go through the Video Editor features to utilize them to the best extent. You can use Titles, Transitions, Cursor Settings, audio editing and much more with the Editor. Afterwards, to share your work of art straightforwardly to YouTube or some other renowned stage, go for the Export button and select the platform to share your video recording.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -144,21 +138,21 @@ Part 2. [Alternative Software to Record Screen on Mac](#part2)
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-expert-recommendations-the-finest-skype-recorders-of-2023/"><u>[New] Expert Recommendations The Finest Skype Recorders of 2023</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-top-8-android-multi-user-video-chat-tools/"><u>[New] In 2024, Top 8 Android Multi-User Video Chat Tools</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-offline-adventures-top-10-android-journeys-without-connectivity-for-2024/"><u>[New] Offline Adventures Top 10 Android Journeys Without Connectivity for 2024</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-transition-to-darkness-premiere-pro-techniques/"><u>[Updated] 2024 Approved Transition to Darkness Premiere Pro Techniques</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-true-score-analyzing-recordcasts-performance/"><u>[Updated] The True Score Analyzing RecordCast's Performance</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-unveiling-zooms-hidden-visual-treasures-with-filters-for-2024/"><u>[Updated] Unveiling Zoom's Hidden Visual Treasures with Filters for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-best-no-cost-video-conferencing-apps-cross-system-friendly/"><u>2024 Approved Best No-Cost Video Conferencing Apps Cross-System Friendly</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-leveraging-whiteboards-across-ios-android-and-desktop-zoom-sessions/"><u>2024 Approved Leveraging Whiteboards Across iOS, Android & Desktop Zoom Sessions</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-contacts-from-apple-iphone-6s-plus-to-iphone-quickly-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Contacts from Apple iPhone 6s Plus to iPhone Quickly | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/jpgtiff-movavi/"><u>網路上自由JPG到TIFF的轉換 - 使用Movavi圖像編輯工具</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-kinetic-insight-study/"><u>In 2024, Comprehensive Kinetic Insight Study</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-honor-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Honor</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-8-plus-by-drfone-ios/"><u>In 2024, New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone 8 Plus</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/samsungs-newest-gem-the-55-ru7300-4k-uhd-smart-led-tv-in-depth-analysis-and-reviews/"><u>Samsung's Newest Gem: The 55 RU7300 4K UHD Smart LED TV - In-Depth Analysis and Reviews</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/step-by-step-obs-tutorial-for-skype-sessions-for-2024/"><u>Step-by-Step OBS Tutorial for Skype Sessions for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/top-online-networking-sites-facebook-twitter-instagram-youtube/"><u>Top Online Networking Sites - Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-pixelpioneer-screensaver-logging/"><u>[New] In 2024, PixelPioneer Screensaver Logging</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-selfie-to-world-stage-mastering-the-art-of-instagram-captions/"><u>[New] In 2024, Selfie to World Stage Mastering the Art of Instagram Captions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-10-customizable-screenshot-tools-for-gamers-for-2024/"><u>[New] Top 10 Customizable Screenshot Tools for Gamers for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-zoom-makeover-effortless-background-softening/"><u>[New] Zoom Makeover Effortless Background Softening</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-effortless-creativity-syncing-photos-and-video-in-one-device/"><u>[Updated] Effortless Creativity Syncing Photos & Video in One Device</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-lgs-gaming-monitor-review-the-future-of-4k-freesync/"><u>[Updated] In 2024, LG’s Gaming Monitor Review - The Future of 4K FreeSync</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-srt-to-sub-shift-expert-strategies-and-actions/"><u>[Updated] SRT to SUB Shift Expert Strategies & Actions</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-step-by-step-screen-capture-on-apple-device/"><u>[Updated] Step-by-Step Screen Capture on Apple Device</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unleash-vintage-ps3-adventures-on-pc-with-leading-tools/"><u>[Updated] Unleash Vintage PS3 Adventures on PC with Leading Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-open-cities-new-stories-exploring-beyond-gta/"><u>2024 Approved Open Cities, New Stories Exploring Beyond GTA</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-stream-capture-software-unraveler/"><u>2024 Approved Stream Capture Software Unraveler</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/2024-approved-top-10-aerial-cameras-unleashing-creative-potential/"><u>2024 Approved Top 10 Aerial Cameras Unleashing Creative Potential</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-change-opus-files-to-wav-format-with-ease-movavi/"><u>Free Online Converter: Change OPUS Files to WAV Format with Ease - Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-note-30-5g-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Note 30 5G to PC? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/prime-voice-recorders-for-online-use-for-2024/"><u>Prime Voice Recorders for Online Use for 2024</u></a></li>
+<li><a href="https://win-able.techidaily.com/solving-the-no-ping-detected-issue-in-halo-infinity-a-step-by-step-guide/"><u>Solving the 'No Ping Detected' Issue in Halo Infinity: A Step-by-Step Guide</u></a></li>
 </ul></div>
 

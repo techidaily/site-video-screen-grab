@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Maximizing Your Steam Experience with a Switch Pro Controller for 2024"
-date: 2024-09-23T07:09:19.525Z
-updated: 2024-09-29T02:15:04.833Z
+date: 2024-09-27T22:38:59.755Z
+updated: 2024-10-04T17:06:43.244Z
 tags: 
   - screen-recording
   - ai video
@@ -63,22 +63,21 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 ![switch-pro-controller-syncing-button](https://images.wondershare.com/filmora/article-images/switch-pro-controller-syncing-button.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * Right-click the Bluetooth icon in the system tray.
 
 ![switch-pro-controller-bluetooth-connection](https://images.wondershare.com/filmora/article-images/switch-pro-controller-bluetooth-connection.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 * To add a Bluetooth device, click "Add Bluetooth Device."
 
@@ -89,7 +88,21 @@ It's also easy, but you need to buy an adapter or have Bluetooth on your compute
 
 ![switch-pro-controller-setting-up](https://images.wondershare.com/filmora/article-images/switch-pro-controller-setting-up.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 * Once Steam is set up, you can begin using it.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **How To Setup Steam To Use Your Switch Pro Controller On Pc**
 
@@ -107,14 +120,14 @@ When configured through Steam, you should use the Pro Controller with any Steam 
 
 ![switch-pro-controller-steam-set-up2](https://images.wondershare.com/filmora/article-images/switch-pro-controller-steam-set-up2.png)
 
-Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Enter the Switch Pro Controller overlay from Steam's controller options while running in Big Picture mode. There are several ways to map the inputs on the Pro Controller, but default configurations are usually sufficient for most games. By changing the controller mapping based on the situation, you can fix any problems on the fly.
 
 ## **What To Do With Non-Steam Games?**
 
@@ -125,13 +138,6 @@ The main problem here now is how windows will detect your switch pro controller 
 **Solution1:** The first solution is to use an external Bluetooth adapter that is specifically designed for different types of gamepads. You will find plenty of them out there for switch pro controllers.
 
 **Solution2:** The second method is to use a software-based XInput Wrapper. There is plenty of software out there that provides this functionality. Just configure your switch pro controller with them, and you can easily use it on non-steam games.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Final Verdict**
 
@@ -154,14 +160,20 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-overcoming-low-resolution-output-in-obs/"><u>[New] 2024 Approved Overcoming Low-Resolution Output in OBS</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-recorder-at-zero-free-capture-of-your-android-content/"><u>[New] 2024 Approved Recorder at Zero Free Capture of Your Android Content</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unveiling-professional-monitor-recording-by-zdsoft/"><u>[New] 2024 Approved Unveiling Professional Monitor Recording by ZDSoft</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-detailed-tips-for-adequate-lighting-in-youtube-video-production/"><u>[Updated] In 2024, Detailed Tips for Adequate Lighting in YouTube Video Production</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-troubleshooting-obs-full-screen-malfunction/"><u>[Updated] In 2024, Troubleshooting OBS Full Screen Malfunction</u></a></li>
-<li><a href="https://fake-location.techidaily.com/can-life360-track-you-when-your-nokia-xr21-is-off-drfone-by-drfone-virtual-android/"><u>Can Life360 Track You When Your Nokia XR21 is off? | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-ultimate-6-spots-for-purchasing-high-quality-laptops/"><u>Discover the Ultimate 6 Spots for Purchasing High-Quality Laptops</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-in-2024-behind-the-scenes-the-essential-roles-of-film-production-team-members/"><u>New In 2024, Behind the Scenes The Essential Roles of Film Production Team Members</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/passfab-apple-iphone-12-pro-max-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>PassFab Apple iPhone 12 Pro Max Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-elevate-your-gameplay-with-the-12-unmatched-tycoon-experiences-for-2024/"><u>[New] Elevate Your Gameplay with the #12 Unmatched Tycoon Experiences for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-record-tv-shows-on-windows-with-free-video-recording-software/"><u>[New] How to Record TV Shows on Windows with Free Video Recording Software?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-tech-savvy-strategies-recording-gotomeeting-on-any-gear/"><u>[New] In 2024, Tech-Savvy Strategies Recording GoToMeeting on Any Gear</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-effortless-methods-amp-up-your-yt-video-quality/"><u>[Updated] 2024 Approved Effortless Methods Amp Up Your YT Video Quality</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ideal-voice-recorders-7-best-in-class-2023-edition/"><u>[Updated] 2024 Approved Ideal Voice Recorders 7 Best in Class, 2023 Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-streamlining-zoom-dates-into-iosandroid-and-desktop-plans/"><u>[Updated] 2024 Approved Streamlining Zoom Dates Into iOS/Android and Desktop Plans</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-duel-masters-switch-edition-the-best-of-ten-for-2024/"><u>[Updated] Duel Masters Switch Edition - The Best of Ten for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-crafting-a-vocal-identity-steps-for-impactful-video-overdubs/"><u>[Updated] In 2024, Crafting a Vocal Identity Steps for Impactful Video Overdubs</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-the-secrets-of-seamless-zoom-communication-hacks-for-productive-remote-engagement/"><u>[Updated] In 2024, The Secrets of Seamless ZOOM Communication Hacks for Productive Remote Engagement</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-youtube-caption-implementation-essentials/"><u>2024 Approved YouTube Caption Implementation Essentials</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/crafting-compelling-movie-previews/"><u>Crafting Compelling Movie Previews</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/eight-reliable-ways-to-prevent-vrchat-pc-applications-from-crashing/"><u>Eight Reliable Ways to Prevent VRChat PC Applications From Crashing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-xiaomi-redmi-note-12-proplus-5g-bootloader-easily-by-drfone-android/"><u>In 2024, How to Unlock Xiaomi Redmi Note 12 Pro+ 5G Bootloader Easily</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-nanorecording-app-critique-with-backup-choices/"><u>In 2024, NanoRecording App Critique with Backup Choices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/premium-mobile-experience-with-best-gb-emulators/"><u>Premium Mobile Experience with Best GB Emulators</u></a></li>
 </ul></div>
 
