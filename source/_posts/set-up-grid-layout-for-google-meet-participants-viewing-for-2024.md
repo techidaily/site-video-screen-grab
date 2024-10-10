@@ -1,7 +1,7 @@
 ---
 title: "Set Up Grid Layout for Google Meet Participants' Viewing for 2024"
-date: 2024-09-29T18:28:00.449Z
-updated: 2024-10-04T22:48:51.487Z
+date: 2024-10-05T16:08:04.393Z
+updated: 2024-10-10T04:25:18.129Z
 tags: 
   - screen-recording
   - ai video
@@ -59,6 +59,13 @@ Use a slider to increase or decrease the number of participants you want to see.
 
 Google Meet apps don't support the change layout option. Thus, there are two approaches to enable the Grid view when participating in a Google Meet session through mobile phone. The following section will explain both methods in a simple step-by-step process. Let's have a look at both of them.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 1: Join Meeting through phone's browser
 
 **Step 1: Enable desktop site**
@@ -66,6 +73,13 @@ Google Meet apps don't support the change layout option. Thus, there are two app
 Click on the **three dots** and enable the **desktop site** option from the menu.
 
 ![Google Meet mobile view all participants](https://images.wondershare.com/filmora/article-images/enable-desktop-site-google-meet-browser-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Step 2: Change layout Enable tiled view to view up to 49 people at the same time**
 
@@ -91,6 +105,13 @@ Tap **add an extension** in the pop-up confirmation message. The installed exten
 
 ![Google Meet view all extension ](https://images.wondershare.com/filmora/article-images/install-google-meet-grid-view-extension.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016143/19272" target="_top" id="2016143">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016143" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016143/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2 : Create or join a meeting room in a Google Meet**
 
 Open Google Meet and click **new meeting** or enter the invitation code. Wait for all participants to join the meeting.
@@ -102,13 +123,6 @@ Click on the **extension** at the top right of the screen corner and tick the **
 **Note:** You can configure the grid view setting and choose to tick any option you prefer. Options include only show participants with video, highlight speakers, etc.
 
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-extension.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: How to Fix Google Meet Grid View Not Working Issue?
 
@@ -127,10 +141,10 @@ Open Google Chrome and click on the **three dots** at the top right corner. Choo
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/google-meet-grid-view-extension-developer-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3 : Check the working in Google Meet**
@@ -140,17 +154,10 @@ Click **new meeting** in the Google Meet. **Tap enable grid view** when you want
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-troubleshooting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
-  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Frequently Asked Questions About See Everyone on Google Meet
@@ -173,13 +180,6 @@ Sometimes, it becomes essential to make all participants visible in the grid. Fo
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
-  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -195,18 +195,14 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-adsense-profits-on-youtube-earnings-per-thousand-video-watchers/"><u>[New] AdSense Profits on YouTube Earnings per Thousand Video Watchers</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-simplified-techniques-for-converting-vimeo-media/"><u>[New] In 2024, Simplified Techniques for Converting Vimeo Media</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-depth-review-the-complete-guide-to-streamlabs-obs-for-2024/"><u>[New] In-Depth Review The Complete Guide to Streamlabs OBS for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/treamline-your-experience-with-these-top-7-mobile-adblockers-for-2024/"><u>[New] Streamline Your Experience with These Top 7 Mobile AdBlockers for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-audiotrack-evaluation/"><u>2024 Approved AudioTrack Evaluation</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Oppo A1x 5G | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/fight-like-a-warrior-5-intense-martial-arts-rpgs/"><u>Fight Like a Warrior 5 Intense Martial Arts RPGs</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-f25-pro-5g-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Oppo F25 Pro 5G to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-tecno-phantom-v-flip-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Tecno Phantom V Flip?</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-jailbreak-icloud-locked-iphone-12-pro-max-by-drfone-ios/"><u>In 2024, How to jailbreak iCloud locked iPhone 12 Pro Max</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/perfecting-ps3-recorded-content-expert-insights/"><u>Perfecting PS3 Recorded Content Expert Insights</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/rectify-video-card-glitch-prevent-crash/"><u>Rectify Video Card Glitch, Prevent Crash</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-11-screen-recorders-for-mac-for-2024/"><u>Top 11 Screen Recorders for Mac for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-core-strategies-for-android-video-capture/"><u>[New] 2024 Approved Core Strategies for Android Video Capture</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-secure-and-document-your-zoom-conferences-for-2024/"><u>[New] Secure & Document Your Zoom Conferences for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-unlocking-the-potential-of-screenshotting-your-android-device/"><u>[Updated] In 2024, Unlocking the Potential of Screenshotting Your Android Device</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-samsung-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Samsung</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/best-8-evidenced-tools-for-video-propagation-for-2024/"><u>Best 8 Evidenced Tools for Video Propagation for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-videovault-annual-review-of-top-screen-recorders/"><u>In 2024, VideoVault Annual Review of Top Screen Recorders</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-mac-screen-saving-the-shortcut-guide/"><u>Mastering Mac Screen Saving The Shortcut Guide</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/quick-guide-to-alter-username-in-google-meet-sessions/"><u>Quick Guide to Alter Username in Google Meet Sessions</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/sony-virtual-reality-headset-update-anticipated-cost-and-launch-timeline-unveiled/"><u>Sony Virtual Reality Headset Update: Anticipated Cost & Launch Timeline Unveiled</u></a></li>
 </ul></div>
 

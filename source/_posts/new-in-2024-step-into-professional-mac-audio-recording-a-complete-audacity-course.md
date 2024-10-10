@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Step Into Professional Mac Audio Recording  A Complete Audacity Course\""
-date: 2024-09-27T18:41:59.295Z
-updated: 2024-10-04T16:11:40.004Z
+date: 2024-10-08T23:40:50.992Z
+updated: 2024-10-10T03:31:14.723Z
 tags: 
   - screen-recording
   - ai video
@@ -53,20 +53,33 @@ Step 2: Click on the second option and you will see all the recording devices co
 
 ![click on the second option](https://images.wondershare.com/filmora/article-images/click-on-the-second-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 3: Go to Tracks menu option and go to Add New. Here, you have to select either Stereo Track or Mono Track as per your requirement.
 
 ![go to tracks menu](https://images.wondershare.com/filmora/article-images/go-to-tracks-menu.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 4: Now, you are ready to start recording your audio through microphone using Audacity. Click on Record button at the top bar. The recording will start immediately and you will see audiograph of your audio which shows that your voice is getting recorded.
 
 ![ready to start](https://images.wondershare.com/filmora/article-images/ready-to-start.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: When you are done, click on Stop button at the top bar.
 
@@ -98,6 +111,13 @@ Step 1: Download and install Wondershare Filmora. Launch the application and sel
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Step 2: From Recording window, set the video recording screen size as per your requirement.
 
 Step 3: Make sure the system audio is turned on and correctly selected beside the recording screen size. If you want to record microphone sound as well, turn it on and select it correctly.
@@ -105,15 +125,63 @@ Step 3: Make sure the system audio is turned on and correctly selected beside th
 ![select](https://images.wondershare.com/filmora/article-images/select.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
 
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
+
+Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Conclusion
+
+If you are looking for a free audio recorder on Mac, Audacity fits in perfectly. However, there are several drawbacks of Audacity Mac and its operation is not as easy as any other audio recorder. That is why we recommend Wondershare Filmora as an alternative to Audacity Mac as it takes care of all the issues on Audacity and offers better features and functionalities.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+* Record only external microphone audio.
+* Record only computer audio even when mic is plugged in.
+* Record both computer and mic audio simultaneously.
+* Record screen and webcam video along with audio.
+* Edit audio recording such as trim out unnecessary parts.
+* Add audio effects and external audio files.
+* Export the recorded audio and video files in different file formats.
+
+Here are the steps on how to record any audio with video using Filmora.
+
+Step 1: Download and install Wondershare Filmora. Launch the application and select PC Screen option.
+
+![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
+
+Step 2: From Recording window, set the video recording screen size as per your requirement.
+
+Step 3: Make sure the system audio is turned on and correctly selected beside the recording screen size. If you want to record microphone sound as well, turn it on and select it correctly.
+
+![select](https://images.wondershare.com/filmora/article-images/select.jpg)
+
+Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
+
+![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
 
@@ -149,14 +217,20 @@ Step 4: Click on Record button to start recording. You will get a buffer time to
 
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
 
-Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
 
 ## Conclusion
 
@@ -189,68 +263,6 @@ Step 3: Make sure the system audio is turned on and correctly selected beside th
 Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
 
 ![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Conclusion
-
-If you are looking for a free audio recorder on Mac, Audacity fits in perfectly. However, there are several drawbacks of Audacity Mac and its operation is not as easy as any other audio recorder. That is why we recommend Wondershare Filmora as an alternative to Audacity Mac as it takes care of all the issues on Audacity and offers better features and functionalities.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-* Record only external microphone audio.
-* Record only computer audio even when mic is plugged in.
-* Record both computer and mic audio simultaneously.
-* Record screen and webcam video along with audio.
-* Edit audio recording such as trim out unnecessary parts.
-* Add audio effects and external audio files.
-* Export the recorded audio and video files in different file formats.
-
-Here are the steps on how to record any audio with video using Filmora.
-
-Step 1: Download and install Wondershare Filmora. Launch the application and select PC Screen option.
-
-![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-Step 2: From Recording window, set the video recording screen size as per your requirement.
-
-Step 3: Make sure the system audio is turned on and correctly selected beside the recording screen size. If you want to record microphone sound as well, turn it on and select it correctly.
-
-![select](https://images.wondershare.com/filmora/article-images/select.jpg)
-
-Step 4: Click on Record button to start recording. You will get a buffer time to get your screen ready.
-
-![record button](https://images.wondershare.com/filmora/article-images/record-button.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
-  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 5: Click on Stop button or use F9 key again to stop recording. You can edit and export the recorded audio with video to save on your computer.
 
@@ -282,15 +294,19 @@ If you are looking for a free audio recorder on Mac, Audacity fits in perfectly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-10-mouse-recorders/"><u>[New] 2024 Approved Top 10 Mouse Recorders</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-dissecting-screencapturex-pros-latest-recording-capabilities/"><u>[New] Dissecting ScreenCaptureX Pro's Latest Recording Capabilities</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-streaming-supremacy-duo-for-2024/"><u>[New] Streaming Supremacy Duo for 2024</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/he-monetary-journey-of-ajey-nagar-on-youtube-for-2024/"><u>[New] The Monetary Journey of Ajey Nagar on YouTube for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-samsung-galaxy-xcover-6-pro-tactical-edition-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Samsung Galaxy XCover 6 Pro Tactical Edition to Roku | Dr.fone</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/exploring-the-perfect-balance-of-elegance-and-tech-an-in-depth-review-of-fitbit-charge-4/"><u>Exploring the Perfect Balance of Elegance & Tech: An In-Depth Review of Fitbit Charge 4</u></a></li>
-<li><a href="https://techtrends.techidaily.com/online-research-strategies-how-to-identify-a-persons-phone-number-without-invasion-of-privacy/"><u>Online Research Strategies: How to Identify a Person's Phone Number Without Invasion of Privacy</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/streamlining-your-video-collection-converting-mp4-with-vlc/"><u>Streamlining Your Video Collection Converting MP4 with VLC</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-rated-ios-applications-for-emulating-popular-psp-games/"><u>Top-Rated iOS Applications for Emulating Popular PSP Games</u></a></li>
-<li><a href="https://techtrends.techidaily.com/1722887307809-watching-fubotv-heres-how-you-can-stream-it-using-fire-stick-easily/"><u>Watching FuboTV? Here's How You Can Stream It Using Fire Stick Easily!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-digital-delinquency-games-comparable-to-gta-v/"><u>[New] In 2024, Digital Delinquency Games Comparable to GTA V</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-mobile-screening-guide-gogooglemeetrecorder-tips/"><u>[New] Mobile Screening Guide GoGoogleMeetRecorder Tips</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-in-depth-zoom-techniques-for-exceptional-podcasts/"><u>[Updated] 2024 Approved In-Depth Zoom Techniques for Exceptional Podcasts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-ultimate-list-of-coolest-mc-homes-designed/"><u>[Updated] 2024 Approved The Ultimate List of Coolest MC Homes Designed</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-fly-higher-10-must-have-uav-extras-revealed/"><u>[Updated] Fly Higher 10 Must-Have UAV Extras Revealed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-audio-enthusiasts-guide-to-premier-9-mic-devices/"><u>[Updated] In 2024, Audio Enthusiasts Guide to Premier 9 Mic Devices</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-transform-videos-into-attractors-try-these-7-thumbnail-makers/"><u>[Updated] In 2024, Transform Videos Into Attractors - Try These 7 Thumbnail Makers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-masterpiece-moments-top-15-musician-behind-the-scenes-vlogs/"><u>[Updated] Masterpiece Moments Top 15 Musician Behind-the-Scenes Vlogs</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-comprehensive-guide-to-top-uhd-video-players-free-download/"><u>2024 Approved Comprehensive Guide to Top UHD Video Players, Free Download</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/digital-diary-keepers-securely-download-tweets-videos/"><u>Digital Diary Keepers Securely Download Tweets' Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/innovative-approaches-to-vector-graphics-using-the-best-software/"><u>Innovative Approaches to Vector Graphics Using the Best Software</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/seamless-stories-from-the-past-accessing-older-fb-content-on-pcmobile-for-2024/"><u>Seamless Stories From The Past Accessing Older FB Content on PC/Mobile for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-essential-filmmakers-toolkit-a-guide-to-audio-recording-for-2024/"><u>The Essential Filmmaker's Toolkit A Guide to Audio Recording for 2024</u></a></li>
+<li><a href="https://win-premium.techidaily.com/top-8-free-photo-editing-software-of-2024-a-comprehensive-guide/"><u>Top 8 Free Photo-Editing Software of 2024: A Comprehensive Guide</u></a></li>
 </ul></div>
 

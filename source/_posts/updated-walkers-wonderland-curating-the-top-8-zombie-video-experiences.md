@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Walkers' Wonderland  Curating the Top 8 Zombie Video Experiences\""
-date: 2024-10-02T18:55:14.944Z
-updated: 2024-10-04T16:35:14.122Z
+date: 2024-10-04T23:12:16.246Z
+updated: 2024-10-09T23:25:55.319Z
 tags: 
   - screen-recording
   - ai video
@@ -31,42 +31,22 @@ There isn't much to World War Z by itself, but there isn't a better game for mow
 
 It is undeniably influenced by the Left 4 Dead series (RIP). It does, however, have several modern game mainstays like selectable classes & permanent progression. You may choose to play as a Horror flick, who gets extra health by rapidly killing enemies, a Fixer, who places traps in safe areas, or even one of four additional classes. Whatever character you select to level up first, you'll get to fire a lot of lead into sliding walls of decaying flesh.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 2.Dying Light: The Following
 
 ![dying-light-the-following-poster](https://images.wondershare.com/filmora/article-images/dying-light-the-following-poster.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Running over zombies has never been more fun. The Foregoing is really a DLC for Dying Light that eliminates much of the parkour again from the original game and instead places you behind the wheel of a car across a stretch of nearly spotless countryside. Splatter zombies spewing gore and leave tire tracks in their guts as you drive across the fields, attempting daring jumps. Just make sure you don't get a monster head caught in your wipers.
-
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 3.State of the Decay 2
 
 ![state-of-the-decay-2-poster](https://images.wondershare.com/filmora/article-images/state-of-the-decay-2-poster.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Unlike Project Zomboid, which concentrates primarily on the concept of being an ordinary person in an unfair position, the States of Decay series tries to keep you amused with the beautiful midwestern countryside and Gorey entertaining combat even while your supplies run out and zombies smash down your gate.
 
@@ -116,13 +96,6 @@ Get started today with Filmora's powerful performance, user-friendly interface, 
 
 ![](https://neveragain.allstatics.com/2019/assets/image/box/filmora-9.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 There isn't much to World War Z by itself, but there isn't a better game for mow down dozens, if not hundreds, of zombies with a group of friends or strangers. It's based in part on the Brad Pitt film from 2013\. Nonetheless, it's mainly an excuse to repeat the film's one distinguishing attribute: swarms of monsters that rush down streets and crash around curves like a torrent through a breached dam.
 
 It is undeniably influenced by the Left 4 Dead series (RIP). It does, however, have several modern game mainstays like selectable classes & permanent progression. You may choose to play as a Horror flick, who gets extra health by rapidly killing enemies, a Fixer, who places traps in safe areas, or even one of four additional classes. Whatever character you select to level up first, you'll get to fire a lot of lead into sliding walls of decaying flesh.
@@ -132,24 +105,24 @@ It is undeniably influenced by the Left 4 Dead series (RIP). It does, however, h
 ![dying-light-the-following-poster](https://images.wondershare.com/filmora/article-images/dying-light-the-following-poster.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Running over zombies has never been more fun. The Foregoing is really a DLC for Dying Light that eliminates much of the parkour again from the original game and instead places you behind the wheel of a car across a stretch of nearly spotless countryside. Splatter zombies spewing gore and leave tire tracks in their guts as you drive across the fields, attempting daring jumps. Just make sure you don't get a monster head caught in your wipers.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135415/19272" target="_top" id="2135415">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135415" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135415/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### 3.State of the Decay 2
 
 ![state-of-the-decay-2-poster](https://images.wondershare.com/filmora/article-images/state-of-the-decay-2-poster.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Unlike Project Zomboid, which concentrates primarily on the concept of being an ordinary person in an unfair position, the States of Decay series tries to keep you amused with the beautiful midwestern countryside and Gorey entertaining combat even while your supplies run out and zombies smash down your gate.
 
@@ -166,6 +139,13 @@ In the remake of Resident Evil 2, the perfect aim isn't enough to ensure your li
 ### 5.The Walking Dead
 
 ![the-walking-dead-poster](https://images.wondershare.com/filmora/article-images/the-walking-dead-poster.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 You play Lee Everett, a convicted murderer who takes in an orphaned young girl called Clementine as his charge. You'll make choices that will have significant repercussions for your group members when you meet more survivors. The worst part is that you develop feelings for the people in your group. As a consequence, when bad things happen, you'll feel as though you've just seen a real-life buddy being eaten rather than a video game character. People will die, unexpected events will occur, and choices will need to be made. You'll have to live with the repercussions.
 
@@ -185,16 +165,16 @@ The Last of Us, which won the game of Year in 2013, is still the best zombie gam
 
 The journey of Joel and Ellie would be both dark and terrifying. The decaying, gloomy surroundings set the tone for the stealth/survival action, making the tension almost unbearable.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 8.Back 4 Blood
 
 ![back4blood-poster](https://images.wondershare.com/filmora/article-images/back4blood-poster.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997675/19272" target="_top" id="1997675">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997675" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997675/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Back 4 Blood is an action-packed cooperative first-person action from the highly popular Left 4 Dead series developers. You're smack dab in the middle of a battle with the Ridden. That once hosts of a terrible infection have evolved into frightening monsters intent on eating civilization's ruins. It's up to you and your allies to take the battle to the enemy, eliminate the Ridden, and recapture the planet, with humanity's extinction on the line.
 
@@ -272,9 +252,23 @@ There isn't much to World War Z by itself, but there isn't a better game for mow
 
 It is undeniably influenced by the Left 4 Dead series (RIP). It does, however, have several modern game mainstays like selectable classes & permanent progression. You may choose to play as a Horror flick, who gets extra health by rapidly killing enemies, a Fixer, who places traps in safe areas, or even one of four additional classes. Whatever character you select to level up first, you'll get to fire a lot of lead into sliding walls of decaying flesh.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### 2.Dying Light: The Following
 
 ![dying-light-the-following-poster](https://images.wondershare.com/filmora/article-images/dying-light-the-following-poster.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Running over zombies has never been more fun. The Foregoing is really a DLC for Dying Light that eliminates much of the parkour again from the original game and instead places you behind the wheel of a car across a stretch of nearly spotless countryside. Splatter zombies spewing gore and leave tire tracks in their guts as you drive across the fields, attempting daring jumps. Just make sure you don't get a monster head caught in your wipers.
 
@@ -298,6 +292,13 @@ In the remake of Resident Evil 2, the perfect aim isn't enough to ensure your li
 
 ![the-walking-dead-poster](https://images.wondershare.com/filmora/article-images/the-walking-dead-poster.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094483/7443" target="_top" id="2094483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094483/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You play Lee Everett, a convicted murderer who takes in an orphaned young girl called Clementine as his charge. You'll make choices that will have significant repercussions for your group members when you meet more survivors. The worst part is that you develop feelings for the people in your group. As a consequence, when bad things happen, you'll feel as though you've just seen a real-life buddy being eaten rather than a video game character. People will die, unexpected events will occur, and choices will need to be made. You'll have to live with the repercussions.
 
 ### 6.The HD Remaster of Resident Evil
@@ -319,13 +320,6 @@ The journey of Joel and Ellie would be both dark and terrifying. The decaying, g
 ### 8.Back 4 Blood
 
 ![back4blood-poster](https://images.wondershare.com/filmora/article-images/back4blood-poster.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Back 4 Blood is an action-packed cooperative first-person action from the highly popular Left 4 Dead series developers. You're smack dab in the middle of a battle with the Ridden. That once hosts of a terrible infection have evolved into frightening monsters intent on eating civilization's ruins. It's up to you and your allies to take the battle to the enemy, eliminate the Ridden, and recapture the planet, with humanity's extinction on the line.
 
@@ -361,19 +355,20 @@ Get started today with Filmora's powerful performance, user-friendly interface, 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-a-closer-examination-the-finest-mac-recording-software/"><u>[New] 2024 Approved A Closer Examination The Finest Mac Recording Software</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-elevate-your-online-sound-experience-with-these-5-steps/"><u>[New] 2024 Approved Elevate Your Online Sound Experience with These 5 Steps</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-crafting-visual-magic-essential-techniques-for-ps-3d-luts/"><u>[New] Crafting Visual Magic Essential Techniques for PS 3D Luts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-decoding-the-top-rival-to-sharex/"><u>[New] Decoding the Top Rival to ShareX</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-unlocking-potential-in-audio-design-with-magix-fusion-x/"><u>[New] In 2024, Unlocking Potential in Audio Design with Magix Fusion X</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/tep-by-step-to-youtube-fame-excellence-in-music-video-reactions-for-2024/"><u>[New] Step-by-Step to YouTube Fame Excellence in Music Video Reactions for 2024</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-fantasy-villas-with-oriental-elegance-mc-edition/"><u>[Updated] Fantasy Villas with Oriental Elegance, MC Edition</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-efficient-methods-for-producing-and-perfecting-multiple-snaps/"><u>[Updated] In 2024, Efficient Methods for Producing & Perfecting Multiple Snaps</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-wistia-user-introduction-size-format-duration/"><u>[Updated] In 2024, Wistia User Introduction Size, Format, Duration</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-step-by-step-guide-for-efficient-documentation-of-your-online-collaborations-for-2024/"><u>[Updated] Step-by-Step Guide for Efficient Documentation of Your Online Collaborations for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-time-saving-tips-for-documenting-virtual-meeting-events-for-2024/"><u>[Updated] Time-Saving Tips for Documenting Virtual Meeting Events for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/cutting-edge-filmmaking-on-your-ios-device-for-2024/"><u>Cutting-Edge Filmmaking on Your iOS Device for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/expert-advice-for-fixing-a-broken-macbook-pros-typing-surface/"><u>Expert Advice for Fixing a Broken MacBook Pro's Typing Surface</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-elite-selection-6-premier-antivirus-solutions-for-apples-smartphones/"><u>Unveiling the Elite Selection: 6 Premier Antivirus Solutions for Apple's Smartphones</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ideal-blueprint-top-6-fresh-mojave-homes/"><u>[New] 2024 Approved Ideal Blueprint Top 6 Fresh Mojave Homes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-superior-non-zoom-virtual-collaboration-options/"><u>[New] 2024 Approved Superior Non-Zoom Virtual Collaboration Options</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-cheap-not-bad-chromebooks-top-recording-tools-for-2024/"><u>[New] Cheap Not Bad – Chromebook's Top Recording Tools for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-from-airwaves-to-archives-online-recording-strategies-for-tv-shows/"><u>[New] From Airwaves to Archives Online Recording Strategies for TV Shows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-premier-mac-gif-capturer-pro/"><u>[Updated] In 2024, Premier Mac GIF Capturer Pro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-unlocking-social-media-potential-stream-to-fb-via-obs/"><u>[Updated] In 2024, Unlocking Social Media Potential Stream to FB via OBS</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-smallscreenvid-recorder-critique/"><u>[Updated] SmallScreenVid Recorder Critique</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-oppo-reno-10-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Oppo Reno 10 5G | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-newest-magicard-rio-pro-driver-game-for-your-window-10-8-cuisine-and-7-machine-download-here/"><u>Get the Newest Magicard Rio Pro Driver Game for Your Window 10, 8. Cuisine, and 7 Machine: Download Here!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-xcover-7-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Samsung Galaxy XCover 7 Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-start-to-end-mastering-the-art-of-fading-in-pro/"><u>In 2024, From Start to End Mastering the Art of Fading in Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-lava-blaze-2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Lava Blaze 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/reduce-audio-noise-in-video-recording-free-and-paid/"><u>Reduce Audio Noise in Video Recording [Free and Paid]</u></a></li>
+<li><a href="https://howto.techidaily.com/why-does-my-motorola-g54-5g-keep-turning-off-by-itself-6-fixes-are-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Does My Motorola G54 5G Keep Turning Off By Itself? 6 Fixes Are Here | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722976352817-windows-10-now-comes-with-pre-installed-printer-and-scanner-drivers-fix-implemented/"><u>Windows 10 Now Comes With Pre-Installed Printer and Scanner Drivers - Fix Implemented</u></a></li>
 </ul></div>
 
