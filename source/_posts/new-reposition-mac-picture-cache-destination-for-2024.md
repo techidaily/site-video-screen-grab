@@ -1,7 +1,7 @@
 ---
 title: "[New] Reposition Mac Picture Cache Destination for 2024"
-date: 2024-09-02T13:22:32.057Z
-updated: 2024-09-03T13:22:32.057Z
+date: 2024-10-13T16:53:49.593Z
+updated: 2024-10-15T22:23:49.448Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,13 @@ Changing the folder where you store your screenshots is not an irreversible proc
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
 **defaults write com.apple.screencapture location**
@@ -61,6 +68,13 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -73,8 +87,12 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -88,20 +106,17 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -109,3 +124,25 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-innovative-strategies-for-effective-live-webcam-recording/"><u>[New] 2024 Approved Innovative Strategies for Effective Live Webcam Recording</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-sifting-through-the-sands-of-youtube-conversations/"><u>[New] 2024 Approved Sifting Through the Sands of YouTube Conversations</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-beginners-pathway-photos-transformed-into-videos-via-pixiz/"><u>[New] Beginner's Pathway Photos Transformed Into Videos via Pixiz</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-learn-to-capture-videos-from-webcam-in-vlc/"><u>[New] In 2024, Learn to Capture Videos From Webcam in VLC</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-sparkle-on-screen-ideal-tools-for-online-videos/"><u>[New] In 2024, Sparkle on Screen Ideal Tools for Online Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-ultimate-checklist-for-logitech-webcam-setup/"><u>[New] In 2024, The Ultimate Checklist for Logitech Webcam Setup</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamlining-your-screenshot-journey-on-sonys-playstation-4-console/"><u>[New] Streamlining Your Screenshot Journey on Sony’s PlayStation 4 Console</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capturing-the-live-best-obs-screen-recorders-reviewed/"><u>[Updated] In 2024, Capturing the Live Best OBS Screen Recorders Reviewed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ranked-top-ios-solutions-for-playing-classic-psp-games-today/"><u>[Updated] Ranked Top iOS Solutions for Playing Classic PSP Games Today</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-vdsc-vidmaster-tale-a-comprehensive-evaluation/"><u>2024 Approved VDSC VidMaster Tale A Comprehensive Evaluation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/begin-recording-your-webcam-via-vlc-player-for-2024/"><u>Begin Recording Your Webcam via VLC Player for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-gameplay-experience-in-dragons-dogma-2-by-overcoming-low-fps-issues-and-stutter/"><u>Boost Your Gameplay Experience in Dragon's Dogma 2 by Overcoming Low FPS Issues and Stutter</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-capabilities-of-chatgpt-does-it-excel-at-mathematical-problem-solving/"><u>Exploring the Capabilities of ChatGPT: Does It Excel at Mathematical Problem-Solving?</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-11-pro-max-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 11 Pro Max Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
+<li><a href="https://win-popular.techidaily.com/step-by-step-process-on-converting-mpeg-transport-streams-ts-to-mp4-video-file/"><u>Step-by-Step Process on Converting MPEG Transport Streams (TS) to MP4 Video File</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/the-impact-of-multi-view-video-technology-on-home-surveillance/"><u>The Impact of Multi-View Video Technology on Home Surveillance</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-5-budget-friendly-methods-for-live-feed-recordings-for-2024/"><u>Top 5 Budget-Friendly Methods for Live Feed Recordings for 2024</u></a></li>
+</ul></div>
+

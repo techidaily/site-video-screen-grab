@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Freeze Frame Fun  The Complete Guide to Xbox One Snapshots\""
-date: 2024-10-05T01:12:08.388Z
-updated: 2024-10-09T19:15:05.513Z
+date: 2024-10-14T13:11:46.695Z
+updated: 2024-10-15T17:04:01.823Z
 tags: 
   - screen-recording
   - ai video
@@ -59,10 +59,10 @@ There is nothing complicated about taking a screenshot of your favorite game on 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 An increasing number of video games for Xbox One can be played in 4K resolution, but in order to play a game in a 4K resolution, you must have a 4K TV set. Moreover, the 4K and HDR capabilities your TV must be enabled before you start playing an Xbox One game in 4K. Taking a 4K screenshot on Xbox One requires you to adjust the capturing settings.
@@ -72,22 +72,21 @@ Press the Xbox button on the controller, and locate the System menu. Select the 
 Keep in mind that 4K screenshots are significantly larger in size than those in HD or any other resolution so if you would like to share a screenshot on social media you'll first have to download it to your Windows 10 PC and resize it. What's more taking screenshots or [recording videos](https://tools.techidaily.com/wondershare/filmora/download/) on Xbox One is only possible after you launch a game.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528689/16446" target="_top" id="1528689">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528689" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528689/16446" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977004">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Capture Screenshots on Xbox One Using Voice Commands
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-voice-screenshot.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Older versions of Xbox One feature the Kinect motion sensor, while the more recent versions have the Microsoft's Cortana sensor. Both of them enable you to take screenshots using voice commands. If your Xbox One has the Kinect motion sensor, you should issue the 'Xbox take a screenshot' command. Viewing the screenshot immediately after it was taken, requires you to say 'Xbox open that' and the screenshot will pop up on the screen or you can just push and hold the Xbox button on the controller.
 
@@ -96,10 +95,10 @@ You can say ' Hey _Cortana, take a screenshot'_ if your Xbox One features a Cort
 It is important to say the command clearly so the AI can understand what you are trying to do, and for that reason, you should try to avoid capturing screenshots or recording videos via voice commands in noisy rooms.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Manage and Share Screenshots on Xbox One?
@@ -126,6 +125,13 @@ What is your favorite method of taking screenshots on Xbox One? We're anxious to
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -141,22 +147,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-escaping-reality-top-10-games-like-gta-v-but-not/"><u>[New] 2024 Approved Escaping Reality - Top 10 Games Like GTA V (But Not)</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-simplify-your-workflow-converting-spoken-language-to-text-in-word/"><u>[New] 2024 Approved Simplify Your Workflow Converting Spoken Language to Text in Word</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-androids-animated-adventures-top-game-list-for-2024/"><u>[New] Android’s Animated Adventures – Top Game List for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-essential-action-triumphs-the-top-games-compilation/"><u>[New] Essential Action Triumphs The Top Games Compilation</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/new-pioneers-in-online-mastery-meet-up/"><u>[New] Pioneers in Online Mastery Meet-Up</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-asgard-unleashed-echoes-of-ragnarok/"><u>[Updated] In 2024, Asgard Unleashed Echoes of Ragnarök</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-in-depth-look-screen-capture-tools-for-mac/"><u>[Updated] In 2024, In-Depth Look Screen Capture Tools for Mac</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-step-by-step-guide-to-professional-youtube-live-broadcast-with-wirecast/"><u>[Updated] Step-by-Step Guide to Professional YouTube Live Broadcast with WireCast</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-efficient-techniques-for-adobe-presenter-capture/"><u>2024 Approved Efficient Techniques for Adobe Presenter Capture</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/2024-approved-unraveling-the-mystery-what-hides-in-snapchat-emoji-meanings/"><u>2024 Approved Unraveling the Mystery What Hides in Snapchat Emoji Meanings?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/academic-archiving-ranking-the-top-10-educators-video-capturers-for-2024/"><u>Academic Archiving Ranking the Top 10 Educator's Video Capturers for 2024</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/best-rated-vr-joysticks-unveiled-for-2024/"><u>Best-Rated VR Joysticks Unveiled for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/download-and-install-hp-officejet-4650-printer-drivers-on-windows-os/"><u>Download and Install HP OfficeJet 4650 Printer Drivers on Windows OS</u></a></li>
-<li><a href="https://driver-error.techidaily.com/easy-solutions-when-confronted-with-failed-hcmonservice-installs/"><u>Easy Solutions When Confronted with Failed Hcmonservice Installs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/expert-guide-to-streamlined-and-efficient-mac-screenshots-via-keyboard-shortcuts-for-2024/"><u>Expert Guide to Streamlined and Efficient Mac Screenshots via Keyboard Shortcuts for 2024</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-address-over-cpu-usage-by-microsoft-security-essentials-in-windows-11-issue-fixed/"><u>How to Address Over-CPU Usage by Microsoft Security Essentials in Windows 11 [ISSUE FIXED]</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-conquering-capture-a-detailed-walkthrough-for-ps4-recordings/"><u>In 2024, Conquering Capture A Detailed Walkthrough for PS4 Recordings</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-ultimate-5-vr-sets-elevating-uav-experience/"><u>[New] Ultimate 5 VR Sets Elevating UAV Experience</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-craft-your-unique-ringtone-from-favorite-tiktok-music-to-cellphone-alarms/"><u>2024 Approved Craft Your Unique Ringtone - From Favorite TikTok Music to Cellphone Alarms</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/2024-approved-dive-into-time-lapse-with-advanced-canon-tactics/"><u>2024 Approved Dive Into Time-Lapse with Advanced Canon Tactics</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-navigating-audio-capture-in-minecraft-a-mac-experts-handbook/"><u>2024 Approved Navigating Audio Capture in Minecraft A Mac Expert's Handbook</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-rediscovering-retro-gaming-identifying-the-most-advanced-gb-console-emulation-programs/"><u>2024 Approved Rediscovering Retro Gaming Identifying the Most Advanced GB Console Emulation Programs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/3-ways-to-record-lectures-on-mac/"><u>3 Ways to Record Lectures on Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/aligning-phonetablet-zoom-schedules-with-pc-plans/"><u>Aligning Phone/Tablet Zoom Schedules with PC Plans</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-blur-the-background-in-teams-meeting-desktop-and-mobile/"><u>How to Blur the Background in Teams Meeting? [Desktop & Mobile]</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-lava-blaze-2-pro-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Lava Blaze 2 Pro?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-two-ways-to-sync-contacts-from-realme-v30-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Two Ways to Sync Contacts from Realme V30 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://fox-place.techidaily.com/procedura-esecutiva-per-lavvio-da-periferica-usb-con-funzionalita-uefi/"><u>Procedura Esecutiva per L'Avvio Da Periferica USB Con Funzionalità UEFI</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/sensational-sentences-the-strategy-of-speak-up-lines/"><u>Sensational Sentences: The Strategy of Speak-Up Lines</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ultimate-guide-to-the-best-magsafe-wallets-of-2e24-expert-analysis-and-ratings/"><u>Ultimate Guide to the Best MagSafe Wallets of 2E24: Expert Analysis & Ratings</u></a></li>
+<li><a href="https://change-location.techidaily.com/will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy A14 5G | Dr.fone</u></a></li>
 </ul></div>
 

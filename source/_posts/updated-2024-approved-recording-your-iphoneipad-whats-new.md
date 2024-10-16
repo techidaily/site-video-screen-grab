@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Recording Your iPhone/iPad  What's New\""
-date: 2024-10-07T21:38:21.260Z
-updated: 2024-10-09T18:47:47.540Z
+date: 2024-10-15T07:15:59.007Z
+updated: 2024-10-16T06:45:39.533Z
 tags: 
   - screen-recording
   - ai video
@@ -74,10 +74,10 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20logo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 2\. Launch QuickTime on your Mac available in the application folder.
@@ -86,6 +86,13 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20new%20moive.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094429/7443" target="_top" id="2094429">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094429" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094429/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4\. A video recording screen will open. Now slide the cursor over that window to make the record and volume button visible.
 
 5\. Click on the arrow next to the red record button to show the camera and microphone recording options. Choose your device from the list of devices and you will be able to see your device screen in the QuickTime window.
@@ -93,13 +100,6 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 6\. Click on the red record button when you want to start recording.
 
 ![quicktime screen recorder](https://images.wondershare.com/filmora/quicktime%20iphone.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7\. To stop the recording of the screen of your iOS device, click on the Stop button at the video recorder window.
 
@@ -114,19 +114,19 @@ iPhone/iPad screen recorder is a very useful tool when you want to record tutori
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -144,22 +144,20 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-capture-call-transcript-for-study/"><u>[New] Capture Call Transcript for Study</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-elevate-your-video-recordings-tips-for-mov-files-on-windows-10/"><u>[New] Elevate Your Video Recordings Tips for MoV Files on Windows 10</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/new-in-2024-mastering-tiktok-video-posts-on-twitter/"><u>[New] In 2024, Mastering TikTok Video Posts on Twitter</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-mastering-obs-for-live-skype-recording-for-2024/"><u>[New] Mastering OBS for Live Skype Recording for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-accelerated-screen-recordings-and-voice-over-assistance/"><u>[Updated] 2024 Approved Accelerated Screen Recordings & Voice Over Assistance</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-30-pathways-to-unique-metaverse-meme-production/"><u>[Updated] 30 Pathways to Unique Metaverse Meme Production</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-excellent-quality-hd-video-preservers/"><u>[Updated] Excellent Quality HD Video Preservers</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-strategic-giants-identifying-the-prime-7-total-war-battles/"><u>[Updated] In 2024, Strategic Giants Identifying the Prime 7 Total War Battles</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-master-pip-feature-while-consuming-youtube-videos-on-iphones/"><u>[Updated] Master PIP Feature While Consuming YouTube Videos on iPhones</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-revolutionize-your-harvest-stardews-top-7-upgrades-for-2024/"><u>[Updated] Revolutionize Your Harvest Stardew's Top 7 Upgrades for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/capturing-the-moment-expert-use-of-aiseesofts-recording-features-for-2024/"><u>Capturing the Moment Expert Use of Aiseesoft's Recording Features for 2024</u></a></li>
-<li><a href="https://discover-dash.techidaily.com/gratis-y-seguro-el-mas-eficaz-descargador-de-video-en-4k-descubre-las-mejores-opciones-para-sus-playlists/"><u>Gratis Y Seguro, El Más Eficaz Descargador De Video en 4K - Descubre Las Mejores Opciones Para Sus Playlists</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-inside-look-freewebcampro-software-overview/"><u>In 2024, Inside Look FreeWebcamPro Software Overview</u></a></li>
-<li><a href="https://games-able.techidaily.com/optimal-control-logitech-gaming-mouse/"><u>Optimal Control: Logitech Gaming Mouse</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/step-into-mobile-entertainment-funimates-apk-pathway-for-2024/"><u>Step Into Mobile Entertainment Funimate's APK Pathway for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-vivo-y36-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Vivo Y36 for Parents | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/top-6-ways-to-transfer-text-messages-from-vivo-y36i-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Top 6 Ways to Transfer Text Messages from Vivo Y36i to Other Android Devices | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-unveiling-effective-sales-methods/"><u>[New] Unveiling Effective Sales Methods</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-choosing-the-right-fps-30-or-60-which-is-better/"><u>2024 Approved Choosing the Right FPS 30 or 60, Which Is Better?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-exploring-mac-best-sniping-tools-ranked/"><u>2024 Approved Exploring Mac Best Sniping Tools Ranked</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-exploring-the-full-potential-of-obs-screen-capture/"><u>2024 Approved Exploring the Full Potential of OBS Screen Capture</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-optimizing-your-rl-gameplay-videos/"><u>2024 Approved Optimizing Your RL Gameplay Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-securing-conversation-logs-how-to-store-mb-chats-and-calls-safely/"><u>2024 Approved Securing Conversation Logs How to Store MB Chats and Calls Safely</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unlocking-potential-switch-pro-controller-on-steam/"><u>2024 Approved Unlocking Potential Switch Pro Controller on Steam</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/discovering-streamer-favorite-live-cam-technology/"><u>Discovering Streamer-Favorite Live Cam Technology</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/easy-instructions-download-and-install-brother-l2absolutely-here-are-five-new-seo-friendly-titles-similar-to-brother-mfc-l2700dw-driver-download-and-install28/"><u>Easy Instructions: Download and Install Brother L2absolutely, Here Are Five New SEO-Friendly Titles Similar to Brother MFC-L2700DW Driver Download & Install for Windows:</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/exploring-the-fundamentals-of-av1-encoding/"><u>Exploring the Fundamentals of AV1 Encoding</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-infinix-zero-5g-2023-turbo-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Infinix Zero 5G 2023 Turbo | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-proven-strategies-for-successful-youtube-shorts/"><u>In 2024, Proven Strategies for Successful YouTube Shorts</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-in-2024-best-of-the-best-4k8k-video-editing-software-for-professionals/"><u>New In 2024, Best of the Best 4K/8K Video Editing Software for Professionals</u></a></li>
+<li><a href="https://win-data.techidaily.com/pcsandisk-ssd5/"><u>PCで検出されないSanDisk SSDを使用する際の解決策5つ</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/uk-slang-decoded-unveiling-the-local-language/"><u>UK Slang Decoded: Unveiling the Local Language</u></a></li>
 </ul></div>
 
