@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Electronic Conference Logging"
-date: 2024-08-28T23:06:27.742Z
-updated: 2024-08-29T23:06:27.742Z
+date: 2024-10-20T22:11:48.899Z
+updated: 2024-10-21T18:17:35.624Z
 tags: 
   - screen-recording
   - ai video
@@ -74,6 +74,13 @@ The Audio option contains Microphone and Computer audio options that can be used
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
 #### 4. Editing a webinar
@@ -86,6 +93,13 @@ You can stop recording by hitting the F10 key on the keyboard again, and once yo
 
 ![Filmora scrn export](https://images.wondershare.com/filmora/article-images/filmora-scrn-export.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Click on the Export button after you've finished editing your webinar and proceed to select the location on the hard drive where your video will be saved, file format or the resolution of the video. Alternatively, you can upload the webinar to YouTube, Vimeo, Facebook or Twitch directly from Filmora Scrn.
 
 Following these simple steps will help you produce insightful and well-rounded webinars that will attract a lot of attention online.
@@ -93,8 +107,19 @@ Following these simple steps will help you produce insightful and well-rounded w
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049370/7443" target="_top" id="2049370">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049370" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049370/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Tips for Recording Webinars
 
 There is much more to making a webinar than just hitting the Record button, so in order to give your videos a more professional look, you should prepare the intro and outro graphics before you start editing your webinar and quickly add them after you've completed the recording session.
@@ -103,16 +128,11 @@ Making sure that all the settings are adjusted properly and that the amount of b
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -120,3 +140,23 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2023s-most-reliable-voice-capturers-reviewed-for-2024/"><u>[New] 2023'S Most Reliable Voice Capturers Reviewed for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-streamlining-your-gaming-experience-with-easy-recordings/"><u>[New] 2024 Approved Streamlining Your Gaming Experience with Easy Recordings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-webcamwizardry-techniquesforperfectrecordings/"><u>[New] In 2024, WebCamWizardry TechniquesForPerfectRecordings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-walk-of-shadows-a-comprehensive-list-of-intense-zombie-games/"><u>[New] Walk of Shadows A Comprehensive List of Intense Zombie Games</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-dynamic-speaker-analysis-episode-8/"><u>[Updated] Dynamic Speaker Analysis - Episode 8</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-from-recordings-to-live-an-obs-guide-to-youtube-and-twitch-streaming/"><u>[Updated] In 2024, From Recordings to Live An OBS Guide to YouTube and Twitch Streaming</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-jokes-jamboree-mastering-memelore-made-simple/"><u>[Updated] In 2024, Jokes Jamboree Mastering Memelore Made Simple</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-seamless-communication-the-best-5-webcams-with-inbuilt-microphones/"><u>[Updated] In 2024, Seamless Communication The Best 5 Webcams with Inbuilt Microphones</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-tagging-made-easy-with-these-high-impact-instagram-hashtags/"><u>[Updated] Tagging Made Easy with These High-Impact Instagram Hashtags</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-unbox-the-ultimate-experience-master-windows-pc-screen-capturing-and-editing-for-2024/"><u>[Updated] Unbox the Ultimate Experience Master Windows PC Screen Capturing and Editing for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-hassle-free-solutions-to-fake-location-on-find-my-friends-of-nokia-c12-pro-drfone-by-drfone-virtual-android/"><u>5 Hassle-Free Solutions to Fake Location on Find My Friends Of Nokia C12 Pro | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-realme-gt-5-pro-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Realme GT 5 Pro without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/photo-edits-skewed-caption-creation-for-2024/"><u>Photo Edits Skewed Caption Creation for 2024</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/understanding-and-using-itempfile-systems-in-technology-projects/"><u>Understanding and Using ITempFile Systems in Technology Projects</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winning-at-file-tracking-the-ultimate-guide-to-copying-windows-11-filesystem-trails-6-methods/"><u>Winning at File Tracking: The Ultimate Guide to Copying Windows 11 Filesystem Trails (6 Methods)</u></a></li>
+</ul></div>
+

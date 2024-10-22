@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfect Video Demos in Adobe Captivate for 2024"
-date: 2024-10-14T17:21:40.764Z
-updated: 2024-10-16T13:30:06.626Z
+date: 2024-10-14T23:38:58.673Z
+updated: 2024-10-21T17:48:45.109Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Record a Video Presentation Using Adobe Captivate
 
 Before you can start working on your new project you first need to install the software. If you haven't already done that, you can [download Adobe Captivate by following this link.](https://www.adobe.com/products/captivate.html) You will also have to register and activate the software in order to be able to use every option Adobe Captivate has to offer. You can find the full list of the software's features[here.](https://www.adobe.com/products/captivate/features.html)
@@ -59,10 +66,10 @@ Double-click on Adobe Captivate's desktop icon to launch the software, and then 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Click on the Demo option in the Adobe Captivate's welcome window, and then click on the Create button in the lower right corner of the screen.
@@ -73,13 +80,6 @@ After you click on the Create button, a new window will appear on the screen. In
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In the Snap To section of the window, you'll be able to choose between Application Window, Application Region, and Custom Size options. Select the feature that best meets the demands of the project you are working on, and then click on the Panning drop down menu if you would like to add the panning effect to the video recording you are creating. The Audio feature lets you record both narration and system audio.
 
 #### Step 3 - Starting a new video recording session
@@ -89,10 +89,10 @@ Click on the Settings button if you wish to change the destination on your hard-
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
@@ -105,6 +105,13 @@ Upon the completion of the video recording session, the Publish Video Demo windo
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-post.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 You'll also be able to set the preferred frame rate, encoding option and aspect ratio. Click on the Publish button after you've adjusted all the settings in accordance with the demands of your project.
 
 **Conclusion:**
@@ -112,13 +119,6 @@ You'll also be able to set the preferred frame rate, encoding option and aspect 
 Adobe Captivate is much more than just a simple screen recording tool, and if you want, you can use it to perform basic editing actions on your footage. You can also create PIP videos, add smart shapes to a video or insert text captions directly from the software. Did you find this article helpful? Do you think that recording videos with Adobe Captivate is a simple and fun process? Leave a comment and share your opinions with us.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -135,18 +135,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-minecraft-sustainable-house-projects-6-10/"><u>[Updated] 2024 Approved Minecraft Sustainable House Projects #6-10</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-ideation-at-its-peak-crafting-impressive-youtube-titles/"><u>[Updated] Ideation at Its Peak Crafting Impressive YouTube Titles</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-10-best-online-video-call-free-to-use/"><u>2024 Approved 10 Best Online Video Call (Free to Use)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-isolate-subject-a-step-by-step-guide-to-clear-borders/"><u>2024 Approved Isolate Subject – A Step-by-Step Guide to Clear Borders</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/1715860088352-2024-approved-sprightly-spirits-top-kid-approved-games/"><u>2024 Approved Sprightly Spirits Top Kid-Approved Games!</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-complete-playbook-for-high-quality-rl-captures/"><u>2024 Approved The Complete Playbook for High-Quality RL Captures</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/discovering-logitechs-top-tier-4k-video-camera-for-2024/"><u>Discovering Logitech's Top-Tier 4K Video Camera for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-to-other-iphone-15-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro To Other iPhone 15 devices? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-from-novice-to-pro-a-comprehensive-reference-on-using-zds-video-capturing-features/"><u>In 2024, From Novice to Pro A Comprehensive Reference on Using ZD's Video Capturing Features</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-my-spouse-from-spying-on-my-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop My Spouse from Spying on My Itel S23+ | Dr.fone</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-streamlined-qanda-guide-for-attractive-podcasts/"><u>In 2024, Streamlined Q&A Guide for Attractive Podcasts</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-non-functioning-hyperx-cloud-alpha-microphone/"><u>Troubleshooting Steps for a Non-Functioning HyperX Cloud Alpha Microphone</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-best-free-video-editing-software-for-32-bit-windows/"><u>Updated 2024 Approved Best Free Video Editing Software for 32-Bit Windows</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-mastering-media-making-filmoras-edge-over-democreator/"><u>[New] 2024 Approved Mastering Media Making Filmora's Edge Over Democreator</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-facebook-to-your-screen-top-5-downloader-apps/"><u>[New] In 2024, Facebook to Your Screen Top 5 Downloader Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-gauging-glory-an-essential-handbook-for-evaluating-youtube-engagement-and-earnings/"><u>[New] In 2024, Gauging Glory An Essential Handbook for Evaluating YouTube Engagement & Earnings</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-mp4-downloader-pro-facebook-video-hacks/"><u>[New] MP4 Downloader Pro - Facebook Video Hacks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-techniques-to-reformat-macscreenshot-extensions/"><u>[New] Techniques to Reformat MacScreenshot Extensions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-easy-to-use-apps-for-idevice-screen-capturing/"><u>[Updated] In 2024, Easy-to-Use Apps for iDevice Screen Capturing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-transformative-recording-techniques-audacity-tips-and-tricks-on-a-mac/"><u>[Updated] In 2024, Transformative Recording Techniques Audacity Tips and Tricks on a Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-how-to-screen-record-on-iphone-in-an-easy-way/"><u>2024 Approved How to Screen Record on Iphone in An Easy Way?</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/beste-techniken-zur-konvertierung-von-dvds-in-avi-format-fur-das-jahr-2023-eine-auswahl-der-drei-besten/"><u>Beste Techniken Zur Konvertierung Von DVDs in AVI Format Für Das Jahr 2023: Eine Auswahl Der Drei Besten</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/exclusive-list-of-budget-friendly-video-conferencing-tools-for-2024/"><u>Exclusive List of Budget-Friendly Video Conferencing Tools for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/how-to-create-content-that-gets-shared-on-tiktok-a-step-by-step-guide/"><u>How to Create Content That Gets Shared on TikTok: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-tecno-spark-10c-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Tecno Spark 10C via a USB Cable | Dr.fone</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-how-to-generate-speech-from-text-the-best-text-to-speech-converters/"><u>New How To Generate Speech From Text | The Best Text-to-Speech Converters</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Realme 11 Pro | Dr.fone</u></a></li>
 </ul></div>
 

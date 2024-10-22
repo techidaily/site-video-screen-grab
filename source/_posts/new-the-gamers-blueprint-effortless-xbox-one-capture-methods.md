@@ -1,7 +1,7 @@
 ---
 title: "\"[New] The Gamer's Blueprint  Effortless Xbox One Capture Methods\""
-date: 2024-08-28T23:06:41.085Z
-updated: 2024-08-29T23:06:41.085Z
+date: 2024-10-17T05:08:38.425Z
+updated: 2024-10-21T22:54:57.438Z
 tags: 
   - screen-recording
   - ai video
@@ -52,11 +52,25 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Capturing Screenshots on Xbox One Using the Controller
 
 There is nothing complicated about taking a screenshot of your favorite game on Xbox One using the device's controller. All you have to do is double-click on the Xbox button and the screenshot will be captured. A sidebar will appear on the screen asking you if you want to take a screenshot or record the last 30 seconds of the gameplay. Just hit the Y button to save the screenshot. A dialog box will appear on the screen informing you that the screenshot has been saved successfully.
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657400/16446" target="_top" id="1657400">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657400" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657400/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 An increasing number of video games for Xbox One can be played in 4K resolution, but in order to play a game in a 4K resolution, you must have a 4K TV set. Moreover, the 4K and HDR capabilities your TV must be enabled before you start playing an Xbox One game in 4K. Taking a 4K screenshot on Xbox One requires you to adjust the capturing settings.
 
@@ -64,17 +78,10 @@ Press the Xbox button on the controller, and locate the System menu. Select the 
 
 Keep in mind that 4K screenshots are significantly larger in size than those in HD or any other resolution so if you would like to share a screenshot on social media you'll first have to download it to your Windows 10 PC and resize it. What's more taking screenshots or [recording videos](https://tools.techidaily.com/wondershare/filmora/download/) on Xbox One is only possible after you launch a game.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## Capture Screenshots on Xbox One Using Voice Commands
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-voice-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Older versions of Xbox One feature the Kinect motion sensor, while the more recent versions have the Microsoft's Cortana sensor. Both of them enable you to take screenshots using voice commands. If your Xbox One has the Kinect motion sensor, you should issue the 'Xbox take a screenshot' command. Viewing the screenshot immediately after it was taken, requires you to say 'Xbox open that' and the screenshot will pop up on the screen or you can just push and hold the Xbox button on the controller.
 
 You can say ' Hey _Cortana, take a screenshot'_ if your Xbox One features a Cortana motion sensor. However, in order to be able to issue voice commands, you must first activate this option. Head over to the Xbox One's Settings menu and locate the All Settings option. Click on System and switch on the AI Companion feature.
@@ -82,8 +89,18 @@ You can say ' Hey _Cortana, take a screenshot'_ if your Xbox One features a Cort
 It is important to say the command clearly so the AI can understand what you are trying to do, and for that reason, you should try to avoid capturing screenshots or recording videos via voice commands in noisy rooms.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Manage and Share Screenshots on Xbox One?
 
 Capturing screenshots of the epic moments in an Xbox One video game and sharing those images with your friends is equally simple. You can either share the images directly from the device or you can download them to your Windows 10 PC and share them from the computer.
@@ -95,8 +112,12 @@ The console you're using features the Upload app, so in order to access it, you 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot-share.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### 2. Manage and Share Xbox Screenshots via Windows 10 PC
 
 The [Xbox app](https://www.xbox.com/en-US/xbox-app) enables you to download and save screenshots to your computer's hard drive. The process is straightforward and it includes only a few simple steps. After you've installed the Xbox app on your Windows 10 PC you should open it and then you should click on the Game DVR option. Select the Xbox live feature from the DVR menu and proceed to choose the screenshots and videos you'd like to save on your PC. Click Download to complete the process.
@@ -111,16 +132,11 @@ What is your favorite method of taking screenshots on Xbox One? We're anxious to
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -128,3 +144,25 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-convenient-ways-to-screen-cast-lenovo-laptops/"><u>[New] In 2024, Convenient Ways to Screen Cast Lenovo Laptops</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-iphone-slow-motion-shooting-essentials/"><u>[New] In 2024, IPhone Slow Motion Shooting Essentials</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-relaxation-station-leisurely-phone-game-guide/"><u>[New] In 2024, Relaxation Station Leisurely Phone Game Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-unveiling-the-power-of-zoom-in-enhancing-your-youtube-experience/"><u>[New] In 2024, Unveiling the Power of Zoom in Enhancing Your YouTube Experience</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastering-video-seo-5-steps-to-surge-in-youtube-popularity/"><u>[New] Mastering Video SEO 5 Steps to Surge in YouTube Popularity</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-analyzing-bandicam-as-a-key-tool-in-digital-content-creation-for-2024/"><u>[Updated] Analyzing Bandicam as a Key Tool in Digital Content Creation for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-craft-your-countdown-adding-time-management-to-obs-sessions/"><u>[Updated] Craft Your Countdown Adding Time Management to OBS Sessions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-discover-the-top-tools-to-record-and-share-classroom-content-for-2024/"><u>[Updated] Discover the Top Tools to Record and Share Classroom Content for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-free-online-music-archives-copyright-free-gaming-tunes/"><u>[Updated] Free Online Music Archives (Copyright-Free Gaming Tunes)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-two-screen-triumph-best-recorder-verdict/"><u>[Updated] In 2024, Two-Screen Triumph Best Recorder Verdict</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-x100-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo X100 Pro</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-limitations-and-challenges-of-artificeintelligence-in-content-originality-detection/"><u>Exploring the Limitations and Challenges of ArtificeIntelligence in Content Originality Detection</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-launch-issues-in-palworld-effective-techniques-and-tips/"><u>Fixing Launch Issues in Palworld: Effective Techniques and Tips</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/latest-guide-how-to-bypass-vivo-t2-5g-frp-without-computer-by-drfone-android/"><u>Latest Guide How To Bypass Vivo T2 5G FRP Without Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-future-of-content-creation-hixplusgpt-4/"><u>The Future of Content Creation: HIX+GPT-4</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-filter-guide-to-superior-zoom-quality-for-2024/"><u>The Ultimate Filter Guide to Superior Zoom Quality for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/visual-storytelling-of-pc-playtime-top-6-screenshot-secrets/"><u>Visual Storytelling of PC Playtime - Top 6 Screenshot Secrets</u></a></li>
+</ul></div>
+

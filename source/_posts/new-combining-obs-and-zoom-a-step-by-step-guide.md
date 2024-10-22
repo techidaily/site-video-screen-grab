@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Combining OBS and Zoom  A Step-by-Step Guide\""
-date: 2024-10-09T13:21:24.582Z
-updated: 2024-10-16T11:47:40.705Z
+date: 2024-10-21T05:42:19.396Z
+updated: 2024-10-22T02:48:13.782Z
 tags: 
   - screen-recording
   - ai video
@@ -63,6 +63,13 @@ Zoom is one of the most popular video conferencing programs. The greatest thing 
 
 ****Step 3:** Most of you will be on a mobile device and mobile device displays are of a different aspect ratio than your PC. Click on the Profile menu on OBS at the top and click on New Profile and name the Profile as per your convenience.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2\. How to Live Stream on Zoom with OBS
 
 To link the applications, we will have to establish a virtual camera utilized by Zoom as its input. The output of the virtual camera is OBS Studio. One of Zoom's most popular features is its native video recording. Zoom users may record meetings to either their PC or to the Zoom cloud. You can also obtain separate files for gallery view and full-sized speaker view if you record to the Zoom cloud. Yet, many individuals are adopting choices, such as Open Broadcaster Software, or OBS, to record video meetings. When utilizing OBS to record and manage your Zoom meetings, you can obtain higher-resolution video and audio. While Zoom is acceptable as a live meeting platform, the things you can accomplish with OBS greatly offset the price of setting up the system. Play around with the parameters to achieve the results that work best for you.
@@ -137,31 +144,11 @@ Zoom is one of the most popular video conferencing programs. The greatest thing 
 
 ![configure zoom](https://images.wondershare.com/filmora/article-images/configure-zoom.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ****Step 2:** The Zoom’s video will now accept the input from the virtual camera, which is the output provided by OBS Studio.
 
 ![accept the input](https://images.wondershare.com/filmora/article-images/accept-the-input.jpg)
 
 ****Step 3:** Most of you will be on a mobile device and mobile device displays are of a different aspect ratio than your PC. Click on the Profile menu on OBS at the top and click on New Profile and name the Profile as per your convenience.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087248/19272" target="_top" id="2087248">
-  <img src="//a.impactradius-go.com/display-ad/19272-2087248" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087248/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2\. How to Live Stream on Zoom with OBS
 
@@ -181,6 +168,13 @@ To link the applications, we will have to establish a virtual camera utilized by
 
 If you wish to put yourself into the Stream from your PC associated webcam or other video devices linked, utilize the Video Source Option instead of Window Capture and specify your target device when adding the source. Just make sure you have unmuted the Desktop Audio and Mic/Aux or any mic connected to your PC from the Audio Mixed option at the bottom center of OBS.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3\. How to Record Zoom Meetings with OBS
 
 You may use the handles to morph the preview and fit it to the screen, or press alt and drag the red handles to crop the preview for one user. Once you clip the preview for one person, you may repeat the above to process to upload the same window capture again into OBS Source and crop out to obtain each other users as well. If you want to record Zoom meetings and preserve them for later, you may obtain amazing results without any third-party software. The only things you’ll need to install are OBS and Zoom The video will have a brief time when Zoom is not in full-screen, and the cascading preview will appear if the OBS is on the same display. You may delete it in post-editing if required. The sound in the recording will be doubled if you’re using speakers since your mic will take up the output sound from your device. Use headphones to prevent this. Here’s what you need to do:
@@ -191,27 +185,20 @@ You may use the handles to morph the preview and fit it to the screen, or press 
 
 ![record zoom meetings](https://images.wondershare.com/filmora/article-images/record-zomm-meetings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ****Step 2:** You may use the “Window Capture” option and pick “Zoom.exe” as your source, although this might not always work. Name the capture anything you wish, then click “OK.” You may use the name of the monitor you’re using for Zoom to keep things simple.
 
 ![window capture](https://images.wondershare.com/filmora/article-images/window-capture.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ****Step 3:** In OBS, click on “+” under “Sources” again, then pick “Audio Input Capture.” Rename the capture source if you wish to keep it distinct from the other source and prevent misunderstanding, then hit “OK.” Press “Start Recording.” Maximize Zoom to full-screen mode to make it the only visible application on display.
 
 ![audio input capture](https://images.wondershare.com/filmora/article-images/audio-input-capture.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -230,6 +217,13 @@ Capture system amd micorphone audio simultaneously
 Edit video and audio with built-in tools
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 1\. How to Connect OBS to Zoom
 
@@ -257,22 +251,15 @@ Zoom is one of the most popular video conferencing programs. The greatest thing 
 
 ****Step 3:** Most of you will be on a mobile device and mobile device displays are of a different aspect ratio than your PC. Click on the Profile menu on OBS at the top and click on New Profile and name the Profile as per your convenience.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 2\. How to Live Stream on Zoom with OBS
 
 To link the applications, we will have to establish a virtual camera utilized by Zoom as its input. The output of the virtual camera is OBS Studio. One of Zoom's most popular features is its native video recording. Zoom users may record meetings to either their PC or to the Zoom cloud. You can also obtain separate files for gallery view and full-sized speaker view if you record to the Zoom cloud. Yet, many individuals are adopting choices, such as Open Broadcaster Software, or OBS, to record video meetings. When utilizing OBS to record and manage your Zoom meetings, you can obtain higher-resolution video and audio. While Zoom is acceptable as a live meeting platform, the things you can accomplish with OBS greatly offset the price of setting up the system. Play around with the parameters to achieve the results that work best for you.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137209/26400" target="_top" id="2137209">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137209" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137209/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Steps to live-stream on Zoom with OBS
@@ -287,18 +274,18 @@ To link the applications, we will have to establish a virtual camera utilized by
 
 ![start streaming](https://images.wondershare.com/filmora/article-images/start-streaming.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If you wish to put yourself into the Stream from your PC associated webcam or other video devices linked, utilize the Video Source Option instead of Window Capture and specify your target device when adding the source. Just make sure you have unmuted the Desktop Audio and Mic/Aux or any mic connected to your PC from the Audio Mixed option at the bottom center of OBS.
 
 ## Part 3\. How to Record Zoom Meetings with OBS
 
 You may use the handles to morph the preview and fit it to the screen, or press alt and drag the red handles to crop the preview for one user. Once you clip the preview for one person, you may repeat the above to process to upload the same window capture again into OBS Source and crop out to obtain each other users as well. If you want to record Zoom meetings and preserve them for later, you may obtain amazing results without any third-party software. The only things you’ll need to install are OBS and Zoom The video will have a brief time when Zoom is not in full-screen, and the cascading preview will appear if the OBS is on the same display. You may delete it in post-editing if required. The sound in the recording will be doubled if you’re using speakers since your mic will take up the output sound from your device. Use headphones to prevent this. Here’s what you need to do:
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144298/7443" target="_top" id="2144298">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144298" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144298/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Steps to Record Zoom Meetings with OBS
 
@@ -356,13 +343,6 @@ Zoom is one of the most popular video conferencing programs. The greatest thing 
 
 ![accept the input](https://images.wondershare.com/filmora/article-images/accept-the-input.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ****Step 3:** Most of you will be on a mobile device and mobile device displays are of a different aspect ratio than your PC. Click on the Profile menu on OBS at the top and click on New Profile and name the Profile as per your convenience.
 
 ## Part 2\. How to Live Stream on Zoom with OBS
@@ -376,6 +356,13 @@ To link the applications, we will have to establish a virtual camera utilized by
 ****Step 2:** Click on the + (Add) button in the Sources section and pick Image. Upload and resize the picture to add your backdrop. You may add a backdrop, face camera frame, text, and screen grab in any manner you wish for the broadcast. It is important to have a backdrop layout ready before adding to your stream.
 
 ![click on the add](https://images.wondershare.com/filmora/article-images/click-on-the-add.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ****Step 3:** OBS will catch the complete Zoom window; just trim out to capture only your guests’ face cam. You may select “Start Streaming” if you need to webcast the conference elsewhere.
 
@@ -392,6 +379,13 @@ You may use the handles to morph the preview and fit it to the screen, or press 
 ****Step 1:** Launch Zoom and OBS. In OBS, under “Sources,” click the Plus button and choose “Display Capture.” This will work best if you have more than one monitor for your PC, but it will still operate if you just have one.
 
 ![record zoom meetings](https://images.wondershare.com/filmora/article-images/record-zomm-meetings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ****Step 2:** You may use the “Window Capture” option and pick “Zoom.exe” as your source, although this might not always work. Name the capture anything you wish, then click “OK.” You may use the name of the monitor you’re using for Zoom to keep things simple.
 
@@ -429,20 +423,19 @@ OBS enables recording into several video formats. But the major reason why you m
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-crystalvision-pro-screen-capturing-101-for-2024/"><u>[New] CrystalVision Pro Screen Capturing 101 for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-premier-racing-experience-series-top-5/"><u>[New] In 2024, Premier Racing Experience Series (Top 5)</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/updated-craft-your-story-aspect-ratios-for-powerful-yt-thumbnails/"><u>[Updated] Craft Your Story Aspect Ratios for Powerful YT Thumbnails</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capturing-competitive-overwatch-in-minutes/"><u>[Updated] In 2024, Capturing Competitive Overwatch in Minutes</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-inside-the-apeaksoft-revolution-discovering-new-tech/"><u>[Updated] In 2024, Inside the Apeaksoft Revolution Discovering New Tech</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-insiders-guide-to-maximizing-ez-grabber/"><u>[Updated] In 2024, The Insider’s Guide to Maximizing EZ Grabber</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/mp4flac-movavi/"><u>網路上無限制地自動MP4到FLAC格式轉移 - MOVAVI音頻播放器</u></a></li>
-<li><a href="https://android-frp.techidaily.com/about-realme-12-proplus-5g-frp-bypass-by-drfone-android/"><u>About Realme 12 Pro+ 5G FRP Bypass</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/frame-rate-selection-made-simple-pros-and-cons-of-30fps-and-60hz-for-2024/"><u>Frame Rate Selection Made Simple Pros and Cons of 30Fps and 60Hz for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-realme-c33-2023-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Realme C33 2023 to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/honor-90-pro-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Honor 90 Pro ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Vivo Y02T | Dr.fone</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/in-2024-subtle-volume-lessening-masterclass-using-lumafusion/"><u>In 2024, Subtle Volume Lessening Masterclass Using Lumafusion</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/nightmares-unleashed-8-must-play-zombie-games-explored/"><u>Nightmares Unleashed 8 Must-Play Zombie Games Explored</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/pinnacle-screenshot-programs-for-2024/"><u>Pinnacle Screenshot Programs for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-full-dissection-gopro-silver-hero4-model-insight/"><u>[New] Full Dissection GoPro Silver Hero4 Model Insight</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/aming-history-told-by-top-video-makers/"><u>[New] Gaming History Told by Top Video Makers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-infinite-playground-top-10-affordable-online-adventures/"><u>[New] Infinite Playground Top 10 Affordable Online Adventures</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-windows-desktop-recording-techniques-no-cost-for-2024/"><u>[New] Windows Desktop Recording Techniques - No Cost for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-from-setup-to-streaming-the-definitive-guide-for-live-tv-screen-sharing-on-windows/"><u>[Updated] 2024 Approved From Setup to Streaming The Definitive Guide for Live TV Screen-Sharing on Windows</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-shadowy-snapshots-skills-for-stunning-night-images/"><u>[Updated] 2024 Approved Shadowy Snapshots Skills for Stunning Night Images</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-beginners-journey-into-hosting-successful-zoom-sessions/"><u>[Updated] Beginner's Journey Into Hosting Successful Zoom Sessions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-efficient-video-editing-with-timestamps-and-on-screen-text/"><u>[Updated] Efficient Video Editing with Timestamps & On-Screen Text</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-activation-lock-on-apple-watch-or-apple-iphone-xr-by-drfone-ios/"><u>How To Bypass Activation Lock On Apple Watch Or Apple iPhone XR?</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-harmonyhub-combining-ios-and-macos-photo-videos/"><u>In 2024, HarmonyHub Combining iOS & macOS Photo-Videos</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-mastering-the-market-essential-youtube-finance-channels/"><u>In 2024, Mastering the Market Essential YouTube Finance Channels</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-ms-edges-picture-in-picture-magic/"><u>In 2024, Unveiling MS Edge's Picture-in-Picture Magic</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/insight-into-cellular-operators-and-how-they-work/"><u>Insight Into Cellular Operators and How They Work</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/leveraging-skype-for-interactive-home-office-video-conferencing-for-2024/"><u>Leveraging Skype for Interactive Home Office Video Conferencing for 2024</u></a></li>
 </ul></div>
 

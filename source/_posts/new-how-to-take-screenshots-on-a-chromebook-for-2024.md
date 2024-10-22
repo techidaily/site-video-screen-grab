@@ -1,7 +1,7 @@
 ---
 title: "[New] How to Take Screenshots on A Chromebook for 2024"
-date: 2024-10-13T08:23:17.284Z
-updated: 2024-10-15T20:13:05.319Z
+date: 2024-10-15T18:22:21.693Z
+updated: 2024-10-22T00:38:31.063Z
 tags: 
   - screen-recording
   - ai video
@@ -47,10 +47,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 1\. Taking Screenshots on a Chromebook with a Keyboard
@@ -59,16 +59,16 @@ Similar to the typical CTRL + PrtScn or PrtScn shortcut used on most Window’s 
 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-keyboard-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The command “**Ctrl + \*Windows Switcher Key\***” will capture a screenshot of your current page, and the command “**Ctrl + Shift + \*Windows Switcher Key\***” will allow users to capture a partial screenshot with the help from a handy drag-selector tool.
 
 **Note**: If your keyboard doesn’t seem to have the Screen Switcher key, **try using F5 instead**. To ensure your screenshot is copied into a specific document, select “**Copy to Clipboard**”. From here, you’ll be able to paste directly into a document.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 2\. Taking a Screenshot on a Chromebook with the Use of Side Buttons
 
@@ -77,10 +77,10 @@ Using your Chromebook in tablet mode? If so, then there’s also a handy way to 
 **Note:** No matter whether you’re utilizing the Chromebook in either landscape or portrait mode, the Volume Rockers still remain in the same orientation, so it’s worth noting which button relates to “Volume Down”.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 3\. Taking a Screenshot on a Chromebook with the Use of a Stylus
@@ -102,6 +102,13 @@ With a number of simple yet effective editing features built-in, such as further
 #### 2. LightShot
 
 ![ Chromebook Screenshot](https://images.wondershare.com/filmora/article-images/chromebook-lightshot-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Available for both Chrome, Windows, and even Mac devices, this more in-depth extension is perfect for those looking to annotate, add layers to, or modify their screen captures to more advanced levels. Although it’s not possible to capture your entire webpage with this extension, LightShot boasts the ability to take screenshots of not only your desktop but also other desired applications with 2 simple clicks of a button. The simplistic desktop saving capability and the ability to upload it direct to the LightShot server makes this application attractive to those looking for a more professional editing tool.
 
@@ -127,13 +134,6 @@ In summary, there are plenty of ways to successfully capture a screenshot whilst
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -149,22 +149,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-achieving-precision-with-obs-implementing-timer-functionality/"><u>[New] Achieving Precision with OBS Implementing Timer Functionality</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-capturing-ps4-gaming-magic-in-full-detail-using-obs/"><u>[New] Capturing PS4 Gaming Magic in Full Detail Using OBS</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-streamlining-video-editing-on-windows-11s-movie-maker/"><u>[New] In 2024, Streamlining Video Editing on Windows 11'S Movie Maker</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-savvy-screenshot-tactics-for-netflix-on-mac-a-complete-guide-of-six-ways/"><u>[New] Savvy Screenshot Tactics for Netflix on Mac - A Complete Guide of Six Ways</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-techniques-for-saving-teams-meetings-desktopmobile-for-2024/"><u>[New] Techniques for Saving Teams Meetings (Desktop/Mobile) for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ranked-linuxs-foremost-screenshot-programs/"><u>[Updated] 2024 Approved Ranked Linux's Foremost Screenshot Programs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-effective-techniques-for-screen-display-on-google-meet/"><u>[Updated] Effective Techniques for Screen Display on Google Meet</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-flashfreeze-video-interruption-tip-for-2024/"><u>[Updated] FlashFreeze Video Interruption Tip for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-step-into-successful-online-broadcasting-top-youtube-webcam-choices-for-2024/"><u>[Updated] Step Into Successful Online Broadcasting Top YouTube Webcam Choices for 2024</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/easy-fixes-how-to-recover-forgotten-icloud-password-on-your-apple-iphone-6-by-drfone-ios/"><u>Easy Fixes How To Recover Forgotten iCloud Password On your Apple iPhone 6</u></a></li>
-<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-in-ar-games-on-nokia-c110-drfone-by-drfone-virtual-android/"><u>How to Simulate GPS Movement in AR games On Nokia C110? | Dr.fone</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-androids-ultimate-fix-for-frustratingly-slow-vids/"><u>In 2024, Android's Ultimate Fix for Frustratingly Slow Vids</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-6s-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 6s?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/iphone-video-tips-trim-to-size-with-precision-cutting/"><u>IPhone Video Tips Trim to Size with Precision Cutting</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/itunes-icloudiphone2024/"><u>ITunes, iCloudで発生するiPhoneのバックアップ復元不能問題：トラブルシューティングガイド2024年</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-editors-choice-the-top-10-video-editing-software-applications-for-2024/"><u>New Editors Choice The Top 10 Video Editing Software Applications for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/pcs-ultimate-guide-to-ps1-game-emulation-software/"><u>PC's Ultimate Guide to PS1 Game Emulation Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-optimizing-googles-automatic-speech-recognition-features/"><u>[New] 2024 Approved Optimizing Google's Automatic Speech Recognition Features</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-best-free-ad-less-android-video-editors/"><u>[New] In 2024, Best Free, Ad-Less Android Video Editors</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-discover-spiritual-soundtracks-for-daily-life/"><u>[New] In 2024, Discover Spiritual Soundtracks for Daily Life</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ptimize-youtube-watch-experience-boostslow-down-feature-usage-for-2024/"><u>[New] Optimize YouTube Watch Experience Boost/Slow Down Feature Usage for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-prime-7-free-screen-recorders-for-old-computers/"><u>[New] Prime 7 Free Screen Recorders for Old Computers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-audiovisual-excellence-youtube-videos-in-premiere-pro/"><u>[Updated] 2024 Approved Audiovisual Excellence YouTube Videos in Premiere Pro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-covert-capture-techniques-reducing-identifiable-parts-in-recordings/"><u>[Updated] 2024 Approved Covert Capture Techniques Reducing Identifiable Parts in Recordings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-mastering-the-art-of-sync-free-obs-streaming/"><u>[Updated] 2024 Approved Mastering the Art of Sync-Free OBS Streaming</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-non-game-console-apps-excelling-at-game-recordings/"><u>[Updated] 2024 Approved Non-Game Console Apps Excelling at Game Recordings</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-ultimate-studio-tracker-xvideoexploration/"><u>[Updated] 2024 Approved Ultimate Studio Tracker XVideoExploration</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-renowned-makers-exquisite-insta-hlv-designers-online/"><u>[Updated] Renowned Makers Exquisite Insta HLV Designers Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-eye-catching-4k-experience-dell-p2715q-in-focus/"><u>[Updated] The Eye Catching 4K Experience Dell P2715Q in Focus</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-masterful-insights-the-top-6-video-snaggers-on-mac/"><u>2024 Approved Masterful Insights The Top 6 Video Snaggers on Mac</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/effortless-download-of-brother-hl-3170cdw-printer-software-tools/"><u>Effortless Download of Brother HL-3170CDW Printer Software Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-synchronous-capture-for-webcam-and-display/"><u>In 2024, Synchronous Capture for Webcam and Display</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/masterclasses-in-livestreaming-and-recording-sport-views/"><u>Masterclasses in Livestreaming and Recording Sport Views</u></a></li>
+<li><a href="https://win-hot.techidaily.com/seamlessly-shift-your-icloud-contacts-to-android-in-just-3-steps/"><u>Seamlessly Shift Your iCloud Contacts to Android in Just 3 Steps</u></a></li>
+<li><a href="https://change-location.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-samsung-galaxy-a05s-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Samsung Galaxy A05s | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/your-personal-igtv-channel-guide-for-inspiration/"><u>Your Personal IGTV Channel Guide for Inspiration</u></a></li>
 </ul></div>
 

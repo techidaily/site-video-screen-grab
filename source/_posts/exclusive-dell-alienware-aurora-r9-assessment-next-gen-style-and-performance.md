@@ -1,7 +1,7 @@
 ---
 title: "Exclusive Dell Alienware Aurora R9 Assessment: Next-Gen Style & Performance"
-date: 2024-08-28T23:02:31.820Z
-updated: 2024-08-29T23:02:31.820Z
+date: 2024-10-19T19:57:33.715Z
+updated: 2024-10-22T08:25:18.773Z
 categories:
   - BestProducts
 description: "This Article Describes Exclusive Dell Alienware Aurora R9 Assessment: Next-Gen Style & Performance"
@@ -42,6 +42,19 @@ Lifewire / Rebecca Isaacs
 
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/XBAevViAWBKn-uqOn_jnTLrfwTw=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_HeroSquare-6ae9d6d299054d748f84492b5c31f033.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lifewire / Rebecca Isaacs
 
 [View On Amazon $6](https://www.amazon.com/dp/B01MSJPX06/?tag=lifewire-onsite-prod-20&ascsubtag=4799034%7Cn6493c6f4bf4b471ba05fab7dd162554120%7CB01MSJPX06)
@@ -64,8 +77,12 @@ Lifewire / Rebecca Isaacs
  Working on the go can prove difficult on a laptop, especially when you need to work on heavy-hitting projects requiring precision. Travel mice, or portable computer mice that can be packed and unpacked on the go, can alleviate much of the proverbial headache of working on PC-heavy tasks. For those who prefer their mouse have a cable, the Sabrent fits the bill. Using high definition precision technology, the tiny, three-year-old mouse is designed for those who want convenience and extreme precision in their work.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Design: Basic**
 
  The Sabrent was not designed for heavy gaming in mind; its design is so tiny at 3.2 x 1.5 inches (LW) that it fits into the cup of your palm with some room to spare. Unlike gaming mice, which can be complex, with a plethora of buttons/features, the all-black, 1.5-ounce mouse only has three buttons: the left (main) button, the wheel, and the right button. While this might turn off many users, in reality, it turns out to be of huge benefit. Thanks to its simplicity, ambidextrous users will appreciate its ability to swap between dominant hands.
@@ -76,9 +93,6 @@ Lifewire / Rebecca Isaacs
 
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/E-UHv94vEiLyLkgwTG1qIFE6uvQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_04-76e4b475ca3f4449a746c22f3713f784.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Rebecca Isaacs
 
  The cable’s addition increases the size of the mouse, bringing the total measurements to 6.44 x 1.5x 2.44 inches (LWH). The Sabrent also comes with a mesh carrying bag, making it easy to pack up and take on the go without scratching it. One more perk: this mouse is adaptable to most[Windows](https://www.lifewire.com/windows-4781566) ,[Mac](https://www.lifewire.com/mac-backup-software-hardware-and-guides-2260931) , and[Linux](https://www.lifewire.com/software-and-apps-4781541) systems, so you can insert it into USB ports across multiple machines for fast use.
@@ -89,9 +103,6 @@ Lifewire / Rebecca Isaacs
 
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/mM3uSf3Y2pyayDyWJzP8_5uUya4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_05-04e025144b514674b109e77f79129d74.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Lifewire / Rebecca Isaacs
 
 ## **Performance: Precise, but mildly problematic**
@@ -102,9 +113,6 @@ Lifewire / Rebecca Isaacs
 
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/ZAK9csfHFEKVkNFSzE-Knbqabgs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_03-c6a7b875505642c69218c2c6c3449e50.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Lifewire / Rebecca Isaacs
 
  The buttons responded quickly and with ease as well. While the main and right buttons do click with some noise, the constant clacking won’t get on any nerves. The scroller isn’t loud, but it took us a couple rolls of the wheel before it shifted around without any resistance. This ultimately wasn’t a big deal, but it might need a little breaking in, so don’t give up on it straight away.
@@ -113,6 +121,19 @@ Lifewire / Rebecca Isaacs
 
  The cable length left something to be desired in a work PC, however. At 25 inches, it sounds like a dream come true, however, testing it on a standing desk where the PC tower is located further away from the keyboard and mouse we realized there was a problem. The length cable prevented us from shifting our grip on the mouse, and the tugging was a frustrating physical constraint. Laptop users won’t even notice the cable, but PC users may want to look for something a little more wireless.
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Comfort: Too small**
 
  Because the mouse is so tiny, and barely fit into the palm of our hand, we constantly had to adjust our fingers to compensate for its size. Granted, we used the mouse for up to eight hours at a time in testing, and our muscles didn’t tire out and hands didn’t cramp, which was a testament to the ergonomic design. However, constantly having to shift our grip to press buttons and scroll was mildly annoying, especially when we were deeply engaged in work.
@@ -120,14 +141,21 @@ Lifewire / Rebecca Isaacs
 ![Sabrent Mini Travel Mouse](https://www.lifewire.com/thmb/h8ibsbPtDqgJOD0XgpZSD6FOXUU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Sabrent_Travel_Mouse_02-1331828bbc3f460baebd85cbd24d61e2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948895/19272" target="_top" id="1948895">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948895" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948895/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Lifewire / Rebecca Isaacs
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## **Price: Reasonable**
 
  At around $7, this is a great budget mouse. Essentially, the cost is for basic mouse features, and not for anything heavier or more taxing on a PC. If you’re looking for a travel mouse with more features, then expect to spend more. However, if accomplishing work tasks is solely your task then this is the perfect price point.
@@ -158,14 +186,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 * Compatibility  Windows 2000 and up, Mac OS X and up, Linux systems
 * Connectivity options  USB Port, NOT Bluetooth Enabled
 
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -174,4 +199,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-easyrecorder-straightforward-windows-10-tool/"><u>[New] 2024 Approved EasyRecorder - Straightforward Windows 10 Tool</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-advanced-vision-systems-with-green-promise/"><u>[New] Advanced Vision Systems with Green Promise</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-all-you-need-to-know-about-mobizens-screen-capture/"><u>[Updated] All You Need to Know About Mobizen's Screen Capture</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-efficient-gaming-footage-with-camcapture-for-2024/"><u>[Updated] Efficient Gaming Footage with CamCapture for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-list-free-online-video-conferencing-software/"><u>[Updated] The Ultimate List Free Online Video Conferencing Software</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-poco-f5-5g-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Poco F5 5G Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/celebrating-stop-motion-excellence-top-15-films-for-2024/"><u>Celebrating Stop-Motion Excellence Top 15 Films for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/convenient-tactics-for-transferring-imovie-projects-to-vimeo-for-2024/"><u>Convenient Tactics for Transferring iMovie Projects to Vimeo for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-capturing-every-angle-samsungs-pro-versus-lgs/"><u>In 2024, Capturing Every Angle Samsung's Pro Versus LG's</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unraveling-the-mysteries-of-instagrams-video-timeframe/"><u>In 2024, Unraveling the Mysteries of Instagram's Video Timeframe</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-vivo-s18-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Vivo S18? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-video-record-with-vlc-for-2024/"><u>Mastering Video Record with VLC for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-guide-restart-diagnostics-policy-service/"><u>Troubleshooting Guide: Restart Diagnostics Policy Service</u></a></li>
+</ul></div>
 

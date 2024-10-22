@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Adjust Default Snapshot Savings in Mac"
-date: 2024-08-28T23:08:22.700Z
-updated: 2024-08-29T23:08:22.700Z
+date: 2024-10-17T23:29:54.556Z
+updated: 2024-10-22T05:19:26.797Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,13 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
@@ -62,6 +69,13 @@ Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
 **defaults write com.apple.screencapture location /Users/username/Screenshots**
@@ -73,8 +87,12 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -88,15 +106,17 @@ Don't forget that deleting the folder you use as a default location for storing 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -104,3 +124,24 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-cultivating-community-in-stardews-ginger-territory/"><u>[New] Cultivating Community in Stardew’s Ginger Territory</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-premier-videochat-services-for-team-meetings/"><u>[New] In 2024, Premier Videochat Services for Team Meetings</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-quick-and-easy-snapchat-image-manipulation-techniques/"><u>[New] In 2024, Quick and Easy Snapchat Image Manipulation Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-unlocking-the-secrets-of-successful-google-meet-engagement/"><u>[New] In 2024, Unlocking the Secrets of Successful Google Meet Engagement</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-5-accessories-for-beneath-water-shooting/"><u>[New] Top 5 Accessories for Beneath Water Shooting</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-comprehensive-look-camstudios-full-screen-capabilities/"><u>[Updated] Comprehensive Look CamStudio's Full Screen Capabilities</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-enthralling-audiences-mastery-in-using-text-in-films-for-2024/"><u>[Updated] Enthralling Audiences Mastery in Using Text in Films for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-journey-of-joyrides-top-6-easy-mc-habitats-revealed/"><u>[Updated] In 2024, Journey of Joyrides Top 6 Easy MC Habitats Revealed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-note-networks-audit-sound-file-archives/"><u>[Updated] Note Networks Audit Sound File Archives</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-premier-gaming-liquids-best-of-breed-lists-for-2024/"><u>[Updated] Premier Gaming Liquids Best of Breed Lists for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-quick-start-guide-recording-your-pcs-display-with-hp-for-2024/"><u>[Updated] Quick Start Guide Recording Your PC's Display with HP for 2024</u></a></li>
+<li><a href="https://ai-video.techidaily.com/in-2024-breaking-language-barriers-elevate-your-content-with-the-best-free-video-translator-apps/"><u>In 2024, Breaking Language Barriers Elevate Your Content with the Best Free Video Translator Apps</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-step-by-step-validating-your-online-identity-on-youtube/"><u>In 2024, Step by Step Validating Your Online Identity on YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/steps-to-restore-disrupted-remote-play-service/"><u>Steps to Restore Disrupted Remote Play Service</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-made-simple-overcoming-steam-error-130-with-effective-fixes-solved/"><u>Troubleshooting Made Simple: Overcoming Steam Error 130 with Effective Fixes [SOLVED]</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-realme-12-proplus-5g-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Realme 12 Pro+ 5G? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
+
