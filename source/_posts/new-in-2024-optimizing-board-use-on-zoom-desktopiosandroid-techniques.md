@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Optimizing Board Use on Zoom - Desktop/iOS/Android Techniques\""
-date: 2024-10-06T23:51:55.897Z
-updated: 2024-10-09T23:58:35.106Z
+date: 2024-10-20T22:32:35.891Z
+updated: 2024-10-27T22:50:15.645Z
 tags: 
   - screen-recording
   - ai video
@@ -73,16 +73,10 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
  To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
 
 <!-- affiliate ads begin -->
-<span id="1975503">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 2: How to Use Whiteboard During Zoom Cloud Meeting on Android
@@ -98,10 +92,10 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/share-whiteboard-zoom-cloud-meeting-android.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 2: Add Annotations
@@ -115,10 +109,16 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 **Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
@@ -146,10 +146,10 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2\. Why can’t I see the Annotation tools?
@@ -183,21 +183,20 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-12-tycoons-the-ultimate-challenge-for-every-gamer/"><u>[New] 2024 Approved Top 12 Tycoons - The Ultimate Challenge for Every Gamer</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-best-box-customization-havens-on-the-internet-for-2024/"><u>[New] Best Box-Customization Havens on the Internet for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-breaking-down-barriers-to-effective-airdrop-on-iosmacos/"><u>[New] Breaking Down Barriers to Effective AirDrop on iOS/macOS</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-enhance-learning-with-easy-recording-techniques-for-your-imac-for-2024/"><u>[New] Enhance Learning with Easy Recording Techniques for Your iMac for 2024</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-voice-recording-for-powerpoint-visuals-for-2024/"><u>[New] Voice Recording for PowerPoint Visuals for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-little-wheelmens-game-festivals/"><u>[Updated] Little Wheelmen's Game Festivals</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-unique-choir-compositions-as-your-smartphone-tones/"><u>[Updated] Unique Choir Compositions as Your Smartphone Tones</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mastering-screen-recording-mi-11-edition/"><u>2024 Approved Mastering Screen Recording Mi 11 Edition</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-streamlabs-rival-tools-unveiled/"><u>2024 Approved Streamlabs' Rival Tools Unveiled</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/dive-into-screen-recording-expert-insights-on-top-obs-software-for-2024/"><u>Dive Into Screen Recording Expert Insights on Top OBS Software for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-kodi-connection-issues-overcome-could-not-get-directory-info/"><u>Fixing Kodi Connection Issues - Overcome 'Could Not Get Directory Info'</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/free-online-conversion-transforming-dpx-images-without-cost-movavi/"><u>Free Online Conversion: Transforming DPX Images Without Cost - Movavi</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/freecam-x-an-in-depth-webcam-capture-analysis-for-2024/"><u>FreeCam X An In-Depth Webcam Capture Analysis for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/navigate-macs-screen-capture-like-a-pro-with-simple-keys/"><u>Navigate Mac's Screen Capture Like a Pro with Simple Keys</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/sony-blu-ray-player-s6700-new-insights/"><u>Sony Blu-Ray Player S6700 New Insights</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/streamline-your-video-capture-with-macbook-cam-settings-for-2024/"><u>Streamline Your Video Capture with MacBook Cam Settings for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-achieving-professional-audio-in-home-recording-studios/"><u>[New] In 2024, Achieving Professional Audio in Home Recording Studios</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-beat-your-song-into-success-with-fb-top-vids-guide/"><u>[Updated] 2024 Approved Beat Your Song Into Success with FB Top Vids Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-the-standard-edition-review-of-djis-drone-model-3/"><u>[Updated] In 2024, The Standard Edition Review of DJI's Drone Model 3</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-unveiling-the-art-of-screencasting-orderly-tutorial-series/"><u>[Updated] In 2024, Unveiling the Art of Screencasting Orderly Tutorial Series</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-practical-technique-swap-film-direction-in-vlc-player/"><u>[Updated] Practical Technique Swap Film Direction in VLC Player</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-selecting-excellent-backgrounds-for-video-calls/"><u>2024 Approved Selecting Excellent Backgrounds for Video Calls</u></a></li>
+<li><a href="https://games-able.techidaily.com/decade-long-wait-over-valve-revolutionizes-family-gaming-access/"><u>Decade-Long Wait Over: Valve Revolutionizes Family Gaming Access</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-samsung-galaxy-a23-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Samsung Galaxy A23 5G Phones with/without a PC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-simplifying-screen-views-during-google-meet-chats/"><u>In 2024, Simplifying Screen Views During Google Meet Chats</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-finest-11-streaming-sound-recorders/"><u>In 2024, The Finest 11 Streaming Sound Recorders</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-to-embrace-or-not-the-itop-screen-recorder-dilemran/"><u>In 2024, To Embrace or Not The ITop Screen Recorder Dilemran</u></a></li>
+<li><a href="https://howto.techidaily.com/reliable-user-guide-to-fix-vivo-y200-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Vivo Y200 Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-10-affordable-video-chat-for-android-users/"><u>Top 10 Affordable Video Chat for Android Users</u></a></li>
+<li><a href="https://article-files.techidaily.com/transform-your-pictures-the-leaderboard-of-phone-sticker-enhancers/"><u>Transform Your Pictures - The Leaderboard of Phone Sticker-Enhancers</u></a></li>
+<li><a href="https://network-issues.techidaily.com/zoom-revival-swift-solutions-to-camera-malfunctions/"><u>Zoom Revival: Swift Solutions to Camera Malfunctions</u></a></li>
 </ul></div>
 

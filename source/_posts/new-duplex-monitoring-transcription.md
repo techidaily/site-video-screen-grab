@@ -1,7 +1,7 @@
 ---
 title: "[New] Duplex Monitoring Transcription"
-date: 2024-10-03T17:31:18.198Z
-updated: 2024-10-04T22:32:33.947Z
+date: 2024-10-23T01:19:00.325Z
+updated: 2024-10-27T23:35:32.528Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Record Multiple Monitors
@@ -60,13 +60,6 @@ For macOS 10.12 or later
 The first step towards setting up a screencasting session with multiple displays is to make sure that the monitors are properly connected to your laptop or desktop computer. Each external monitor will display identical images when turned on, but in order to move software windows between the two screens, you'll have to enable the 'Extend These Displays' option. The actual steps you'll need to take may vary, depending on the computer and the OS you are using, and we are going to show you how to extend displays on Windows 8 or later.
 
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -85,10 +78,10 @@ Sum up the two values of the wider sides of the screens and insert the value you
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Capturing Multiple Monitor Displays with Camtasia
@@ -117,13 +110,20 @@ In case that you want to record your secondary monitor, we recommend you to try 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
-  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -140,19 +140,14 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-exhilarating-escapades-a-guide-to-the-greatest-action-adventure-games-top-10/"><u>[New] In 2024, Exhilarating Escapades A Guide to the Greatest Action-Adventure Games (Top 10)</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-securesave-professionals-assessment/"><u>[New] SecureSave Professionals' Assessment</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-gifify-your-tweet-a-costless-how-to-guide/"><u>[Updated] Gifify Your Tweet A Costless How-To Guide</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-take-screenshots-on-a-chromebook/"><u>[Updated] How to Take Screenshots on A Chromebook</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-ultimate-guide-to-windows-11-gaming-recordings/"><u>2024 Approved The Ultimate Guide to Windows 11 Gaming Recordings</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comparing-ios-17-features-vs-current-version/"><u>Comparing iOS 17 Features vs Current Version</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/connecting-the-dots-bridging-apples-homepod-with-your-flat-screen-display/"><u>Connecting the Dots: Bridging Apple's HomePod with Your Flat Screen Display</u></a></li>
-<li><a href="https://discover-blog.techidaily.com/effective-techniques-for-reducing-video-file-size-using-handbrake-a-guide-and-top-other-tools/"><u>Effective Techniques for Reducing Video File Size Using Handbrake: A Guide & Top Other Tools</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/future-forward-a-look-at-the-leading-3-tech-trends-shaping-tomorrow/"><u>Future Forward: A Look at the Leading 3 Tech Trends Shaping Tomorrow</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-overcome-launch-problems-with-civ-6-on-your-windows-10-pc/"><u>How to Overcome Launch Problems with Civ 6 on Your Windows 10 PC</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-a-found-apple-iphone-13-pro-max-by-drfone-ios/"><u>How To Unlock A Found Apple iPhone 13 Pro Max?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-classroom-aid-selecting-effective-recorders/"><u>In 2024, Classroom Aid Selecting Effective Recorders</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-hands-free-guide-to-storing-google-voice-chats/"><u>In 2024, Hands-Free Guide to Storing Google Voice Chats</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-redux-of-graphics-amd-radeon-update/"><u>In 2024, Redux of Graphics AMD Radeon Update</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-effortless-video-streaming-on-your-facebook-page/"><u>[Updated] 2024 Approved Effortless Video Streaming on Your Facebook Page</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-exploring-advanced-options-with-gopro-burst-features-for-2024/"><u>[Updated] Exploring Advanced Options with GoPro Burst Features for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/best-console-to-pc-conversion-top-5-ps1-emulators/"><u>Best Console-to-PC Conversion Top 5 PS1 Emulators</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-art-of-revisiting-your-private-snap-history/"><u>In 2024, The Art of Revisiting Your Private Snap History</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-7-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 7</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/precision-in-capturing-androids-best-techniques-for-2024/"><u>Precision in Capturing Android's Best Techniques for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/premier-webcam-selections-for-dynamic-twitch-sessions-for-2024/"><u>Premier Webcam Selections for Dynamic Twitch Sessions for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/springs-screen-recorder-unveiled-a-users-perspective/"><u>Spring's Screen Recorder Unveiled A User's Perspective</u></a></li>
+<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Oppo F23 5G? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfect Video Demos in Adobe Captivate for 2024"
-date: 2024-10-14T23:38:58.673Z
-updated: 2024-10-21T17:48:45.109Z
+date: 2024-10-26T00:57:28.685Z
+updated: 2024-10-27T23:38:11.360Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Record a Video Presentation Using Adobe Captivate
@@ -65,13 +65,6 @@ Double-click on Adobe Captivate's desktop icon to launch the software, and then 
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Click on the Demo option in the Adobe Captivate's welcome window, and then click on the Create button in the lower right corner of the screen.
 
 #### Step 2 - Select the application and designate the area of the screen you'd like to record
@@ -79,6 +72,13 @@ Click on the Demo option in the Adobe Captivate's welcome window, and then click
 After you click on the Create button, a new window will appear on the screen. In the upper left corner of the window, you'll be able to see Screen Area and Application options. Select the Application feature and head over to the drop-down menu located directly below it to select the Microsoft PowerPoint application or any other app compatible with the software.
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 In the Snap To section of the window, you'll be able to choose between Application Window, Application Region, and Custom Size options. Select the feature that best meets the demands of the project you are working on, and then click on the Panning drop down menu if you would like to add the panning effect to the video recording you are creating. The Audio feature lets you record both narration and system audio.
 
@@ -89,10 +89,10 @@ Click on the Settings button if you wish to change the destination on your hard-
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
@@ -106,10 +106,10 @@ Upon the completion of the video recording session, the Publish Video Demo windo
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-post.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You'll also be able to set the preferred frame rate, encoding option and aspect ratio. Click on the Publish button after you've adjusted all the settings in accordance with the demands of your project.
@@ -135,19 +135,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-mastering-media-making-filmoras-edge-over-democreator/"><u>[New] 2024 Approved Mastering Media Making Filmora's Edge Over Democreator</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-facebook-to-your-screen-top-5-downloader-apps/"><u>[New] In 2024, Facebook to Your Screen Top 5 Downloader Apps</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-gauging-glory-an-essential-handbook-for-evaluating-youtube-engagement-and-earnings/"><u>[New] In 2024, Gauging Glory An Essential Handbook for Evaluating YouTube Engagement & Earnings</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-mp4-downloader-pro-facebook-video-hacks/"><u>[New] MP4 Downloader Pro - Facebook Video Hacks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-techniques-to-reformat-macscreenshot-extensions/"><u>[New] Techniques to Reformat MacScreenshot Extensions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-easy-to-use-apps-for-idevice-screen-capturing/"><u>[Updated] In 2024, Easy-to-Use Apps for iDevice Screen Capturing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-transformative-recording-techniques-audacity-tips-and-tricks-on-a-mac/"><u>[Updated] In 2024, Transformative Recording Techniques Audacity Tips and Tricks on a Mac</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-how-to-screen-record-on-iphone-in-an-easy-way/"><u>2024 Approved How to Screen Record on Iphone in An Easy Way?</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/beste-techniken-zur-konvertierung-von-dvds-in-avi-format-fur-das-jahr-2023-eine-auswahl-der-drei-besten/"><u>Beste Techniken Zur Konvertierung Von DVDs in AVI Format Für Das Jahr 2023: Eine Auswahl Der Drei Besten</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/exclusive-list-of-budget-friendly-video-conferencing-tools-for-2024/"><u>Exclusive List of Budget-Friendly Video Conferencing Tools for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-create-content-that-gets-shared-on-tiktok-a-step-by-step-guide/"><u>How to Create Content That Gets Shared on TikTok: A Step-by-Step Guide</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-best-3-software-to-transfer-files-tofrom-your-tecno-spark-10c-via-a-usb-cable-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Best 3 Software to Transfer Files to/from Your Tecno Spark 10C via a USB Cable | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/new-how-to-generate-speech-from-text-the-best-text-to-speech-converters/"><u>New How To Generate Speech From Text | The Best Text-to-Speech Converters</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-car-locator-apps-for-realme-11-pro-drfone-by-drfone-virtual-android/"><u>Top 5 Car Locator Apps for Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unveiling-secrets-how-to-save-your-google-conversations/"><u>[New] 2024 Approved Unveiling Secrets How to Save Your GooGle Conversations</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-harness-the-power-of-fb-lives-selecting-the-top-5-downloading-apps-for-2024/"><u>[New] Harness the Power of FB Lives Selecting the Top 5 Downloading Apps for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-captureking-high-definition-edition/"><u>[New] In 2024, CaptureKing High Definition Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-how-to-create-and-schedule-a-google-meet/"><u>[New] In 2024, How to Create and Schedule A Google Meet?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ios-and-ps2-gaming-top-emulators-unveiled-for-2024/"><u>[Updated] IOS and PS2 Gaming Top Emulators Unveiled for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/deciding-the-best-for-screens-is-obs-more-effective-than-fraps-in-2024/"><u>Deciding the Best for Screens Is OBS More Effective than Fraps, In 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oppo-a58-4g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Oppo A58 4G Location Settings | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/how-to-transfer-and-restore-windows-os-versions-11-10-8-and-7-across-different-computers/"><u>How to Transfer and Restore Windows OS (Versions 11, 10, 8 & 7) Across Different Computers</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oppo-k11x-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Oppo K11x Phone? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-poco-f5-pro-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Poco F5 Pro 5G FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-expert-advice-on-quick-and-clean-ppt-captures/"><u>In 2024, Expert Advice on Quick and Clean PPT Captures</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-mobile-and-desktop-techniques-for-youtube-short-video-submission/"><u>In 2024, Mobile & Desktop Techniques for YouTube Short Video Submission</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-look-the-future-of-web-search-with-microsofts-newly-added-ai-capabilities-in-bing/"><u>Inside Look: The Future of Web Search with Microsoft's Newly Added AI Capabilities in Bing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/the-quintessential-quotient-subscriber-rankings-for-2024/"><u>The Quintessential Quotient Subscriber Rankings for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-10-easy-to-use-gamers-edits-software/"><u>Top 10 Easy-to-Use Gamers' Edits Software</u></a></li>
 </ul></div>
 

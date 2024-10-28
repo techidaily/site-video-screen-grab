@@ -1,7 +1,7 @@
 ---
 title: "[New] Photograph Entire Screen Area"
-date: 2024-10-02T19:41:46.351Z
-updated: 2024-10-09T20:01:52.870Z
+date: 2024-10-24T22:36:45.607Z
+updated: 2024-10-27T22:26:42.330Z
 tags: 
   - screen-recording
   - ai video
@@ -60,13 +60,6 @@ Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offe
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/print-chrome-full-page.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
 
 ## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
@@ -74,13 +67,6 @@ Once the printing dialogue box appears on the screen you'll be able to preview t
 If you'd like to avoid producing several screenshots that you'll later have to combine into a single image or a document, you can simply hold the **CTRL and -** keys on Windows or **Command - on** a Mac OS to zoom out the page and fit it into a screen.
 
 To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Method 3: Capturing Screenshots With Browser Extensions
 
@@ -90,11 +76,25 @@ Built-in screen capturing options on Windows and Mac offer only a limited amount
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
 
 #### 2\. [Screenshot Webpages](https://chrome.google.com/webstore/detail/screenshot-webpages/bdfnieppndfdhcgbmhfdlgdjegclkomk)
 
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
 
@@ -112,18 +112,24 @@ Install the extension in your browser and then click on its icon in the Extensio
 
 [Firefox Quantum](https://www.mozilla.org/en-US/firefox/) browser allows you to quickly take screenshots of the full page without much hassle. Make sure that the tab with the web page you'd like to capture is open, and then click on the **Page Action** icon, that looks like three dots. Select the **Take a Screenshot** feature from the menu and then when the new dialogue box appears on the screen click on the **Save full page** option. Your screenshots will be stored online and you can share, organize or delete them from **My Shots** folder.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Method 4: Using Online Tools for Full Page Screenshots
 
 If you don't want to go through the trouble of installing a screenshot extension in your web browser, you can easily capture an entire page with an online tool. [Web-capture.net](https://web-capture.net/) platform is designed to help their users to take full page screenshots effortlessly. You just have to copy the URL of the page you'd like to capture and select the image file format.
 
 The platform lets you create PDF, PNG or JPEG files, so once you choose the file format that best meets your needs, you can simply click on the **Capture webpage** icon located near the bottom of the screen.
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 5: Using Screen Capturing Software for Full Page Screenshots
 
@@ -134,10 +140,10 @@ Taking full page screenshots on a Mac computer is made much simpler by [Paparazz
 ![ Full Page Screenshot](https://images.wondershare.com/filmora/article-images/snagit.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 The TechSmith's Snagit software provides a simple way to capture any scrolling window on your computer. Just click on the **Capture** icon located in the software's **All-in-one** tab and go ahead to drag the crosshairs and designate the region of the screen you'd like to capture.
@@ -167,18 +173,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/1716069525140-new-2024-approved-capture-your-screen-on-chromebook-methods-4-you/"><u>[New] 2024 Approved Capture Your Screen on Chromebook Methods 4 You!</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-mastering-mobile-and-professional-camera-capture-for-impressive-igtv/"><u>[New] 2024 Approved Mastering Mobile and Professional Camera Capture for Impressive IGTV</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-becoming-an-expert-at-obs-studio-android-focus/"><u>[Updated] 2024 Approved Becoming an Expert at OBS Studio Android Focus</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-revenue-in-20-second-chunks-youtube-shorts-magic/"><u>[Updated] 2024 Approved Crafting Revenue in 20-Second Chunks YouTube Shorts Magic</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-minimize-stress-in-ipad-screen-recordings-heres-a-way/"><u>[Updated] How to Minimize Stress in iPad Screen Recordings? Here's a Way</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-8-compelling-no-cost-video-calls-applications-for-pc-and-mac-users/"><u>[Updated] In 2024, 8 Compelling No-Cost Video Calls Applications for PC and MAC Users</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-from-oppo-reno-11-pro-5g-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock from Oppo Reno 11 Pro 5G Phones with/without a PC</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-premier-gaming-liquids-best-of-breed-lists/"><u>In 2024, Premier Gaming Liquids Best of Breed Lists</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-symphonic-stats-adding-melodies-to-whatsapp/"><u>In 2024, Symphonic Stats Adding Melodies to WhatsApp</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-fast-lane-to-excellent-captioning-a-guide-to-impressive-fb-media-posts/"><u>In 2024, The Fast Lane to Excellent Captioning A Guide to Impressive FB Media Posts</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/le-piu-ottime-applicazioni-di-montaggio-video-per-iphone-la-guida-essenziale-settembre-2024/"><u>Le Più Ottime Applicazioni Di Montaggio Video per iPhone: La Guida Essenziale Settembre 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/optimal-settings-for-recording-movs-on-windows-11-systems-for-2024/"><u>Optimal Settings for Recording MOVs on Windows 11 Systems for 2024</u></a></li>
-<li><a href="https://driver-error.techidaily.com/restoring-usb-functionality-in-windows-versions-7-and-8/"><u>Restoring USB Functionality in Windows Versions 7 & 8</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-showdown-of-streamers-assessing-the-best-for-you-obs-vs-twitch-studio/"><u>[New] 2024 Approved Showdown of Streamers Assessing the Best for You - OBS vs Twitch Studio</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-step-by-step-recording-games-on-xbox-one/"><u>[New] Step-by-Step Recording Games on Xbox One</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-crafting-motivational-life-vlogs-for-fan-engagement/"><u>[Updated] 2024 Approved Crafting Motivational Life Vlogs for Fan Engagement</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-entryways-for-panzoid-life/"><u>[Updated] Innovative Entryways for Panzoid Life</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-seize-the-day-documenting-games-on-samsung-phones-for-2024/"><u>[Updated] Seize the Day! Documenting Games on Samsung Phones for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-six-innovative-approaches-for-recording-and-storing-mov-files-on-windows-11/"><u>[Updated] Six Innovative Approaches for Recording and Storing MOV Files on Windows 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-transparent-perspective-reviewing-recordcasts-strengths-for-2024/"><u>[Updated] Transparent Perspective Reviewing RecordCast's Strengths for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-8-ultimate-windows-10-video-grabber-apps-you-must-try/"><u>2024 Approved 8 Ultimate Windows 10 Video Grabber Apps You Must Try</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-quick-correction-quest-how-to-skillfully-edit-images-on-win10/"><u>2024 Approved Quick Correction Quest How to Skillfully Edit Images on WIN10</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728504032100-windows/"><u>迷惘解開：瀏覽器無法發現下載的Windows電腦檔案失蹤原因</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-prevent-samurai-warriors-5-from-crashing-on-your-windows-computer/"><u>How to Prevent Samurai Warriors 5 From Crashing on Your Windows Computer?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-real-time-video-conversations-with-whatsapp-web-on-pcs/"><u>Mastering Real-Time Video Conversations with WhatsApp Web on PCs</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/premium-network-switches-upgrade-capacity-and-accelerate-data-transfers/"><u>Premium Network Switches: Upgrade Capacity & Accelerate Data Transfers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1715834823879-the-compre-written-documentation-and-examples-for-recording-sims-4-games-in-a-way-that-is-clear-concise-and-easy-to-understand-with-each-new-title-conveying/"><u>The Compre Written Documentation and Examples for Recording Sims 4 Games in a Way that Is Clear, Concise, and Easy to Understand, with Each New Title Conveying Similar Meanings While Adhering to the Maximum Character Limit of 156 Characters for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-15-free-video-editing-tools-for-starters-simplified-and-user-friendly-for-2024/"><u>Updated 15 Free Video Editing Tools for Starters Simplified and User-Friendly for 2024</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-8-best-lyric-video-templates-for-after-effects/"><u>Updated 8 Best Lyric Video Templates for After Effects</u></a></li>
 </ul></div>
 
