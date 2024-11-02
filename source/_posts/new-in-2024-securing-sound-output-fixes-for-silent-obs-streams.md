@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Securing Sound Output  Fixes for Silent OBS Streams\""
-date: 2024-10-24T21:40:22.292Z
-updated: 2024-10-27T16:30:23.998Z
+date: 2024-10-28T18:30:45.264Z
+updated: 2024-11-02T16:29:07.813Z
 tags: 
   - screen-recording
   - ai video
@@ -41,13 +41,6 @@ While using OBS studio, the users might experience the difficulties of OBS not c
 
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
-  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **2\. Run it as Administrator**
 
 You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. By default, Windows always restrict the maximum resources a program can obtain to avoid one application draining too many available resources, crashing essential system programs. The method is uncomplicated, and you can perform it by yourself. Therefore, if you want to prevent OBS not recording audio difficulties, you should make OBS an administrator. Hence, we propose to run your OBS as administrator to circumvent this constraint
@@ -59,17 +52,10 @@ You can run OBS as an administrator on Windows 10 and Windows 11 effortlessly. B
 ![run it as administrator](https://images.wondershare.com/filmora/article-images/run-it-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100537/7443" target="_top" id="2100537">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100537" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100537/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **3\. Unmute OBS**
@@ -82,6 +68,13 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **4\. Check the sound settings**
 
 Click the Desktop Audio Device drop-down option if the proper device is not chosen there. Then choose the correct desktop audio device.
@@ -91,13 +84,6 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 * Press the Apply button, then click OK to exit the window.
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
 
@@ -109,6 +95,13 @@ Try recording with your speakers as the default playback device instead of headp
 
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### **6\. Update your audio driver**
 
 If the Desktop Audio stopped recording after the Windows Driver update, you may roll back the Windows to the prior version with no difficulty. If the audio driver is not up-to-date, the OS cannot connect with the audio output device. Hence, OBS will not detect any audio. To upgrade your audio driver, follow these procedures.
@@ -119,10 +112,17 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
@@ -152,10 +152,10 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
@@ -180,24 +180,19 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-10-must-have-screen-capture-tools-for-online-instructors/"><u>[New] 10 Must-Have Screen Capture Tools for Online Instructors</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-from-novice-to-pro-learning-snapseed-essentials/"><u>[New] 2024 Approved From Novice to Pro Learning Snapseed Essentials</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-cutting-edge-techniques-for-efficient-hp-notebook-screen-recording/"><u>[New] Cutting-Edge Techniques for Efficient HP Notebook Screen Recording</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-checklist-for-selecting-prime-streaming-services-of-cricket/"><u>[New] The Ultimate Checklist for Selecting Prime Streaming Services of Cricket</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-elite-voice-capture-tech-the-ultimate-5-apps-for-mac-users/"><u>[Updated] In 2024, Elite Voice Capture Tech The Ultimate 5 Apps for Mac Users</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-itop-insider-review-top-notch-screencast-software-compared/"><u>[Updated] ITop Insider Review Top-Notch Screencast Software Compared</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-navigating-legal-aspects-of-recording-whatsapp-talks/"><u>[Updated] Navigating Legal Aspects of Recording WhatsApp Talks</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-review-spotlight-on-yuneecs-aerodrone-typhoon-h/"><u>[Updated] Review Spotlight on Yuneec’s AeroDrone Typhoon H</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-the-ultimate-composition-crafting-memorable-podcast-covers/"><u>[Updated] The Ultimate Composition Crafting Memorable Podcast Covers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-basicwin10grabber-free-software-download/"><u>2024 Approved BasicWin10Grabber - Free Software Download</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/approved-from-zero-to-hero-youtube-intro-wonders-with-imovie/"><u>2024 Approved From Zero to Hero YouTube Intro Wonders with iMovie</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/diagnosing-and-solving-issues-with-webcams-built-into-windows-computers/"><u>Diagnosing and Solving Issues with Webcams Built Into Windows Computers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-itel-p55plus-by-drfone-android/"><u>How to Show Wi-Fi Password on Itel P55+</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-melodicmeasurement-reaction-to-tunes/"><u>In 2024, MelodicMeasurement Reaction to Tunes</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-virtual-room-recordings-desktop-and-mobile-tips/"><u>In 2024, Virtual Room Recordings Desktop & Mobile Tips</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/palette-perfection-the-colorists-manual-for-2024/"><u>Palette Perfection The Colorist's Manual for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-vivo-s17-pro-by-fonelab-android-recover-data/"><u>Recover lost data from Vivo S17 Pro</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-6-straightforward-abodes-blueprints-in-mc-world/"><u>Top 6 Straightforward Abodes Blueprints in MC World</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-photos-from-samsung-by-fonelab-android-recover-photos/"><u>Undelete lost photos from Samsung .</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-a-step-by-step-guide-to-utilizing-bandicams-capture-feature-for-2024/"><u>[New] A Step-by-Step Guide to Utilizing Bandicam's Capture Feature for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unlock-creative-potential-with-our-customized-outro-scenes-free/"><u>[New] Unlock Creative Potential with Our Customized Outro Scenes (Free!)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-key-aspects-of-zdsoft-vision-recorder/"><u>[Updated] 2024 Approved Key Aspects of ZDSoft Vision Recorder</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-save-skype-calls-on-windows-and-os-x-for-2024/"><u>[Updated] How to Save Skype Calls on Windows and OS X for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-50-essential-screen-savers-for-online-video-calls/"><u>[Updated] In 2024, 50 Essential Screen Savers for Online Video Calls</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-seamless-way-to-capture-your-favorite-pc-games-6-methods/"><u>[Updated] The Seamless Way to Capture Your Favorite PC Games (6 Methods)</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-unleash-flawless-footage-overcome-instagram-video-hurdles/"><u>[Updated] Unleash Flawless Footage Overcome Instagram Video Hurdles</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-clash-of-legends-5-iconic-fist-fighters-in-virtual-world/"><u>2024 Approved Clash of Legends 5 Iconic Fist-Fighters in Virtual World</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mastering-visual-clarity-for-remote-communications-with-ease/"><u>2024 Approved Mastering Visual Clarity for Remote Communications with Ease</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/comprehensive-testing-of-apc-be600m1-surge-protector-with-integrated-usb-charging-port-in-depth-review/"><u>Comprehensive Testing of APC BE600M1 Surge Protector with Integrated USB Charging Port - In-Depth Review</u></a></li>
+<li><a href="https://common-error.techidaily.com/from-troubled-to-triumphant-the-end-of-easy-anti-cheat-problems-in-new-world-release/"><u>From Troubled to Triumphant: The End of Easy Anti-Cheat Problems in New World Release</u></a></li>
+<li><a href="https://fox-http.techidaily.com/master-your-virtual-reality-journey-which-option-suits-you-better-portable-mobile-or-connected-tethered-in-2024/"><u>Master Your Virtual Reality Journey Which Option Suits You Better - Portable (Mobile) or Connected (Tethered), In 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/optimal-series-premium-webcam-grips/"><u>Optimal Series Premium Webcam Grips</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ultimate-anker-usb-30-superspeed-hub-evaluation-unleash-your-devices-potential/"><u>Ultimate Anker USB 3.0 Superspeed Hub Evaluation - Unleash Your Device's Potential</u></a></li>
 </ul></div>
 

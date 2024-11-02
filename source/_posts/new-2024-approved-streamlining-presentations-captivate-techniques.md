@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Streamlining Presentations  Captivate Techniques\""
-date: 2024-10-20T18:34:25.427Z
-updated: 2024-10-27T22:01:25.935Z
+date: 2024-10-30T18:08:02.429Z
+updated: 2024-11-02T19:56:57.191Z
 tags: 
   - screen-recording
   - ai video
@@ -49,16 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<span id="1983474">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037358/7443" target="_top" id="2037358">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037358" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037358/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Record a Video Presentation Using Adobe Captivate
@@ -79,19 +73,6 @@ After you click on the Create button, a new window will appear on the screen. In
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-settings.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In the Snap To section of the window, you'll be able to choose between Application Window, Application Region, and Custom Size options. Select the feature that best meets the demands of the project you are working on, and then click on the Panning drop down menu if you would like to add the panning effect to the video recording you are creating. The Audio feature lets you record both narration and system audio.
 
 #### Step 3 - Starting a new video recording session
@@ -99,6 +80,19 @@ In the Snap To section of the window, you'll be able to choose between Applicati
 Click on the Settings button if you wish to change the destination on your hard-drive where the video will be saved.
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
 
@@ -111,10 +105,10 @@ Upon the completion of the video recording session, the Publish Video Demo windo
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-post.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You'll also be able to set the preferred frame rate, encoding option and aspect ratio. Click on the Publish button after you've adjusted all the settings in accordance with the demands of your project.
@@ -126,10 +120,10 @@ Adobe Captivate is much more than just a simple screen recording tool, and if yo
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
-  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -147,24 +141,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-ultimate-checklist-for-zoom-recording/"><u>[New] 2024 Approved The Ultimate Checklist for Zoom Recording</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-crafting-compelling-youtube-content-through-split-screens/"><u>[New] Crafting Compelling YouTube Content Through Split-Screens</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-dual-display-dynamics-video-recorder-rankings/"><u>[New] In 2024, Dual Display Dynamics Video Recorder Rankings</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-tips-and-tricks-perfecting-webcam-recordings-on-macbook/"><u>[New] Tips & Tricks Perfecting Webcam Recordings on MacBook</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-joining-the-dots-obs-and-zoom-pairing-explained/"><u>[Updated] In 2024, Joining the Dots OBS & Zoom Pairing Explained</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-navigating-through-5-premium-stream-ready-webcams/"><u>[Updated] In 2024, Navigating Through 5 Premium Stream-Ready Webcams</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-perfect-practices-in-livestreaming-athletic-competitions-for-2024/"><u>[Updated] Perfect Practices in Livestreaming Athletic Competitions for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-the-ultimate-low-cost-cameras-list-for-2024/"><u>[Updated] The Ultimate Low-Cost Cameras List for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-beginners-guide-to-convenient-game-edit-software-for-2024/"><u>[Updated] Ultimate Beginner's Guide to Convenient Game Edit Software for 2024</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/exploring-digital-manga-my-journey-with-tablets-and-ereaders-the-clear-winner/"><u>Exploring Digital Manga: My Journey with Tablets & eReaders - The Clear Winner</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-se-2020-to-androidios-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone SE (2020) to Android/iOS? | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/huawei-nova-y91-video-recovery-recover-deleted-videos-from-huawei-nova-y91-by-fonelab-android-recover-video/"><u>Huawei Nova Y91 Video Recovery - Recover Deleted Videos from Huawei Nova Y91</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Realme 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-the-essential-list-of-acoustic-amplifiers-and-boosters-for-android-and-ios-users-2023-edition-for-2024/"><u>New The Essential List of Acoustic Amplifiers and Boosters for Android & iOS Users, 2023 Edition for 2024</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/nvidia-introduces-new-unified-application-the-evolution-from-control-panel-and-geforce-experience/"><u>Nvidia Introduces New Unified Application: The Evolution From Control Panel & GeForce Experience</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/overwatch-video-captures-done-right-made-simple-for-2024/"><u>Overwatch Video Captures – Done Right, Made Simple for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/superior-on-screen-moment-documentation/"><u>Superior On-Screen Moment Documentation</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-video-flip-in-no-time-expert-techniques-made-simple-for-2024/"><u>Updated Video Flip in No Time Expert Techniques Made Simple for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/user-demand-highlights-the-4-critical-updates-for-chatgpts-add-on-storefront/"><u>User Demand Highlights: The 4 Critical Updates for ChatGPT's Add-On Storefront</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-decoding-earnings-for-content-producers-on-short-form-platform/"><u>[New] 2024 Approved Decoding Earnings for Content Producers on Short-Form Platform</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-elevate-your-gaming-experience-4-techniques-for-gameplay-snaps/"><u>[New] 2024 Approved Elevate Your Gaming Experience 4 Techniques for Gameplay Snaps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-taming-high-quality-streams-obs/"><u>[New] In 2024, Taming High-Quality Streams (OBS)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-perfecting-the-art-of-filming-and-post-production-with-adobe-connects-features/"><u>[New] Perfecting the Art of Filming & Post-Production with Adobe Connect's Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-streamline-your-gaming-memories-easy-minecraft-recordings-on-macs/"><u>[New] Streamline Your Gaming Memories Easy Minecraft Recordings on Macs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-from-live-to-legacy-preserving-facebook-events/"><u>[Updated] 2024 Approved From Live to Legacy Preserving Facebook Events</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-essential-tips-for-documenting-real-time-youtube-broadcasts-for-2024/"><u>[Updated] Essential Tips for Documenting Real-Time YouTube Broadcasts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-embed-presentation-asset-as-video-feature/"><u>[Updated] In 2024, Embed Presentation Asset as Video Feature</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-voice-assignment-verification/"><u>[Updated] In 2024, Voice Assignment Verification</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-screen-recorder-pro-for-windows-10-for-2024/"><u>[Updated] Screen Recorder Pro for Windows 10 for 2024</u></a></li>
+<li><a href="https://fox-within.techidaily.com/dell-alienware-hdd/"><u>Dell Alienware HDD交換手順：データ保持できますか？</u></a></li>
+<li><a href="https://fake-location.techidaily.com/dose-life360-notify-me-when-someone-checks-my-location-on-tecno-spark-10-4g-drfone-by-drfone-virtual-android/"><u>Dose Life360 Notify Me When Someone Checks My Location On Tecno Spark 10 4G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-huawei-nova-y91-is-unlocked-by-drfone-android/"><u>How To Check if Your Huawei Nova Y91 Is Unlocked</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-bypassing-google-account-with-vnrom-bypass-for-nokia-105-classic-by-drfone-android/"><u>In 2024, Bypassing Google Account With vnROM Bypass For Nokia 105 Classic</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-top-10-android-and-ios-timers-for-effortless-wedding-countdown-management/"><u>In 2024, Top 10 Android and iOS Timers for Effortless Wedding Countdown Management</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/samsung-galaxy-note-9-the-definitive-guide-to-choosing-the-best-large-screen-phone-on-the-market/"><u>Samsung Galaxy Note 9 - The Definitive Guide to Choosing the Best Large Screen Phone on the Market</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/ultimate-list-10-top-ae-text-ideas/"><u>Ultimate List 10 Top AE Text Ideas</u></a></li>
 </ul></div>
 

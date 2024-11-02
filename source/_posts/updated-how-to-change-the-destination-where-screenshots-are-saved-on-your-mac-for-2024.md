@@ -1,7 +1,7 @@
 ---
 title: "[Updated] How to Change the Destination Where Screenshots Are Saved on Your Mac for 2024"
-date: 2024-08-24T02:30:30.408Z
-updated: 2024-08-25T02:30:30.408Z
+date: 2024-10-27T17:30:39.107Z
+updated: 2024-11-02T20:01:48.819Z
 tags: 
   - screen-recording
   - ai video
@@ -48,11 +48,25 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068432/7443" target="_top" id="2068432">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068432" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068432/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -61,6 +75,13 @@ Create a new folder on the desired location on your hard drive, and then launch 
 Then enter a space at the end after 'location'.
 
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
 
@@ -73,8 +94,12 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -87,16 +112,11 @@ Don't forget that deleting the folder you use as a default location for storing 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -104,3 +124,24 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-saving-youtube-content-with-simple-steps/"><u>[New] 2024 Approved Saving YouTube Content with Simple Steps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-record-with-your-macbooks-camera/"><u>[New] How to Record with Your MacBook's Camera</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-stream-your-google-meet-talks-iphone-and-android-for-2024/"><u>[New] How to Stream Your Google Meet Talks IPhone & Android for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-methods-for-making-meetings-memorable-for-2024/"><u>[New] Methods for Making Meetings Memorable for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-photo-your-desktop-windows-edition/"><u>[Updated] In 2024, Photo Your Desktop Windows Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-pioneering-techniques-in-screen-snatching/"><u>[Updated] In 2024, Pioneering Techniques in Screen Snatching</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-top-rated-ios-applications-for-emulating-popular-psp-games-for-2024/"><u>[Updated] Top-Rated iOS Applications for Emulating Popular PSP Games for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-answers-to-questions-related-to-filmora/"><u>2024 Approved Answers to Questions Related to Filmora</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-new-lens-on-sony-s3700-blu-ray-play-reviews/"><u>2024 Approved New Lens on Sony S3700 Blu-Ray PLAY Reviews</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-screen-scanning-mastery-using-fraps-tools/"><u>2024 Approved Screen Scanning Mastery Using Fraps Tools</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unveiling-the-secrets-to-profitable-brands-partnerships-on-youtube/"><u>2024 Approved Unveiling the Secrets to Profitable Brands Partnerships on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/expertly-selected-best-9-video-conference-apps-for-cross-platform-use/"><u>Expertly Selected Best 9 Video Conference Apps for Cross-Platform Use</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-elite-nintendo-switch-fighters-showdown-max-156/"><u>In 2024, Elite Nintendo Switch Fighters Showdown (Max 156)</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-and-where-to-find-a-shiny-stone-pokemon-for-vivo-v29e-drfone-by-drfone-virtual-android/"><u>In 2024, How and Where to Find a Shiny Stone Pokémon For Vivo V29e? | Dr.fone</u></a></li>
+<li><a href="https://win-bytes.techidaily.com/melhores-tecnicas-para-converter-filmes-do-vlc-em-formato-mp4/"><u>Melhores Técnicas Para Converter Filmes Do VLC Em Formato MP4</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/techniques-to-promptly-introduce-custom-gpts-in-conversations-using-chatgpt-integration/"><u>Techniques to Promptly Introduce Custom GPTs in Conversations Using ChatGPT Integration</u></a></li>
+</ul></div>
+

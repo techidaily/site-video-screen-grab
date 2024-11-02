@@ -1,7 +1,7 @@
 ---
 title: "[New] Duplex Monitoring Transcription"
-date: 2024-10-23T01:19:00.325Z
-updated: 2024-10-27T23:35:32.528Z
+date: 2024-10-29T17:55:13.511Z
+updated: 2024-11-02T18:04:53.896Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Record Multiple Monitors
@@ -60,6 +60,13 @@ For macOS 10.12 or later
 The first step towards setting up a screencasting session with multiple displays is to make sure that the monitors are properly connected to your laptop or desktop computer. Each external monitor will display identical images when turned on, but in order to move software windows between the two screens, you'll have to enable the 'Extend These Displays' option. The actual steps you'll need to take may vary, depending on the computer and the OS you are using, and we are going to show you how to extend displays on Windows 8 or later.
 
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -78,10 +85,10 @@ Sum up the two values of the wider sides of the screens and insert the value you
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Capturing Multiple Monitor Displays with Camtasia
@@ -109,20 +116,13 @@ In case that you want to record your secondary monitor, we recommend you to try 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -140,14 +140,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-effortless-video-streaming-on-your-facebook-page/"><u>[Updated] 2024 Approved Effortless Video Streaming on Your Facebook Page</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-exploring-advanced-options-with-gopro-burst-features-for-2024/"><u>[Updated] Exploring Advanced Options with GoPro Burst Features for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/best-console-to-pc-conversion-top-5-ps1-emulators/"><u>Best Console-to-PC Conversion Top 5 PS1 Emulators</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-art-of-revisiting-your-private-snap-history/"><u>In 2024, The Art of Revisiting Your Private Snap History</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-what-you-want-to-know-about-two-factor-authentication-for-icloud-on-your-iphone-7-by-drfone-ios/"><u>In 2024, What You Want To Know About Two-Factor Authentication for iCloud On your iPhone 7</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/precision-in-capturing-androids-best-techniques-for-2024/"><u>Precision in Capturing Android's Best Techniques for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/premier-webcam-selections-for-dynamic-twitch-sessions-for-2024/"><u>Premier Webcam Selections for Dynamic Twitch Sessions for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/springs-screen-recorder-unveiled-a-users-perspective/"><u>Spring's Screen Recorder Unveiled A User's Perspective</u></a></li>
-<li><a href="https://fake-location.techidaily.com/thinking-about-changing-your-netflix-region-without-a-vpn-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>Thinking About Changing Your Netflix Region Without a VPN On Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-gamers-guidebook-4-proven-strategies-for-gameplay-recordings-for-2024/"><u>[New] Gamer's Guidebook 4 Proven Strategies for Gameplay Recordings for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unveiling-the-secrets-how-to-save-your-google-meet/"><u>[Updated] 2024 Approved Unveiling the Secrets How to Save Your Google Meet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-leading-android-moba-games-unveiled/"><u>[Updated] Leading Android MOBA Games Unveiled</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-screensnapper-pro-2023-apowersofts-latest-for-pcs/"><u>[Updated] ScreenSnapper Pro 2023 Apowersoft's Latest for PCs</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-swift-shadowing-in-1-minute-for-2024/"><u>[Updated] Swift Shadowing in 1 Minute for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-hot-40-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Hot 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo Y36 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/efficient-classroom-documentation-choose-the-best-screen-recorder-for-2024/"><u>Efficient Classroom Documentation Choose the Best Screen Recorder for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exploring-the-ultimate-selection-elite-video-doorbells-for-smart-homes-in-2n4-insights-from-zdnet/"><u>Exploring the Ultimate Selection: Elite Video Doorbells for Smart Homes in 2N4 | Insights From ZDNET</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-honor-magic-5-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Honor Magic 5 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-win11s-best-videography-applications-explored/"><u>In 2024, Win11's Best Videography Applications Explored</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-game-with-alienware-m1-r2-review-powerhouse-pc-and-clicky-keys-showdown/"><u>Mastering the Game with Alienware M1# R2 Review: Powerhouse PC and Clicky Keys Showdown</u></a></li>
 </ul></div>
 

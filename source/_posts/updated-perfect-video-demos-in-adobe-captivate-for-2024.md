@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfect Video Demos in Adobe Captivate for 2024"
-date: 2024-10-26T00:57:28.685Z
-updated: 2024-10-27T23:38:11.360Z
+date: 2024-11-01T17:34:33.884Z
+updated: 2024-11-02T17:37:50.736Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,10 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043618/7443" target="_top" id="2043618">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043618" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043618/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## How to Record a Video Presentation Using Adobe Captivate
@@ -65,6 +65,13 @@ Double-click on Adobe Captivate's desktop icon to launch the software, and then 
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Click on the Demo option in the Adobe Captivate's welcome window, and then click on the Create button in the lower right corner of the screen.
 
 #### Step 2 - Select the application and designate the area of the screen you'd like to record
@@ -74,10 +81,10 @@ After you click on the Create button, a new window will appear on the screen. In
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
-  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100526/7443" target="_top" id="2100526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100526" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100526/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 In the Snap To section of the window, you'll be able to choose between Application Window, Application Region, and Custom Size options. Select the feature that best meets the demands of the project you are working on, and then click on the Panning drop down menu if you would like to add the panning effect to the video recording you are creating. The Audio feature lets you record both narration and system audio.
@@ -87,13 +94,6 @@ In the Snap To section of the window, you'll be able to choose between Applicati
 Click on the Settings button if you wish to change the destination on your hard-drive where the video will be saved.
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
 
@@ -106,10 +106,10 @@ Upon the completion of the video recording session, the Publish Video Demo windo
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-post.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148646/16836" target="_top" id="2148646">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148646" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148646/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 You'll also be able to set the preferred frame rate, encoding option and aspect ratio. Click on the Publish button after you've adjusted all the settings in accordance with the demands of your project.
@@ -135,21 +135,22 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unveiling-secrets-how-to-save-your-google-conversations/"><u>[New] 2024 Approved Unveiling Secrets How to Save Your GooGle Conversations</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-harness-the-power-of-fb-lives-selecting-the-top-5-downloading-apps-for-2024/"><u>[New] Harness the Power of FB Lives Selecting the Top 5 Downloading Apps for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-captureking-high-definition-edition/"><u>[New] In 2024, CaptureKing High Definition Edition</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-how-to-create-and-schedule-a-google-meet/"><u>[New] In 2024, How to Create and Schedule A Google Meet?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-ios-and-ps2-gaming-top-emulators-unveiled-for-2024/"><u>[Updated] IOS and PS2 Gaming Top Emulators Unveiled for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/deciding-the-best-for-screens-is-obs-more-effective-than-fraps-in-2024/"><u>Deciding the Best for Screens Is OBS More Effective than Fraps, In 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-oppo-a58-4g-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Oppo A58 4G Location Settings | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/fixes-for-apps-keep-crashing-on-xiaomi-mix-fold-3-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixes for Apps Keep Crashing on Xiaomi Mix Fold 3 | Dr.fone</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/how-to-transfer-and-restore-windows-os-versions-11-10-8-and-7-across-different-computers/"><u>How to Transfer and Restore Windows OS (Versions 11, 10, 8 & 7) Across Different Computers</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-oppo-k11x-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Oppo K11x Phone? | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-poco-f5-pro-5g-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Poco F5 Pro 5G FRP Android 10/11/12/13</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-expert-advice-on-quick-and-clean-ppt-captures/"><u>In 2024, Expert Advice on Quick and Clean PPT Captures</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-mobile-and-desktop-techniques-for-youtube-short-video-submission/"><u>In 2024, Mobile & Desktop Techniques for YouTube Short Video Submission</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/inside-look-the-future-of-web-search-with-microsofts-newly-added-ai-capabilities-in-bing/"><u>Inside Look: The Future of Web Search with Microsoft's Newly Added AI Capabilities in Bing</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/the-quintessential-quotient-subscriber-rankings-for-2024/"><u>The Quintessential Quotient Subscriber Rankings for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/top-10-easy-to-use-gamers-edits-software/"><u>Top 10 Easy-to-Use Gamers' Edits Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-obs-vs-shadowplay-which-recording-tool-takes-the-prize/"><u>[New] In 2024, OBS Vs ShadowPlay Which Recording Tool Takes the Prize?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-time-saving-strategies-for-gotomeeting-audiovideo-logging/"><u>[Updated] In 2024, Time-Saving Strategies for GoToMeeting Audio/Video Logging</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-navigating-mov-saving-in-windows-11-top-six-methods-reviewed/"><u>[Updated] Navigating .MOV Saving in Windows 11 - Top Six Methods Reviewed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-video-monitors-face-off/"><u>[Updated] Ultimate Video Monitors Face-Off</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/expertly-ranked-virtual-meeting-software-options/"><u>Expertly Ranked Virtual Meeting Software Options</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/game-on-excavating-elite-escape-chamber-quests-for-2024/"><u>Game On Excavating Elite Escape Chamber Quests for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/how-to-dodge-facebook-video-sponsored-content-for-2024/"><u>How to Dodge Facebook Video Sponsored Content for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-5-best-route-generator-apps-you-should-try-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Best Route Generator Apps You Should Try On Samsung Galaxy A05 | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-a-curated-selection-of-top-6-nft-maker-applications/"><u>In 2024, A Curated Selection of Top 6 NFT Maker Applications</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-crucial-top-5-compact-action-recorder-recommendations/"><u>In 2024, Crucial Top 5 Compact Action Recorder Recommendations</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-14-pro-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone 14 Pro Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-masterclass-approach-unveiling-the-secrets-of-flawless-mobizen-recordings/"><u>In 2024, Masterclass Approach Unveiling the Secrets of Flawless Mobizen Recordings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-mac-screen-recording-via-keyboard-tricks-for-2024/"><u>Mastering Mac Screen Recording via Keyboard Tricks for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-best-adobe-premiere-pro-add-ons-enhance-your-video-editing-experience-for-2024/"><u>New The Best Adobe Premiere Pro Add-Ons Enhance Your Video Editing Experience for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/reviving-camera-victory-over-obs-glitches-for-2024/"><u>Reviving Camera Victory Over OBS Glitches for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/the-art-of-selecting-and-using-b-roll-in-productions/"><u>The Art of Selecting and Using B-Roll in Productions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unleashing-the-power-of-fbx-for-in-game-capture/"><u>Unleashing the Power of FBX for In-Game Capture</u></a></li>
 </ul></div>
 
