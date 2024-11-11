@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Simplifying Meeting Execution  Combining Slack's Ease With Filmora' Writes\""
-date: 2024-08-16T20:31:44.530Z
-updated: 2024-08-17T20:31:44.530Z
+date: 2024-11-06T20:37:07.984Z
+updated: 2024-11-11T04:59:34.291Z
 tags: 
   - screen-recording
   - ai video
@@ -74,16 +74,10 @@ Here is how you can record Slack meeting.
 1.Click on the **Apps**tab on the left side menu. Click on **Add** **apps**.
 
 ![Add Slack Apps](https://images.wondershare.com/filmora/article-images/add-slack-apps.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 2.Now, in the search bar, type and search **Zoom**. Click on the **Add** This will take you to the Slack App Directory.
 
 ![Slack App Directory](https://images.wondershare.com/filmora/article-images/slack-app-directory.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 
 3.Tap on **Add** **to** **Slack**.
 
@@ -92,22 +86,34 @@ Here is how you can record Slack meeting.
 4.**Allow**Zoom to access your data and enable the app.
 
 ![Allow Zoom On Slack](https://images.wondershare.com/filmora/article-images/allow-zoom-on-slack.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5.Now, go to your workspace and type the **"/zoom"**command in the chatbox. Tap on the **Zoom** meeting tab.
 
 ![Slack Zoom Chatbox](https://images.wondershare.com/filmora/article-images/slack-zoom-chatbox.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151873/7443" target="_top" id="2151873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151873" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6.Click on **Authorize** **Zoom** and adjust the settings.
 
 ![Authorize Zoom On Slack](https://images.wondershare.com/filmora/article-images/authorize-zoom-on-slack.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 7.Click on **Join** to start the meeting.
@@ -118,6 +124,13 @@ Here is how you can record Slack meeting.
 
 ![Record Slack Meeting](https://images.wondershare.com/filmora/article-images/record-slack-meeting.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: Slack Video Call Settings
 
 Slack allows users to schedule a meeting with third-party apps or in Slack itself. You can just as easily have a Slack meeting using the in-built video call option.
@@ -127,16 +140,17 @@ You can either have a one-on-one video call in a DM chat or have a Slack meeting
 The settings tab in the video call enables you to create a name for the video call. There are also audio and video settings that can be changed to enhance the video call experience.
 
 ![Slack Video Call Settings](https://images.wondershare.com/filmora/article-images/slack-video-call-settings.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<a href="https://dhgate.sjv.io/c/5597632/2106658/12108" target="_top" id="2106658">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106658" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106658/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Moreover, if you wish to stay on mute and still engage with the speaker, just click on the emoji on the screen. Select from a variety of reactions or type a text message right on the video screen.
 
 ![Slack Emoji Message](https://images.wondershare.com/filmora/article-images/slack-emoji-message.jpg)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -152,11 +166,33 @@ Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-secure-your-device-footage-with-mi-11-techniques/"><u>[New] 2024 Approved Secure Your Device Footage with Mi 11 Techniques</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-basic-procedures-for-saving-screen-talks-for-2024/"><u>[New] Basic Procedures for Saving Screen Talks for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-elite-race-games-collection-guide/"><u>[New] Elite Race Games Collection Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-ensure-your-virtual-meetings-are-documented-for-2024/"><u>[New] How to Ensure Your Virtual Meetings Are Documented for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-elevate-your-social-standing-with-1000-followersmth/"><u>[New] In 2024, Elevate Your Social Standing with 1,000 Followers/Mth</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-reel-in-the-action-top-strategies-for-recording-your-minecraft-sessions-on-a-mac/"><u>[New] In 2024, Reel in the Action Top Strategies for Recording Your Minecraft Sessions on a Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-recmaster-pro-in-depth-analysis-of-the-latest-release-for-2024/"><u>[New] Recmaster Pro In-Depth Analysis of the Latest Release for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-elite-6-ad-free-android-screen-captures/"><u>[Updated] Elite 6 AD-Free Android Screen Captures</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-expert-advice-on-leveraging-youtubes-video-editor/"><u>[Updated] Expert Advice on Leveraging YouTube's Video Editor</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-is-obs-studio-or-fraps-your-ideal-choice-for-capturing-screens-in-2024/"><u>[Updated] Is OBS Studio or Fraps Your Ideal Choice for Capturing Screens, In 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-bridge-gaps-between-tech-worlds-stream-and-save-youtube-from-various-devices/"><u>2024 Approved Bridge Gaps Between Tech Worlds Stream and Save YouTube From Various Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-eastern-echoes-comparable-gaming-experiences-to-tsushinian-worlds/"><u>2024 Approved Eastern Echoes Comparable Gaming Experiences to Tsushinian Worlds</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-inexpensive-screenshot-and-record-software-guide/"><u>2024 Approved Inexpensive Screenshot & Record Software Guide</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-integrating-zoom-with-your-android-gadget/"><u>2024 Approved Integrating Zoom with Your Android Gadget</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/effortless-data-clearance-on-mac-with-stellars-top-tier-mobile-erase-application/"><u>Effortless Data Clearance on Mac with Stellar's Top-Tier Mobile Erase Application</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-show-wi-fi-password-on-samsung-galaxy-s23-tactical-edition-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Samsung Galaxy S23 Tactical Edition</u></a></li>
+<li><a href="https://driver-install.techidaily.com/inf-security-no-digital-signature-on-third-party-inf/"><u>Inf Security: No Digital Signature on Third-Party Inf</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/make-every-snap-spectacited-top-editors-for-snapchats-best-effects/"><u>Make Every Snap Spectacited Top Editors for Snapchat's Best Effects</u></a></li>
+<li><a href="https://games-able.techidaily.com/two-person-triumphs-top-mobile-games-for-pair-bonding-top-15/"><u>Two-Person Triumphs: Top Mobile Games for Pair Bonding (Top 15)</u></a></li>
+</ul></div>
+

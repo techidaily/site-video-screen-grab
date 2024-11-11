@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Seamlessly Integrate the Ken Burns Effect Into Camtasia"
-date: 2024-08-16T20:32:31.719Z
-updated: 2024-08-17T20:32:31.719Z
+date: 2024-11-06T04:45:43.328Z
+updated: 2024-11-11T05:30:27.763Z
 tags: 
   - screen-recording
   - ai video
@@ -48,8 +48,12 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -57,17 +61,12 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -93,8 +92,12 @@ Once you are fully satisfied with the Ken Burns effect on your video, you can sa
 Remember that this tool isn’t just a single trick pony, and you can use Wondershare Filmora to add a number of other effects to your videos including transitions, textual content, audio recording, cropping, caption, motion tracking, green screen, and more.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -103,11 +106,30 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-elevate-your-creative-process-mastering-the-use-of-luts-in-pscc/"><u>[New] In 2024, Elevate Your Creative Process Mastering the Use of LUTs in PSCC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-inside-apeaksofts-2023-recording-technology-breakthroughs/"><u>[New] Inside Apeaksoft's 2023 Recording Technology Breakthroughs</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-2024-approved-shot-by-shot-mastering-the-art-of-filmmaking-s-cinema-world/"><u>[Updated] 2024 Approved Shot by Shot Mastering the Art of Filmmaking 'S Cinema World</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-capturing-gaming-sessions-pick-between-obs-or-shadowplay-for-2024/"><u>[Updated] Capturing Gaming Sessions Pick Between OBS or ShadowPlay for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-high-definition-adventures-top-7-camcorders-unveiled-for-2024/"><u>[Updated] High-Definition Adventures Top 7 Camcorders Unveiled for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-lullabies-for-your-mind-no-stress-pcs/"><u>[Updated] In 2024, Lullabies for Your Mind No-Stress PCs</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-track-talkative-youtube-threads/"><u>2024 Approved Track Talkative YouTube Threads</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-boosting-engagement-tailoring-backgrounds-on-google-meet-devices/"><u>In 2024, Boosting Engagement Tailoring Backgrounds on Google Meet Devices</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-itel-p55plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to get the dragon scale and evolution-enabled pokemon On Itel P55+? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/peer-reviewed-evaluation-of-action-screening-tech-for-2024/"><u>Peer-Reviewed Evaluation of Action Screening Tech for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/seamless-integration-using-your-switch-pro-controller-to-dominate-on-steam-for-2024/"><u>Seamless Integration Using Your Switch Pro Controller to Dominate on Steam for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/v-joshis-predictions-on-youtube-profits-in-the-new-year-for-2024/"><u>Sourav Joshi's Predictions on YouTube Profits in the New Year for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-offline-iphone-and-ipad-games-fun-without-wi-fi/"><u>Top Offline iPhone & iPad Games – Fun Without Wi-Fi</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-reasons-to-opt-for-the-sleeker-iphone-16-pro-mini-instead-of-the-iphone-16-pro-max-this-year-analysis/"><u>Top Reasons to Opt for the Sleeker iPhone 16 Pro Mini Instead of the iPhone 16 Pro Max This Year | Analysis</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/two-ways-to-track-my-boyfriends-lava-yuva-3-pro-without-him-knowing-drfone-by-drfone-virtual-android/"><u>Two Ways to Track My Boyfriends Lava Yuva 3 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/ultimate-list-the-finest-8-mobile-gaming-experiences/"><u>Ultimate List: The Finest 8 Mobile Gaming Experiences</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Freeze Frame Fun  The Complete Guide to Xbox One Snapshots\""
-date: 2024-10-27T16:24:43.961Z
-updated: 2024-11-02T19:51:08.286Z
+date: 2024-11-09T19:38:18.773Z
+updated: 2024-11-10T19:26:33.551Z
 tags: 
   - screen-recording
   - ai video
@@ -64,21 +64,28 @@ Press the Xbox button on the controller, and locate the System menu. Select the 
 
 Keep in mind that 4K screenshots are significantly larger in size than those in HD or any other resolution so if you would like to share a screenshot on social media you'll first have to download it to your Windows 10 PC and resize it. What's more taking screenshots or [recording videos](https://tools.techidaily.com/wondershare/filmora/download/) on Xbox One is only possible after you launch a game.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Capture Screenshots on Xbox One Using Voice Commands
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-voice-screenshot.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1983475">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Older versions of Xbox One feature the Kinect motion sensor, while the more recent versions have the Microsoft's Cortana sensor. Both of them enable you to take screenshots using voice commands. If your Xbox One has the Kinect motion sensor, you should issue the 'Xbox take a screenshot' command. Viewing the screenshot immediately after it was taken, requires you to say 'Xbox open that' and the screenshot will pop up on the screen or you can just push and hold the Xbox button on the controller.
@@ -86,13 +93,6 @@ Older versions of Xbox One feature the Kinect motion sensor, while the more rece
 You can say ' Hey _Cortana, take a screenshot'_ if your Xbox One features a Cortana motion sensor. However, in order to be able to issue voice commands, you must first activate this option. Head over to the Xbox One's Settings menu and locate the All Settings option. Click on System and switch on the AI Companion feature.
 
 It is important to say the command clearly so the AI can understand what you are trying to do, and for that reason, you should try to avoid capturing screenshots or recording videos via voice commands in noisy rooms.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Manage and Share Screenshots on Xbox One?
 
@@ -105,10 +105,10 @@ The console you're using features the Upload app, so in order to access it, you 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot-share.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144279/7443" target="_top" id="2144279">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144279" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135372/19272" target="_top" id="2135372">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135372" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144279/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135372/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### 2. Manage and Share Xbox Screenshots via Windows 10 PC
@@ -126,10 +126,10 @@ What is your favorite method of taking screenshots on Xbox One? We're anxious to
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -147,20 +147,18 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-achieving-auditory-perfection-zooming-up-your-sound-quality/"><u>[New] 2024 Approved Achieving Auditory Perfection Zooming Up Your Sound Quality</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-essential-steps-to-achieve-flawless-nocturnal-photography/"><u>[New] In 2024, Essential Steps to Achieve Flawless Nocturnal Photography</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-navigating-the-cross-platform-exchange-of-tweets-and-vids-on-whatsapp-for-2024/"><u>[New] Navigating the Cross-Platform Exchange of Tweets and Vids on WhatsApp for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-top-picks-premium-webcams-for-quality-podcasting/"><u>[New] Top Picks Premium Webcams for Quality Podcasting</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-mac-gif-videographer-for-2024/"><u>[New] Ultimate Mac Gif Videographer for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-ideal-mac-screenshot-guide-5-streamlined-and-effective-methods/"><u>[Updated] Ideal Mac Screenshot Guide 5 Streamlined and Effective Methods</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-top-tips-for-creating-engaging-and-memorable-instagram-reels-for-2024/"><u>[Updated] Top Tips for Creating Engaging and Memorable Instagram Reels for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-unwrapped-in-depth-look-at-screenflow-v4-on-macos-for-2024/"><u>[Updated] Unwrapped In-Depth Look at ScreenFlow v4 on macOS for 2024</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/2024-approved-the-essence-of-whatsapp-call-conversations/"><u>2024 Approved The Essence of WhatsApp Call Conversations</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/digital-memory-keepers-taking-screenshots-on-xbox-one/"><u>Digital Memory Keepers Taking Screenshots on Xbox One</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/exploring-the-essence-of-aether-knowledge-breakdown-and-how-to-get-involved/"><u>Exploring the Essence of Aether: Knowledge Breakdown & How to Get Involved</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-12-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 12?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-windows-11-videography-selecting-best-apps/"><u>In 2024, Windows 11 Videography Selecting Best Apps</u></a></li>
-<li><a href="https://win-deluxe.techidaily.com/navigate-email-campaign-success-discover-our-ultimate-list-of-terminology-tips-and-extras-by-massmail-experts/"><u>Navigate Email Campaign Success: Discover Our Ultimate List of Terminology, Tips, and Extras by MassMail Experts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/perfect-pc-playthrough-captures-6-tips-and-tricks-for-2024/"><u>Perfect PC Playthrough Captures 6 Tips and Tricks for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-6-masterpieces-designing-mc-village-homes/"><u>[New] 2024 Approved Top 6 Masterpieces Designing MC Village Homes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-9-best-online-mic-recorders-2023/"><u>[New] 9 Best Online Mic Recorders 2023</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-green-thumbs-united-top-10-agrigames-for-friends-and-family-for-2024/"><u>[New] Green Thumbs United Top 10 AgriGames for Friends and Family for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-essential-techniques-for-recording-instagram-stories/"><u>[Updated] Essential Techniques for Recording Instagram Stories</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-next-gen-capture-the-leading-apps-decoded/"><u>[Updated] In 2024, Next-Gen Capture The Leading Apps Decoded</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-premier-short-frame-gatherer-top-lapses/"><u>[Updated] In 2024, Premier Short Frame Gatherer - Top Lapses</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-top-techniques-for-broadcasting-fb-live-on-cable/"><u>[Updated] In 2024, Top Techniques for Broadcasting FB Live on Cable</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-troubleshooting-a-non-functional-obs-capture-device/"><u>[Updated] In 2024, Troubleshooting a Non-Functional OBS Capture Device</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-sketchsphere-complete-evaluation-24-edition-for-2024/"><u>[Updated] SketchSphere Complete Evaluation '24 Edition for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-14-pro-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 14 Pro Max To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-sound-recorder-quality-overview/"><u>In 2024, Sound Recorder Quality Overview</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/offline-methods-to-update-and-install-windows-hardware-drivers/"><u>Offline Methods to Update and Install Windows Hardware Drivers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/uncovering-budget-friendly-video-conferencing-tools-for-all-systems/"><u>Uncovering Budget-Friendly Video Conferencing Tools for All Systems</u></a></li>
 </ul></div>
 
