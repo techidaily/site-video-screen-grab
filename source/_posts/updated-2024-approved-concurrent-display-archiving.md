@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Concurrent Display Archiving\""
-date: 2024-11-08T03:19:43.653Z
-updated: 2024-11-10T22:52:34.296Z
+date: 2024-11-15T02:36:43.487Z
+updated: 2024-11-20T03:38:13.450Z
 tags: 
   - screen-recording
   - ai video
@@ -48,19 +48,6 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Record Multiple Monitors
 
 The first step towards setting up a screencasting session with multiple displays is to make sure that the monitors are properly connected to your laptop or desktop computer. Each external monitor will display identical images when turned on, but in order to move software windows between the two screens, you'll have to enable the 'Extend These Displays' option. The actual steps you'll need to take may vary, depending on the computer and the OS you are using, and we are going to show you how to extend displays on Windows 8 or later.
@@ -68,16 +55,10 @@ The first step towards setting up a screencasting session with multiple displays
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
 
 <!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082536/7443" target="_top" id="2082536">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082536/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -97,10 +78,10 @@ Sum up the two values of the wider sides of the screens and insert the value you
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105863/7443" target="_top" id="2105863">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105863" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105863/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Capturing Multiple Monitor Displays with Camtasia
@@ -129,13 +110,20 @@ In case that you want to record your secondary monitor, we recommend you to try 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -152,18 +140,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-the-essential-guide-to-simple-iphone-screen-recording/"><u>[New] 2024 Approved The Essential Guide to Simple Iphone Screen Recording</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-the-unseen-dos-and-donts-of-instagram-reels/"><u>[New] 2024 Approved The Unseen Dos & Don'ts of Instagram Reels</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-live-play-and-log-mobile-gaming-with-samsung-for-2024/"><u>[New] Live, Play & Log Mobile Gaming with Samsung for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/new-transform-videos-on-vimeo-using-zero-dollar-resources-for-2024/"><u>[New] Transform Videos on Vimeo Using Zero-Dollar Resources for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-fps-titans-ranking-gamings-elite-shooters-for-2024/"><u>[Updated] FPS Titans Ranking Gaming's Elite Shooters for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-fix-quiet-tweets-with-youtube-links/"><u>[Updated] In 2024, Fix Quiet Tweets with YouTube Links</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-multi-screen-mastery-review-splits-best-cam-for-2024/"><u>[Updated] Multi-Screen Mastery Review Splits Best Cam for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-optimizing-obs-video-compression-for-2024/"><u>[Updated] Optimizing OBS Video Compression for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-sky-surfing-in-hd-with-the-yuneec-drone-review/"><u>[Updated] Sky Surfing in HD with the Yuneec Drone Review</u></a></li>
-<li><a href="https://driver-download.techidaily.com/get-your-latest-m-audio-fast-track-driver-for-windows-users-versions-11-7-8-and-81/"><u>Get Your Latest M-Audio Fast Track Driver for Windows Users (Versions 11, 7, 8 & 8.1)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/innovative-choices-best-android-simulators-for-macpc-enthusiasts/"><u>Innovative Choices Best Android Simulators for Mac/PC Enthusiasts</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-recent-calls-back-from-realme-by-fonelab-android-recover-call-logs/"><u>Simple ways to get recent calls back from Realme</u></a></li>
-<li><a href="https://network-issues.techidaily.com/strategies-to-prevent-acer-screen-shimmer/"><u>Strategies to Prevent Acer Screen Shimmer</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-innovative-ways-to-record-and-tweak-videos-using-the-adobe-connect-platform/"><u>[New] 2024 Approved Innovative Ways to Record & Tweak Videos Using the Adobe Connect Platform</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-screen-recorder-freedom-top-10-no-cost-choices-for-cameras/"><u>[New] In 2024, Screen Recorder Freedom Top 10 No-Cost Choices for Cameras</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-strategic-geniuses-unearthing-the-best-7-total-war-masterpieces/"><u>[New] In 2024, Strategic Geniuses Unearthing the Best 7 Total War Masterpieces</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-terror-in-town-a-list-of-intense-zombie-games/"><u>[New] In 2024, Terror in Town A List of Intense Zombie Games</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-pushingpastthestatusquo-post-mycam-cams-for-2024/"><u>[New] PushingPastTheStatusQuo Post-MyCam Cams for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-spotifys-top-hits-ranked-1-10/"><u>[Updated] 2024 Approved Spotify's Top Hits Ranked 1-10</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-crafting-captivating-vlog-narratives-for-2024/"><u>[Updated] Crafting Captivating Vlog Narratives for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-harnessing-hobbies-for-hefty-helpings-on-digital-domains/"><u>[Updated] Harnessing Hobbies for Hefty Helpings on Digital Domains</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-effortlessly-capture-mac-screenshots/"><u>[Updated] How to Effortlessly Capture Mac Screenshots</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-master-2-screen-grab-tools/"><u>[Updated] Master 2 Screen Grab Tools</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-win-11s-best-practices-the-ultimate-guide-to-saving-mov-files/"><u>2024 Approved Win 11'S Best Practices The Ultimate Guide to Saving MOV Files</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/digital-diary-top-picks-for-personal-video-devices/"><u>Digital Diary Top Picks for Personal Video Devices</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/1715701197532-employing-inbuilt-screen-recording-tools-on-mate-p-models-p20-p10/"><u>Employing Inbuilt Screen Recording Tools on Mate, P Models (P20, P10).</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/in-2024-elevating-your-presence-a-guide-to-discord-broadcasts/"><u>In 2024, Elevating Your Presence A Guide to Discord Broadcasts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/optimal-techniques-for-capturing-ppt-sessions-for-2024/"><u>Optimal Techniques for Capturing PPT Sessions for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/revolutionize-your-editing-with-fcps-premier-tools/"><u>Revolutionize Your Editing with FCP's Premier Tools</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/social-media-synergy-connecting-twitch-streams-with-fb/"><u>Social Media Synergy Connecting Twitch Streams with FB</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-tailored-user-journeys-with-powerful-cookiebot-capabilities/"><u>Unlock Tailored User Journeys with Powerful Cookiebot Capabilities</u></a></li>
 </ul></div>
 

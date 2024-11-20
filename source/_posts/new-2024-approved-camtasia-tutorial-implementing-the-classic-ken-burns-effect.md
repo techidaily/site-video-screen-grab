@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Camtasia Tutorial  Implementing the Classic Ken Burns Effect\""
-date: 2024-08-16T20:28:31.740Z
-updated: 2024-08-17T20:28:31.740Z
+date: 2024-11-13T02:35:07.429Z
+updated: 2024-11-19T18:32:06.978Z
 tags: 
   - screen-recording
   - ai video
@@ -48,8 +48,12 @@ At this point, all you need to do is drag that particular arrow to the left, so 
 In Camtasia 9, you have the option to experiment with zooming and panning or both to create new styles of the Ken Burns effect. You will learn as you experiment and will be able to create some really interesting videos in the process.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1972670/19272" target="_top" id="1972670">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972670" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972670/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Apply Ken Burns Effect with the Best Alternative to Camtasia 9 - [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/)
 
 If you are looking for the best alternative to Camtasia 9 that makes adding the Ken Burns effect and other video editing features much easier, then Wondershare Filmora should be on your list of considerations. Apart from the Ken Burns effect, Filmora is a perfect video editing tool for beginner content creators, YouTubers, and casual editors who don't want access to professional-grade features or want to pay a lot of money to edit their videos.
@@ -57,8 +61,12 @@ If you are looking for the best alternative to Camtasia 9 that makes adding the 
 That's not to say that Filmora only offers basic features as it has a wide range of options available to video editors including green screen, motion tracking, transitions, audio recording, a diverse variety of presets, and a lot more. Both amateur video creators and hobbyists can get a lot out of the Wondershare Filmora editing tool.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043661/7443" target="_top" id="2043661">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043661" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043661/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Step 1\. Import Your Images/Still Photos
@@ -84,8 +92,12 @@ Once you are fully satisfied with the Ken Burns effect on your video, you can sa
 Remember that this tool isn’t just a single trick pony, and you can use Wondershare Filmora to add a number of other effects to your videos including transitions, textual content, audio recording, cropping, caption, motion tracking, green screen, and more.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Max Wales
@@ -94,11 +106,29 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-comprehensive-capture-solutions-azs-reviews-and-backups-for-2024/"><u>[New] Comprehensive Capture Solutions - AZ's Reviews & Backups for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-xsplit-compendium-download-and-review-archive/"><u>[Updated] 2024 Approved XSplit Compendium Download & Review Archive</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-essential-guide-to-best-rated-vr-bike-games/"><u>[Updated] In 2024, Essential Guide to Best-Rated VR Bike Games</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-live-with-clarity-secrets-for-high-quality-fb-recordings/"><u>[Updated] Live with Clarity Secrets for High-Quality FB Recordings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-mastering-the-craft-of-youtubers-music-reaction-videos-essentials/"><u>[Updated] Mastering the Craft of Youtubers Music Reaction Videos Essentials</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-prime-visual-backdrops-for-efficient-collaboration/"><u>[Updated] Prime Visual Backdrops for Efficient Collaboration</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-splitcam-assessment-best-video-recorder-ranking/"><u>[Updated] SplitCam Assessment Best Video Recorder Ranking?</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-realme-c33-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Realme C33 2023 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-streamlined-screencasting-steps-ultimate-tutorial/"><u>In 2024, Streamlined Screencasting Steps - Ultimate Tutorial</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-transforming-mundane-footage-into-spectaculair-slow-mo-instareel/"><u>In 2024, Transforming Mundane Footage Into Spectaculair Slow Mo InstaReel</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/premier-ios-devices-to-play-psp-games-in-high-fidelity-2023-edition-for-2024/"><u>Premier iOS Devices to Play PSP Games in High Fidelity, 2023 Edition for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-audio-issues-in-windows-7-quick-solutions/"><u>Troubleshooting Audio Issues in Windows 7 - Quick Solutions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-to-prevent-cod-modern-warfare-from-freezing-or-crashing/"><u>Troubleshooting Guide to Prevent Cod: Modern Warfare From Freezing or Crashing</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/unlocking-made-easy-the-best-10-apps-for-unlocking-your-tecno-pova-5-device-by-drfone-android/"><u>Unlocking Made Easy The Best 10 Apps for Unlocking Your Tecno Pova 5 Device</u></a></li>
+<li><a href="https://extra-information.techidaily.com/video-excellence-via-apple-music-add-on/"><u>Video Excellence via Apple Music Add-On</u></a></li>
+</ul></div>
+

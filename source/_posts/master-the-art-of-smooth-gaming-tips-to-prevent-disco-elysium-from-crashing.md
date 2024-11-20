@@ -1,7 +1,7 @@
 ---
 title: Master The Art of Smooth Gaming – Tips to Prevent Disco Elysium From Crashing
-date: 2024-11-03T21:50:21.991Z
-updated: 2024-11-10T17:05:58.815Z
+date: 2024-11-17T20:12:28.852Z
+updated: 2024-11-19T22:32:32.304Z
 tags:
   - win11
   - win10
@@ -45,13 +45,6 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 
  If you have multiple peripherals hooked up to your computer, try disconnecting them to find out if any is causing trouble for you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3 – Update your graphics driver
 
  The graphics processing unit (GPU), or your graphics card, has the most impact on your gameplay experience. And your graphics driver is essential for getting top performance from your GPU. If you’re using an outdated graphics driver, it could result in game glitches and long rendering time. So try updating your graphics driver and then running the game again.
@@ -75,10 +68,10 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
@@ -91,10 +84,10 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 If Disco Elysium still crashes, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 4 – Disable extraneous software
@@ -117,6 +110,13 @@ If Disco Elysium still crashes, try the next fix below.
 
 If Disco Elysium won’t work correctly, read on and try Fix 5.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5 – Verify integrity of game files
 
  Files of your game installation might get corrupt, or be deleted as a false positive by antivirus. This could cause issues such as crashes during gameplay.
@@ -129,22 +129,35 @@ If Disco Elysium won’t work correctly, read on and try Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Right-click **Disco Elysium – The Final Cut** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
  This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Relaunch Disco Elysium.
 
@@ -153,6 +166,13 @@ If your game still crashes after this, try the fix below.
 ## Fix 6 – Stop overclocking
 
  If you’re overclocking your CPU or GPU, stop it. An unstable overclock will crash your game and the whole system. So, you should set your CPU clock speed rate back to the default to see if that resolves the crash issue.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 7 – Reinstall the game
 
@@ -164,13 +184,6 @@ If your game still crashes after this, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click **Disco Elysium – The Final Cut** , and select **Manage > Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2019-11-25_11-20-09-edited.jpg)
@@ -180,13 +193,6 @@ If your game still crashes after this, try the fix below.
 **5)** Relaunch your game.
 
 If the crashing issue still exists, there’s still 1 fix to try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
-  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 8: Check for Windows updates
 
@@ -205,10 +211,16 @@ If the crashing issue still exists, there’s still 1 fix to try.
 If the game still crashes, then try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 9 – Run as administrator
@@ -250,20 +262,24 @@ To run your game as administrator, follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-analysis-of-sonys-high-definition-video-gear/"><u>[New] Expert Analysis of Sony's High-Definition Video Gear</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-cross-platform-iptv-adaptability/"><u>[New] In 2024, Cross-Platform IPTV Adaptability</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-decades-leading-guide-to-budget-friendly-recorders/"><u>[Updated] In 2024, Decade's Leading Guide to Budget-Friendly Recorders</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-how-to-ensure-your-virtual-meetings-are-documented/"><u>2024 Approved How to Ensure Your Virtual Meetings Are Documented</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/adventurers-anthology-the-finest-10-affordable-mmos/"><u>Adventurers' Anthology The Finest 10 Affordable MMOs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/assessing-the-value-proposition-of-itop-recorder/"><u>Assessing the Value Proposition of ITop Recorder</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/command-line-mastery-navigating-through-windows-error-messages-with-precision-and-skill/"><u>Command Line Mastery: Navigating Through Windows Error Messages with Precision and Skill</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/elevating-video-production-the-advantages-of-bandicams-technology-for-2024/"><u>Elevating Video Production The Advantages of Bandicam's Technology for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/exclusive-list-best-mac-gif-recorders-for-2024/"><u>Exclusive List Best Mac GIF Recorders for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/fbx-gaming-a-complete-video-guide-for-2024/"><u>FBX Gaming A Complete Video Guide for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/greatest-war-themed-games-the-7-finest-total-war-experiences/"><u>Greatest War-Themed Games The 7 Finest Total War Experiences</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-all-you-need-to-know-about-mega-greninja-for-tecno-pova-6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, All You Need To Know About Mega Greninja For Tecno Pova 6 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1726224255128-pcx-movavi/"><u>PCX 이미지를 원격으로 자연스럽게 바이트 비용 없이 변환: Movavi 사용법</u></a></li>
-<li><a href="https://driver-error.techidaily.com/recover-lost-device-on-doswindows-3x/"><u>Recover Lost Device on DOS/Windows 3.x</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/ultimate-youtube-marketing-strategy-a-step-by-step-guide-to-skyrocketing-your-channels-visibility/"><u>Ultimate YouTube Marketing Strategy: A Step-by-Step Guide to Skyrocketing Your Channel's Visibility</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-navigating-digital-dialogues-insider-secrets-to-proficient-zoom-conversations/"><u>[New] 2024 Approved Navigating Digital Dialogues Insider Secrets to Proficient Zoom Conversations</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ultimate-recording-companion-az-tests-and-alternatives/"><u>[New] 2024 Approved Ultimate Recording Companion - AZ Tests & Alternatives</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-advanced-mac-video-logger/"><u>[New] Advanced Mac Video Logger</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-constructing-an-intriguing-trailer-blueprint/"><u>[New] Constructing an Intriguing Trailer Blueprint</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/everaging-influencer-networks-for-video-game-success/"><u>[New] Leveraging Influencer Networks for Video Game Success</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-simply-your-way-of-capturing-igtv-on-devices/"><u>[Updated] 2024 Approved Simply Your Way of Capturing IGTV on Devices</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-unleash-hd-playback-with-av1-on-youtube/"><u>[Updated] 2024 Approved Unleash HD Playback with AV1 on YouTube</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-a-guide-to-excellence-with-zd-soft-screen-capture-for-2024/"><u>[Updated] A Guide to Excellence with ZD Soft Screen Capture for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-high-quality-youtube-recording-techniques/"><u>[Updated] High-Quality YouTube Recording Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capturing-your-screen-on-pc-free-ways-to-do-it/"><u>[Updated] In 2024, Capturing Your Screen on PC Free Ways to Do It</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1715859569426-updated-leading-12-screen-recorders-no-time-limit/"><u>[Updated] Leading 12 Screen Recorders, No Time Limit!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-premier-selection-of-economical-video-collaboration-tools-businesseducation-edition/"><u>2024 Approved The Premier Selection of Economical Video Collaboration Tools Business/Education Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/evaluating-the-latest-in-camcorders-and-live-streaming-tech-for-2024/"><u>Evaluating the Latest in Camcorders and Live Streaming Tech for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/explore-our-premier-picks-the-top-5-international-call-apps-at-no-cost/"><u>Explore Our Premier Picks: The Top 5 International Call Apps at No Cost</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/fixing-full-screen-failure-in-obs/"><u>Fixing Full Screen Failure in Obs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupt-mp4-and-avi-files-of-samsung-by-stellar-video-repair-mobile-video-repair/"><u>How to Repair corrupt MP4 and AVI files of Samsung ?</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-unveiling-the-pathway-to-monetizing-your-instagram-content/"><u>In 2024, Unveiling the Pathway to Monetizing Your Instagram Content</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/step-by-step-tutorial-on-creating-backup-scripts-for-sql-servers-using-batch-language/"><u>Step-by-Step Tutorial on Creating Backup Scripts for SQL Servers Using Batch Language</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/swift-practices-efficient-recording-of-online-meetings-for-2024/"><u>Swift Practices Efficient Recording of Online Meetings for 2024</u></a></li>
 </ul></div>
 

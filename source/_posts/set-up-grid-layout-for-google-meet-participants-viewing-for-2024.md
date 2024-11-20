@@ -1,7 +1,7 @@
 ---
 title: "Set Up Grid Layout for Google Meet Participants' Viewing for 2024"
-date: 2024-11-04T04:35:23.719Z
-updated: 2024-11-10T22:50:48.752Z
+date: 2024-11-16T17:10:18.915Z
+updated: 2024-11-19T21:27:04.171Z
 tags: 
   - screen-recording
   - ai video
@@ -55,16 +55,16 @@ Use a slider to increase or decrease the number of participants you want to see.
 
 ![Google Meet change enable tiled view](https://images.wondershare.com/filmora/article-images/enable-tiled-view-to-view-participants.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Enable Grid View on Google Meet Mobile Apps?
 
 Google Meet apps don't support the change layout option. Thus, there are two approaches to enable the Grid view when participating in a Google Meet session through mobile phone. The following section will explain both methods in a simple step-by-step process. Let's have a look at both of them.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Join Meeting through phone's browser
 
@@ -81,10 +81,16 @@ Click on the **three dots** at the bottom right corner and select **change layou
 ![Google Meet change tiled view ](https://images.wondershare.com/filmora/article-images/change-google-meet-layout-tiled-view.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 2: Ask someone else to share the screen
@@ -105,6 +111,13 @@ Tap **add an extension** in the pop-up confirmation message. The installed exten
 
 ![Google Meet view all extension ](https://images.wondershare.com/filmora/article-images/install-google-meet-grid-view-extension.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 2 : Create or join a meeting room in a Google Meet**
 
 Open Google Meet and click **new meeting** or enter the invitation code. Wait for all participants to join the meeting.
@@ -118,17 +131,16 @@ Click on the **extension** at the top right of the screen corner and tick the **
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-extension.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Part 4: How to Fix Google Meet Grid View Not Working Issue?
@@ -148,10 +160,10 @@ Open Google Chrome and click on the **three dots** at the top right corner. Choo
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/google-meet-grid-view-extension-developer-mode.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Step 3 : Check the working in Google Meet**
@@ -195,22 +207,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-capturing-ps4-gaming-magic-in-full-detail-using-obs/"><u>[New] Capturing PS4 Gaming Magic in Full Detail Using OBS</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-comprehensive-list-of-non-udemy-e-learning-success-stories/"><u>[New] In 2024, Comprehensive List of Non-Udemy E-Learning Success Stories</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-a-comprehensive-guide-to-effortless-recording-of-your-favored-youtube-lives-on-any-gear/"><u>[Updated] 2024 Approved A Comprehensive Guide to Effortless Recording of Your Favored YouTube Lives on Any Gear</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-change-default-backup-location-mac/"><u>[Updated] Change Default Backup Location (Mac)</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-effective-techniques-for-screen-display-on-google-meet/"><u>[Updated] Effective Techniques for Screen Display on Google Meet</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-transforming-vids-10-leading-apps-for-instagram-video-editing/"><u>[Updated] In 2024, Transforming Vids 10 Leading Apps for Instagram Video Editing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-preserve-your-virtual-adventures-with-top-pc-screen-techniques/"><u>[Updated] Preserve Your Virtual Adventures with Top PC Screen Techniques</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-shedding-light-on-videography-excellence/"><u>[Updated] Shedding Light on Videography Excellence</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-geforce-gtx-750-drivers-with-ease-step-by-step-guide/"><u>Download GeForce GTX 750 Drivers with Ease: Step-by-Step Guide</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/effektive-strategien-zur-behebung-des-blue-screen-of-death-errors-bsod-mit-dem-code-0xc0/"><u>Effektive Strategien Zur Behebung Des Blue Screen of Death Errors (BSOD) Mit Dem Code 0xC0</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-youtubes-revenue-revolution-a-practical-guide-for-monetization/"><u>In 2024, Youtube's Revenue Revolution A Practical Guide for Monetization</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/rminds-of-immersive-marvellous-marvel-spheres-for-2024/"><u>Masterminds of Immersive Marvellous Marvel Spheres for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/pcs-ultimate-guide-to-ps1-game-emulation-software/"><u>PC's Ultimate Guide to PS1 Game Emulation Software</u></a></li>
-<li><a href="https://some-skills.techidaily.com/synergy-of-social-media-embedding-linktree-in-your-tiktok-bio-for-2024/"><u>Synergy of Social Media Embedding Linktree in Your TikTok Bio for 2024</u></a></li>
-<li><a href="https://win-forum.techidaily.com/the-quintessential-social-media-platforms-for-engagement-facebook-twitter-instagram-and-youtube/"><u>The Quintessential Social Media Platforms for Engagement: Facebook, Twitter, Instagram & YouTube</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-guide-to-rl-live-capture/"><u>The Ultimate Guide to RL Live Capture</u></a></li>
-<li><a href="https://win-luxury.techidaily.com/1728491471165-wd/"><u>WDドライブの完全なバックアップ:優れたクローニングソフトウェア</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-maximizing-ad-performance-with-engaging-fb-animation-strategies/"><u>[New] 2024 Approved Maximizing Ad Performance with Engaging FB Animation Strategies</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-essential-guide-to-shopping-for-a-gopro-camera/"><u>[New] The Essential Guide to Shopping for a Gopro Camera</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-cutting-costs-on-cam-recording-a-compreited-analysis-and-recommendations/"><u>[Updated] Cutting Costs on Cam Recording – A Compreited Analysis & Recommendations</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-giggle-grind-exploring-twitters-comedy-gold/"><u>[Updated] Giggle Grind Exploring Twitters' Comedy Gold</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-mov-to-mpeg-4-conversion-on-win-11/"><u>[Updated] Mastering MOV to MPEG-4 Conversion on Win 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-the-insiders-guide-to-flawless-game-recordings-on-playstation-4/"><u>2024 Approved The Insider’s Guide to Flawless Game Recordings on PlayStation 4</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/advanced-techniques-capturing-teams-screen-content/"><u>Advanced Techniques Capturing Teams' Screen Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/elite-battlefield-series-review-best-of-the-best-total-war-edition-for-2024/"><u>Elite Battlefield Series Review Best of the Best (Total War Edition) for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-detaille-pour-supprimer-la-restriction-de-region-sur-des-dvd-avec-windows-10-8-ou-7/"><u>Guide Détaillé Pour Supprimer La Restriction De Région Sur Des DVD Avec Windows 10, 8 Ou 7</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-facetimes-role-in-modern-communication-best-practices-for-recording-calls/"><u>In 2024, FaceTime's Role in Modern Communication Best Practices for Recording Calls</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-13-pro-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From iPhone 13 Pro?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-xiaomi-14-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Xiaomi 14 for Streaming | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unlocking-the-potential-in-depth-skype-call-recordings-for-2024/"><u>Unlocking the Potential In-Depth Skype Call Recordings for 2024</u></a></li>
 </ul></div>
 
