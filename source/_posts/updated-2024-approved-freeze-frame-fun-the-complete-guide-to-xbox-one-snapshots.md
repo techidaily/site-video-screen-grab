@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Freeze Frame Fun  The Complete Guide to Xbox One Snapshots\""
-date: 2024-11-18T05:50:37.607Z
-updated: 2024-11-19T17:00:33.006Z
+date: 2024-11-26T17:10:08.076Z
+updated: 2024-11-28T23:31:36.619Z
 tags: 
   - screen-recording
   - ai video
@@ -35,6 +35,10 @@ Let's have a look at how you can take screenshots in video games you play on you
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -52,11 +56,19 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Capturing Screenshots on Xbox One Using the Controller
 
 There is nothing complicated about taking a screenshot of your favorite game on Xbox One using the device's controller. All you have to do is double-click on the Xbox button and the screenshot will be captured. A sidebar will appear on the screen asking you if you want to take a screenshot or record the last 30 seconds of the gameplay. Just hit the Y button to save the screenshot. A dialog box will appear on the screen informing you that the screenshot has been saved successfully.
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 An increasing number of video games for Xbox One can be played in 4K resolution, but in order to play a game in a 4K resolution, you must have a 4K TV set. Moreover, the 4K and HDR capabilities your TV must be enabled before you start playing an Xbox One game in 4K. Taking a 4K screenshot on Xbox One requires you to adjust the capturing settings.
 
@@ -65,41 +77,18 @@ Press the Xbox button on the controller, and locate the System menu. Select the 
 Keep in mind that 4K screenshots are significantly larger in size than those in HD or any other resolution so if you would like to share a screenshot on social media you'll first have to download it to your Windows 10 PC and resize it. What's more taking screenshots or [recording videos](https://tools.techidaily.com/wondershare/filmora/download/) on Xbox One is only possible after you launch a game.
 
 <!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Capture Screenshots on Xbox One Using Voice Commands
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-voice-screenshot.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Older versions of Xbox One feature the Kinect motion sensor, while the more recent versions have the Microsoft's Cortana sensor. Both of them enable you to take screenshots using voice commands. If your Xbox One has the Kinect motion sensor, you should issue the 'Xbox take a screenshot' command. Viewing the screenshot immediately after it was taken, requires you to say 'Xbox open that' and the screenshot will pop up on the screen or you can just push and hold the Xbox button on the controller.
 
 You can say ' Hey _Cortana, take a screenshot'_ if your Xbox One features a Cortana motion sensor. However, in order to be able to issue voice commands, you must first activate this option. Head over to the Xbox One's Settings menu and locate the All Settings option. Click on System and switch on the AI Companion feature.
 
 It is important to say the command clearly so the AI can understand what you are trying to do, and for that reason, you should try to avoid capturing screenshots or recording videos via voice commands in noisy rooms.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## How to Manage and Share Screenshots on Xbox One?
 
@@ -126,10 +115,7 @@ What is your favorite method of taking screenshots on Xbox One? We're anxious to
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -147,21 +133,21 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-extracting-fb-video-files-from-pcmac/"><u>[New] Extracting FB Video Files From PC/Mac</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-perfecting-live-broadcasts-with-streamlabs-obs-tips/"><u>[New] In 2024, Perfecting Live Broadcasts with Streamlabs OBS Tips</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-ultimate-guide-to-fb-messenger-call-archiving/"><u>[New] In 2024, The Ultimate Guide to FB Messenger Call Archiving</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-journey-through-hybrid-horizons-understanding-mixed-reality/"><u>[New] Journey Through Hybrid Horizons Understanding Mixed Reality</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-shotchrome-intrinsic-recorder-for-os-x/"><u>[New] ShotChrome Intrinsic Recorder for OS X</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-youtube-video-ranking-factors-that-will-affect-your-rank/"><u>[New] YouTube Video Ranking - Factors that Will Affect Your Rank</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-sky-high-snapshot-5-top-screen-recorders/"><u>[Updated] 2024 Approved Sky High Snapshot - 5 Top Screen Recorders</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-in-2024-sparkling-vibrancy-the-android-video-brightening-guide/"><u>[Updated] In 2024, Sparkling Vibrancy The Android Video Brightening Guide</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-picturemeld-pro/"><u>[Updated] PictureMeld Pro</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-pinnacle-choices-superior-mac-apps-for-grabbing-videos/"><u>[Updated] Pinnacle Choices Superior Mac Apps for Grabbing Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-steps-to-engage-in-a-virtual-meeting-via-devices-google/"><u>[Updated] Steps to Engage in a Virtual Meeting via Devices (Google)</u></a></li>
-<li><a href="https://win-extraordinary.techidaily.com/how-patience-and-discipline-influence-your-journey-in-long-term-daytrader-success-insights-for-mt4-traders/"><u>How Patience and Discipline Influence Your Journey in Long-Term Daytrader Success: Insights for MT4 Traders</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-infinix-hot-40i-drfone-by-drfone-virtual-android/"><u>How to Check Distance and Radius on Google Maps For your Infinix Hot 40i | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-13-mini-passcode-without-itunes-without-knowing-passcode-drfone-by-drfone-ios/"><u>How to Unlock iPhone 13 mini Passcode without iTunes without Knowing Passcode? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-essential-tips-for-storing-itunes-videos/"><u>In 2024, Essential Tips for Storing iTunes Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-guide-to-cam-cover-selection/"><u>The Ultimate Guide to Cam Cover Selection</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-transition-magic-quick-fade-tactics/"><u>[New] In 2024, Transition Magic Quick Fade Tactics</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-tips-for-transforming-twitter-videos-into-audio-songs-mp3/"><u>[Updated] 2024 Approved Tips for Transforming Twitter Videos Into Audio Songs (MP3)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-6-ways-to-screen-record-netflix-on-mac/"><u>[Updated] 6 Ways to Screen Record Netflix on Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-inside-look-top-picks-for-live-webcam-capture/"><u>[Updated] In 2024, Inside Look Top Picks for Live WebCam Capture</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-the-art-of-high-quality-photo-for-free/"><u>[Updated] Mastering the Art of High Quality Photo for Free</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-perfectly-organizing-weekly-google-meeting-times/"><u>2024 Approved Perfectly Organizing Weekly Google Meeting Times</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/beyond-advertisements-a-direct-look-at-recordcast-for-2024/"><u>Beyond Advertisements A Direct Look at RecordCast for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/high-quality-streaming-choice-go-with-obs-or-fraps/"><u>High-Quality Streaming Choice Go With OBS or Fraps?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-yuva-2-pro-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Yuva 2 Pro to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-essential-guide-best-screencasting-apps-at-no-cost/"><u>In 2024, Essential Guide Best Screencasting Apps at No Cost</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-sharp-as-day-the-top10-clearer-photo-editors-list/"><u>In 2024, Sharp as Day The #Top10 Clearer Photo Editors List</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/latest-tricks-for-ios-screenshots-and-recording/"><u>Latest Tricks for iOS Screenshots & Recording</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-gameplay-tips-for-enhancing-frame-rate-and-reducing-stutters-in-call-of-duty-warzone/"><u>Optimizing Gameplay: Tips for Enhancing Frame Rate & Reducing Stutters in Call of Duty: Warzone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/steps-to-enhance-your-ability-as-an-effective-interviewer-for-2024/"><u>Steps to Enhance Your Ability as an Effective Interviewer for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-5-macos-system-booster-apps-recommended-by-tech-experts-at-zdnet/"><u>Top 5 MACOS System Booster Apps - Recommended by Tech Experts at ZDNET</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-6-essential-homework-helpers-for-students-and-parents-best-apps-reviewed/"><u>Top 6 Essential Homework Helpers for Students & Parents: Best Apps Reviewed</u></a></li>
 </ul></div>
 

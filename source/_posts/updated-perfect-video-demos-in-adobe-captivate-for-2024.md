@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfect Video Demos in Adobe Captivate for 2024"
-date: 2024-11-14T06:55:26.208Z
-updated: 2024-11-20T05:08:14.182Z
+date: 2024-11-23T16:57:12.569Z
+updated: 2024-11-28T22:46:22.810Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ To make things even better, the Adobe Captivate software is compatible with all 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -48,6 +52,14 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Record a Video Presentation Using Adobe Captivate
 
 Before you can start working on your new project you first need to install the software. If you haven't already done that, you can [download Adobe Captivate by following this link.](https://www.adobe.com/products/captivate.html) You will also have to register and activate the software in order to be able to use every option Adobe Captivate has to offer. You can find the full list of the software's features[here.](https://www.adobe.com/products/captivate/features.html)
@@ -59,10 +71,7 @@ Double-click on Adobe Captivate's desktop icon to launch the software, and then 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click on the Demo option in the Adobe Captivate's welcome window, and then click on the Create button in the lower right corner of the screen.
@@ -73,13 +82,6 @@ After you click on the Create button, a new window will appear on the screen. In
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 In the Snap To section of the window, you'll be able to choose between Application Window, Application Region, and Custom Size options. Select the feature that best meets the demands of the project you are working on, and then click on the Panning drop down menu if you would like to add the panning effect to the video recording you are creating. The Audio feature lets you record both narration and system audio.
 
 #### Step 3 - Starting a new video recording session
@@ -89,10 +91,7 @@ Click on the Settings button if you wish to change the destination on your hard-
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
@@ -113,13 +112,6 @@ Adobe Captivate is much more than just a simple screen recording tool, and if yo
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
@@ -135,20 +127,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-creating-a-backup-securing-your-fb-messenger-records-for-2024/"><u>[New] Creating a Backup Securing Your FB Messenger Records for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-solved-obs-full-screen-not-working/"><u>[New] In 2024, [Solved] OBS Full Screen Not Working</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-top-4-strategies-for-success-in-instagram-loop-creation/"><u>[New] Top 4 Strategies for Success in Instagram Loop Creation</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-best-10-sound-boosting-software-pc-mac-and-mobile/"><u>[Updated] 2024 Approved Best 10 Sound Boosting Software PC, Mac & Mobile</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-expert-choice-list-ultimate-streaming-audio-gear/"><u>[Updated] 2024 Approved Expert Choice List Ultimate Streaming Audio Gear</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-zoom-recording-essential-tips-for-2024/"><u>[Updated] Mastering Zoom Recording Essential Tips for 2024</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/easy-to-use-online-editors-for-quick-postings-for-2024/"><u>Free, Easy-to-Use Online Editors for Quick Postings for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-detailed-protocols-for-filming-films-across-multiplatform-systems/"><u>In 2024, Detailed Protocols for Filming Films Across Multiplatform Systems</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/in-2024-leap-into-editing-speedy-windows-photoshop-hacks/"><u>In 2024, Leap Into Editing Speedy Windows Photoshop Hacks</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-blueprint-for-capturing-streaming-audio-online/"><u>In 2024, The Ultimate Blueprint for Capturing Streaming Audio Online</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/hts-into-income-average-earnings-per-advertisement-playback/"><u>Insights Into Income Average Earnings per Advertisement Playback?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/microsoft-unveils-hololens-the-augmented-reality-evolution/"><u>Microsoft Unveils HoloLens The Augmented Reality Evolution</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/mophies-top-end-powerstation-ac-an-affordable-choice-for-easy-charging-on-the-go/"><u>Mophie's Top-End Powerstation AC: An Affordable Choice for Easy Charging on the Go</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/step-by-step-solutions-for-the-mss32dll-is-absent-or-cant-be-found-error/"><u>Step-by-Step Solutions for the 'mss32.dll' Is Absent or Can't Be Found Error</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-how-to-fix-rainbow-six-siege-voice-communication-issues/"><u>Troubleshooting Guide: How to Fix Rainbow Six Siege Voice Communication Issues</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-green-thumbs-up-the-best-farming-titles-for-group-playtime-for-2024/"><u>[Updated] Green Thumbs Up The Best Farming Titles for Group Playtime for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-laughlens-quickly-create-social-memes-and-gifs/"><u>[Updated] LaughLens Quickly Create Social Memes & Gifs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-nine-key-approaches-for-storing-mov-in-windows-environments-for-2024/"><u>[Updated] Nine Key Approaches for Storing .mov in Windows Environments for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-pure-joy-of-gratuitous-screen-mingle-games-for-2024/"><u>[Updated] Pure Joy of Gratuitous Screen Mingle Games for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-screenshots-and-beyond-advanced-screen-recording-for-apple-products-for-2024/"><u>[Updated] Screenshots & Beyond Advanced Screen Recording for Apple Products for 2024</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/1726029488666-mov/"><u>「ダビンチ解決策: ダヴィンチ・リゾルブにMOVファイルを正常読み取れない対処法」</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-magix-paintbox-assessment-the-reveal/"><u>2024 Approved MAGIX Paintbox Assessment The Reveal</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/audiovisual-pro-perfect-ppt-presentation-recording-for-2024/"><u>Audiovisual Pro Perfect PPT Presentation Recording for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/banish-your-frustration-a-step-by-step-fix-for-the-2024-dead-by-daylight-crashing-issues/"><u>Banish Your Frustration: A Step-by-Step Fix For The 2024 Dead By Daylight Crashing Issues</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-farm-frontier-the-best-seed-to-sow-in-gaming/"><u>In 2024, Farm Frontier The Best Seed to Sow in Gaming</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-intelligent-viewing-syncing-youtube-with-televisions/"><u>In 2024, Intelligent Viewing Syncing YouTube with Televisions</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-is-a-sim-network-unlock-pin-get-your-vivo-y27-4g-phone-network-ready-by-drfone-android/"><u>In 2024, What Is a SIM Network Unlock PIN? Get Your Vivo Y27 4G Phone Network-Ready</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/understanding-user-psychology-in-youtube-shorts-template-design-for-2024/"><u>Understanding User Psychology in YouTube Shorts Template Design for 2024</u></a></li>
+<li><a href="https://win-trending.techidaily.com/wiederherstellung-geloschter-dokumente-aus-dem-papierkorb-schritte-nach-der-leerung/"><u>Wiederherstellung Gelöschter Dokumente Aus Dem Papierkorb - Schritte Nach Der Leerung</u></a></li>
 </ul></div>
 

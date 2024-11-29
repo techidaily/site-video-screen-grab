@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Personalize Where Mac Pics Save"
-date: 2024-08-09T21:02:35.856Z
-updated: 2024-08-10T21:02:35.856Z
+date: 2024-11-26T22:16:01.949Z
+updated: 2024-11-28T20:58:50.186Z
 tags: 
   - screen-recording
   - ai video
@@ -29,14 +29,12 @@ Whenever you take a screenshot on a Mac computer, a file is saved to the desktop
 
 Here's how you can change the location where the screenshots you take using the keyboard shortcuts will be saved.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -55,16 +53,18 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -72,9 +72,6 @@ Create a new folder on the desired location on your hard drive, and then launch 
 
 Then enter a space at the end after 'location'.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -88,8 +85,9 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -102,13 +100,15 @@ Don't forget that deleting the folder you use as a default location for storing 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -116,3 +116,24 @@ Follow @Max Wales
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-next-gen-recording-greener-choices/"><u>[New] In 2024, Next-Gen Recording Greener Choices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-perfecting-your-dialogue-a-google-meet-strategy/"><u>[New] Perfecting Your Dialogue A Google Meet Strategy</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-live-broadcast-perfection-comparing-top-screen-recorders/"><u>[Updated] 2024 Approved Live Broadcast Perfection Comparing Top Screen Recorders</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-elite-applications-facilitating-video-discussions/"><u>[Updated] In 2024, Elite Applications Facilitating Video Discussions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-gamers-secrets-to-effective-playback-logging/"><u>[Updated] In 2024, Gamers' Secrets to Effective Playback Logging</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-personalizing-your-profile-with-fb-slideshow-content-for-2024/"><u>[Updated] Personalizing Your Profile with FB Slideshow Content for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-simplified-explanation-of-stories-art/"><u>[Updated] Simplified Explanation of Stories' Art</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-elevating-engagement-with-strategic-audio-additions/"><u>2024 Approved Elevating Engagement with Strategic Audio Additions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-pioneering-sustainable-video-capturing-techniques/"><u>2024 Approved Pioneering Sustainable Video Capturing Techniques</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-infinix-note-30-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Infinix Note 30 5G? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/experts-list-of-elite-game-recording-software/"><u>Expert's List of Elite Game Recording Software</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-essential-mobile-photography-boosters-iphone-vs-android/"><u>In 2024, Essential Mobile Photography Boosters IPhone vs Android</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/logic-pros-approach-to-softening-audio-tracks-gradually/"><u>Logic Pro's Approach to Softening Audio Tracks Gradually</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/scale-up-achieving-extended-facebook-coverage-for-2024/"><u>Scale Up Achieving Extended Facebook Coverage for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/the-ultimate-hitchhikers-guide-to-youtube-playlists-for-2024/"><u>The Ultimate Hitchhiker's Guide to YouTube Playlists for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/ultimate-guide-to-gopro-max-or-hero-11-in-2024/"><u>Ultimate Guide to GoPro Max or Hero 11, In 2024</u></a></li>
+</ul></div>
+

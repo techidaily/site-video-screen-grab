@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Recording Your iPhone/iPad  What's New\""
-date: 2024-11-16T21:59:33.867Z
-updated: 2024-11-19T23:21:11.378Z
+date: 2024-11-24T18:06:25.827Z
+updated: 2024-11-28T22:29:42.455Z
 tags: 
   - screen-recording
   - ai video
@@ -48,6 +48,10 @@ So, in this article, we will show you how to record your iPhone/iPad screen whet
 
 ![ios screen recording ](https://images.wondershare.com/filmora/article-images/ios-screen-recording.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. Tap the screen recording icon that looks like a solid circle enclosed in another circle. And you will see the start recording option and a microphone button. If you want to record the microphone audio, then tap it to turn on the microphone. Then, tap on Start Recording to start.
 
 ![ ios screen recording ](https://images.wondershare.com/filmora/article-images/ios-screen-recording-start.jpg)
@@ -64,10 +68,7 @@ That's the steps of how to record your iPhone screen in iOS 11 and later version
 If your iOS device is running a previous version older than iOS 11, and you do not want to update, then you can record your iPhone screen with some best screen recorders for iOS, or record with QuickTime. In the following section, we will show you how to do it.
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: Use [QuickTime](https://support.apple.com/quicktime) to Record Screens of iPhone/iPad (Version Before iOS 11)
@@ -81,10 +82,7 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20logo.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 2\. Launch QuickTime on your Mac available in the application folder.
@@ -102,10 +100,7 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 ![quicktime screen recorder](https://images.wondershare.com/filmora/quicktime%20iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 7\. To stop the recording of the screen of your iOS device, click on the Stop button at the video recorder window.
@@ -120,14 +115,11 @@ iPhone/iPad screen recorder is a very useful tool when you want to record tutori
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 Shanoon Cox
 
@@ -144,20 +136,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-2024-approved-simplify-tech-sharing-effective-use-of-the-ezvide-toolkit/"><u>[New] 2024 Approved Simplify Tech Sharing Effective Use of the Ezvide Toolkit</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/new-bring-your-videos-into-the-future-converting-sdr-to-hdr-with-ease/"><u>[New] Bring Your Videos Into the Future Converting SDR to HDR with Ease</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-covert-capture-techniques-reducing-identifiable-parts-in-recordings/"><u>[Updated] 2024 Approved Covert Capture Techniques Reducing Identifiable Parts in Recordings</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-mastering-the-art-of-sync-free-obs-streaming/"><u>[Updated] 2024 Approved Mastering the Art of Sync-Free OBS Streaming</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-non-game-console-apps-excelling-at-game-recordings/"><u>[Updated] 2024 Approved Non-Game Console Apps Excelling at Game Recordings</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-iphone-7-screen-save-made-simple-for-2024/"><u>[Updated] IPhone 7 Screen Save Made Simple for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-tick-tock-tally-calculating-pewdiepies-cash/"><u>[Updated] Tick-Tock Tally Calculating PewDiePie’s Cash</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-masterful-insights-the-top-6-video-snaggers-on-mac/"><u>2024 Approved Masterful Insights The Top 6 Video Snaggers on Mac</u></a></li>
-<li><a href="https://android-location.techidaily.com/3-effective-methods-to-fake-gps-location-on-android-for-your-vivo-y78plus-t1-edition-drfone-by-drfone-virtual/"><u>3 Effective Methods to Fake GPS location on Android For your Vivo Y78+ (T1) Edition | Dr.fone</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-infinix-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Infinix</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>Can I use iTools gpx file to catch the rare Pokemon On Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-capture-and-conquer-speedy-photos-on-windows-11/"><u>In 2024, Capture & Conquer Speedy Photos on Windows 11</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-synchronous-capture-for-webcam-and-display/"><u>In 2024, Synchronous Capture for Webcam and Display</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-beginners-guide-to-screen-recording-for-dell-computers-for-2024/"><u>[New] Beginner's Guide to Screen Recording for Dell Computers for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-epic-martial-arts-arcade-classics-revisited/"><u>[New] Epic Martial Arts Arcade Classics Revisited</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-exclusive-guide-to-premium-win-11-webcam-systems-for-2024/"><u>[New] Exclusive Guide to Premium Win 11 Webcam Systems for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-expertly-selected-8-recording-software-for-2024/"><u>[New] Expertly Selected 8 Recording Software for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-explore-the-finest-moba-games-for-android/"><u>[New] Explore the Finest MOBA Games for Android</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-how-to-proficiently-use-a-switch-pro-controller-on-steam-for-2024/"><u>[New] How to Proficiently Use a Switch Pro Controller on Steam for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-unleashing-potential-pilots-choice-top-10-drone-must-haves/"><u>[New] Unleashing Potential Pilot's Choice - Top 10 Drone Must-Haves</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-step-by-step-guide-establishing-your-first-youtube-profile/"><u>[Updated] 2024 Approved Step-by-Step Guide Establishing Your First YouTube Profile</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-5-podcast-apps-for-iphone/"><u>2024 Approved 5 Podcast Apps for iPhone</u></a></li>
+<li><a href="https://facebook.techidaily.com/beginners-blueprints-for-breezing-through-message-rooms/"><u>Beginners' Blueprints for Breezing Through Message Rooms</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-gps-enabled-ipad-tablets/"><u>Comprehensive Guide to GPS-Enabled iPad Tablets</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-x50-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor X50? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-the-role-of-emotions-in-executive-choices-a-neuroscientific-perspective/"><u>In 2024, Unveiling the Role of Emotions in Executive Choices A Neuroscientific Perspective</u></a></li>
+<li><a href="https://windows11.techidaily.com/master-plain-text-and-mouse-jump-methods-in-powertoys/"><u>Master Plain Text & Mouse Jump Methods in PowerToys</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/obs-studio-edge-top-5-video-enhancements-unveiled-for-2024/"><u>OBS Studio Edge Top 5 Video Enhancements Unveiled for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/streamline-creative-processes-efficiently-adding-text-to-videos-with-microsoft-photos/"><u>Streamline Creative Processes Efficiently Adding Text to Videos with Microsoft Photos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-quest-for-perfect-playback-aps4-capturing-essentials-for-enthusiasts-for-2024/"><u>The Quest for Perfect Playback APS4 Capturing Essentials for Enthusiasts for 2024</u></a></li>
 </ul></div>
 

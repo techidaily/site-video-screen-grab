@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Navigating Google Meet's Virtual Whiteboards Across Apple/Android & Laptops"
-date: 2024-11-17T20:34:33.376Z
-updated: 2024-11-20T01:41:36.149Z
+date: 2024-11-21T19:46:01.358Z
+updated: 2024-11-28T21:01:50.942Z
 tags: 
   - screen-recording
   - ai video
@@ -37,15 +37,16 @@ If you are interested in using this fantastic tool, the following article will c
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Part 1: What is Jamboard or Whiteboard on Google Meet?**
 
 Google Meet has been a useful video communication facility for professionals and students. Google Meet integrates Jamboard, an online tool that enables you to brainstorm ideas during the virtual meet-up. The meeting host can easily activate Jamboard after starting a meeting. This makes **Google Meet Whiteboarding** easily accessible for all participants during the live session. In this way, students can collaborate with instructors or other students very clearly. Moreover, the whiteboard feature also allows them to answer questions and review notes. Let’s know how to use a whiteboard in Google Meet and how it works.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Part 2: How to Use a Whiteboard in Google Meet on a Laptop?**
@@ -72,13 +73,6 @@ Click on the **start a new whiteboard** option**.**
 
 ![create Google Meet whiteboard](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Part 3: How to Use a Whiteboard in Google Meet on an iPhone?**
 
 Unfortunately, you cannot access the **Google Meet Whiteboarding** feature when using Google Meet through its website on your smartphone. Thus, it is recommended to use third-party tools for using the whiteboard feature. In this case, you have to share your screen in the Google Meet session and then navigate to the third-party app having a built-in whiteboard. However, the participants will not be able to make any changes on the whiteboard, and they can only watch the visuals of your screen. Are you an iPhone user and want to use whiteboard apps? If yes, the following step-by-step guide will help you.
@@ -96,6 +90,10 @@ Click three dots at the bottom and select share screen. Press the **start sharin
 Go to your home page and launch the Microsoft Whiteboard.
 
 **Note:** Since you will be sharing the screen of your iPhone, participants will be able to see your whiteboard activity.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Part 4: How to Use a Whiteboard in Google Meet on an Android Device**
 
@@ -116,10 +114,11 @@ Similar to iPhone, you cannot use the in-built Jamboard Google Meet tool on Andr
 ![create Google Meet whiteboard on mobile](https://images.wondershare.com/filmora/article-images/create-google-meet-whiteboard-mobile.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1880940/19272" target="_top" id="1880940">
-  <img src="//a.impactradius-go.com/display-ad/19272-1880940" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Bonus: How to Save and Send Jams as PDFs?**
@@ -148,13 +147,6 @@ Google Meet allows its users to enjoy the vast collection of built-in tools. **G
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -170,15 +162,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-from-concept-to-completion-a-stories-polling-handbook/"><u>[New] In 2024, From Concept to Completion A Stories Polling Handbook</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-your-ultimate-companion-for-mastering-mov-recordings-on-windows-10-for-2024/"><u>[New] Your Ultimate Companion for Mastering MOV Recordings on Windows 10 for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-clandestine-call-collectors-discreet-voice-capture-tools-list/"><u>[Updated] In 2024, Clandestine Call Collectors Discreet Voice Capture Tools List</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-a-detailed-review-top-10-screen-recorders-for-mac/"><u>2024 Approved A Detailed Review Top 10 Screen Recorders for Mac</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-prime-screen-grabbers-selection-1-8/"><u>2024 Approved Prime Screen Grabbers Selection #1-8</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/95782167-9781620551523-dawn-of-the-akashic-age/"><u>Dawn of the Akashic Age | Free Book</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-xiaomi-redmi-note-13-proplus-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Xiaomi Redmi Note 13 Pro+ 5G to Any iOS Devices | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-cards-of-infinix-zero-30-5g-without-puk-codes-by-drfone-android/"><u>How To Unlock SIM Cards Of Infinix Zero 30 5G Without PUK Codes</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-locked-iphone-11-password-learn-the-best-methods-to-unlock-by-drfone-ios/"><u>In 2024, Forgot Locked iPhone 11 Password? Learn the Best Methods To Unlock</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-samsung-galaxy-z-fold-5-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Samsung Galaxy Z Fold 5</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-pro-skills-screen-capturing-skype-conversations-for-2024/"><u>[New] Pro Skills Screen Capturing Skype Conversations for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-elevating-conference-calls-top-3-methods-4-insights/"><u>[Updated] Elevating Conference Calls Top 3 Methods, #4 Insights</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-high-quality-video-capture-for-tech-enthusiasts-for-2024/"><u>[Updated] High-Quality Video Capture for Tech Enthusiasts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-evaluate-apps-in-depth-az-screen-logger/"><u>[Updated] In 2024, Evaluate Apps in Depth AZ Screen Logger</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-quality-economical-cam-recorder/"><u>[Updated] In 2024, Top Quality Economical Cam Recorder</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-troubleshooting-tips-fixing-srt-from-premiere-freeze-for-2024/"><u>[Updated] Troubleshooting Tips Fixing SRT From Premiere Freeze for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-grasping-the-greener-side-of-valheim-top-seeds-list/"><u>2024 Approved Grasping the Greener Side of Valheim Top Seeds List</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-secretive-approach-to-watching-insta-stories/"><u>2024 Approved Secretive Approach to Watching Insta-Stories</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-the-composers-guide-to-creating-youtube-music-cohorts/"><u>2024 Approved The Composer's Guide to Creating YouTube Music Cohorts</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-asus-rog-phone-7-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Asus ROG Phone 7?</u></a></li>
+<li><a href="https://win-able.techidaily.com/effective-solutions-for-when-pages-wont-display-correctly-in-chrome/"><u>Effective Solutions for When Pages Won't Display Correctly in Chrome</u></a></li>
+<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/leading-cura-extensions-boost-quality-of-3d-prints/"><u>Leading Cura Extensions: Boost Quality of 3D Prints</u></a></li>
 </ul></div>
 

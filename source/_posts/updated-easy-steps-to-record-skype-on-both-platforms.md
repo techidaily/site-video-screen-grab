@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Easy Steps to Record Skype on Both Platforms"
-date: 2024-08-09T21:05:38.536Z
-updated: 2024-08-10T21:05:38.536Z
+date: 2024-11-26T23:16:56.961Z
+updated: 2024-11-28T23:00:19.491Z
 tags: 
   - screen-recording
   - ai video
@@ -34,29 +34,24 @@ You can take advantage of the recording feature to save yourself from constantly
 * [**Part 3: How to Record Skype Meeting on Mac**](#part3)
 * [**Part 4: Manage Your Skype Recordings**](#part4)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Recording Options on Skype for Business
 
 Skype for Business offers you several options for recording and managing your recorded video files. To access the recording options on Skype for Business follow the steps below.
 
 * Press the “Gear icon” right next to the options menu. It will open an “Options” dialog box. Or you can also access the Options by clicking the downward-facing arrow next to the gear, then choosing the “Tools” and finally chose “Options”.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![options dialog box](https://images.wondershare.com/filmora/article-images/options-dialog-box1.jpg)
 
 * In the Options window, you’ll get a list of settings options on the left pane, press “Recording” to open the recording options.
 
 ![recording options](https://images.wondershare.com/filmora/article-images/recording-options2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Here you can determine the location where all the recordings will be saved. Also, you can select the video quality under the image resolution section.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ## Part 2: How to Record Skype Meeting on Windows
 
 Skype for Business allows you to record skype meetings on Windows PCs directly from its app. It’s an easy and straightforward method of recording your meeting and I’ll go through every step to show you how you can record your next Skype meeting.
@@ -66,19 +61,25 @@ Skype for Business allows you to record skype meetings on Windows PCs directly f
 
 ![start recording option](https://images.wondershare.com/filmora/article-images/start-recording-option3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Once you start the recording you can see the recording controls at the bottom of the meeting to pause, resume, or stop the recording.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![recording control](https://images.wondershare.com/filmora/article-images/recording-control4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * You can check who is recording the Skype meeting by pointing to the red recording button on the top right corner of the Skype meeting. When one or any of the participants is recording the Skype for Business meeting all the other participants will see this indicator.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![red indicator](https://images.wondershare.com/filmora/article-images/red-indicator5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * After recording your family meeting or office presentation you want to save the recorded video, go to the same menu “More options” and press the “Stop Recording”.
 
@@ -86,18 +87,10 @@ Skype for Business allows you to record skype meetings on Windows PCs directly f
 
 * All the recordings will be stopped, and you’ll be notified.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![see participant](https://images.wondershare.com/filmora/article-images/see-participant7.jpg)
 
 * Skype for Business saves the recording automatically in an MP4 format that is compatible with Windows Media Player. The recording takes some time to process the meanwhile you can exit the meeting. Skype will show a notification when the recorded file is ready for viewing or sharing.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Part 3: How to Record Skype Meeting on Mac
 
 According to [**Microsoft guidelines**](https://docs.microsoft.com/en-us/skypeforbusiness/plan-your-deployment/clients-and-devices/desktop-feature-comparison?redirectedfrom=MSDN), Microsoft has yet to introduce the recording feature to its Mac version of Skype for Business. Recording on Mac has not been made available.
@@ -116,24 +109,26 @@ Let’s see how to record skype meeting on Mac using Wondershare Filmora:
 
 ![click new project](https://images.wondershare.com/filmora/article-images/click-new-project9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Go to Record, then drop-down the menu, and chose the “Record PC Screen” option.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![find record pc](https://images.wondershare.com/filmora/article-images/find-record-pc10.jpg)
 
 * Now head over to the skype meeting you want to record.
 * You will be prompted with Wondershare Filmora Scrn recorder options i.e. in case you want Full-Screen recording, audio, and microphone options. Once you press the record (red) button filmora will start the countdown to recording the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![click red button](https://images.wondershare.com/filmora/article-images/click-red-button11.jpg)
 
 * You can confirm if the software is recording your screen or not by looking at the top menu bar, a red recording button will be displayed during the whole screen recording. To pause or stop the skype meeting being recorded press the red button on the top menu bar.
 
 ![stop skype meeting](https://images.wondershare.com/filmora/article-images/stop-skype-meeting12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * Press the Stop button to finish recording the skype meeting. You’ll be taken back to the filmora editor window where you can tweak around with the recorded meeting.
 
@@ -143,40 +138,39 @@ Let’s see how to record skype meeting on Mac using Wondershare Filmora:
 
 ![reveal in folder](https://images.wondershare.com/filmora/article-images/reveal-in-folder14.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * You can drag and drop the recorded file to the timeline if you want to edit it. Filmora can easily cut, trim, rotate, layer multiple video effects, and much more. That’s up to you how deep you want to dig into the features of this amazing video editing toolkit.
 
 ![add effects skype](https://images.wondershare.com/filmora/article-images/add-effects-skype15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4: Manage Your Recordings
 
 The Skype for Business recording manager allows you to view all the recordings and prepare them for sharing. You can open the recording manager in two ways:
 
 * one way is to open it from the Skype for Business main window by pressing the down arrow or drop-down menu next to the settings icon. Then select “Tools” and “Recording Manager” from the list.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![recording manager](https://images.wondershare.com/filmora/article-images/recording-manager16.jpg)
 
 * You will see “More Options” menu and selects the Recording Manager to open it.
 
 ![manage recordings](https://images.wondershare.com/filmora/article-images/manage-recordings17.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now that you have access to Skype for Business Recording Manager, you can view a recording, play it, browse its location, rename it, delete it, and publish it online for your viewers.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![access skype recordings](https://images.wondershare.com/filmora/article-images/access-skype-recordings18.jpg)
 
 To prepare it for sharing with other participants, click on the “Publish” button. It will open a “Save and Publish” window where you can name the recording file, specify the location to save, and under the options chose what parts of the meeting to include i.e. video, audio, panorama video, messaging, and presented content. When everything is ready press the “OK” button to save the recorded meeting.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -190,11 +184,27 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-cost-effective-growth-tactic-for-youtube-fanbases/"><u>[New] In 2024, Cost-Effective Growth Tactic for YouTube Fanbases</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/trategies-for-soaring-up-the-youtube-ranks-list/"><u>[New] Strategies for Soaring Up the YouTube Ranks List</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-method-to-locate-fb-watched-content/"><u>[New] The Ultimate Method to Locate FB Watched Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unveilingnextgencameratech/"><u>[New] UnveilingNextGenCameraTech</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-detailed-review-obs-as-a-top-choice-for-screen-recorders/"><u>[Updated] 2024 Approved Detailed Review OBS as a Top Choice for Screen Recorders</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-demystifying-ez-grabber-a-beginners-guide/"><u>[Updated] In 2024, Demystifying EZ Grabber A Beginner's Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ispring-screen-recorder-review/"><u>[Updated] In 2024, ISpring Screen Recorder Review</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-screen-recording-made-simple-methodical-guidebook/"><u>[Updated] Screen Recording Made Simple Methodical Guidebook</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-tackling-live-broadcasts-the-intersection-of-obs-and-zoom/"><u>[Updated] Tackling Live Broadcasts The Intersection of OBS and Zoom</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-oneplus-nord-ce-3-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your OnePlus Nord CE 3 5G | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ring-youtube-shorts-templates-a-complete-guide/"><u>Mastering YouTube Shorts Templates A Complete Guide</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-dailymotion-video-conversion-made-easy-free-tool/"><u>New Dailymotion Video Conversion Made Easy - Free Tool</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-reviews-for-apples-latest-masterpiece-the-unrivaled-iphone-12-reviewed/"><u>Top Reviews for Apple's Latest Masterpiece: The Unrivaled iPhone 12 Reviewed</u></a></li>
+</ul></div>
+

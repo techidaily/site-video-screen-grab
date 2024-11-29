@@ -1,7 +1,7 @@
 ---
 title: "Resolving OBS Stability Issues on Windows 10 and 11: 2024 Update"
-date: 2024-08-09T21:03:40.521Z
-updated: 2024-08-10T21:03:40.521Z
+date: 2024-11-21T17:09:07.674Z
+updated: 2024-11-28T19:36:30.073Z
 tags:
   - win11
   - win10
@@ -15,14 +15,13 @@ thumbnail: https://thmb.techidaily.com/d8fe7e494aebabf85039c3b9cb2bea4831c07f6e7
 
 ## Solving Sony Vegas Stability Issues - No More Unwanted Shutdowns
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/vegas-error.jpg)
 
  Many users have been reporting**Vegas Pro keeps crashing while in use** . Sometimes people may lose hours of work. The good news is, there are some known fixes available. Read on and find out what they are…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix it?
 
@@ -45,11 +44,17 @@ The powerful video editing program for your Windows PC</a>
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**%temp%** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-18-22-1.jpg)
 2. In the pop-up window, press**Ctrl** and**A** to select all the temporary files. Then right-click the selected files and click**Delete** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-08-08-1.jpg)
 3. Restart your PC.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Check if your Vegas Pro still crashes. If this doesn’t help, simply try the next solution.
 
@@ -60,12 +65,17 @@ The powerful video editing program for your Windows PC</a>
 1. Right-click anywhere empty on your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/open-task-manager.jpg)
 2. Switch to the**Details** tab, and scroll to find**Vegas Pro** . Then right-click the process and**Set priority to high** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-52-26-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Run Vegas Pro to see if the problem persists. If it does, move on to the solution below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Scan and repair system files
 
@@ -77,6 +87,11 @@ The powerful video editing program for your Windows PC</a>
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -86,8 +101,9 @@ Once done, restart your PC and check if Vegas crashes again.
 If the issue is still there, you can move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics card driver
 
  An outdated or faulty driver can cause a lot of problems including program crashing. In our case, you may want to update your graphics card driver, to make sure it’s functioning properly.
@@ -107,9 +123,6 @@ If the issue is still there, you can move on to the next fix.
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -117,12 +130,9 @@ If the issue is still there, you can move on to the next fix.
  Restart your PC for the new driver to take effect. Run Vegas Pro to see if the problem persists. If this doesn’t work in your case, try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Import your footage via the Explorer window
 
  If you normally would import your footage from the Explorer window, then feel free to skip to the next fix. If not, and your Vegas Pro often crashes as you try to drag the clips from the folders directly onto the timeline, try this quick fix:
@@ -130,16 +140,10 @@ No advertising on the website.
 1. Click**Explorer** , then you’ll be able to search files on your PC via the left-side navigation panel. (If you can’t find the Explorer button, press**Alt** and**1** to enable the Explorer window.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-58-54.jpg)
 2. Right-click an empty area in which the files are displayed, then select**Thumbnails** . You’ll be able to view all the files clearly and drag your clips onto the timeline as well.  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_16-00-14.jpg)
 
  This is a useful tip to avoid possible crashes, at least you won’t have to wait long for the import to complete when the files are large. However, if your Vegas Pro still won’t run properly, move on to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Customize Vegas Pro Settings
 
  There are a few settings within Vegas Pro that you can customize which may reduce the possibility of crashing. You don’t have to touch every single setting here if adjusting some of them could solve your problem, but there would be no harm in trying them all.
@@ -170,32 +174,14 @@ No advertising on the website.
 1. On the left side of your keyboard, hold**Ctrl** and**Shift** , and click**Options** . Then click**Internal** .  
 
  (For versions before Vegas Pro 18, you may first click**Options** . Then hold**Ctrl** and**Shift** and click**Preferences** . You’ll see the**Internal** tab in the Preferences window.)  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-13-00.jpg)
 2. Type**multi-core** in the search bar at the bottom.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-39-42.jpg)
 3. For**Enable multi-core rendering for playback** , change the value to**FALSE** ; for**Disable multi-core rendering** , set the value to**TRUE** . Then click**Apply** and**OK** .  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-32-52-1.jpg)
 
  Restart Vegas Pro to make sure the changes are saved, then check if your problem persists. If this doesn’t seem to help, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Disable a CPU processor for Vegas Pro
 
  As we mentioned above, video editing programs like Vegas Pro require intensive CPU resources. Normally we’d want to allocate as many resources as possible to Vegas Pro, but it’s not the case if the program keeps crashing and you can’t identify the cause. Instead, you can try to disable one CPU core for Vegas Pro to see if it helps:
@@ -203,14 +189,13 @@ No advertising on the website.
 1. Right-click on your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/open-task-manager.jpg)
 2. Switch to the**Details** tab and scroll to find**Vegas Pro** . Right-click the process then select**Set affinity** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-54-37-1.jpg)
 3. **Uncheck any one box of the CPU processor** , then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_17-56-07-1.jpg)
 
 Run Vegas Pro to see if the problem is solved.
@@ -228,8 +213,6 @@ Run Vegas Pro to see if the problem is solved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -237,4 +220,22 @@ Run Vegas Pro to see if the problem is solved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-free-video-chat-alternatives-for-windowsmac-os-users/"><u>[New] 2024 Approved Free Video Chat Alternatives for Windows/Mac OS Users</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-churn-out-custom-internet-echo-jokes/"><u>[New] Churn Out Custom Internet Echo Jokes</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/op-10-youtube-growth-titles-where-creativity-soars-quickly/"><u>[New] Top 10 YouTube Growth Titles Where Creativity Soars Quickly</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-video-game-chroniclers-essential-checklist/"><u>[Updated] 2024 Approved The Video Game Chronicler’s Essential Checklist</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-cross-platform-zoom-meeting-setup-guide/"><u>[Updated] Cross-Platform Zoom Meeting Setup Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-secure-your-conversations-mastering-free-and-paid-skype-captures-on-pcsmac/"><u>[Updated] In 2024, Secure Your Conversations Mastering Free and Paid Skype Captures on PCs/Mac</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-key-practices-for-soundless-media-gathering/"><u>[Updated] Key Practices for Soundless Media Gathering</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-revolutionary-methods-for-ipad-audio-logging-for-2024/"><u>[Updated] Revolutionary Methods for iPad Audio Logging for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guide-mastering-the-art-of-dvd-recording-using-vlc-media-player-and-exploring-top-alternatives/"><u>Guide: Mastering the Art of DVD Recording Using VLC Media Player & Exploring Top Alternatives</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/how-to-quality-recording-of-your-roblox-journeys-on-mac/"><u>How-To Quality Recording of Your Roblox Journeys on Mac</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-i-transferred-messages-from-realme-v30t-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How I Transferred Messages from Realme V30T to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-mastery-in-saving-lesson-content/"><u>In 2024, Mastery in Saving Lesson Content</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-moto-g24frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Moto G24FRP Lock</u></a></li>
+<li><a href="https://windows11.techidaily.com/synchronize-access-controls-with-powertoys-locksmith/"><u>Synchronize Access Controls with PowerToys' Locksmith</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-playing-spotify-on-facebook/"><u>The Ultimate Guide to Playing Spotify on Facebook</u></a></li>
+</ul></div>
 

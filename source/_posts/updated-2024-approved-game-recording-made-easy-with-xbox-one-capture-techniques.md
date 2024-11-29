@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Game Recording Made Easy with Xbox One Capture Techniques\""
-date: 2024-08-09T21:01:54.053Z
-updated: 2024-08-10T21:01:54.053Z
+date: 2024-11-27T18:38:47.283Z
+updated: 2024-11-28T16:07:51.923Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/84a7e5fe8a2d746104e06bccf0ffdc78d9a7d9997
 
 # How to Take Screenshots on Xbox One
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -53,18 +50,20 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Capturing Screenshots on Xbox One Using the Controller
 
 There is nothing complicated about taking a screenshot of your favorite game on Xbox One using the device's controller. All you have to do is double-click on the Xbox button and the screenshot will be captured. A sidebar will appear on the screen asking you if you want to take a screenshot or record the last 30 seconds of the gameplay. Just hit the Y button to save the screenshot. A dialog box will appear on the screen informing you that the screenshot has been saved successfully.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot.jpg)
 
 An increasing number of video games for Xbox One can be played in 4K resolution, but in order to play a game in a 4K resolution, you must have a 4K TV set. Moreover, the 4K and HDR capabilities your TV must be enabled before you start playing an Xbox One game in 4K. Taking a 4K screenshot on Xbox One requires you to adjust the capturing settings.
@@ -77,15 +76,16 @@ Keep in mind that 4K screenshots are significantly larger in size than those in 
 
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-voice-screenshot.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Older versions of Xbox One feature the Kinect motion sensor, while the more recent versions have the Microsoft's Cortana sensor. Both of them enable you to take screenshots using voice commands. If your Xbox One has the Kinect motion sensor, you should issue the 'Xbox take a screenshot' command. Viewing the screenshot immediately after it was taken, requires you to say 'Xbox open that' and the screenshot will pop up on the screen or you can just push and hold the Xbox button on the controller.
 
 You can say ' Hey _Cortana, take a screenshot'_ if your Xbox One features a Cortana motion sensor. However, in order to be able to issue voice commands, you must first activate this option. Head over to the Xbox One's Settings menu and locate the All Settings option. Click on System and switch on the AI Companion feature.
 
 It is important to say the command clearly so the AI can understand what you are trying to do, and for that reason, you should try to avoid capturing screenshots or recording videos via voice commands in noisy rooms.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Manage and Share Screenshots on Xbox One?
 
 Capturing screenshots of the epic moments in an Xbox One video game and sharing those images with your friends is equally simple. You can either share the images directly from the device or you can download them to your Windows 10 PC and share them from the computer.
@@ -94,10 +94,11 @@ Capturing screenshots of the epic moments in an Xbox One video game and sharing 
 
 The console you're using features the Upload app, so in order to access it, you should simply tap on the right bumper on the controller while you are in the Xbox One's home screen. Repeat this action until you are able to see the content feed your friends shared with you. Locate the screenshot you'd like to share and press the Menu button on the controller. A new window will emerge on the screen and you should simply select the Share option and then proceed to choose whether you want to send the screenshot as a private message, upload it to OneDrive or post it to Twitter.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Xbox Screenshot ](https://images.wondershare.com/filmora/article-images/xbox-screenshot-share.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### 2. Manage and Share Xbox Screenshots via Windows 10 PC
 
@@ -111,10 +112,11 @@ Gaming is one of the best forms of entertainment available to us, but it is even
 
 What is your favorite method of taking screenshots on Xbox One? We're anxious to hear all about it, so let us know in the comments below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
@@ -122,11 +124,29 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ow-to-trim-youtube-videos-like-a-pro/"><u>[New] How to Trim YouTube Videos Like a Pro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-bold-transitions-a-beginners-guide-to-fades/"><u>[New] In 2024, Bold Transitions A Beginner's Guide to Fades</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-no-more-complexities-record-with-nvidia/"><u>[New] In 2024, No More Complexities Record with NVIDIA</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-expert-advice-for-embedding-youtube-playlists-with-ease-for-2024/"><u>[Updated] Expert Advice for Embedding YouTube Playlists with Ease for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-mastering-virtual-console-with-top-5-ps3-emulators/"><u>[Updated] In 2024, Mastering Virtual Console with Top 5 PS3 Emulators</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-powerpoint-with-voice-over-complete-how-to-guide/"><u>[Updated] In 2024, Powerpoint with Voice Over - Complete How-To Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-3-ultimate-multi-user-video-platforms-for-2024/"><u>[Updated] Top 3 Ultimate Multi-User Video Platforms for 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/6-effective-strategies-leveraging-chatgpt-to-enhance-your-career-hunt/"><u>6 Effective Strategies: Leveraging ChatGPT to Enhance Your Career Hunt</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/analyzing-the-amazfit-gts-hybrid-smartwatch-beauty-meets-exercise-but-at-what-cost/"><u>Analyzing the Amazfit GTS Hybrid Smartwatch - Beauty Meets Exercise, But at What Cost?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-your-sony-xperia-10-v-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>In 2024, How to Mirror Your Sony Xperia 10 V Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-seamlessly-screen-record-the-mi-11-user-manual/"><u>In 2024, Seamlessly Screen Record The Mi 11 User Manual</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-streamline-your-viewing-capturing-hulu-on-windows-mac-ios/"><u>In 2024, Streamline Your Viewing Capturing Hulu on Windows, Mac, iOS</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-ranked-mobile-cloud-storage-for-android-guidebook/"><u>In 2024, Top Ranked Mobile Cloud Storage for Android Guidebook</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/troubleshoot-black-camera-display-errors-on-windows-11-with-our-expert-guide-and-effective-tips/"><u>Troubleshoot Black Camera Display Errors on Windows 11 with Our Expert Guide and Effective Tips!</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleashing-the-power-of-playback-turning-youtube-content-into-engaging-gifs-pcmobile-for-2024/"><u>Unleashing the Power of Playback Turning YouTube Content Into Engaging GIFs (PC/Mobile) for 2024</u></a></li>
+</ul></div>
+

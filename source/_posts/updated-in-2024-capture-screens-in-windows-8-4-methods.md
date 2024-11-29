@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Capture Screens in Windows 8  4 Methods\""
-date: 2024-08-09T21:00:31.244Z
-updated: 2024-08-10T21:00:31.244Z
+date: 2024-11-24T18:27:32.326Z
+updated: 2024-11-28T22:23:46.685Z
 tags: 
   - screen-recording
   - ai video
@@ -42,11 +42,12 @@ In terms of what videos you can import and edit etc. On its newest release of Fi
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Step 1:**  Download & Install the programme. Once opened on the upper left corner of the interface you will notice a record button, click this. Here you can either record from webcam or record computer screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![filmora record screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
  **Step 2:**  Select what recording mode you want, what audio output, drag the icon to choose what are you want to record. Choose more options bottom right if necessary. Including implementing hotkeys
@@ -55,9 +56,6 @@ In terms of what videos you can import and edit etc. On its newest release of Fi
 
  **Step 3:**  Click record icon. If you think it's OK. Stop recording. Video is automatically saved to the software timeline for you to edit and save.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 2: How to Record Screen with Steps Recorder on Windows 8
 
 If you don't want to download any software, the build-in Step Recorder is a tool that you can use. However, the recorded outcome is the exact steps, not video, so if you want to have video, just skip this part, and go to next part on Windows 8.
@@ -66,12 +64,13 @@ If you don't want to download any software, the build-in Step Recorder is a tool
 
 **Step 2**: Now, start doing what you want to be recorded. During recording, you can choose **Add Comment** to input texts. Then click **OK**.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![step recorder](https://images.wondershare.com/filmora/article-images/record-steps-recorder.jpg)
 
 **Step 3**: If you want finished, select **Stop Record**. The recorder file is a zip folder on Windows 8.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Use Free Chrome Extension
 
@@ -81,10 +80,11 @@ They have done something for their user base in the form of removing all in-app 
 
 Due to the fact that it is a Google Chrome extension it is for capturing web pages - any part of a web page at that. From comments and annotations, to blurring sensitive information it can all be done with extension.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![awesome-screenshot](https://images.wondershare.com/filmora/article-images/awesome-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Steps to download and use it to record computer screen:
 
@@ -108,9 +108,6 @@ Here's the stpes:
 
  **Step 2:**  Click capture screen button (Make sure you have applied the settings you need). Stop recording when ready - Automatically saves to timeline
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![ezvid record screen](https://images.wondershare.com/filmora/article-images/record-videos-ezvid.jpg)
 
  **Step 3:**  Edit the video. You can add marks, lines and color to highlight the area that you think it is important.
@@ -118,13 +115,18 @@ Here's the stpes:
  **Step 4:**  Save & Upload - The software has an upload to YouTube button. Clik upload diectly to share your recorded video to YouTube.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Conclusion
 
 These are just a few extensions and software that can be used to record computer screens for your Windows 8 device. They are also the highest voted recording softwares in their fields. Those being chrome extension, free downloadable software, advanced software and build-in tool. Recording your screen on a Windows 8 device need not be complicated and depending on your personal needs one of these three could really help you.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -132,11 +134,31 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-elevate-video-reach-optimize-tags-for-600esplus-growth/"><u>[New] 2024 Approved Elevate Video Reach Optimize Tags for $6,00Es+ Growth</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-proven-strategies-for-smooth-recording-in-google-meethangouts-platforms/"><u>[New] 2024 Approved Proven Strategies for Smooth Recording in Google Meet/Hangouts Platforms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-quick-recording-visuals-plus-verbal-input/"><u>[New] 2024 Approved Quick Recording Visuals + Verbal Input</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-solving-sync-issues-between-cameras-and-obs/"><u>[New] In 2024, Solving Sync Issues Between Cameras and OBS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-prime-tools-elevating-digital-collaboration-for-2024/"><u>[New] Prime Tools Elevating Digital Collaboration for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-cutting-edge-of-content-tips-for-the-trendy-tiktoker/"><u>[New] The Cutting Edge of Content Tips for the Trendy TikToker</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-virtual-reality-top-emulators-for-playing-ps3-games-on-pc/"><u>[New] Virtual Reality Top Emulators for Playing PS3 Games on PC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-stardew-valuable-addons-best-to-worst-ranking-list-7/"><u>[Updated] 2024 Approved Stardew Valuable Addons - Best to Worst Ranking List (#7)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-capture-and-share-online-journeys-browsers-top-screen-recorders/"><u>[Updated] Capture and Share Online Journeys Browsers' Top Screen Recorders</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-comprehensive-guide-for-digital-video-photo-effects-application-for-2024/"><u>[Updated] Comprehensive Guide for Digital Video Photo Effects Application for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/6-fixes-to-unfortunately-whatsapp-has-stopped-error-popups-on-samsung-galaxy-m14-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Fixes to Unfortunately WhatsApp has stopped Error Popups On Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/common-fixes-for-a-keyboard-that-wont-type-expert-advice/"><u>Common Fixes for a Keyboard That Won't Type – Expert Advice</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/find-the-most-accurate-at-home-forecasters-of-this-year-buyers-list-2024/"><u>Find the Most Accurate At-Home Forecasters of This Year – Buyer’s List 2024</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/getting-started-registering-for-the-latest-add-ons-in-chatgpt/"><u>Getting Started: Registering for the Latest Add-Ons in ChatGPT</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/hassle-free-methods-for-adding-movies-to-your-ios-device-by-bypassing-itunes/"><u>Hassle-Free Methods for Adding Movies to Your iOS Device by Bypassing iTunes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/perfectly-crafted-online-meeting-backdrops-for-2024/"><u>Perfectly Crafted Online Meeting Backdrops for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/safeguarding-windows-daily-data-backup-necessity/"><u>Safeguarding Windows: Daily Data Backup Necessity</u></a></li>
+</ul></div>
+

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, The Pathway to Perfect ZOOM Communication  Unlocking Effective Online Interactions\""
-date: 2024-08-09T21:02:49.630Z
-updated: 2024-08-10T21:02:49.630Z
+date: 2024-11-23T21:27:05.927Z
+updated: 2024-11-28T22:01:04.282Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 
 # Zoom Chat: How to Chat in Zoom Meeting?
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -52,14 +49,11 @@ Once there, following are the options that you can configure to secure your **Zo
 
 Checked by default, the **Change my status to “Away” when I am inactive for** ‘n’ **minutes** lets you automatically change your active status to **Away** when Zoom doesn’t detect any input from you for a certain amount of time. The inactive time threshold can be configured by entering a value in the available box.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![Zoom Meeting Chat Settings](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Unblocking**
 
@@ -69,10 +63,11 @@ The **Manage blocked users** button next to the **Blocked users** label lets you
 
 The radio buttons under this section let you choose which type of chat messages can trigger push notifications so they are flashed on your screen.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Zoom Meeting Chat Nofitications Settings](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-notification-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 * **Other Notifications**
 
@@ -94,6 +89,10 @@ When it comes to texting there are several options available for you to choose *
 
 As it is with most social media platforms these days, even in Zoom chat, you can use the @ sign followed by the starting few characters of the person you want to mention. When you start typing, a list of participants with the matching names would appear, and you can then choose the one you want to mention.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2\. How to Send Chat Announcements?
 
 **Note:** Configuring and using the **Announcements** feature is **only available for the paid members.**
@@ -112,7 +111,15 @@ Click the **+** icon, in the available field type the email address(es) of the u
 
 ![Zoom Meeting Chat  Announcements](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-announcement.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Launch Zoom app and sign into your account. Click the **Chat** icon from the top, click **Announcements** from the left bar, type a message in the text box in the right and/or attach a file if need be. Press **Enter** to send the message/attachment as an announcement to all the recipients.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\. What File Types Does Zoom Chat Support?
 
@@ -120,16 +127,10 @@ Launch Zoom app and sign into your account. Click the **Chat** icon from the top
 
 At the time of this writing, **Zoom chat** supports almost all types of files. However, by signing in to your account on Zoom’s web portal, you can restrict them by their extensions. For example, you can configure your Zoom account to send only the files with JPG, ZIP, or RAR extensions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Part 3: How to Save Zoom Chats
 
 Zoom also allows you to save your text conversions for future references. You can either save the chats manually, or configure Zoom to do that for you automatically. Both the processes are explained below:
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1\. How to Configure Autosave Chats
 
 #### Step 1: Get to the In Meeting (Basic) Section
@@ -142,9 +143,6 @@ Launch a web browser and sign in to your Zoom account on the web portal. From th
 
 Turn on the toggle switch next to **Auto saving chats** to configure your Zoom account to save the chats automatically when a meeting starts.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Zoom Meeting Chat  Auto save](https://images.wondershare.com/filmora/article-images/auto-saving-chat-in-zoom-meeting.jpg)
 
 ### 2\. How to Save Zoom Chats Manually
@@ -153,9 +151,6 @@ Turn on the toggle switch next to **Auto saving chats** to configure your Zoom a
 
 During a meeting/conference session, click the **Chat** icon from the bottom to reveal the chat pane if not already expanded. Next, review the all the chat messages to see if they are of any significance. If so, proceed to the next step.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![Zoom Meeting Chat  Save](https://images.wondershare.com/filmora/article-images/save-chat-in-zoom-meeting-manually.jpg)
 
 #### Step 2: Save the Chat Manually
@@ -169,8 +164,9 @@ Click the **More** icon (with three horizontal dots) from the bottom-right corne
 If you are hosting a Zoom meeting, you can control the way people chat. To elaborate, you can either allow or disallow **Zoom private chat** for the members in a particular session, or can permanently disable the chat feature for your Zoom account altogether. To learn how to configure Zoom for both of these, you can follow the steps given below:
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1\. How to Disable Zoom Private Chat?
 
 #### Step 1: Enable Chat Pane
@@ -184,8 +180,9 @@ Click the **More** icon from the bottom-right area of the pane you enabled, and 
 ![Disable Zoom Meeting Chat ](https://images.wondershare.com/filmora/article-images/disable-chat-in-zoom-meeting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. How to Permanently Disable Zoom Chats?
 
 #### Step 1: Get to In Meeting (Basic) Settings Section
@@ -212,10 +209,11 @@ Tips
 
 As a video call host, if you don’t want the participant to save the chat content, you should enable **Prevent participants from saving chat** and save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Zoom Meeting Chat  Saving Settings](https://images.wondershare.com/filmora/article-images/zoom-meeting-chat-prevent-participants-from-saving-chat.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Furthermore, if you have a paid subscription of Zoom, you can use advanced encryption method that is available on the **IM Management** page on your account’s web portal. About the second question, the host cannot see the private messages that the participants send to each other during a meeting session.
 
@@ -229,9 +227,6 @@ As long as you are chatting using **Zoom chat**, other participants cannot see y
 
 **Zoom chat** is an easy way to converse with the participants in case there are some typical words that need to be spelled or some files to be shared. These chats are not only encrypted, they can also be controlled by the host so that the participants can send messages only to the host, to each other, or to no one at all.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 Richard Bennett
@@ -240,11 +235,29 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-ergonomic-hold-techniques-for-clarity/"><u>[New] Ergonomic Hold Techniques for Clarity</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-basic-routes-to-sync-obs-with-zoom/"><u>[New] The Basic Routes to Sync OBS with Zoom</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-record-multiple-monitors/"><u>[Updated] How to Record Multiple Monitors</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-detailed-review-all-about-gecatas-recording-mechanism/"><u>[Updated] In 2024, Detailed Review All About Gecata's Recording Mechanism</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-break-free-from-youtube-top-5-innovative-video-editing-tools/"><u>2024 Approved Break Free From Youtube Top 5 Innovative Video Editing Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-pcs-prime-screen-capture-software-ranked-1-5/"><u>2024 Approved PC's Prime Screen Capture Software Ranked #1-#5</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1715859913524-2024-approved-pinnacle-playtime-the-greatest-action-adventure-game-lineup-ever/"><u>2024 Approved Pinnacle Playtime The Greatest Action-Adventure Game Lineup Ever!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/decoding-efficient-photo-and-video-file-transfers-on-windows-10/"><u>Decoding Efficient Photo & Video File Transfers on Windows 10</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/email-alteration-for-enhanced-security-in-proton-vpn-and-authenticity-check-of-windows-compatible-chat-tools/"><u>Email Alteration for Enhanced Security in Proton VPN & Authenticity Check of Windows-Compatible Chat Tools</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/generative-ai-innovation-exploring-7-revolutionary-effects-on-job-opportunities-and-skills-demand/"><u>Generative AI Innovation: Exploring 7 Revolutionary Effects on Job Opportunities and Skills Demand</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/high-speed-race-replicas-our-top-picks-for-2024/"><u>High-Speed Race Replicas Our Top Picks for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-best-budget-switch-console-clones/"><u>In 2024, Best Budget Switch Console Clones</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-easy-guide-to-lava-yuva-3-pro-frp-bypass-with-best-methods-by-drfone-android/"><u>In 2024, Easy Guide to Lava Yuva 3 Pro FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-samsung-galaxy-s24plus-location-on-twitter-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change your Samsung Galaxy S24+ Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/in-2024-win-10s-best-recording-software-10-picks/"><u>In 2024, Win 10'S Best Recording Software - 10 Picks</u></a></li>
+</ul></div>
+

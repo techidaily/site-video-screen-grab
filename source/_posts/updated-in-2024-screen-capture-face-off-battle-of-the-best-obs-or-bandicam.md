@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] In 2024, Screen Capture Face-Off  Battle of the Best, OBS or Bandicam\""
-date: 2024-08-09T21:01:50.644Z
-updated: 2024-08-10T21:01:50.644Z
+date: 2024-11-21T19:06:54.490Z
+updated: 2024-11-28T22:31:05.661Z
 tags: 
   - screen-recording
   - ai video
@@ -40,6 +40,10 @@ Usually, a premium software is supposed to be better than a free software but OB
 
 ![obs studio](https://images.wondershare.com/filmora/article-images/obs-screen-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Besides, you can record video with audio from system as well as external sources. You can live stream on almost every platform using OBS which is why it is so popular among video creators. The software lets you customize all the settings for recording as per your requirements, and you can even edit the recording as per requirements. The only issue with OBS Studio is that its user interface is slightly complicated.
 
 **Recommended System Requirements -**
@@ -50,17 +54,15 @@ Besides, you can record video with audio from system as well as external sources
 * HDD - 1 GB or more.
 * VGA - 800x600, 16 bit color.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Part 2\. About Bandicam
 
 [Bandicam](https://tools.techidaily.com/wondershare/filmora/download/) is specially designed for Windows PC users. You can capture high-quality videos as well as retain the quality of the recordings. The advantage of using Bandicam is that it lets you capture video with more compression rate. It lets you record from external sources like PlayStation, webcam, and smartphones. You can even add voice along with the system sound.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![bandicam screen recorder](https://images.wondershare.com/filmora/article-images/bandicam-screen-recorder-for-pc.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It allows real-time drawing while recording. Bandicam also lets you add your webcam while recording the screen. You can schedule your recording. You can make use of the green screen technique as well. Besides, you can perform the basic editing after recording. In comparison to OBS, it is a highly user-friendly interface for easy operation.
 
@@ -100,9 +102,6 @@ Bandicam is a purely video recording software. There is no option available on B
 
 OBS Studio is equally popular in the video creator community as a video recorder as well as a live streaming platform. It is hardly as software available like OBS from where you can live stream on so many different online platforms. Once you have the stream URL and stream key, you are good to go for live streaming from your desktop computer.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4\. Alternative Way to Record Screen Video
 
 If you are not satisfied with OBS for its complicated user interface and you are looking for a better alternative to Bandicam, we recommend Filmora - a [Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/) for both PC and Mac. Both OBS and Bandicam have very limited features in editing a video when editing is essential after you record a video. This is where Filmora scores over OBS and Bandicam. You can capture the screen, record video from webcam as well as record audio from different sources.
@@ -121,18 +120,6 @@ For macOS 10.12 or later
 
 Step 2: Select the recording screen size, the microphone and the system audio. You can turn on Record the Camera Stream option if you want to record webcam along with the screen.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start screen recording](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
 Step 3: To start recording, click on Record button. You can press F9 key to stop recording.
@@ -160,8 +147,9 @@ Besides, you can record video with audio from system as well as external sources
 * VGA - 800x600, 16 bit color.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2\. About Bandicam
 
 [Bandicam](https://tools.techidaily.com/wondershare/filmora/download/) is specially designed for Windows PC users. You can capture high-quality videos as well as retain the quality of the recordings. The advantage of using Bandicam is that it lets you capture video with more compression rate. It lets you record from external sources like PlayStation, webcam, and smartphones. You can even add voice along with the system sound.
@@ -224,14 +212,19 @@ For macOS 10.12 or later
 
 Step 2: Select the recording screen size, the microphone and the system audio. You can turn on Record the Camera Stream option if you want to record webcam along with the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start screen recording](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: To start recording, click on Record button. You can press F9 key to stop recording.
 
 You can then edit the recording and export in the desired file format.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -241,9 +234,6 @@ Part 1\. About OBS Studio
 
 [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/) is popular for screen recording and live streaming. It is open-source software, and all the features are completely free to use. It is also a cross-platform software that you can use across all desktop operating systems. Apart from capturing screen, you can record video from webcam as well. In fact, it supports different external devices for capturing video including capture card for gaming consoles.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![obs studio](https://images.wondershare.com/filmora/article-images/obs-screen-recorder.jpg)
 
 Besides, you can record video with audio from system as well as external sources. You can live stream on almost every platform using OBS which is why it is so popular among video creators. The software lets you customize all the settings for recording as per your requirements, and you can even edit the recording as per requirements. The only issue with OBS Studio is that its user interface is slightly complicated.
@@ -257,8 +247,9 @@ Besides, you can record video with audio from system as well as external sources
 * VGA - 800x600, 16 bit color.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2\. About Bandicam
 
 [Bandicam](https://tools.techidaily.com/wondershare/filmora/download/) is specially designed for Windows PC users. You can capture high-quality videos as well as retain the quality of the recordings. The advantage of using Bandicam is that it lets you capture video with more compression rate. It lets you record from external sources like PlayStation, webcam, and smartphones. You can even add voice along with the system sound.
@@ -274,6 +265,10 @@ It allows real-time drawing while recording. Bandicam also lets you add your web
 * RAM - 1 GB or more.
 * HDD - 1 GB or more
 * VGA - 800x600, 16 bit color.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3\. Comparison of OBS vs Bandicam
 
@@ -303,9 +298,6 @@ Bandicam is a purely video recording software. There is no option available on B
 
 OBS Studio is equally popular in the video creator community as a video recorder as well as a live streaming platform. It is hardly as software available like OBS from where you can live stream on so many different online platforms. Once you have the stream URL and stream key, you are good to go for live streaming from your desktop computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Part 4\. Alternative Way to Record Screen Video
 
 If you are not satisfied with OBS for its complicated user interface and you are looking for a better alternative to Bandicam, we recommend Filmora - a [Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/) for both PC and Mac. Both OBS and Bandicam have very limited features in editing a video when editing is essential after you record a video. This is where Filmora scores over OBS and Bandicam. You can capture the screen, record video from webcam as well as record audio from different sources.
@@ -324,14 +316,19 @@ For macOS 10.12 or later
 
 Step 2: Select the recording screen size, the microphone and the system audio. You can turn on Record the Camera Stream option if you want to record webcam along with the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![start screen recording](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: To start recording, click on Record button. You can press F9 key to stop recording.
 
 You can then edit the recording and export in the desired file format.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -341,9 +338,6 @@ Part 1\. About OBS Studio
 
 [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/) is popular for screen recording and live streaming. It is open-source software, and all the features are completely free to use. It is also a cross-platform software that you can use across all desktop operating systems. Apart from capturing screen, you can record video from webcam as well. In fact, it supports different external devices for capturing video including capture card for gaming consoles.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![obs studio](https://images.wondershare.com/filmora/article-images/obs-screen-recorder.jpg)
 
 Besides, you can record video with audio from system as well as external sources. You can live stream on almost every platform using OBS which is why it is so popular among video creators. The software lets you customize all the settings for recording as per your requirements, and you can even edit the recording as per requirements. The only issue with OBS Studio is that its user interface is slightly complicated.
@@ -356,9 +350,6 @@ Besides, you can record video with audio from system as well as external sources
 * HDD - 1 GB or more.
 * VGA - 800x600, 16 bit color.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2\. About Bandicam
 
 [Bandicam](https://tools.techidaily.com/wondershare/filmora/download/) is specially designed for Windows PC users. You can capture high-quality videos as well as retain the quality of the recordings. The advantage of using Bandicam is that it lets you capture video with more compression rate. It lets you record from external sources like PlayStation, webcam, and smartphones. You can even add voice along with the system sound.
@@ -403,9 +394,6 @@ Bandicam is a purely video recording software. There is no option available on B
 
 OBS Studio is equally popular in the video creator community as a video recorder as well as a live streaming platform. It is hardly as software available like OBS from where you can live stream on so many different online platforms. Once you have the stream URL and stream key, you are good to go for live streaming from your desktop computer.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 4\. Alternative Way to Record Screen Video
 
 If you are not satisfied with OBS for its complicated user interface and you are looking for a better alternative to Bandicam, we recommend Filmora - a [Screen Recorder](https://tools.techidaily.com/wondershare/filmora/download/) for both PC and Mac. Both OBS and Bandicam have very limited features in editing a video when editing is essential after you record a video. This is where Filmora scores over OBS and Bandicam. You can capture the screen, record video from webcam as well as record audio from different sources.
@@ -424,14 +412,15 @@ For macOS 10.12 or later
 
 Step 2: Select the recording screen size, the microphone and the system audio. You can turn on Record the Camera Stream option if you want to record webcam along with the screen.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start screen recording](https://images.wondershare.com/filmora/article-images/start-recording-screen.jpg)
 
 Step 3: To start recording, click on Record button. You can press F9 key to stop recording.
 
 You can then edit the recording and export in the desired file format.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -459,4 +448,24 @@ To sum it up for you, OBS is completely free while Bandicam is a premium softwar
      data-full-width-responsive="true"></ins>
 
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-fist-of-legends-highest-rated-kung-fu-virtual-battles/"><u>[New] Fist of Legends Highest-Rated Kung Fu Virtual Battles</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-pro-camera-selection-guide-top-10-films-tools-ranked/"><u>[New] Pro Camera Selection Guide - Top 10 Films Tools Ranked</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-the-essential-guide-to-choosing-video-aspect-ratios/"><u>[New] The Essential Guide to Choosing Video Aspect Ratios</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unveiling-the-premier-android-emulators-for-ps2-games/"><u>[New] Unveiling the Premier Android Emulators for PS2 Games</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-prime-video-cameras-that-will-elevate-your-twitch-channel/"><u>[Updated] 2024 Approved Prime Video Cameras That Will Elevate Your Twitch Channel</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-quick-and-easy-skype-calls-to-mp3-files-free/"><u>[Updated] 2024 Approved Quick & Easy Skype Calls to MP3 Files (Free)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-unified-webcamscreen-capture-strategies/"><u>[Updated] In 2024, Unified Webcam/Screen Capture Strategies</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-mastering-the-art-of-sandbox-gaming/"><u>[Updated] Mastering the Art of Sandbox Gaming</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-navigating-the-best-freefire-tips-online/"><u>[Updated] Navigating the Best FreeFire Tips Online</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/capture-android-speech-4-simple-no-root-methods/"><u>Capture Android Speech 4 Simple No-Root Methods</u></a></li>
+<li><a href="https://techidaily.com/how-to-repair-apple-iphone-13-ios-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Repair Apple iPhone 13 iOS? | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-maximizing-your-broadcast-obs-on-android-devices/"><u>In 2024, Maximizing Your Broadcast OBS on Android Devices</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-hp-deskjet-2n-2600-printer-drivers-on-your-pc-supports-win-7810/"><u>Install HP DeskJet 2N 2600 Printer Drivers on Your PC - Supports Win 7/8/10</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/revolutionizing-smartphone-photography-apple-integrates-visual-intelligence-inspired-by-google-lens-in-iphone-16-camera-upgrade/"><u>Revolutionizing Smartphone Photography: Apple Integrates Visual Intelligence Inspired by Google Lens in iPhone 16 Camera Upgrade</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/tailoring-your-obs-feeds-for-best-social-media-impact/"><u>Tailoring Your OBS Feeds for Best Social Media Impact</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/the-complete-guide-from-recording-to-live-on-facebook/"><u>The Complete Guide From Recording to Live on Facebook</u></a></li>
+</ul></div>
 
