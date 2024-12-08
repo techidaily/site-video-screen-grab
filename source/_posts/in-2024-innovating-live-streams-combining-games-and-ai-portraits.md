@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Innovating Live Streams  Combining Games and AI Portraits\""
-date: 2024-08-09T20:49:00.674Z
-updated: 2024-08-10T20:49:00.674Z
+date: 2024-12-02T04:35:03.441Z
+updated: 2024-12-08T02:07:19.151Z
 tags: 
   - screen-recording
   - ai video
@@ -42,24 +42,22 @@ If you are going to do it traditionally, you will need so many materials like a 
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Make a Game Streaming Video \[Step by Step\]
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For Win 7 or later (64-bit)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Filmora secure download](https://images.wondershare.com/filmora/images/store/secure.png) Secure Download
 
 Using AI Portrait doesn't require any kind of technical skills or expertise. One can easily apply the AI Portrait effect with a single click. So, let's get started with the step-by-step guide. Make sure you have already recorded your gameplay and your own video. If not, record it first to process with the following steps.
@@ -70,18 +68,6 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 
 **Step 02:** Import your Gameplay and your own video into the Filmora by clicking on the import button or by dragging the media into Filmora.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![game-streaming-with-ai-portrait-step2](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step2.png)
 
 **Step 03:** Drag both of these footages into the timeline. Make sure to place your self-recording above the gameplay.
@@ -96,18 +82,16 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 
 ![game-streaming-with-ai-portrait-step5](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 06:** Once it is applied to the footage, it will separate the background from the character and remove the background.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![game-streaming-with-ai-portrait-step6](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step6.png)
 
 **Step 07:** Adjust the footage by making it smaller and moving to the lower-left corner of the screen. We are good to go.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![game-streaming-with-ai-portrait-step7](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step7.png)
 
 **Step 08:** If in some part of the video you want to show something covered by the character, you can easily change the character's position using keyframes for a smooth movement. To make sure the character footage is selected, pause the video when you want to change the position of the character and click on the keyframe button above the timeline.
@@ -116,10 +100,11 @@ Using AI Portrait doesn't require any kind of technical skills or expertise. One
 
 **Step 09:** It will automatically add a keyframe. Now move forward into the timeline, drag the character's position to your preferred position, and hit OK. It will move the character from the old position to the new position smoothly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![game-streaming-with-ai-portrait-step9](https://images.wondershare.com/filmora/article-images/game-streaming-with-ai-portrait-step9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 10:** If you want to move the character to the same position, move forward into the timeline and drag it to the same position.
 
@@ -132,17 +117,20 @@ After following and applying all the steps, your game streaming video is ready t
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
 Shanoon Cox is a writer and a lover of all things video.
 
 Follow @Shanoon Cox
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -151,5 +139,24 @@ Follow @Shanoon Cox
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-optimal-pc-mac-screen-recording-software/"><u>[New] 2024 Approved Optimal PC-Mac Screen Recording Software</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/new-embark-on-a-wanderlust-adventure-becoming-a-professional-travel-vlogger/"><u>[New] Embark on a Wanderlust Adventure Becoming A Professional Travel Vlogger</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-capturefreeplay-cutting-edge-recording-for-gamers/"><u>[New] In 2024, CaptureFreePlay Cutting-Edge Recording for Gamers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-optimal-4k-video-recording-tools-compilation-for-2024/"><u>[New] Optimal 4K Video Recording Tools Compilation for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-ultimate-high-performance-desktop-pcs/"><u>[New] Ultimate High-Performance Desktop PCs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-best-mac-screen-recorder-with-audio/"><u>[Updated] 2024 Approved Best Mac Screen Recorder with Audio</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-elite-8-high-speed-recording-software/"><u>[Updated] 2024 Approved Elite 8 High-Speed Recording Software</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-extract-youtube-soundtracks-for-free-with-this-list-of-25-rippers/"><u>[Updated] 2024 Approved Extract YouTube Soundtracks for Free With This List of 25 Rippers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-the-complete-users-manual-to-zoom-meeting-recordings/"><u>[Updated] 2024 Approved The Complete User's Manual to Zoom Meeting Recordings</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-quick-fixes-to-keep-your-photos-app-fixed-on-win-11/"><u>[Updated] In 2024, Quick Fixes to Keep Your Photos App Fixed on Win 11</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-elevate-your-views-degrees-of-rotation-on-youtube-a-2023-guide/"><u>2024 Approved Elevate Your Views Degrees of Rotation on YouTube - A 2023 Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-nokia-c02-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Nokia C02 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-perfect-12-video-capture-tools-never-stop/"><u>In 2024, Perfect 12 Video Capture Tools - Never Stop</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/leading-edge-top-10-advanced-vimeo-video-extraction-sites/"><u>Leading Edge Top 10 Advanced Vimeo Video Extraction Sites</u></a></li>
+<li><a href="https://win11.techidaily.com/security-straightforward-quick-ways-to-suspend-user-accounts-in-win11/"><u>Security Straightforward: Quick Ways to Suspend User Accounts in Win11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-completely-reboot-your-ipad-across-all-versions/"><u>Step-by-Step Instructions: Completely Reboot Your iPad Across All Versions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unveiling-the-power-of-effective-screencasts-in-digital-content/"><u>Unveiling the Power of Effective Screencasts in Digital Content</u></a></li>
+</ul></div>
 

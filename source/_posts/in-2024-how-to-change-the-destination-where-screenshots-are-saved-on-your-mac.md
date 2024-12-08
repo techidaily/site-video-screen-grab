@@ -1,7 +1,7 @@
 ---
 title: "In 2024, How to Change the Destination Where Screenshots Are Saved on Your Mac"
-date: 2024-08-09T20:49:45.275Z
-updated: 2024-08-10T20:49:45.275Z
+date: 2024-12-02T01:48:02.541Z
+updated: 2024-12-07T22:10:00.558Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/eb0b88fc8ea01a6f57ac593062a230bcd4f411a04
 
 # How to Change the Destination Where Screenshots are Saved on your Mac
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -32,9 +29,6 @@ Whenever you take a screenshot on a Mac computer, a file is saved to the desktop
 
 Here's how you can change the location where the screenshots you take using the keyboard shortcuts will be saved.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -52,22 +46,25 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
 
 Changing the folder where you store your screenshots is not an irreversible process, which means that you can reset the destination where the files are saved to Desktop at any point. Do not delete the new folder, because your Mac may not be able to take screenshots, afterward. The process described below is the only way you can delete a folder or add a new destination for your screenshots, and failing to comply with it may cause your Mac to malfunction.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
 
@@ -88,8 +85,9 @@ To execute the command you have to press Enter. After Terminal finishes running 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -102,13 +100,15 @@ Don't forget that deleting the folder you use as a default location for storing 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -117,5 +117,26 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-deciding-filmora-vs-democracy-creator/"><u>[New] 2024 Approved Deciding Filmora Vs. Democracy Creator</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-utilizing-in-device-recording-on-huawei-mate-series-phones-mate-10-mate-20-and-p-series-p20-p10/"><u>[New] 2024 Approved Utilizing In-Device Recording on Huawei Mate Series Phones (Mate 10, Mate 20) & P Series (P20, P10)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-easycapture-prox-diagnosis-for-2024/"><u>[New] EasyCapture ProX Diagnosis for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-telegram-marketing-made-simple-for-those-just-starting-out/"><u>[New] In 2024, Telegram Marketing Made Simple For Those Just Starting Out</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-secrets-to-seamless-zoom-talks-mastering-online-communication-skills/"><u>[New] In 2024, The Secrets to Seamless Zoom Talks Mastering Online Communication Skills</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/apping-your-marketing-journey-on-youtube/"><u>[New] Mapping Your Marketing Journey on YouTube</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-top-social-strategies-android-and-iphones-most-effective-fb-apps-for-2024/"><u>[New] Top Social Strategies Android & iPhone's Most Effective FB Apps for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ultimate-unadorned-screen-recorder-2023/"><u>[Updated] 2024 Approved Ultimate Unadorned Screen Recorder 2023</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-detailed-procedures-for-elevating-youtube-clips-through-wm-maker/"><u>[Updated] In 2024, Detailed Procedures for Elevating YouTube Clips Through WM Maker</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-the-perfect-resolution-for-immersive-vr/"><u>[Updated] In 2024, The Perfect Resolution for Immersive VR</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-best-10-heavy-lift-drones/"><u>2024 Approved Best 10 Heavy Lift Drones</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/experience-flawless-navigation-with-sabrents-compact-and-accurate-wired-travel-mouse/"><u>Experience Flawless Navigation with Sabrent’s Compact and Accurate Wired Travel Mouse</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/fixing-sudden-disconnections-in-pc-speakers-windows-11/"><u>Fixing Sudden Disconnections in PC Speakers (Windows 11)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-nubia-z50s-pro-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from Nubia Z50S Pro</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-best-eco-savvy-movie-capture-tools-usage-methods/"><u>In 2024, Best Eco-Savvy Movie Capture Tools Usage Methods</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-instant-screen-grabber-plus-easy-guide-soundtrack/"><u>In 2024, Instant Screen Grabber + Easy Guide Soundtrack</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-new-horizons-windows-11s-latest-advances/"><u>In 2024, New Horizons Windows 11'S Latest Advances</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-winning-game-recording-guide-for-w11-users/"><u>In 2024, Winning Game Recording Guide for W11 Users</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/smartscreen-capture-v11-professional/"><u>SmartScreen Capture V11 Professional</u></a></li>
+</ul></div>
 

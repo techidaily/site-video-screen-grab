@@ -1,7 +1,7 @@
 ---
 title: "\"SwiftRecorder Plus - Soundtrack Guided Screen Recording\""
-date: 2024-11-25T19:12:01.608Z
-updated: 2024-11-28T22:29:12.268Z
+date: 2024-12-01T18:12:53.185Z
+updated: 2024-12-07T18:47:07.566Z
 tags: 
   - screen-recording
   - ai video
@@ -65,13 +65,13 @@ Step 3: You will see a yellow bar at the bottom containing the entire length of 
 
 ![start video triming quicktime](https://images.wondershare.com/filmora/article-images/start-video-triming-quicktime.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: You can preview the trimmed video by clicking the Play button beside the play icon. Once you are done, click on Trim button.
 
 ![trim video in quicktime](https://images.wondershare.com/filmora/article-images/trim-video-quicktime.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5: If you are satisfied with the trimming work, go to File > Save to save the trimmed video file on your hard drive.
 
@@ -115,6 +115,10 @@ Step 3: Drag the imported file to your Timeline and you can import multiple vide
 
 ![edit video filmora](https://images.wondershare.com/filmora/article-images/edit-recordings-filmora.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: If you want to trim the video, place the mouse point at the beginning or ending of the video from where you want to trim. When the trim icon appears, press and hold the mouse button and move forward or backward.
 
 If the useless part is in the middle, you need to split the video using Scissor icon and apply the same method mentioned above to trim out unwanted parts.
@@ -142,7 +146,7 @@ Step 3: Go to Apple menu and open System Preferences.
 ![system preferences](https://images.wondershare.com/filmora/article-images/system-preferences.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4: Go to Sound tab and from Sound Output, select SoundFlower(2ch) option. This will make SoundFlower the active output by feeding the audio signal directly to SoundFlower instead of system speakers.
@@ -155,13 +159,13 @@ Step 6: You can start recording anytime you want by pressing the Record button. 
 
 ![quicktime screen recording](https://images.wondershare.com/filmora/article-images/quicktime-start-screen-recording.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 7: Once you are done recording, press the Stop button. You can go to File > Save option to save the recorded video file.
 
 Once your recording is over, you should go to Apple Menu > System Preferences > Sound tab and select Sound Output as Internal Speakers.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2\. How to Trim Videos in QuickTime Player
 
@@ -247,10 +251,6 @@ Step 3: Go to Apple menu and open System Preferences.
 
 ![system preferences](https://images.wondershare.com/filmora/article-images/system-preferences.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: Go to Sound tab and from Sound Output, select SoundFlower(2ch) option. This will make SoundFlower the active output by feeding the audio signal directly to SoundFlower instead of system speakers.
 
 ![soundflower](https://images.wondershare.com/filmora/article-images/output-soundflower.jpg)
@@ -261,17 +261,9 @@ Step 6: You can start recording anytime you want by pressing the Record button. 
 
 ![quicktime screen recording](https://images.wondershare.com/filmora/article-images/quicktime-start-screen-recording.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 7: Once you are done recording, press the Stop button. You can go to File > Save option to save the recorded video file.
 
 Once your recording is over, you should go to Apple Menu > System Preferences > Sound tab and select Sound Output as Internal Speakers.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2\. How to Trim Videos in QuickTime Player
 
@@ -285,6 +277,10 @@ Step 3: You will see a yellow bar at the bottom containing the entire length of 
 
 ![start video triming quicktime](https://images.wondershare.com/filmora/article-images/start-video-triming-quicktime.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: You can preview the trimmed video by clicking the Play button beside the play icon. Once you are done, click on Trim button.
 
 ![trim video in quicktime](https://images.wondershare.com/filmora/article-images/trim-video-quicktime.jpg)
@@ -292,7 +288,7 @@ Step 4: You can preview the trimmed video by clicking the Play button beside the
 Step 5: If you are satisfied with the trimming work, go to File > Save to save the trimmed video file on your hard drive.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3\. QuickTime Alternative to Record and Edit Videos
@@ -314,6 +310,10 @@ For macOS 10.12 or later
 Step 2: Launch Filmora and click on New Project.
 
 ![freeseer screen recorder](https://images.wondershare.com/filmora/article-images/filmora-record-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Go to Record menu and click on "Record PC Screen".
 
@@ -350,7 +350,7 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 3. [QuickTime Alternative to Record and Edit Videos](#part3)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1\. Steps to Use QuickTime Record Screen and Audio
@@ -391,19 +391,15 @@ Step 3: You will see a yellow bar at the bottom containing the entire length of 
 
 ![start video triming quicktime](https://images.wondershare.com/filmora/article-images/start-video-triming-quicktime.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: You can preview the trimmed video by clicking the Play button beside the play icon. Once you are done, click on Trim button.
 
 ![trim video in quicktime](https://images.wondershare.com/filmora/article-images/trim-video-quicktime.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 5: If you are satisfied with the trimming work, go to File > Save to save the trimmed video file on your hard drive.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3\. QuickTime Alternative to Record and Edit Videos
 
@@ -450,6 +446,10 @@ Step 4: If you want to trim the video, place the mouse point at the beginning or
 If the useless part is in the middle, you need to split the video using Scissor icon and apply the same method mentioned above to trim out unwanted parts.
 
 Step 5: When you are done editing, click on Export and set all the parameters perfectly to save the video.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -479,20 +479,24 @@ If you are a Mac user, QuickTime player screen recording with audio is available
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-from-free-to-profitable-a-video-marketing-masterclass-for-vimeo/"><u>[New] 2024 Approved From Free to Profitable A Video Marketing Masterclass for Vimeo</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-ps4-gameplay-to-video-an-in-depth-obs-recording-guide/"><u>[New] 2024 Approved PS4 Gameplay to Video - An In-Depth OBS Recording Guide</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/new-elevate-your-engagement-select-8-social-apps-for-facebook-fame/"><u>[New] Elevate Your Engagement Select 8 Social Apps for Facebook Fame</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ticking-time-away-with-obs-creating-a-countdown-timer/"><u>[Updated] 2024 Approved Ticking Time Away with OBS Creating a Countdown Timer</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-your-selection-of-affordable-iosandroid-live-streamers/"><u>[Updated] 2024 Approved Your Selection of Affordable iOS/Android Live Streamers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-a-quick-dive-into-obs-zoom-fusion-steps/"><u>[Updated] In 2024, A Quick Dive Into OBS-Zoom Fusion Steps</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-simplified-playlist-crafting-for-youtube-fans-on-desktop-and-mobile-devices/"><u>[Updated] Simplified Playlist Crafting for YouTube Fans on Desktop & Mobile Devices</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-insider-guide-to-simplifying-character-voice-modification-pubg/"><u>[Updated] The Insider Guide to Simplifying Character Voice Modification (PUBG)</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/1725285686226-dvd-decrypter/"><u>DVD-Decrypter開始失敗・入出力エラーに対する解決策</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-game-magic-discover-4-ways-to-preserve-your-gaming-sessions/"><u>In-Game Magic Discover 4 Ways to Preserve Your Gaming Sessions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/libertycam-studios-advanced-video-capture-capabilities/"><u>LibertyCam Studio's Advanced Video Capture Capabilities</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/record-your-mac-in-hd-no-fee-for-2024/"><u>Record Your Mac in HD No Fee for 2024</u></a></li>
-<li><a href="https://win-alternatives.techidaily.com/solving-your-issue-why-does-windows-1/"><u>Solving Your Issue: Why Does Windows 1</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-10-gif-apps-for-iphone-x876-for-2024/"><u>Top 10 GIF Apps for iPhone X/8/7/6 for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/winning-against-ps4-input-drop-outs-on-personal-computers/"><u>Winning Against PS4 Input Drop-Outs on Personal Computers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-selecting-superior-webcams-on-windows-10/"><u>[New] 2024 Approved Selecting Superior Webcams on Windows 10</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-streamlined-approaches-to-documenting-whatsapp-discussions/"><u>[New] In 2024, Streamlined Approaches to Documenting WhatsApp Discussions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-unlocking-features-advanced-logitech-webcam-techniques/"><u>[New] In 2024, Unlocking Features Advanced Logitech Webcam Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-mastering-xbox-live-top-four-recording-techniques-for-2024/"><u>[New] Mastering Xbox Live Top Four Recording Techniques for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-become-a-pip-expert-enhancing-visual-narratives-on-macos-sierra/"><u>[Updated] 2024 Approved Become a PIP Expert Enhancing Visual Narratives on macOS Sierra</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-3-ways-to-record-itunes-videos/"><u>[Updated] In 2024, 3 Ways to Record iTunes Videos</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-choosing-prime-audio-editors-for-youtube-creators/"><u>[Updated] In 2024, Choosing Prime Audio Editors for YouTube Creators</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-investment-worthy-asmr-sound-for-every-fan/"><u>[Updated] Investment-Worthy ASMR Sound for Every Fan</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-real-time-game-recording-powered-by-obs/"><u>2024 Approved Real-Time Game Recording Powered by OBS</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-your-easy-routine-for-viewing-well-regarded-and-favorited-comments/"><u>2024 Approved Your Easy Routine for Viewing Well-Regarded and Favorited Comments</u></a></li>
+<li><a href="https://driver-download.techidaily.com/approach-consider-the-role-of-ductility-and-overstrength-factors/"><u>Approach: Consider the Role of Ductility and Overstrength Factors.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-and-healthcare-5-essential-points-you-should-consider-before-trusting-it/"><u>ChatGPT and Healthcare: 5 Essential Points You Should Consider Before Trusting It</u></a></li>
+<li><a href="https://techidaily.com/complete-tutorial-for-xiaomi-redmi-note-12-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Complete Tutorial for Xiaomi Redmi Note 12 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-installation-guide-for-broadcom-bluetooth-driver-in-various-versions-of-windows/"><u>Easy Installation Guide for Broadcom Bluetooth Driver in Various Versions of Windows</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-magnification-methods-for-ios-devices-for-2024/"><u>Ideal Magnification Methods for iOS Devices for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-capturing-the-web-in-motion-a-compact-list-of-leading-recorders/"><u>In 2024, Capturing the Web in Motion A Compact List of Leading Recorders</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-telltale-signs-your-chat-is-hidden/"><u>In 2024, Telltale Signs Your Chat Is Hidden</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/superior-zero-price-switch-emulators/"><u>Superior Zero Price Switch Emulators</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-most-trusted-free-open-source-video-meeting-solutions-for-companies-and-schools-for-2024/"><u>The Most Trusted Free, Open Source Video Meeting Solutions for Companies & Schools for 2024</u></a></li>
 </ul></div>
 

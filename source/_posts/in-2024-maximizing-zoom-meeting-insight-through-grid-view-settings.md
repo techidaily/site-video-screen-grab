@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Maximizing Zoom Meeting Insight Through Grid View Settings"
-date: 2024-08-09T20:48:36.416Z
-updated: 2024-08-10T20:48:36.416Z
+date: 2024-12-04T23:40:54.338Z
+updated: 2024-12-07T19:56:19.420Z
 tags: 
   - screen-recording
   - ai video
@@ -59,16 +59,21 @@ Use a slider to increase or decrease the number of participants you want to see.
 
 Google Meet apps don't support the change layout option. Thus, there are two approaches to enable the Grid view when participating in a Google Meet session through mobile phone. The following section will explain both methods in a simple step-by-step process. Let's have a look at both of them.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Join Meeting through phone's browser
 
 **Step 1: Enable desktop site**
 
 Click on the **three dots** and enable the **desktop site** option from the menu.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Google Meet mobile view all participants](https://images.wondershare.com/filmora/article-images/enable-desktop-site-google-meet-browser-mobile.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Change layout Enable tiled view to view up to 49 people at the same time**
 
@@ -77,8 +82,9 @@ Click on the **three dots** at the bottom right corner and select **change layou
 ![Google Meet change tiled view ](https://images.wondershare.com/filmora/article-images/change-google-meet-layout-tiled-view.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Ask someone else to share the screen
 
 Ask any other participant in the meeting to share the screen with tiled mode enabled.
@@ -95,10 +101,11 @@ Launch Chrome browser and access **chrome.google.com**. Click on **features** an
 
 Tap **add an extension** in the pop-up confirmation message. The installed extension will appear in the extension bar.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Google Meet view all extension ](https://images.wondershare.com/filmora/article-images/install-google-meet-grid-view-extension.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2 : Create or join a meeting room in a Google Meet**
 
@@ -110,14 +117,12 @@ Click on the **extension** at the top right of the screen corner and tick the **
 
 **Note:** You can configure the grid view setting and choose to tick any option you prefer. Options include only show participants with video, highlight speakers, etc.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-extension.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Part 4: How to Fix Google Meet Grid View Not Working Issue?
 
 By default, Google Meet Tiled View will let you view 49 participants simultaneously. Google Meet Grid View extension has proved to be a blessing for meeting hosts and participants of the Google Meet session. However, many Google Meet users have reported issues with the working of Google Meet Grid View recently. We have a quick fix for you if you encounter issues while using or enabling the Grid View. Let's follow the step-by-step guide below.
@@ -132,18 +137,16 @@ Open Google Chrome and click on the **three dots** at the top right corner. Choo
 
 **Note:** Also, check whether the extension is installed or not. If it is available, try re-installing it. If it is still not visible, update Google chrome.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/google-meet-grid-view-extension-developer-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3 : Check the working in Google Meet**
 
 Click **new meeting** in the Google Meet. **Tap enable grid view** when you want to see all participants in the meeting.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-troubleshooting.jpg)
 
 ### Frequently Asked Questions About See Everyone on Google Meet
@@ -172,12 +175,30 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-capturing-the-web-in-full-color-the-best-screen-recorders-reviewed-for-2024/"><u>[New] Capturing the Web in Full Color The Best Screen Recorders Reviewed for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-exploring-screen-recording-tools-beyond-apowersoft/"><u>[New] Exploring Screen Recording Tools Beyond Apowersoft</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-liberty-cam-studios-features-and-functionality/"><u>[New] In 2024, Liberty Cam Studio's Features and Functionality</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamer-struggle-navigating-the-waters-between-obs-and-twitch-for-2024/"><u>[New] Streamer Struggle Navigating the Waters Between OBS & Twitch for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-transform-your-streams-adopting-these-four-recording-approaches-for-2024/"><u>[New] Transform Your Streams Adopting These Four Recording Approaches for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-essential-tips-to-avoid-obs-framing-errors-for-2024/"><u>[Updated] Essential Tips to Avoid OBS Framing Errors for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/apple-tv-4k-immersive-ultra-hd-viewing-enhanced-by-siris-smart-handling-features-reviewed/"><u>Apple TV 4K - Immersive Ultra HD Viewing Enhanced by Siri's Smart Handling Features Reviewed!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209839104-csgo-crash-woes-heres-how-you-can-achieve-a-smooth-gaming-experience/"><u>CS:GO Crash Woes? Here's How You Can Achieve a Smooth Gaming Experience</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/hassle-free-webinar-logging-tips-for-pc-and-mac-enthusiasts-for-2024/"><u>Hassle-Free Webinar Logging Tips for PC & Mac Enthusiasts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-elite-remote-meeting-apps-beyond-zoom/"><u>In 2024, Elite Remote Meeting Apps Beyond Zoom</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-rethinking-top-movies-7-swap-selections/"><u>In 2024, Rethinking Top Movies - #7 Swap Selections</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Samsung Galaxy A54 5G | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-labor-day-sale-secure-your-home-with-25-discount-on-blink-mini-2-the-ultimate-camera-offer/"><u>Top Labor Day Sale: Secure Your Home with 25% Discount on Blink Mini 2 - The Ultimate Camera Offer</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/undo-livestream-progress-with-twitch-tricks-for-2024/"><u>Undo Livestream Progress with Twitch Tricks for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/what-is-net-neutrality-breaking-down-the-basics/"><u>What Is Net Neutrality? Breaking Down the Basics</u></a></li>
+</ul></div>
 

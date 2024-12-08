@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Dual-Screen Playback Recording\""
-date: 2024-08-09T20:57:12.863Z
-updated: 2024-08-10T20:57:12.863Z
+date: 2024-12-05T03:03:39.621Z
+updated: 2024-12-08T02:40:08.606Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
 # How to Record Multiple Monitors
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -35,8 +32,9 @@ If you would like to capture footage from multiple monitors, but you are not sur
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -52,19 +50,25 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Record Multiple Monitors
 
 The first step towards setting up a screencasting session with multiple displays is to make sure that the monitors are properly connected to your laptop or desktop computer. Each external monitor will display identical images when turned on, but in order to move software windows between the two screens, you'll have to enable the 'Extend These Displays' option. The actual steps you'll need to take may vary, depending on the computer and the OS you are using, and we are going to show you how to extend displays on Windows 8 or later.
 
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -105,14 +109,12 @@ In case that you want to record your secondary monitor, we recommend you to try 
 * Able to Record Computer Audio And Voice Over
 * Splendid Annotations, Cursor Effects and Editing Features
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 Max Wales
@@ -121,11 +123,33 @@ Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
       data-ad-slot="8358498916"
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-how-to-avoid-and-reverse-strikes-on-your-youtube-account/"><u>[New] 2024 Approved How to Avoid and Reverse Strikes on Your YouTube Account</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-ideal-plot-crafting-platform/"><u>[New] 2024 Approved Ideal Plot Crafting Platform</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-comprehensive-guide-to-ice-cream-watching-tools/"><u>[New] Comprehensive Guide to Ice Cream Watching Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-cutting-edge-tech-analysis-the-best-screen-recorder-roundup/"><u>[New] Cutting Edge Tech Analysis The Best Screen Recorder Roundup</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-selecting-excellent-backgrounds-for-video-calls/"><u>[New] In 2024, Selecting Excellent Backgrounds for Video Calls</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-loom-reel-detailed-guide-to-screen-capture/"><u>[New] In 2024, The Loom Reel Detailed Guide to Screen Capture</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-explore-the-potential-of-photos-through-radial-distortion-techniques-ps/"><u>[Updated] 2024 Approved Explore the Potential of Photos Through Radial Distortion Techniques PS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-from-novice-to-pro-a-complete-exploration-of-zd-software-recording-features-for-2024/"><u>[Updated] From Novice to Pro A Complete Exploration of ZD Software Recording Features for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capturing-ps4-gaming-magic-in-full-detail-using-obs/"><u>[Updated] In 2024, Capturing PS4 Gaming Magic in Full Detail Using OBS</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-choosing-an-original-channel-moniker-a-guide-for-filmmakers-with-filmora/"><u>[Updated] In 2024, Choosing an Original Channel Moniker A Guide for Filmmakers with Filmora</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ios-leading-edge-5-exceptional-psp-game-tools/"><u>[Updated] In 2024, IOS Leading Edge 5 Exceptional PSP Game Tools</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-discover-the-latest-upgrades-chatgptplus-integration-with-googles-gemini-offering-new-ai-powered-conversations-for-enhanced-user-experience/"><u>1. Discover the Latest Upgrades: ChatGPT+ Integration with Google's Gemini, Offering New AI-Powered Conversations for Enhanced User Experience</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-innovative-screen-recorder-alternatives-for-gamers/"><u>2024 Approved Innovative Screen Recorder Alternatives for Gamers</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-leading-tech-for-remote-team-engagement/"><u>2024 Approved Leading Tech for Remote Team Engagement</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-diagnose-and-repair-error-code-0xc0000005-in-windows/"><u>How to Diagnose and Repair Error Code 0Xc0000005 in Windows</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-visionary-verdicts-expert-picks-for-the-top-10-cameras/"><u>In 2024, Visionary Verdicts Expert Picks for the Top 10 Cameras</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/making-your-mark-with-video-content-in-captivate/"><u>Making Your Mark with Video Content in Captivate</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-fcpx-video-editing-how-to-crop-and-resize-images-like-a-pro/"><u>New 2024 Approved FCPX Video Editing How to Crop and Resize Images Like a Pro</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/risoluzione-guida-come-correggere-il-problema-di-backup-del-server-windows-quando-la-funzionalita-fallisce/"><u>Risoluzione Guida: Come Correggere Il Problema Di Backup Del Server Windows Quando La Funzionalità Fallisce</u></a></li>
+</ul></div>
+

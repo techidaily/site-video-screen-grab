@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Discovering One-Platform Play in Apex Legends Without Cross-Play Complications\""
-date: 2024-08-09T20:50:42.926Z
-updated: 2024-08-10T20:50:42.926Z
+date: 2024-12-07T01:18:05.733Z
+updated: 2024-12-07T23:50:04.690Z
 tags: 
   - screen-recording
   - ai video
@@ -39,9 +39,6 @@ In this article, all of the questions above will be answered. No doubt, we have 
 
 Apex Legends Gameplay Basics:
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-gameplay.jpg)
 
 In this battle royal game, you are a part of a 3-person squad. There are 14 playable characters to choose from, and they are called legends in the game. If you compare all legends, you will find that they are equal in strength, speed, and firepower. It's their special abilities that make them different from each other. Every character has a unique ability that can help you in-game to leverage other players. So, you can choose a legend that suits your playstyle and is a perfect fit for your squad.
@@ -52,9 +49,6 @@ There is a ring around the battleground that shrinks after fixed short intervals
 
 One thing that you must keep in mind while playing this game is that killing an opponent is a bit longer than other FPS (First Person Shooting) games. To kill an opponent, you may need to rely on several headshots, your legends' unique ability, and the support of your teammates.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Although this game is free of cost, it offers several in-game purchases. You can purchase Apex Coins, which is an in-game currency. ![](https://images.wondershare.com/filmora/article-images/Apex-ingame-purchase.jpg)
 
 You can use it to purchase loot boxes that contain skins and costumes. There are two locked characters in the game also, and you need to purchase them with Apex coins. So, you can get the maximum out of this game by spending some money and giving time to this game.
@@ -71,9 +65,6 @@ Firstly, crossplay is enabled by default. Assume now you're playing apex on PS4/
 
 Step1, to disable it, you need to go to the setting button at the lobby's right bottom, as shown below.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ape-setting1](https://images.wondershare.com/filmora/article-images/apex-setting1.png)
 
 Step 2, under the gameplay tab, scroll down, and you can find cross-platform play.![apex-setting2](https://images.wondershare.com/filmora/article-images/apex-setting2.png)
@@ -100,25 +91,16 @@ If you want to get Apex's best experience on Xbox consoles, you should play it o
 
 **Sony PlayStation 4**
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/Apex-ps4.png)You can also play Apex Legends on Sony PlayStation 4\. Although you can play it on the standard PS4, if you want to get the best gaming experience, then you should play it on PS4 Pro. On PS4, you need to have a PlayStation Plus subscription if you want to play online multiplayer games, but in the case of Apex Legends, you do not need it.
 
 **Sony PlayStation 5**
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ps5-poster](https://images.wondershare.com/filmora/article-images/ps5-poster.png)
 
 Sony PlayStation 5 is a next-generation console, and luckily Apex Legends is already playable on it. PS5 offers improved performance and better graphics as compared to its previous versions. If you were previously playing on PS4 and just switched to PS5, you can also retain all your progress and skins on PS5 also. You can use the same EA account and start enjoying Apex Legends on 1440p screen resolution.
 
 **PC**
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.wondershare.com/filmora/article-images/PC-apex.png)If you want to do competitive gaming in Apex Legends, then PC is the most suitable choice for you. It is because when you play using a mouse and keyboard instead of controllers, then your aim and movement are more precise. As it is an FPS category game, you can use a monitor with a high refresh rate to have smooth gameplay and reduce the lag. You must keep in mind that you need a PC with some good specs that can provide you with at least 60fps in the game. It would be best if you aim for a PC that can provide you maximum fps. 120 is the most recommended figure here.
 
 PC Requirements For Apex Legends:
@@ -162,8 +144,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -171,5 +151,25 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-pursuing-perfection-on-track-compiling-top-5-simulators/"><u>[New] In 2024, Pursuing Perfection on Track Compiling Top 5 Simulators</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-innovative-alternatives-for-affordable-camera-screenshots/"><u>[New] Innovative Alternatives for Affordable Camera Screenshots</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-perfect-meeting-aesthetics-how-to-blur-video-backgrounds/"><u>[New] Perfect Meeting Aesthetics How to Blur Video Backgrounds</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-the-easy-route-to-capturing-every-gameplay-moment-for-2024/"><u>[New] The Easy Route to Capturing Every Gameplay Moment for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-simplifying-screen-record-functions-on-iphone-7/"><u>[Updated] 2024 Approved Simplifying Screen Record Functions on iPhone 7</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-uncharted-mmo-adventures-ranking-the-10-best-free-games/"><u>[Updated] 2024 Approved Uncharted MMO Adventures Ranking the 10 Best Free Games</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-rescue-hidden-fb-watch-icon/"><u>[Updated] Rescue Hidden FB Watch Icon</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-swiftly-secure-screen-shots-on-windows/"><u>[Updated] Swiftly Secure Screen Shots on Windows</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-validating-your-visual-story-on-instagram-for-2024/"><u>[Updated] Validating Your Visual Story on Instagram for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-exclusive-selection-of-fastest-screen-capture-apps/"><u>2024 Approved Exclusive Selection of Fastest Screen Capture Apps</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/a-complete-guide-to-oem-unlocking-on-realme-c55-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Realme C55</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-s17t-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on S17t</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-15-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 15 Pro without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-depth-look-at-the-gecata-game-capture-tool/"><u>In-Depth Look at the Gecata Game Capture Tool</u></a></li>
+</ul></div>
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 

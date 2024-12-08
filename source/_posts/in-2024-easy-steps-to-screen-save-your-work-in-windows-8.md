@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Easy Steps to Screen Save Your Work in Windows 8"
-date: 2024-08-09T20:50:32.027Z
-updated: 2024-08-10T20:50:32.027Z
+date: 2024-12-02T16:54:50.000Z
+updated: 2024-12-07T19:31:44.807Z
 tags: 
   - screen-recording
   - ai video
@@ -44,32 +44,18 @@ In terms of what videos you can import and edit etc. On its newest release of Fi
 
  **Step 1:**  Download & Install the programme. Once opened on the upper left corner of the interface you will notice a record button, click this. Here you can either record from webcam or record computer screen.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora record screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
  **Step 2:**  Select what recording mode you want, what audio output, drag the icon to choose what are you want to record. Choose more options bottom right if necessary. Including implementing hotkeys
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![filmora recording mode](https://images.wondershare.com/filmora/guide/recording-05.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Step 3:**  Click record icon. If you think it's OK. Stop recording. Video is automatically saved to the software timeline for you to edit and save.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2: How to Record Screen with Steps Recorder on Windows 8
 
 If you don't want to download any software, the build-in Step Recorder is a tool that you can use. However, the recorded outcome is the exact steps, not video, so if you want to have video, just skip this part, and go to next part on Windows 8.
@@ -80,11 +66,12 @@ If you don't want to download any software, the build-in Step Recorder is a tool
 
 ![step recorder](https://images.wondershare.com/filmora/article-images/record-steps-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3**: If you want finished, select **Stop Record**. The recorder file is a zip folder on Windows 8.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Use Free Chrome Extension
 
 [Awesome Screenshot](https://chrome.google.com/webstore/detail/awesome-screenshot-screen/nlipoenfbbikpbjkfpfillcgkoblgpmj?hl=en) is a service that works via Google Chrome and is very much one of the top rated screen capture & image annotation tools available to the public.
@@ -93,9 +80,6 @@ They have done something for their user base in the form of removing all in-app 
 
 Due to the fact that it is a Google Chrome extension it is for capturing web pages - any part of a web page at that. From comments and annotations, to blurring sensitive information it can all be done with extension.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![awesome-screenshot](https://images.wondershare.com/filmora/article-images/awesome-screenshot.jpg)
 
 Steps to download and use it to record computer screen:
@@ -107,6 +91,10 @@ Steps to download and use it to record computer screen:
  **Step 3:**  Annotate & Edit - You can add comments, shapes and annotate how you like, you can then edit the video and share a screenshot to social media.
 
  **Step 4:**  Save & Share - Save to your local disk, once uploaded to the Awesome Screenshot website they will provide a shareable link.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Use Free Recording Software
 
@@ -120,14 +108,19 @@ Here's the stpes:
 
  **Step 2:**  Click capture screen button (Make sure you have applied the settings you need). Stop recording when ready - Automatically saves to timeline
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ezvid record screen](https://images.wondershare.com/filmora/article-images/record-videos-ezvid.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Step 3:**  Edit the video. You can add marks, lines and color to highlight the area that you think it is important.
 
  **Step 4:**  Save & Upload - The software has an upload to YouTube button. Clik upload diectly to share your recorded video to YouTube.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -141,8 +134,6 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -150,5 +141,24 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-elite-e-learning-platforms-beyond-udemy-explored/"><u>[New] 2024 Approved Elite E-Learning Platforms Beyond Udemy Explored</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-intuitive-methods-documenting-your-google-voice-chats/"><u>[New] 2024 Approved Intuitive Methods Documenting Your Google Voice Chats</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-chronicles-of-youtube-the-ultimate-viral-list-for-2024/"><u>[New] Chronicles of YouTube The Ultimate Viral List for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ro-youtuber-essentials-studio-choice-over-beta-alternative-for-2024/"><u>[New] Pro YouTuber Essentials Studio Choice Over Beta Alternative for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-complete-handbook-for-saving-movies-on-desktop-laptop-and-android-for-2024/"><u>[New] The Complete Handbook for Saving Movies on Desktop, Laptop & Android for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-from-slides-to-screens-easy-recording-techniques/"><u>[Updated] From Slides to Screens Easy Recording Techniques</u></a></li>
+<li><a href="https://techtrends.techidaily.com/a-beginners-manual-to-elevate-your-portraits-expert-advice-on-using-selfie-flash-lights/"><u>A Beginner's Manual to Elevate Your Portraits: Expert Advice on Using Selfie Flash Lights</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/convert-and-download-audio-files-for-free-supporting-multiple-formats-like-mka-wav-via-movavis-user-friendly-tool/"><u>Convert & Download Audio Files for Free: Supporting Multiple Formats Like MKA, WAV via Movavi's User-Friendly Tool</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/expert-tips-boosting-efficiency-in-screen-recording-using-mobizen-for-2024/"><u>Expert Tips Boosting Efficiency in Screen Recording Using Mobizen for 2024</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/galaxys-most-entertaining-urban-project-mars-city-construction-sparks-cosmic-twisters/"><u>Galaxy's Most Entertaining Urban Project: Mars City Construction Sparks Cosmic Twisters</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-6-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-upgrade-or-downgrade-iphone-15-pro-without-losing-anything-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Upgrade or Downgrade iPhone 15 Pro Without Losing Anything? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-anything-from-samsung-galaxy-f04-to-apple-tv-drfone-by-drfone-android/"><u>In 2024, How To Stream Anything From Samsung Galaxy F04 to Apple TV | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/professional-video-demos-harnessing-captivates-power-for-2024/"><u>Professional Video Demos Harnessing Captivate's Power for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/screen-capture-without-a-penny-the-top-apps-reviewed/"><u>Screen Capture Without a Penny The Top Apps Reviewed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-quality-no-cost-desktop-recording-the-best-apps-list-for-2024/"><u>Top Quality, No Cost Desktop Recording The Best Apps List for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-web-woes-7-simple-solutions-for-site-shutdown-syndrome/"><u>Windows Web Woes? 7 Simple Solutions for Site Shutdown Syndrome</u></a></li>
+</ul></div>
 

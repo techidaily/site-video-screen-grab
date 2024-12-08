@@ -1,7 +1,7 @@
 ---
 title: "In 2024, Fullscreen Image of Page Layout"
-date: 2024-08-09T20:49:07.348Z
-updated: 2024-08-10T20:49:07.348Z
+date: 2024-12-04T16:49:19.730Z
+updated: 2024-12-07T21:50:32.106Z
 tags: 
   - screen-recording
   - ai video
@@ -37,6 +37,10 @@ On the other hand, The Internet contains such a vast amount of information, that
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -52,10 +56,11 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg) Secure Download
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 1: Taking Screenshots of an Entire Page on Windows Using The Hotkeys
 
@@ -66,35 +71,31 @@ Most frequently used web browsers such as Google Chrome or Mozilla Firefox, offe
 Once the printing dialogue box appears on the screen you'll be able to preview the pages of the document, adjust the printing options and select the file format. Click on the **Change** icon and select the **Microsoft XPS Document Writer**, if you are using Google Chrome to create a new document that contains the entire page. You can also create a PDF file, but this file format may include the ads or other overlaying elements on the web page. When done, click on the Print icon to save the document to the desired location on your hard drive.
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 2: Zooming Out the Page for Full-Screen Webpage Screenshots
 
 If you'd like to avoid producing several screenshots that you'll later have to combine into a single image or a document, you can simply hold the **CTRL and -** keys on Windows or **Command - on** a Mac OS to zoom out the page and fit it into a screen.
 
 To capture the resized screen, simply hold the **PrintScreen** button on your keyboard and the image will instantly be saved to the clipboard. Afterward, you have to paste the screenshot to a new document in any graphics editor, using the **CTRL and V** buttons. The **Cmd + Shift + 4** keyboard shortcut will enable you to take quick screenshots on a Mac computer, while the **Command + 0** will reset the browser to normal view.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Capturing Screenshots With Browser Extensions
 
 Built-in screen capturing options on Windows and Mac offer only a limited amount of features and for that reason installing the browser extensions that enable you to capture scroll web pages may be a better option. Here are some of the best extensions for taking screenshots of full pages.
 
 #### 1\. Nimbus Screenshot
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Full Page Screenshot](https://images.wondershare.com/filmora/article-images/nimbusweb-full-page-screenshot.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 This is a free and easy to use add-on that is compatible with Google Chrome, Firefox and Opera browsers. Nimbus enables you to freely designate the region of the screen you'd like to capture and to even perform basic video editing tasks such as blurring the private info in the screenshot.
 
 #### 2\. Screenshot Webpages
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Full Page Screenshot](https://images.wondershare.com/filmora/article-images/screenshot-webpage-full-page-screenshot.jpg)
 
 The Google Chrome extension lets you choose which type of screenshot you want to take, so you can take a screenshot of an entire web page in just a few simple steps. You can also add text, edit the pictures or insert annotations to each screenshot you take.
@@ -125,9 +126,6 @@ Stand-alone software products that enable its users to take screenshots of entir
 
 Taking full page screenshots on a Mac computer is made much simpler by [Paparazzi!](https://derailer.org/paparazzi/) app since you can capture a web page in only a few simple steps. Paparazzi allow you to set up a delay, so you can choose how many seconds before capture. You can download it free of charge, but its photo editing options are far from impressive.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Full Page Screenshot](https://images.wondershare.com/filmora/article-images/snagit.jpg)
 
 The TechSmith's Snagit software provides a simple way to capture any scrolling window on your computer. Just click on the **Capture** icon located in the software's **All-in-one** tab and go ahead to drag the crosshairs and designate the region of the screen you'd like to capture.
@@ -142,13 +140,15 @@ Leave a comment below and let us know which method of capturing full page screen
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -157,5 +157,24 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-master-of-mayhem-top-10-roguelites/"><u>[New] 2024 Approved Master of Mayhem Top 10 Roguelites</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-superior-video-editor-the-vimeo-edition/"><u>[New] 2024 Approved Superior Video Editor The Vimeo Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-the-creme-de-la-creme-of-fps-games-7/"><u>[New] In 2024, The Crème De La Créme of FPS Games (7)</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-elevating-posts-how-to-trend-on-social-media/"><u>[Updated] 2024 Approved Elevating Posts How to Trend on Social Media</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-time-management-for-weekly-video-conferencing-sessions/"><u>[Updated] 2024 Approved Time Management for Weekly Video Conferencing Sessions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-inspiring-abodes-for-minifigure-residences/"><u>[Updated] In 2024, Inspiring Abodes for Minifigure Residences</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-dangers-of-buying-fake-youtube-subscribers/"><u>[Updated] The Dangers of Buying Fake YouTube Subscribers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-zooming-in-on-sound-excellence-techniques-for-top-tier-quality-for-2024/"><u>[Updated] Zooming In on Sound Excellence Techniques for Top-Tier Quality for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ideal-echo-reapers-in-colleges/"><u>2024 Approved Ideal Echo Reapers in Colleges</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/bass-brilliance-new-device-overview-for-2024/"><u>Bass Brilliance New Device Overview for 2024</u></a></li>
+<li><a href="https://win-community.techidaily.com/chrome/"><u>Chromeのダウンロードファイルはなぜ自動的に消去されますか?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-motorola-moto-g24-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Motorola Moto G24?</u></a></li>
+<li><a href="https://win-dash.techidaily.com/install-newest-reliable-wireless-card-drivers-now/"><u>Install Newest Reliable Wireless Card Drivers Now</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ize-view-count-best-yt-thumbnail-sizes-for-2024/"><u>Maximize View Count Best YT Thumbnail Sizes for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/professional-360-streaming-tech-reviews/"><u>Professional 360° Streaming Tech Reviews</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/sync-your-mac-visuals-with-acoustic-backup/"><u>Sync Your Mac Visuals with Acoustic Backup</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-mac-users-rejoice-the-ultimate-gopro-video-editing-guide/"><u>Updated Mac Users Rejoice The Ultimate GoPro Video Editing Guide</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Dungeons Deep & Deeper  Old School and Hybrid Games\""
-date: 2024-08-09T20:51:00.073Z
-updated: 2024-08-10T20:51:00.073Z
+date: 2024-12-04T05:07:06.536Z
+updated: 2024-12-08T01:37:31.561Z
 tags: 
   - screen-recording
   - ai video
@@ -27,9 +27,6 @@ thumbnail: https://thmb.techidaily.com/f060aa48894ea1b017bf8a4af8da622e4076e35a6
 
 Game developers and designers have experimented with a variety of video game genres across the years. None, however, have been stretched as far as roguelikes and roguelites. You've probably heard these terms used to describe recent hit games such as _Hades_, _Dead Cells,_ and _Binding of Isaac_ and have wondered if there's a difference. While both of these game types share a lot of common elements and the lines between them are seemingly blurred, there is a clear distinction between roguelikes and roguelites.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![isaac-poster](https://images.wondershare.com/filmora/article-images/isaac-poster.jpg)
 
 ---
@@ -42,11 +39,19 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
 
@@ -54,14 +59,15 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
@@ -88,8 +94,9 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Roguelike Games
 
 For this list, we're using the "true" definition of roguelike, meaning games that are almost exactly like _Rogue_.
@@ -110,9 +117,6 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Roguelite Games
 
 For this genre, we've chosen three games that are completely different to illustrate the wider variety of titles that exists within the roguelite space.
@@ -121,27 +125,22 @@ For this genre, we've chosen three games that are completely different to illust
 
 _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) with roguelite elements. Just like all _Rogue_\-based games, dying in _Dead Cells_ means you start over from the beginning. However, not **all progress** is lost. As you progress through various biomes of the game, you'll unlock new traversal abilities that allow you to access new biomes and pathways. While some randomness exists in each biome, it feels less like levels are procedurally generated and more like a mixing of pre-determined layout components. You'll also stumble upon blueprints for items which you can then spend Cells you gather to make the items available to drop in future runs. By beating the game's final boss you can unlock progressively harder difficulties, making the game increasingly more brutal.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
 #### Slay the Spire
 
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Hades
 
 Nominated for a Game of the Year award, _Hades_ is a beloved title that has converted many gamers to the roguelite genre. Your aim in the game, as the son of Hades, is to escape the Ancient Greek hell and ascend to the top of Olympus with the rest of the pantheon. The gameplay is fast-paced action hack-and-slash but it's in a top-down perspective which makes it feel a lot closer to _Rogue_ than other games in the genre. It also has a lot of elements that are randomized, including the location of helpful shops. Your build will also feel wildly different between runs as even the Gods that appear to power you up are random as well as the abilities they offer you to choose from.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/mirror-hades.png)
 
 **Bonus:** With thousand of effects, Filmora X help you record your gameplay and edit it into nice montage.
@@ -156,8 +155,6 @@ Ollie Mattison is a writer and a lover of all things video.
 
 Follow @Ollie Mattison
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -165,5 +162,20 @@ Follow @Ollie Mattison
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-canva-creative-editor-exploration-for-2024/"><u>[New] Canva Creative Editor Exploration for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-crafting-powerful-narratives-with-these-30-video-plans/"><u>[New] Crafting Powerful Narratives with These 30 Video Plans</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-10plus-best-free-online-screen-recorders/"><u>[New] Top 10+ Best Free Online Screen Recorders</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-disable-auto-record-with-one-click-on-quicktime-for-2024/"><u>[Updated] Disable Auto-Record with One Click on QuickTime for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-freezing-your-window-windows-screenshoting-guide/"><u>[Updated] Freezing Your Window Windows Screenshoting Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-x-professional-studio-for-windows/"><u>[Updated] X-Professional Studio for Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-youtube-fundamentals-made-simple-top-8-learning-resources/"><u>[Updated] YouTube Fundamentals Made Simple Top 8 Learning Resources</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-mastering-video-backgrounds-teammeeting-blurring-guide/"><u>2024 Approved Mastering Video Backgrounds TeamMeeting Blurring Guide</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-vividscreen-record-pro-win-10/"><u>2024 Approved VividScreen Record Pro (Win 10)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/from-the-inside-out-engaging-100-self-affirming-instagram-captions/"><u>From the Inside Out Engaging 100 Self-Affirming Instagram Captions</u></a></li>
+<li><a href="https://article-helps.techidaily.com/from-timeless-tales-in-tone-on-tone-to-dynamic-digital-narratives-for-2024/"><u>From Timeless Tales in Tone-On-Tone to Dynamic Digital Narratives for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-fixing-obss-full-screen-freeze-up/"><u>In 2024, Fixing OBS's Full-Screen Freeze Up</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-step-by-step-breakdown-hassle-free-ios-device-recordings/"><u>In 2024, Step-by-Step Breakdown Hassle-Free iOS Device Recordings</u></a></li>
+</ul></div>
 

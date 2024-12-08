@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Recording Your iPhone/iPad  What's New\""
-date: 2024-11-24T18:06:25.827Z
-updated: 2024-11-28T22:29:42.455Z
+date: 2024-12-04T23:28:07.457Z
+updated: 2024-12-08T03:48:15.542Z
 tags: 
   - screen-recording
   - ai video
@@ -44,32 +44,36 @@ So, in this article, we will show you how to record your iPhone/iPad screen whet
 
 ![ios 11](https://images.wondershare.com/filmora/ios11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    1. Open the Control Center by swiping up from the bottom of your iPhone/iPad.
 
 ![ios screen recording ](https://images.wondershare.com/filmora/article-images/ios-screen-recording.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Tap the screen recording icon that looks like a solid circle enclosed in another circle. And you will see the start recording option and a microphone button. If you want to record the microphone audio, then tap it to turn on the microphone. Then, tap on Start Recording to start.
 
 ![ ios screen recording ](https://images.wondershare.com/filmora/article-images/ios-screen-recording-start.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 1. The video recording will start after a 3-second delay and the recording button will turn red. A notification will also appear on the top indicating recording time.
 2. After you are done recording, open the control center again and tap on the screen recorder button again. Alternatively, you can also tap on the red notification on the top of your screen and tap Stop at the prompt.
 
 ![iPhone/iPad screen recorder](https://images.wondershare.com/filmora/ios%20stop.JPG)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 1. This will stop the screen recording and the recorded video will be saved in the Photos app.
 
 That's the steps of how to record your iPhone screen in iOS 11 and later versions. If you want to edit the recorded video with some video editing apps, do not miss [the top 10 best video editors for iPhone and iPad](https://tools.techidaily.com/wondershare/filmora/download/).
 
 If your iOS device is running a previous version older than iOS 11, and you do not want to update, then you can record your iPhone screen with some best screen recorders for iOS, or record with QuickTime. In the following section, we will show you how to do it.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Use [QuickTime](https://support.apple.com/quicktime) to Record Screens of iPhone/iPad (Version Before iOS 11)
 
@@ -80,10 +84,6 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 1\. Connect your iOS device (iPhone/iPad/iPod touch) to your Mac with a USB cable.
 
 ![quicktime](https://images.wondershare.com/filmora/quicktime%20logo.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 2\. Launch QuickTime on your Mac available in the application folder.
 
@@ -99,10 +99,6 @@ With QuickTime media player you could record your iPhone/iPad’s Screen. For re
 
 ![quicktime screen recorder](https://images.wondershare.com/filmora/quicktime%20iphone.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 7\. To stop the recording of the screen of your iOS device, click on the Stop button at the video recorder window.
 
 8\. If you want to edit the video, you can do it in QuickTime (for basic editing). You can also save the recorded video first and then edit it later. You can directly save it as it is in QuickTime by going to File Menu and clicking on save option.
@@ -116,10 +112,14 @@ iPhone/iPad screen recorder is a very useful tool when you want to record tutori
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Shanoon Cox
 
@@ -136,22 +136,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-beginners-guide-to-screen-recording-for-dell-computers-for-2024/"><u>[New] Beginner's Guide to Screen Recording for Dell Computers for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-epic-martial-arts-arcade-classics-revisited/"><u>[New] Epic Martial Arts Arcade Classics Revisited</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-exclusive-guide-to-premium-win-11-webcam-systems-for-2024/"><u>[New] Exclusive Guide to Premium Win 11 Webcam Systems for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-expertly-selected-8-recording-software-for-2024/"><u>[New] Expertly Selected 8 Recording Software for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-explore-the-finest-moba-games-for-android/"><u>[New] Explore the Finest MOBA Games for Android</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-how-to-proficiently-use-a-switch-pro-controller-on-steam-for-2024/"><u>[New] How to Proficiently Use a Switch Pro Controller on Steam for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unleashing-potential-pilots-choice-top-10-drone-must-haves/"><u>[New] Unleashing Potential Pilot's Choice - Top 10 Drone Must-Haves</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-step-by-step-guide-establishing-your-first-youtube-profile/"><u>[Updated] 2024 Approved Step-by-Step Guide Establishing Your First YouTube Profile</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/2024-approved-5-podcast-apps-for-iphone/"><u>2024 Approved 5 Podcast Apps for iPhone</u></a></li>
-<li><a href="https://facebook.techidaily.com/beginners-blueprints-for-breezing-through-message-rooms/"><u>Beginners' Blueprints for Breezing Through Message Rooms</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/comprehensive-guide-to-gps-enabled-ipad-tablets/"><u>Comprehensive Guide to GPS-Enabled iPad Tablets</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-screen-mirroring-honor-x50-drfone-by-drfone-android/"><u>In 2024, How to Screen Mirroring Honor X50? | Dr.fone</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-unveiling-the-role-of-emotions-in-executive-choices-a-neuroscientific-perspective/"><u>In 2024, Unveiling the Role of Emotions in Executive Choices A Neuroscientific Perspective</u></a></li>
-<li><a href="https://windows11.techidaily.com/master-plain-text-and-mouse-jump-methods-in-powertoys/"><u>Master Plain Text & Mouse Jump Methods in PowerToys</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/obs-studio-edge-top-5-video-enhancements-unveiled-for-2024/"><u>OBS Studio Edge Top 5 Video Enhancements Unveiled for 2024</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/streamline-creative-processes-efficiently-adding-text-to-videos-with-microsoft-photos/"><u>Streamline Creative Processes Efficiently Adding Text to Videos with Microsoft Photos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-quest-for-perfect-playback-aps4-capturing-essentials-for-enthusiasts-for-2024/"><u>The Quest for Perfect Playback APS4 Capturing Essentials for Enthusiasts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-flexicam-soft-cam-covering-pad-for-2024/"><u>[New] FlexiCam Soft Cam Covering Pad for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-easy-methods-flipping-film-frames-using-vlc/"><u>[New] In 2024, Easy Methods Flipping Film Frames Using VLC</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-momentfreeze-immediate-screen-grab-guide-for-2024/"><u>[New] MomentFreeze Immediate Screen Grab Guide for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ubscription-sensation-top-10-youtube-personalities-by-counts-for-2024/"><u>[New] Subscription Sensation Top 10 YouTube Personalities by Counts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-capture-winning-with-mov-files-on-your-windows-system/"><u>[Updated] 2024 Approved Capture Winning with MOV Files on Your Windows System</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-starlight-strategies-dos-and-donts-for-perfect-nightscape-portraits/"><u>[Updated] 2024 Approved Starlight Strategies Do's & Don'ts for Perfect Nightscape Portraits</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-dashboard-directions-entering-google-meet-pcmobile/"><u>[Updated] Dashboard Directions Entering Google Meet (PC/Mobile)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1716069413934-updated-how-to-manual-for-creating-an-inclusive-and-productive-skype-chat-room-accessible-by-both-windows-and-mac-users-for-2024/"><u>[Updated] How-To Manual for Creating an Inclusive and Productive Skype Chat Room Accessible by Both Windows & Mac Users. For 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-imagination-to-shares-mastering-metaverse-memes/"><u>2024 Approved From Imagination to Shares Mastering Metaverse Memes</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/customizing-and-simplifying-the-macos-sonoma-menu-bar-a-step-by-step-guide/"><u>Customizing & Simplifying the MacOS Sonoma Menu Bar: A Step-by-Step Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/dual-display-dynamics-video-recorder-rankings/"><u>Dual Display Dynamics Video Recorder Rankings</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/enhance-your-online-presence-with-manycam-top-notch-virtual-webcam-and-recording-tools/"><u>Enhance Your Online Presence with ManyCam: Top-Notch Virtual Webcam and Recording Tools</u></a></li>
+<li><a href="https://games-able.techidaily.com/evaluating-the-nintendo-switch-online-upgrade/"><u>Evaluating the Nintendo Switch Online Upgrade</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-turn-off-find-my-iphone-15-pro-max-when-phone-is-broken-by-drfone-ios/"><u>In 2024, How to Turn Off Find My iPhone 15 Pro Max when Phone is Broken?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-watch-hulu-outside-us-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Watch Hulu Outside US On Vivo X100 Pro | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/streamlining-windows-app-problem-solving-with-7-actions/"><u>Streamlining Windows App Problem-Solving with 7 Actions</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-troubleshooting-tips-reconfiguring-your-samsung-tv/"><u>Ultimate Troubleshooting Tips: Reconfiguring Your Samsung TV</u></a></li>
 </ul></div>
 

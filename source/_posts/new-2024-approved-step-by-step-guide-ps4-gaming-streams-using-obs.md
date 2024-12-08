@@ -1,7 +1,7 @@
 ---
 title: "\"[New] 2024 Approved  Step-by-Step Guide  PS4 Gaming Streams Using OBS\""
-date: 2024-11-27T19:58:20.338Z
-updated: 2024-11-28T19:45:48.105Z
+date: 2024-12-05T21:20:26.813Z
+updated: 2024-12-07T18:29:09.389Z
 tags: 
   - screen-recording
   - ai video
@@ -42,7 +42,7 @@ Step 1: Download and install OBS Studio on your computer from”obsproject.com�
 ![install and launch](https://images.wondershare.com/filmora/article-images/install-and-launch.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2: Download and install PS4 Remote Play application from “remoteplay.dl.playstation.net/remoteplay” as per your operating system.
@@ -55,157 +55,9 @@ Step 3: Connect your PS4 to your computer and launch PS4 Remote Play. Sign in wi
 
 ![remote play sign in your account](https://images.wondershare.com/filmora/article-images/remote-play-sign-in-your-account.jpg)
 
-Step 4: Launch the game you want to play and make sure that PS4 is working with the game.
-
-Step 5: Launch OBS Studio now. From Sources tab located at the bottom, click on “+” icon. Select Display Capture so that you can record your screen while playing the video game with PS4 on your computer.
-
-![obs launch display cature](https://images.wondershare.com/filmora/article-images/obs-launch-display-cature.jpg)
-
-Step 6: You can go to Settings under Controls tab and go to Video tab to ensure all the configuration parameters are perfectly set.
-
-Step 7: When you are ready, click on Start Recording button under Controls tab. Switch to your game and start playing with PS4\. The recording is going on in the background.
-
-![obs start streaming](https://images.wondershare.com/filmora/article-images/obs-start-streaming.jpg)
-
-Step 8: Once you are done playing, come back to OBS and click on Stop Recording button.
-
-## 2\. OBS Alternative To Record Gameplay
-
-There are various reasons why users look for OBS alternative and ready to switch over to a premium software. OBS Studio does not have a clean user interface. Due to loads of features and functionalities, the user interface is complicated and the learning curve is steep.
-
-Besides, many users have reported that OBS crashes when they start to record video games with PS4 connected. Moreover, OBS is not suitable for capturing high-end games as well as for low-configuration system as it requires heavy CPU resource.
-
-As an alternative PS4 OBS is [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). You will find many popular video creators using Filmora to [record screen](https://tools.techidaily.com/wondershare/filmora/download/), gameplay, webcam overlay. Besides, it is a professional video editor and you can add video and audio effects, edit as per requirements, and publish an attention-grabbing video on video streaming platforms. Here are the steps you need to take to record gameplay when you are playing on PS4.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Wondershare Filmora. Filmora is available for Windows and Mac.
-
-Step 2: Open Filmora and click on PC Screen option to record your gameplay that you play on your computer with PS4.
-
-![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-
-Step 3: Select the recording screen size. For gameplay recording, full screen is preferable. You can select the external microphone if you want to record your live commentary. Make sure the system audio is correctly selected so that the game audio is captured. You can turn on Record the Camera Stream option if you want webcam as overlay.
-
-![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
-
-Step 4: Once you are ready, click on Record button. You will get a few buffer seconds to switch to your game screen before the recording starts. To stop recording, you can press F9 key.
-
-You can then trim the video, add video effects and transitions, add audio effects, and export it in any desired file format.
-
-## Conclusion
-
-If you want to record your gameplay on your computer when you play with PS4, you need a video recorder. OBS Studio is a default choice and we have stated how to go for OBS studio PS4 in simple steps even though OBS’s user interface is complicated to use. If you want to capture gameplay while you play on your TV, you will need a capture card. If you are looking for OBS alternative, we recommend Wondershare Filmora where you can record and edit video like a pro.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-## 1\. How To Record PS4 with OBS?
-
-OBS is free-source software and it is completely free to use. Hence, you do not have to invest any money for OBS PS4 recording. Moreover, OBS Studio is available for Windows, Mac as well as Linux. Therefore, there is not going to be any compatibility issue. It is true that the user interface is slightly complicated and it takes time to get used to. That is why we will illustrate the steps to record PS4 games with OBS 60FPS for high-quality and smooth video.
-
-Step 1: Download and install OBS Studio on your computer from”obsproject.com” as per your operating system.
-
-![install and launch](https://images.wondershare.com/filmora/article-images/install-and-launch.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Step 2: Download and install PS4 Remote Play application from “remoteplay.dl.playstation.net/remoteplay” as per your operating system.
-
-![download and install ps4 remote play](https://images.wondershare.com/filmora/article-images/download-and-install-ps4-remote-play.jpg)
-
-PS4 Remote Play is responsible for connecting your PS4 to your computer so that you can control any game with PS4.
-
-Step 3: Connect your PS4 to your computer and launch PS4 Remote Play. Sign in with your PS4 account and go to Settings and make sure that the resolution is set high to better recording quality.
-
-![remote play sign in your account](https://images.wondershare.com/filmora/article-images/remote-play-sign-in-your-account.jpg)
-
-Step 4: Launch the game you want to play and make sure that PS4 is working with the game.
-
-Step 5: Launch OBS Studio now. From Sources tab located at the bottom, click on “+” icon. Select Display Capture so that you can record your screen while playing the video game with PS4 on your computer.
-
-![obs launch display cature](https://images.wondershare.com/filmora/article-images/obs-launch-display-cature.jpg)
-
-Step 6: You can go to Settings under Controls tab and go to Video tab to ensure all the configuration parameters are perfectly set.
-
-Step 7: When you are ready, click on Start Recording button under Controls tab. Switch to your game and start playing with PS4\. The recording is going on in the background.
-
-![obs start streaming](https://images.wondershare.com/filmora/article-images/obs-start-streaming.jpg)
-
-Step 8: Once you are done playing, come back to OBS and click on Stop Recording button.
-
-## 2\. OBS Alternative To Record Gameplay
-
-There are various reasons why users look for OBS alternative and ready to switch over to a premium software. OBS Studio does not have a clean user interface. Due to loads of features and functionalities, the user interface is complicated and the learning curve is steep.
-
-Besides, many users have reported that OBS crashes when they start to record video games with PS4 connected. Moreover, OBS is not suitable for capturing high-end games as well as for low-configuration system as it requires heavy CPU resource.
-
-As an alternative PS4 OBS is [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). You will find many popular video creators using Filmora to [record screen](https://tools.techidaily.com/wondershare/filmora/download/), gameplay, webcam overlay. Besides, it is a professional video editor and you can add video and audio effects, edit as per requirements, and publish an attention-grabbing video on video streaming platforms. Here are the steps you need to take to record gameplay when you are playing on PS4.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For Win 7 or later (64-bit)
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-For macOS 10.12 or later
-
-Step 1: Download and install Wondershare Filmora. Filmora is available for Windows and Mac.
-
-Step 2: Open Filmora and click on PC Screen option to record your gameplay that you play on your computer with PS4.
-
-![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-Step 3: Select the recording screen size. For gameplay recording, full screen is preferable. You can select the external microphone if you want to record your live commentary. Make sure the system audio is correctly selected so that the game audio is captured. You can turn on Record the Camera Stream option if you want webcam as overlay.
-
-![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
-
-Step 4: Once you are ready, click on Record button. You will get a few buffer seconds to switch to your game screen before the recording starts. To stop recording, you can press F9 key.
-
-You can then trim the video, add video effects and transitions, add audio effects, and export it in any desired file format.
-
-## Conclusion
-
-If you want to record your gameplay on your computer when you play with PS4, you need a video recorder. OBS Studio is a default choice and we have stated how to go for OBS studio PS4 in simple steps even though OBS’s user interface is complicated to use. If you want to capture gameplay while you play on your TV, you will need a capture card. If you are looking for OBS alternative, we recommend Wondershare Filmora where you can record and edit video like a pro.
-
-[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-## 1\. How To Record PS4 with OBS?
-
-OBS is free-source software and it is completely free to use. Hence, you do not have to invest any money for OBS PS4 recording. Moreover, OBS Studio is available for Windows, Mac as well as Linux. Therefore, there is not going to be any compatibility issue. It is true that the user interface is slightly complicated and it takes time to get used to. That is why we will illustrate the steps to record PS4 games with OBS 60FPS for high-quality and smooth video.
-
-Step 1: Download and install OBS Studio on your computer from”obsproject.com” as per your operating system.
-
-![install and launch](https://images.wondershare.com/filmora/article-images/install-and-launch.jpg)
-
-Step 2: Download and install PS4 Remote Play application from “remoteplay.dl.playstation.net/remoteplay” as per your operating system.
-
-![download and install ps4 remote play](https://images.wondershare.com/filmora/article-images/download-and-install-ps4-remote-play.jpg)
-
-PS4 Remote Play is responsible for connecting your PS4 to your computer so that you can control any game with PS4.
-
-Step 3: Connect your PS4 to your computer and launch PS4 Remote Play. Sign in with your PS4 account and go to Settings and make sure that the resolution is set high to better recording quality.
-
-![remote play sign in your account](https://images.wondershare.com/filmora/article-images/remote-play-sign-in-your-account.jpg)
 
 Step 4: Launch the game you want to play and make sure that PS4 is working with the game.
 
@@ -251,19 +103,11 @@ Step 4: Once you are ready, click on Record button. You will get a few buffer se
 
 You can then trim the video, add video effects and transitions, add audio effects, and export it in any desired file format.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Conclusion
 
 If you want to record your gameplay on your computer when you play with PS4, you need a video recorder. OBS Studio is a default choice and we have stated how to go for OBS studio PS4 in simple steps even though OBS’s user interface is complicated to use. If you want to capture gameplay while you play on your TV, you will need a capture card. If you are looking for OBS alternative, we recommend Wondershare Filmora where you can record and edit video like a pro.
 
 [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 1\. How To Record PS4 with OBS?
 
@@ -272,6 +116,10 @@ OBS is free-source software and it is completely free to use. Hence, you do not 
 Step 1: Download and install OBS Studio on your computer from”obsproject.com” as per your operating system.
 
 ![install and launch](https://images.wondershare.com/filmora/article-images/install-and-launch.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Download and install PS4 Remote Play application from “remoteplay.dl.playstation.net/remoteplay” as per your operating system.
 
@@ -290,7 +138,7 @@ Step 5: Launch OBS Studio now. From Sources tab located at the bottom, click on 
 ![obs launch display cature](https://images.wondershare.com/filmora/article-images/obs-launch-display-cature.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 6: You can go to Settings under Controls tab and go to Video tab to ensure all the configuration parameters are perfectly set.
@@ -300,7 +148,7 @@ Step 7: When you are ready, click on Start Recording button under Controls tab. 
 ![obs start streaming](https://images.wondershare.com/filmora/article-images/obs-start-streaming.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 8: Once you are done playing, come back to OBS and click on Stop Recording button.
@@ -327,8 +175,160 @@ Step 2: Open Filmora and click on PC Screen option to record your gameplay that 
 
 ![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
 
+Step 3: Select the recording screen size. For gameplay recording, full screen is preferable. You can select the external microphone if you want to record your live commentary. Make sure the system audio is correctly selected so that the game audio is captured. You can turn on Record the Camera Stream option if you want webcam as overlay.
+
+![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Step 4: Once you are ready, click on Record button. You will get a few buffer seconds to switch to your game screen before the recording starts. To stop recording, you can press F9 key.
+
+You can then trim the video, add video effects and transitions, add audio effects, and export it in any desired file format.
+
+## Conclusion
+
+If you want to record your gameplay on your computer when you play with PS4, you need a video recorder. OBS Studio is a default choice and we have stated how to go for OBS studio PS4 in simple steps even though OBS’s user interface is complicated to use. If you want to capture gameplay while you play on your TV, you will need a capture card. If you are looking for OBS alternative, we recommend Wondershare Filmora where you can record and edit video like a pro.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+## 1\. How To Record PS4 with OBS?
+
+OBS is free-source software and it is completely free to use. Hence, you do not have to invest any money for OBS PS4 recording. Moreover, OBS Studio is available for Windows, Mac as well as Linux. Therefore, there is not going to be any compatibility issue. It is true that the user interface is slightly complicated and it takes time to get used to. That is why we will illustrate the steps to record PS4 games with OBS 60FPS for high-quality and smooth video.
+
+Step 1: Download and install OBS Studio on your computer from”obsproject.com” as per your operating system.
+
+![install and launch](https://images.wondershare.com/filmora/article-images/install-and-launch.jpg)
+
+Step 2: Download and install PS4 Remote Play application from “remoteplay.dl.playstation.net/remoteplay” as per your operating system.
+
+![download and install ps4 remote play](https://images.wondershare.com/filmora/article-images/download-and-install-ps4-remote-play.jpg)
+
+PS4 Remote Play is responsible for connecting your PS4 to your computer so that you can control any game with PS4.
+
+Step 3: Connect your PS4 to your computer and launch PS4 Remote Play. Sign in with your PS4 account and go to Settings and make sure that the resolution is set high to better recording quality.
+
+![remote play sign in your account](https://images.wondershare.com/filmora/article-images/remote-play-sign-in-your-account.jpg)
+
+Step 4: Launch the game you want to play and make sure that PS4 is working with the game.
+
+Step 5: Launch OBS Studio now. From Sources tab located at the bottom, click on “+” icon. Select Display Capture so that you can record your screen while playing the video game with PS4 on your computer.
+
+![obs launch display cature](https://images.wondershare.com/filmora/article-images/obs-launch-display-cature.jpg)
+
+Step 6: You can go to Settings under Controls tab and go to Video tab to ensure all the configuration parameters are perfectly set.
+
+Step 7: When you are ready, click on Start Recording button under Controls tab. Switch to your game and start playing with PS4\. The recording is going on in the background.
+
+![obs start streaming](https://images.wondershare.com/filmora/article-images/obs-start-streaming.jpg)
+
+Step 8: Once you are done playing, come back to OBS and click on Stop Recording button.
+
+## 2\. OBS Alternative To Record Gameplay
+
+There are various reasons why users look for OBS alternative and ready to switch over to a premium software. OBS Studio does not have a clean user interface. Due to loads of features and functionalities, the user interface is complicated and the learning curve is steep.
+
+Besides, many users have reported that OBS crashes when they start to record video games with PS4 connected. Moreover, OBS is not suitable for capturing high-end games as well as for low-configuration system as it requires heavy CPU resource.
+
+As an alternative PS4 OBS is [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). You will find many popular video creators using Filmora to [record screen](https://tools.techidaily.com/wondershare/filmora/download/), gameplay, webcam overlay. Besides, it is a professional video editor and you can add video and audio effects, edit as per requirements, and publish an attention-grabbing video on video streaming platforms. Here are the steps you need to take to record gameplay when you are playing on PS4.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Wondershare Filmora. Filmora is available for Windows and Mac.
+
+Step 2: Open Filmora and click on PC Screen option to record your gameplay that you play on your computer with PS4.
+
+![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
+
+Step 3: Select the recording screen size. For gameplay recording, full screen is preferable. You can select the external microphone if you want to record your live commentary. Make sure the system audio is correctly selected so that the game audio is captured. You can turn on Record the Camera Stream option if you want webcam as overlay.
+
+![set audio](https://images.wondershare.com/filmora/article-images/set-audio.jpg)
+
+Step 4: Once you are ready, click on Record button. You will get a few buffer seconds to switch to your game screen before the recording starts. To stop recording, you can press F9 key.
+
+You can then trim the video, add video effects and transitions, add audio effects, and export it in any desired file format.
+
+## Conclusion
+
+If you want to record your gameplay on your computer when you play with PS4, you need a video recorder. OBS Studio is a default choice and we have stated how to go for OBS studio PS4 in simple steps even though OBS’s user interface is complicated to use. If you want to capture gameplay while you play on your TV, you will need a capture card. If you are looking for OBS alternative, we recommend Wondershare Filmora where you can record and edit video like a pro.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/) [Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 1\. How To Record PS4 with OBS?
+
+OBS is free-source software and it is completely free to use. Hence, you do not have to invest any money for OBS PS4 recording. Moreover, OBS Studio is available for Windows, Mac as well as Linux. Therefore, there is not going to be any compatibility issue. It is true that the user interface is slightly complicated and it takes time to get used to. That is why we will illustrate the steps to record PS4 games with OBS 60FPS for high-quality and smooth video.
+
+Step 1: Download and install OBS Studio on your computer from”obsproject.com” as per your operating system.
+
+![install and launch](https://images.wondershare.com/filmora/article-images/install-and-launch.jpg)
+
+Step 2: Download and install PS4 Remote Play application from “remoteplay.dl.playstation.net/remoteplay” as per your operating system.
+
+![download and install ps4 remote play](https://images.wondershare.com/filmora/article-images/download-and-install-ps4-remote-play.jpg)
+
+PS4 Remote Play is responsible for connecting your PS4 to your computer so that you can control any game with PS4.
+
+Step 3: Connect your PS4 to your computer and launch PS4 Remote Play. Sign in with your PS4 account and go to Settings and make sure that the resolution is set high to better recording quality.
+
+![remote play sign in your account](https://images.wondershare.com/filmora/article-images/remote-play-sign-in-your-account.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+Step 4: Launch the game you want to play and make sure that PS4 is working with the game.
+
+Step 5: Launch OBS Studio now. From Sources tab located at the bottom, click on “+” icon. Select Display Capture so that you can record your screen while playing the video game with PS4 on your computer.
+
+![obs launch display cature](https://images.wondershare.com/filmora/article-images/obs-launch-display-cature.jpg)
+
+Step 6: You can go to Settings under Controls tab and go to Video tab to ensure all the configuration parameters are perfectly set.
+
+Step 7: When you are ready, click on Start Recording button under Controls tab. Switch to your game and start playing with PS4\. The recording is going on in the background.
+
+![obs start streaming](https://images.wondershare.com/filmora/article-images/obs-start-streaming.jpg)
+
+Step 8: Once you are done playing, come back to OBS and click on Stop Recording button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+## 2\. OBS Alternative To Record Gameplay
+
+There are various reasons why users look for OBS alternative and ready to switch over to a premium software. OBS Studio does not have a clean user interface. Due to loads of features and functionalities, the user interface is complicated and the learning curve is steep.
+
+Besides, many users have reported that OBS crashes when they start to record video games with PS4 connected. Moreover, OBS is not suitable for capturing high-end games as well as for low-configuration system as it requires heavy CPU resource.
+
+As an alternative PS4 OBS is [Wondershare Filmora](https://tools.techidaily.com/wondershare/filmora/download/). You will find many popular video creators using Filmora to [record screen](https://tools.techidaily.com/wondershare/filmora/download/), gameplay, webcam overlay. Besides, it is a professional video editor and you can add video and audio effects, edit as per requirements, and publish an attention-grabbing video on video streaming platforms. Here are the steps you need to take to record gameplay when you are playing on PS4.
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For Win 7 or later (64-bit)
+
+[Try It Free](https://tools.techidaily.com/wondershare/filmora/download/)
+
+For macOS 10.12 or later
+
+Step 1: Download and install Wondershare Filmora. Filmora is available for Windows and Mac.
+
+Step 2: Open Filmora and click on PC Screen option to record your gameplay that you play on your computer with PS4.
+
+![pc screen](https://images.wondershare.com/filmora/article-images/pc-screen.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Select the recording screen size. For gameplay recording, full screen is preferable. You can select the external microphone if you want to record your live commentary. Make sure the system audio is correctly selected so that the game audio is captured. You can turn on Record the Camera Stream option if you want webcam as overlay.
@@ -367,22 +367,15 @@ If you want to record your gameplay on your computer when you play with PS4, you
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-in-2024-a-primer-on-using-azures-voice-to-text-service/"><u>[New] In 2024, A Primer on Using Azure's Voice-to-Text Service</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-your-essential-list-of-the-finest-ios-ps2-emulators/"><u>[New] In 2024, Your Essential List of the Finest iOS PS2 Emulators</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-az-screenscape-full-application-review-alternatives/"><u>[Updated] 2024 Approved AZ Screenscape Full Application Review, Alternatives</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ultimate-guide-to-the-best-high-res-capture-software/"><u>[Updated] In 2024, Ultimate Guide to the Best High-Res Capture Software</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-sneak-peeks-stealthy-video-capture-techniques/"><u>[Updated] Sneak Peeks Stealthy Video Capture Techniques</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/updated-the-social-media-revolution-a-side-by-side-look-at-tiktok-and-snapchats-features-for-2024/"><u>[Updated] The Social Media Revolution A Side-By-Side Look at TikTok and Snapchat's Features for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-your-go-to-list-for-immersive-sandboxes-for-2024/"><u>[Updated] Your Go-To List for Immersive Sandboxes for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/how-to-artfully-diminish-image-details-for-2024/"><u>How to Artfully Diminish Image Details for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-expert-video-capture-maximizing-performance-with-logitech-webcam-tech/"><u>In 2024, Expert Video Capture Maximizing Performance with Logitech Webcam Tech</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-pioneering-digital-storytelling-youtubes-filmmaking-pathway/"><u>In 2024, Pioneering Digital Storytelling YouTube's Filmmaking Pathway</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/leading-cellular-reception-enhancers-reviewed-2024s-ultimate-selection/"><u>Leading Cellular Reception Enhancers Reviewed - 2024'S Ultimate Selection</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/microsoft-mouse-driver-update-procedure-for-windows-users/"><u>Microsoft Mouse Driver Update Procedure for Windows Users</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/2028048-9781782799511-opening-love/"><u>Opening Love | Free Book</u></a></li>
-<li><a href="https://common-error.techidaily.com/overcome-google-chrome-stalling-is-it-time-for-a-fresh-start/"><u>Overcome Google Chrome Stalling: Is It Time for a Fresh Start?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/quicksnap-hd-pro-logging-kit/"><u>QuickSnap HD Pro Logging Kit</u></a></li>
-<li><a href="https://article-tips.techidaily.com/ultimate-sextuple-of-full-frame-hd-innovations-for-2024/"><u>Ultimate Sextuple of Full Frame HD Innovations for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/up-to-date-techniques-for-screenshotting-idevices-for-2024/"><u>Up-to-Date Techniques for Screenshotting iDevices for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-farming-fiesta-with-pals-the-ultimate-agritainment-guide/"><u>[New] 2024 Approved Farming Fiesta with Pals The Ultimate Agritainment Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-step-by-step-setting-up-your-business-youtube-channel-on-mobile/"><u>[New] 2024 Approved Step-by-Step Setting Up Your Business YouTube Channel on Mobile</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-streamlabs-rival-tools-unveiled/"><u>[New] 2024 Approved Streamlabs' Rival Tools Unveiled</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-hangout-history-capture-and-keep/"><u>[Updated] Hangout History Capture & Keep</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-leveraging-modern-ios-features-for-seamless-task-management-for-2024/"><u>[Updated] Leveraging Modern iOS Features for Seamless Task Management for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unleash-speed-prime-biking-games-list-for-2024/"><u>[Updated] Unleash Speed Prime Biking Games List for 2024</u></a></li>
+<li><a href="https://sound-tweaking.techidaily.com/2024-approved-enhance-visual-storytelling-techniques-for-seamless-audio-integration-in-adobe-after-effects/"><u>2024 Approved Enhance Visual Storytelling Techniques for Seamless Audio Integration in Adobe After Effects</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-how-to-amplify-your-online-presence-with-google-meets-aesthetic-tools/"><u>2024 Approved How to Amplify Your Online Presence with Google Meet's Aesthetic Tools</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-solution-overcoming-cannot-connect-to-microsoft-exchange-message-in-outlook/"><u>Expert Solution: Overcoming 'Cannot Connect to Microsoft Exchange' Message in Outlook</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-content-warning-in-voice-chat/"><u>Troubleshooting Steps: Resolving 'Content Warning' In Voice Chat</u></a></li>
 </ul></div>
 

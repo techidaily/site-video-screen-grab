@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Step-by-Step  Capturing Your Roblox Journeys on a Mac\""
-date: 2024-11-22T19:07:54.713Z
-updated: 2024-11-28T22:11:21.775Z
+date: 2024-12-04T20:20:24.172Z
+updated: 2024-12-08T01:33:04.145Z
 tags: 
   - screen-recording
   - ai video
@@ -45,6 +45,10 @@ Select the system audio properly. If you want to add your voice and live comment
 
 ![filmora recording settings](https://images.wondershare.com/filmora/guide/recording-05.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Once you are ready with Roblox, click on Record button to start recording. When your gameplay is over, press F9 key to stop recording. You can edit and export in the desired file format.
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
@@ -85,11 +89,11 @@ Step 4: Click on Start Recording button under Controls tab and switch to Roblox 
 
 ![obs click on start recording button](https://images.wondershare.com/filmora/article-images/obs-click-on-start-recording-button.jpg)
 
-Step 5: To stop recording, go back to OBS Studio. Click on Stop Recording under Controls.
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+Step 5: To stop recording, go back to OBS Studio. Click on Stop Recording under Controls.
 
 ## Way 4\. Use QuickTime Player
 
@@ -115,9 +119,17 @@ Step 1: Open VLC Media Player. Go to Media > Convert/Save option.
 
 ![vlc screen recorder](https://images.wondershare.com/filmora/article-images/vlc-screen-recorder.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2: Click on Capture Device tab. Make Capture Mode to Desktop.
 
 ![vlc capture device tab](https://images.wondershare.com/filmora/article-images/vlc-capture-device-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Go to Destination section, click on Browser button. Select the destination folder and file name.
 
@@ -165,10 +177,6 @@ Step 4: To stop recording, press Esc and go to Record tab. Click on Stop Recordi
 
 ![roblox esc stop](https://images.wondershare.com/filmora/article-images/roblox-esc-stop.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Way 3\. Use OBS Studio
 
 OBS Studio is a completely free software that is available for all desktop operating systems. Most gamers use OBS Studio for live streaming their gameplay on online platforms. You can capture your Roblox gameplay with OBS Studio as well. Not just your gameplay, you can capture webcam video and audio from an external mic. You can also switch between multiple scenes to make the video more interesting. Here are the steps to record Roblox on MacBook using OBS Studio.
@@ -183,10 +191,6 @@ Step 3: You have to enter a name for Roblox gameplay capture session and click o
 
 ![obs click on ok button](https://images.wondershare.com/filmora/article-images/obs-click-on-ok-button.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4: Click on Start Recording button under Controls tab and switch to Roblox game and start playing. OBS will keep recording in the background.
 
 ![obs click on start recording button](https://images.wondershare.com/filmora/article-images/obs-click-on-start-recording-button.jpg)
@@ -200,6 +204,10 @@ MacBook comes with QuickTime Player pre-installed and it is the default media pl
 Step 1: From Applications folder, open QuickTime Player. Go to File> New Screen Recording option.
 
 ![quicktime player new screen recording](https://images.wondershare.com/filmora/article-images/quicktime-player-new-screen-recording.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2: Start your Roblox game and click on the Record button instantly from QuickTime widget.
 
@@ -220,6 +228,10 @@ Step 1: Open VLC Media Player. Go to Media > Convert/Save option.
 Step 2: Click on Capture Device tab. Make Capture Mode to Desktop.
 
 ![vlc capture device tab](https://images.wondershare.com/filmora/article-images/vlc-capture-device-tab.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 3: Go to Destination section, click on Browser button. Select the destination folder and file name.
 
@@ -250,7 +262,7 @@ Step 3: Once you are ready with Roblox, click on Record button to start recordin
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 2\. Roblox Built-in Recorder
@@ -323,6 +335,10 @@ Step 3: Go to Destination section, click on Browser button. Select the destinati
 
 ![vlc destination section](https://images.wondershare.com/filmora/article-images/vlc-destination-section.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 4: To start recording, click on Start button. The screen will show controls to stop recording.
 
 ## Conclusion
@@ -347,10 +363,6 @@ Step 3: Once you are ready with Roblox, click on Record button to start recordin
 
 ![export the project](https://images.wondershare.com/filmora/article-images/export-the-project.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Way 2\. Roblox Built-in Recorder
 
 If you do not want to install any third-party application on your Mac, you can use Roblox built-in screen recorder. However, the recorder is not a great one and users have reported performance degradation while recording on Roblox. Hence, user Roblox users opt for an alternative. If you are going to record your gameplay only once or very rarely, Roblox built-in recorder will serve the purpose perfectly. Here are the steps to follow.
@@ -363,10 +375,6 @@ Step 3: Under Record tab, click on Record Video button to start recording.
 
 ![roblox built-in recorder](https://images.wondershare.com/filmora/article-images/roblox-built-in-recorder.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 You will see a thin red border around the screen that indicates that the recording is going on.
 
 Step 4: To stop recording, press Esc and go to Record tab. Click on Stop Recording button.
@@ -374,7 +382,7 @@ Step 4: To stop recording, press Esc and go to Record tab. Click on Stop Recordi
 ![roblox esc stop](https://images.wondershare.com/filmora/article-images/roblox-esc-stop.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Way 3\. Use OBS Studio
@@ -386,10 +394,6 @@ Step 1: Download and install OBS Studio for Mac. Launch the software after insta
 Step 2: Under Sources tab and click on “+” icon. Select Display Capture option.
 
 ![obs display capture](https://images.wondershare.com/filmora/article-images/obs-display-capture.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: You have to enter a name for Roblox gameplay capture session and click on Ok button.
 
@@ -430,16 +434,12 @@ Step 2: Click on Capture Device tab. Make Capture Mode to Desktop.
 ![vlc capture device tab](https://images.wondershare.com/filmora/article-images/vlc-capture-device-tab.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3: Go to Destination section, click on Browser button. Select the destination folder and file name.
 
 ![vlc destination section](https://images.wondershare.com/filmora/article-images/vlc-destination-section.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4: To start recording, click on Start button. The screen will show controls to stop recording.
 
@@ -471,18 +471,24 @@ We have how to record Roblox gameplay on Mac in all the possible ways. You can u
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-streamlined-ways-to-document-your-videos/"><u>[New] 2024 Approved Streamlined Ways to Document Your Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-perfect-playback-top-strategies-for-gameplay-videos/"><u>[New] 2024 Approved The Perfect Playback Top Strategies for Gameplay Videos</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-2024-approved-the-roadmap-to-becoming-an-excellent-interviewer/"><u>[New] 2024 Approved The Roadmap To Becoming An Excellent Interviewer</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-navigating-the-world-of-online-video-conferencing/"><u>[Updated] In 2024, Navigating the World of Online Video Conferencing</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-pro-free-photo-workspace-discover-the-best-editing-suites/"><u>[Updated] Pro Free Photo Workspace Discover the Best Editing Suites</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-unveiling-8-leading-cost-effective-open-source-video-solutions-for-2024/"><u>[Updated] Unveiling 8 Leading Cost-Effective Open Source Video Solutions for 2024</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/2024-approved-lullaby-videos-a-study-on-sleep-inducing-stories/"><u>2024 Approved Lullaby Videos A Study on Sleep-Inducing Stories</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-uncover-the-past-your-complete-guide-to-digitizing-and-preserving-old-photographs/"><u>2024 Approved Uncover the Past Your Complete Guide to Digitizing & Preserving Old Photographs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/capturing-every-frame-a-deep-dive-into-apowersoft-for-pcs-for-2024/"><u>Capturing Every Frame A Deep Dive Into Apowersoft for PCs for 2024</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-detect-and-stop-mspy-from-spying-on-your-honor-80-pro-straight-screen-edition-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Stop mSpy from Spying on Your Honor 80 Pro Straight Screen Edition | Dr.fone</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/in-2024-how-to-enable-disable-and-change-safari-location-on-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Enable, Disable, and Change Safari Location on Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/include-stage-directions-such-as-lighting-changes-and-dancer-interactions-to-enhance-the-performance/"><u>Include Stage Directions Such as Lighting Changes and Dancer Interactions to Enhance the Performance;</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-x-passcode-without-a-computer-drfone-by-drfone-ios/"><u>Unlocking iPhone X Passcode without a Computer | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-economic-options-in-panoramic-recording-equipment/"><u>[New] 2024 Approved Economic Options in Panoramic Recording Equipment</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-revolutionize-your-online-audio-with-these-5-methods/"><u>[New] 2024 Approved Revolutionize Your Online Audio with These 5 Methods</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-easily-stream-facebook-live-chats-with-roku-for-2024/"><u>[New] Easily Stream Facebook Live Chats with Roku for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-high-quality-fast-downloaders-for-vimeo-content/"><u>[New] In 2024, High-Quality, Fast Downloaders for Vimeo Content</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-prime-face-editing-tools-for-iphones-and-samsungs/"><u>[New] Prime Face-Editing Tools for iPhones and Samsungs</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-tiktok-and-beyond-unveiling-the-best-books-for-todays-reader-for-2024/"><u>[New] TikTok and Beyond Unveiling the Best Books for Today's Reader for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-6-clearcut-android-recorder-options-no-ads-for-2024/"><u>[New] Top 6 Clearcut Android Recorder Options (No Ads) for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unmissable-video-capturing-discover-top-5-tools-now/"><u>[New] Unmissable Video Capturing - Discover Top 5 Tools Now</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-2024-approved-acquiring-free-music-youtube-video-edition/"><u>[Updated] 2024 Approved Acquiring Free Music YouTube Video Edition</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-conquering-viewersphere-channels-that-rule-the-net/"><u>[Updated] 2024 Approved Conquering Viewersphere Channels that Rule the Net</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-fixed-camera-resumes-with-obs/"><u>[Updated] 2024 Approved Fixed Camera Resumes with OBS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-smooth-operations-boosting-memory-allocation-to-minecraft/"><u>[Updated] 2024 Approved Smooth Operations Boosting Memory Allocation to Minecraft</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-essential-free-tools-perfecting-your-video-calls-for-2024/"><u>[Updated] Essential Free Tools Perfecting Your Video Calls for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-following-fades-track-losses-on-insta/"><u>[Updated] Following Fades Track Losses on Insta</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-frozen-delight-ice-cream-cam-and-comprehensive-tutorial/"><u>[Updated] In 2024, Frozen Delight Ice Cream Cam & Comprehensive Tutorial</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-master-the-art-of-professional-webcam-filming/"><u>[Updated] Master the Art of Professional Webcam Filming</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-infinix-smart-8-plus-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Infinix Smart 8 Plus? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y100-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Vivo Y100 | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unraveling-sharex-professional-perspectives-and-picks/"><u>Unraveling ShareX Professional Perspectives & Picks</u></a></li>
 </ul></div>
 
