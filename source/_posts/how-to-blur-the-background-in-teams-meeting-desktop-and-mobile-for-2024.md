@@ -1,7 +1,7 @@
 ---
 title: "How to Blur the Background in Teams Meeting? [Desktop & Mobile] for 2024"
-date: 2024-08-09T20:53:04.122Z
-updated: 2024-08-10T20:53:04.122Z
+date: 2024-12-08T03:45:51.187Z
+updated: 2024-12-14T02:31:16.213Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/ef75e54c89ead83bf0af102804bf50f616e622b6f
 
 # How to Blur the Background in Teams Meeting? \[Desktop & Mobile\]
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 ##### Richard Bennett
@@ -48,6 +45,10 @@ Microsoft Teams allows you to blur the background of the webcam footage before y
 
 The following sections explain **how to blur the background on Teams** both before and during a video call while working on a Windows laptop. The step-by-step instructions are given below:
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Blur Background on Teams Before Video Call
 
 If you have a meeting scheduled at a particular time but don’t know what to do with that homely background that wouldn’t go with the professional ambiance, luckily Microsoft Teams lets you blur it quite conveniently. The process is described as follows:
@@ -56,34 +57,26 @@ If you have a meeting scheduled at a particular time but don’t know what to do
 
 Launch Microsoft Teams, and make sure that the **Chat** icon is selected in the left pane. From the top of the **Chat** pane, click the **New Meeting** (**Camcorder**) icon, and click **Start meeting**.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Start Microsoft Teams video call on Windows laptop](https://images.wondershare.com/filmora/article-images/start-video-call-teams.jpg)
 
 **Step 2: Check the Devices**
 
 On the **Meeting with** box, make sure that the **Video** and **Audio** switches present under the preview screen are enabled. Turn them on if they’re disabled. Next, click the **Background effects** (**Person**) icon from under the preview screen.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![  Microsoft Teams background blur](https://images.wondershare.com/filmora/article-images/microsoft-teams-blur-background-option.jpg)
 
 **Step 3: Blur the Background before video call starts**
 
 From the **Background settings** pane that appears next, and click to select the **Blur** tile. After this, you can safely click the **Join now** button to start a Teams video meeting with the blurred background.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![  Microsoft Teams background blur](https://images.wondershare.com/filmora/article-images/blur-video-background-microsoft-teams.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note:** While using other operating systems/laptops like Linux, Chromebook, etc., the process of blurring the background before a video call is identical. This means all you need to do is, initiate a new video meeting, click the **Background effects** (**Person**) icon from under the preview screen, and select the **Blur** tile before clicking the **Join now** button.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Blur Background on Teams During Video Call
 
 If you started or joined a Teams meeting without blurring the background, and want to do so during an ongoing call, you can follow the instructions given below to learn **how to blur background in Teams** while in a virtual conference session:
@@ -92,10 +85,11 @@ If you started or joined a Teams meeting without blurring the background, and wa
 
 During an ongoing video call, click **More actions** from the upper-right area of the meeting window, and click **Apply background effects** from the menu that comes down.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![  blur background during Microsoft Teams](https://images.wondershare.com/filmora/article-images/apply-background-effects-microsoft-teams.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Blur Background during the video call**
 
@@ -106,6 +100,10 @@ When the **Background settings** pane opens on the right of the window, click to
 From the bottom of the **Background settings** pane, click **Apply** to blur the background. Optionally, you can click **Preview** to see how the screen would look upon blurring, and apply the changes only when you are satisfied with the output.
 
 ![  blur background during Microsoft Teams](https://images.wondershare.com/filmora/article-images/blur-microsoft-teams-video-background-during-meeting.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Blur Background on Teams on a MacBook Pro Before or During a Video Call?
 
@@ -131,9 +129,6 @@ On the **Meeting with** box, from under the preview screen, turn on the **Video*
 
 Once the above configurations are done, click **Join now** from under the preview screen to start or join a new video call with the blurred background.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Blur Background on Teams During a Video Call
 
 In addition to blurring the background before initiating a video call, even the Mac version of Microsoft Teams lets you get this done when you are in the middle of an ongoing meeting session as well. The process is given below:
@@ -146,27 +141,12 @@ Use the method explained earlier to get to the **Meeting with** screen, and clic
 
 During a video call, click the **More actions** icon from the top-right area of the screen, and click **Apply background effects** from the menu that comes down next.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Microsoft Teams Mac apply  background effect](https://images.wondershare.com/filmora/article-images/apply-background-effect-blur-on-microsoft-teams-mac.jpg)
 
 **Step 3: Blur the Background during a video call on Mac**
 
 When the **Background settings** pane appears on the left, click to select the **Blur** tile, and click **Apply** from the bottom of the pane. Optionally, you can also click **Preview** from the bottom to see how would the blurred background look to the attendees before applying the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ Microsoft Teams Mac blur background during call](https://images.wondershare.com/filmora/article-images/blur-background-during-teams-video-call-mac.jpg)
 
 ## Part 3: How to Blur Background in Teams Mobile App Before or During a Video Call?
@@ -177,16 +157,21 @@ At the time of this writing, the Microsoft Teams mobile app allows you to change
 
 Launch Microsoft Teams on your iPhone or iPad, ensure that the **Chat** icon is selected from the bottom of the interface, tap the **Instant meeting** (**Camcorder**) icon from the top-right corner of the screen, and tap **Start meeting** from the bottom of the box that appears next.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![start Microsoft Teams  call on iPhone](https://images.wondershare.com/filmora/article-images/start-video-call-teams-iphone.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 2: Get to the Background Effects Screen**
 
 On the next screen, tap to enable both **Video** and **Audio** functions from the bottom, tap the **More actions** icon, and then tap **Background effects** from the box that comes up.
 
 ![ blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/microsoft-teams-iphone-background-effects.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Step 3: Blur the Background**
 
@@ -195,8 +180,9 @@ On the **Select background** screen, tap **Blur** from the options available in 
 ![ blur Microsoft Teams  background on iPhone](https://images.wondershare.com/filmora/article-images/blur-teams-video-call-background-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## FAQs about Blur Teams Meeting Background
 
 **Q1) Why can’t I blur my background in Microsoft Teams?**
@@ -224,11 +210,19 @@ Import your video to Filmora track, and then go to Effects – Utility, you will
 
 ![ blur Microsoft Teams  video background with Filmora ](https://images.wondershare.com/filmora/article-images/tilt-shift-circle-effect-blur-background.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Double click the video in the timeline, and go to video effect, here you can adjust the intensity, position, and size.
 
 What’s more, if you want to [remove the background and replace it with a new one](https://tools.techidaily.com/wondershare/filmora/download/), you can try the Human Segmentation under AI Portrait. This feature works even the background is not a green screen.
 
 ![ remove and change  Microsoft Teams  video background in  Filmora ](https://images.wondershare.com/filmora/article-images/remove-change-teams-video-background.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Check the video below to find out more creative usage of the Human Segmentation effect:
 
@@ -242,8 +236,6 @@ Richard Bennett is a writer and a lover of all things video.
 
 Follow @Richard Bennett
 
-
-
 <ins class="adsbygoogle"
       style="display:block"
       data-ad-client="ca-pub-7571918770474297"
@@ -251,5 +243,21 @@ Follow @Richard Bennett
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-optimizing-fb-techniques-for-shooting-and-posting-360-vids-for-2024/"><u>[New] Optimizing FB Techniques for Shooting & Posting 360 Vids for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/updated-2024-approved-optimizing-your-fb-video-upload-journey-from-pc-plus-android/"><u>[Updated] 2024 Approved Optimizing Your FB Video Upload Journey From PC + Android</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-exploring-mac-best-sniping-tools-ranked/"><u>2024 Approved Exploring Mac Best Sniping Tools Ranked</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-exploring-the-full-potential-of-obs-screen-capture/"><u>2024 Approved Exploring the Full Potential of OBS Screen Capture</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-optimizing-your-rl-gameplay-videos/"><u>2024 Approved Optimizing Your RL Gameplay Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-securing-conversation-logs-how-to-store-mb-chats-and-calls-safely/"><u>2024 Approved Securing Conversation Logs How to Store MB Chats and Calls Safely</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-unlocking-potential-switch-pro-controller-on-steam/"><u>2024 Approved Unlocking Potential Switch Pro Controller on Steam</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-step-by-step-plan-to-transform-your-online-biography/"><u>A Step-by-Step Plan to Transform Your Online Biography</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/enhance-oculus-vr-experience-with-multilingual-mondly-feature/"><u>Enhance Oculus VR Experience with Multilingual Mondly Feature</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/exploring-the-risks-can-ai-like-chatgpt-be-co-opted-into-crafting-cyber-threats/"><u>Exploring the Risks: Can AI Like ChatGPT Be Co-Opted Into Crafting Cyber Threats?</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-it-vivo-t2x-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Vivo T2x 5G Wont Turn On | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/questioning-zerogpts-credibility-tech-tools-under-fire/"><u>Questioning ZeroGPT's Credibility: Tech Tools Under Fire</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211237121-9798989316212-the-essential-manifesting-guidebook/"><u>The Essential Manifesting Guidebook | Free Book</u></a></li>
+<li><a href="https://win-updates.techidaily.com/top-5-essential-tactics-to-fortify-your-gmail-security-against-cyber-attacks/"><u>Top 5 Essential Tactics to Fortify Your Gmail Security Against Cyber Attacks</u></a></li>
+</ul></div>
 

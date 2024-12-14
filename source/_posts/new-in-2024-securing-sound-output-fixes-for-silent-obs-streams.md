@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Securing Sound Output  Fixes for Silent OBS Streams\""
-date: 2024-12-07T03:13:40.220Z
-updated: 2024-12-07T21:59:48.539Z
+date: 2024-12-08T18:38:36.686Z
+updated: 2024-12-13T22:23:12.967Z
 tags: 
   - screen-recording
   - ai video
@@ -42,7 +42,7 @@ While using OBS studio, the users might experience the difficulties of OBS not c
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
@@ -66,7 +66,7 @@ If OBS Studio is muted in the Volume Mixer, no doubt you won’t hear any deskto
 ![unmute obs](https://images.wondershare.com/filmora/article-images/unmute-obs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **4\. Check the sound settings**
@@ -79,6 +79,10 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **5\. Remove Other Programs for Audio Control**
 
 Try recording with your speakers as the default playback device instead of headphones. To accomplish it, right-click the Speakers system tray icon and choose Open Sound settings.
@@ -88,10 +92,6 @@ Try recording with your speakers as the default playback device instead of headp
 * Select the Set Default option and click the Apply button.
 
 ![audio control](https://images.wondershare.com/filmora/article-images/audio-control.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### **6\. Update your audio driver**
 
@@ -103,7 +103,7 @@ If the Desktop Audio stopped recording after the Windows Driver update, you may 
 ![update your audio driver](https://images.wondershare.com/filmora/article-images/update-your-audio-driver.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **7\. Reinstall OBS**
@@ -115,6 +115,10 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 * Click on OBS Studio and then pick “Uninstall”
 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
 
@@ -133,11 +137,7 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
@@ -162,17 +162,20 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-survival-in-shambles-selecting-the-top-8-zombie-classics-for-2024/"><u>[New] Survival in Shambles Selecting the Top 8 Zombie Classics for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-unlocking-earning-potential-with-youtube-shorts-crucial-elements-possible-returns/"><u>[New] Unlocking Earning Potential with Youtube Shorts Crucial Elements, Possible Returns</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-honorable-5-quicktime-frame-recorder/"><u>[Updated] Honorable 5 Quicktime Frame Recorder</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-pushing-boundaries-spotlight-on-top-6-digital-innovators/"><u>[Updated] Pushing Boundaries Spotlight on Top 6 Digital Innovators</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1-ultimate-guide-convert-your-dvd-collection-to-plex-with-simple-techniques/"><u>1. Ultimate Guide: Convert Your DVD Collection to Plex with Simple Techniques</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/handhinas-and-lenses-for-journey-shots-for-2024/"><u>Handhinas and Lenses for Journey Shots for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-complete-screencast-cheat-sheet-must-knows/"><u>In 2024, The Complete Screencast Cheat Sheet Must-Knows</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/obs-tutorial-for-instagram-live-streams-your-ultimate-reference/"><u>OBS Tutorial for Instagram Live Streams Your Ultimate Reference</u></a></li>
-<li><a href="https://extra-support.techidaily.com/optimal-net-vaults-free-unique-ringtone-choices-for-2024/"><u>Optimal Net Vaults Free, Unique Ringtone Choices for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/quick-setup-for-hosting-online-seminars-on-pcmac-for-2024/"><u>Quick Setup for Hosting Online Seminars on PC/Mac for 2024</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/211268448-9780997085051-the-happy-human-playbook/"><u>The Happy Human Playbook | Free Book</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/virtual-reality-and-panoramic-videos-key-distinctions/"><u>Virtual Reality & Panoramic Videos Key Distinctions</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-2024-approved-moments-in-music-hot-20-rap-songs-dominating-tiktok/"><u>[New] 2024 Approved Moments in Music Hot 20 Rap Songs Dominating TikTok</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-proven-mac-imaging-comprerante-and-comparing-5-efficient-techniques/"><u>[New] 2024 Approved Proven Mac Imaging Comprerante & Comparing 5 Efficient Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-bestiary-of-ios-ps2-game-simulators-for-2024/"><u>[New] Bestiary of iOS PS2 Game Simulators for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-screen-recorder-pros-free-software-on-both-windows-and-macos-for-2024/"><u>[New] Screen Recorder Pros Free Software on Both Windows & MacOS for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-superior-group-multimedia-platforms/"><u>[Updated] 2024 Approved Superior Group Multimedia Platforms</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-50plus-best-text-effects-for-videographers/"><u>[Updated] 50+ Best Text Effects for Videographers</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-expand-your-horizons-with-these-elite-science-yts-for-2024/"><u>[Updated] Expand Your Horizons with These Elite Science YTs for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-achieve-success-in-twitch-top-5-livestream-strategies/"><u>[Updated] In 2024, Achieve Success in Twitch Top 5 Livestream Strategies</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-clearview-recorder-xtreme-win10/"><u>[Updated] In 2024, ClearView Recorder Xtreme (Win10)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-seamless-idevice-screen-saving-tricks/"><u>[Updated] Seamless iDevice Screen Saving Tricks</u></a></li>
+<li><a href="https://win-forum.techidaily.com/expert-advice-how-to-get-rid-of-superfluous-bloatware-for-a-streamlined-windows-experience/"><u>Expert Advice: How to Get Rid of Superfluous Bloatware for a Streamlined Windows Experience</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/from-silent-movies-to-sound-films-a-modern-tutorial-for-2024/"><u>From Silent Movies to Sound Films A Modern Tutorial for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/innovative-interactive-webinar-writer-for-2024/"><u>Innovative Interactive Webinar Writer for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-from-your-apple-iphone-13-mini-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock From your Apple iPhone 13 mini</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/the-increase-in-entropy-principle-has-profound-implications-on-the-arrow-of-time-and-why-we-perceive-time-as-moving-forward-it-defines-a-directionality-to-t648/"><u>The Increase in Entropy Principle Has Profound Implications on the Arrow of Time and Why We Perceive Time as Moving Forward; It Defines a Directionality to Thermodynamic Processes</u></a></li>
 </ul></div>
 

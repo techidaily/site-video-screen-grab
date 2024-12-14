@@ -1,7 +1,7 @@
 ---
 title: Master The Art of Smooth Gaming – Tips to Prevent Disco Elysium From Crashing
-date: 2024-12-05T16:35:50.570Z
-updated: 2024-12-07T20:27:30.543Z
+date: 2024-12-09T20:53:38.693Z
+updated: 2024-12-13T20:10:11.193Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 
  Fortunately, the fix is easy. If you’re experiencing the crashing issue during gameplay, follow the steps below and you should be able to run the game as flawlessly as is.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Fix Disco Elysium Crashes
 
  You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -38,7 +34,7 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 9. **[Run as administrator](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 1 – Restart your computer
@@ -47,10 +43,6 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 
  But if your game keeps crashing even after the restart, try the next solution below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2 – Disconnect peripherals
 
  Your peripherals, especially gaming accessories, often run with 3rd party software that controls them. In some cases, the software may not be compatible with your game and prevent it from running correctly.
@@ -58,7 +50,7 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
  If you have multiple peripherals hooked up to your computer, try disconnecting them to find out if any is causing trouble for you.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 3 – Update your graphics driver
@@ -83,6 +75,10 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-58-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -91,10 +87,6 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 **4)**  Relaunch the game to test your issue.
 
 If Disco Elysium still crashes, try the next fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 4 – Disable extraneous software
 
@@ -108,6 +100,10 @@ If Disco Elysium still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Restart your game to see if it runs correctly now.
 
  You may also need to disable your antivirus as game crashes is sometimes caused by interference from antivirus software. If your game works properly after you disable the antivirus software, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
@@ -115,10 +111,6 @@ If Disco Elysium still crashes, try the next fix below.
  Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus is disabled.
 
 If Disco Elysium won’t work correctly, read on and try Fix 5.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 5 – Verify integrity of game files
 
@@ -133,7 +125,7 @@ If Disco Elysium won’t work correctly, read on and try Fix 5.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Right-click **Disco Elysium – The Final Cut** and select **Properties** .
@@ -145,10 +137,6 @@ If Disco Elysium won’t work correctly, read on and try Fix 5.
  This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-34.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **5)**  Relaunch Disco Elysium.
 
@@ -178,6 +166,10 @@ If your game still crashes after this, try the fix below.
 
 If the crashing issue still exists, there’s still 1 fix to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 8: Check for Windows updates
 
  If your game won’t launch at all, it’s not likely that out-of-date Windows components are the core issue, but you should rule out the possibility.
@@ -194,6 +186,10 @@ If the crashing issue still exists, there’s still 1 fix to try.
 
 If the game still crashes, then try the next solution.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 9 – Run as administrator
 
  Running your computer under a standard user mode can give a hard time to gameplay as limited user rights may cause problems when your game tries to access certain game files.
@@ -203,6 +199,10 @@ To run your game as administrator, follow the instructions below:
  1) Right-click the**Disco Elysium desktop icon** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_16-59-37.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Click the **Compatibility** tab and check **Run this program as an administrator** . Then click **OK** .
 
@@ -233,21 +233,18 @@ To run your game as administrator, follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-camera-woes-ended-by-fix-obs/"><u>[New] 2024 Approved Camera Woes Ended by Fix - OBS</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-the-path-to-outstanding-interviewer-expertise/"><u>[New] 2024 Approved The Path to Outstanding Interviewer Expertise</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-best-practices-for-high-quality-remote-podcasts/"><u>[New] Best Practices for High-Quality Remote Podcasts</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-economical-4k-dslrmirrorless-cameras/"><u>[Updated] In 2024, Economical 4K DSLR/Mirrorless Cameras</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-in-game-recorder-faceoff/"><u>[Updated] In 2024, In-Game Recorder Faceoff</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-definitive-guide-to-efficient-screen-recording-on-an-hp-notebook/"><u>[Updated] In 2024, The Definitive Guide to Efficient Screen Recording on an HP Notebook</u></a></li>
-<li><a href="https://extra-information.techidaily.com/2024-approved-brief-path-to-past-posts-reinstating-reddit-removals-quickly/"><u>2024 Approved Brief Path to Past Posts Reinstating Reddit Removals Quickly</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-capturing-competitive-overwatch-in-minutes/"><u>2024 Approved Capturing Competitive Overwatch in Minutes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/effortless-guide-to-converting-and-downloading-youtube-content-for-your-ipad-air-using-a-mac/"><u>Effortless Guide to Converting & Downloading YouTube Content for Your iPad Air Using a Mac</u></a></li>
-<li><a href="https://win11.techidaily.com/fixing-no-signs-on-screen-when-booting-windows/"><u>Fixing No Signs on Screen When Booting Windows</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-itel-p55plus-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Itel P55+ | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-instantaneous-image-viewing-with-windows-11/"><u>In 2024, Instantaneous Image Viewing with Windows 11</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/recording-device-feedback-guide-for-2024/"><u>Recording Device Feedback Guide for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/stream-like-a-pro-top-5-cams-revolutionizing-live-broadcasts-on-twitch/"><u>Stream Like a Pro Top 5 Cams Revolutionizing Live Broadcasts on Twitch</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/the-ultimate-fix-for-when-windows-cant-find-ftd2xxdll/"><u>The Ultimate Fix for When Windows Can't Find ftd2XX.dll</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/top-ranked-graphing-calcualtors-a-comprehensive-review-by-zdnet/"><u>Top-Ranked Graphing Calcualtors : A Comprehensive Review by ZDNet</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-boost-engagement-with-top-tips-for-captivating-unboxing-videos/"><u>[Updated] 2024 Approved Boost Engagement with Top Tips for Captivating Unboxing Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-techniques-for-smooth-playback-and-no-frame-dropping-in-obs/"><u>[Updated] 2024 Approved Techniques for Smooth Playback and No Frame Dropping in OBS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-professional-streaming-best-devices-to-record-live-sessions/"><u>[Updated] In 2024, Professional Streaming Best Devices to Record Live Sessions</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/complete-guide-restore-lost-data-with-sd-card-partition-repair/"><u>Complete Guide: Restore Lost Data with SD Card Partition Repair</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Lava Agni 2 5G | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/essential-tips-for-resolving-missing-binkw32dll-errors-on-your-pc/"><u>Essential Tips for Resolving Missing binkw32.dll Errors on Your PC</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-clipcomposers-journey-thorough-review-of-androvid/"><u>In 2024, ClipComposer's Journey – Thorough Review of AndroVid</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-keep-your-music-memories-intact-top-three-storage-methods/"><u>In 2024, Keep Your Music Memories Intact Top Three Storage Methods</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-editing-videos-like-a-pro-with-quicktime-on-mac/"><u>New Editing Videos Like a Pro with QuickTime on Mac</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-art-and-science-of-broadcasting-in-real-time/"><u>The Art and Science of Broadcasting in Real Time</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-ultimate-obs-recording-guide-for-gaming-enthusiasts-for-2024/"><u>The Ultimate OBS Recording Guide for Gaming Enthusiasts for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ultimate-ps4-recording-in-obs-a-detailed-walkthrough/"><u>Ultimate PS4 Recording in OBS - A Detailed Walkthrough</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/unveiling-the-top-12-low-cost-video-apps-for-devices-everywhere/"><u>Unveiling the Top 12 Low-Cost Video Apps for Devices Everywhere</u></a></li>
 </ul></div>
 

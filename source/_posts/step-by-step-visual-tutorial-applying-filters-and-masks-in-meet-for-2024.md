@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Visual Tutorial  Applying Filters & Masks in Meet for 2024\""
-date: 2024-12-07T00:54:05.809Z
-updated: 2024-12-08T02:04:08.882Z
+date: 2024-12-12T20:32:55.715Z
+updated: 2024-12-14T02:47:26.373Z
 tags: 
   - screen-recording
   - ai video
@@ -35,7 +35,7 @@ Filters and masks add a unique touch to video calls. Thus, popular video-confere
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Requirement of Using Filters and Effects on Google Meet
@@ -54,10 +54,6 @@ Some visual filters and masks are only to be enjoyed when you join video session
 
 To use filters and effects, you must be a participant in the Google Meet session. So, you must log in preferably through your personal Gmail account to enjoy unlimited filters, effects, and masks.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 2: How to Add Filters, Effects, or Masks on Google Meet?
 
 Google Meet lets you add filters, effects, and masks to make a video call a fun-filled activity. Effects fall in a broader domain. In short, there exist few different categories in effects, including filters, styles, background, and masks. Plus, they are also completely different. Effects are used to enhance the video by adding unique transitions such as fading and other visual effects. On the other hand, filters improve your look by adding different frames and designs in a video. Last but not least, masks add funky faces and covers to your face.
@@ -75,10 +71,6 @@ Tap on the **sparkle icon** at the bottom of your video.
 **Step 3: Choose filters or masks**
 
 Swipe till you find filters. Select **filters** and choose the mask you want to apply.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Remove Applied Filters, Effects, or Masks on Google Meet?
 
@@ -100,6 +92,10 @@ Click on the **cross** at the right corner of the screen to return to the video 
 
 Filters and effects can make video calls exciting. Google Meet provides built-in filters and masks but only for iOS and Android apps. However, it supports Google Chrome extensions that allow you to add a vast collection of amazing filters, masks, and effects. If you are in a quest for a Chrome extension that enables you to add visual effects during videos, we have handpicked the following visual effects and filters Chrome extension for you. Let’s run through them one by one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 1\.  Visual Effects for Google Meet
 
 This extension has been widely used among the Google Meet community. It allows you to access versatile filters and effects. Its visual effects include AR sunglasses, AR Halo, and much more. Likewise, you may also add a blur effect or change the background with this extension installed. If you want to know how to add this extension to Chrome, easy steps are given below.
@@ -117,7 +113,7 @@ Click on **add to Chrome** and press **add an extension** when a pop-up message 
 Click on the extensions and select the installed extension to enjoy visual effects and filters.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\.  Google Meet party button
@@ -137,7 +133,7 @@ Click on the **new meeting** option to enter into a meeting room.
 Click on the extension at the right corner and choose the Google Meet party button from the list of extensions.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 3\.  Visual Effects Google Meet
@@ -162,6 +158,10 @@ Long gone are the days when Google Meet was only used for business meetings and 
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -177,22 +177,16 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-seize-your-online-sessions-the-ultimate-browser-recording-tools-list/"><u>[New] In 2024, Seize Your Online Sessions The Ultimate Browser Recording Tools List</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-streamers-dilemma-revisited-obs-vs-twitch-channel-space/"><u>[New] In 2024, Streamers' Dilemma Revisited OBS vs Twitch Channel Space</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-unbeatable-11-audio-devices-reviewed-here/"><u>[New] Unbeatable 11 Audio Devices Reviewed Here</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-covert-recording-erasing-identifiable-information/"><u>[Updated] 2024 Approved Covert Recording Erasing Identifiable Information</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-expert-tips-for-ultimate-fcp-efficiency/"><u>[Updated] 2024 Approved Expert Tips for Ultimate FCP Efficiency</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-maximizing-conversations-4-key-tips-for-hangouts/"><u>[Updated] 2024 Approved Maximizing Conversations 4 Key Tips for Hangouts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-obs-vs-shadowplay/"><u>[Updated] 2024 Approved OBS vs ShadowPlay</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-discover-unmissable-adventures-in-sandbox-gaming/"><u>2024 Approved Discover Unmissable Adventures in Sandbox Gaming</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-pro-tips-for-video-conference-recordings-desktop-edition/"><u>2024 Approved Pro Tips for Video Conference Recordings Desktop Edition</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/a-step-by-step-approach-to-scheduling-in-slack-plus-filmora/"><u>A Step-by-Step Approach to Scheduling in Slack + Filmora</u></a></li>
-<li><a href="https://win-premium.techidaily.com/discover-top-exchange-options-for-crypto-assets-with-yl-softwares-expertise/"><u>Discover Top Exchange Options for Crypto Assets with YL Software's Expertise</u></a></li>
-<li><a href="https://techidaily.com/hard-reset-motorola-moto-g-5g-2023-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Motorola Moto G 5G (2023) in 3 Efficient Ways | Dr.fone</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/in-2024-ultimate-ringtone-collection-top-download-locales/"><u>In 2024, Ultimate Ringtone Collection Top Download Locales</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-unlocking-xbox-experience-with-video-capture-techniques/"><u>In 2024, Unlocking Xbox Experience with Video Capture Techniques</u></a></li>
-<li><a href="https://review-topics.techidaily.com/play-hevc-h-265-on-htc-u23-is-it-possible-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Play HEVC H.265 on HTC U23, is it possible?</u></a></li>
-<li><a href="https://facebook.techidaily.com/shared-spaces-a-new-era-for-fb-and-instagram/"><u>Shared Spaces: A New Era for FB and Instagram</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/1722640764633-tcl-50s425-50-inch-smart-roku-led-television-ultimate-value-4k-viewing-experience-in-2019/"><u>TCL 50S425 50 Inch Smart Roku LED Television - Ultimate Value 4K Viewing Experience in 2019</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-androids-heartfelt-selection-of-3d-empathy-players/"><u>[New] Android's Heartfelt Selection of 3D Empathy Players</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-hdmi-radeon-revival/"><u>[New] HDMI Radeon Revival</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-secrets-revealed-how-to-capture-your-facebook-sessions/"><u>[New] In 2024, Secrets Revealed How to Capture Your Facebook Sessions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-making-every-audio-speech-count-best-free-and-paid-zoom-transcription-services-for-2024/"><u>[New] Making Every Audio Speech Count Best Free & Paid Zoom Transcription Services for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-expert-tips-for-avoiding-instagram-video-troubles/"><u>[Updated] 2024 Approved Expert Tips for Avoiding Instagram Video Troubles</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-seamlessly-integrate-the-ken-burns-effect-into-camtasia/"><u>[Updated] In 2024, Seamlessly Integrate the Ken Burns Effect Into Camtasia</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-top-picks-premium-and-economical-bdr-players-for-pcmac/"><u>[Updated] In 2024, Top Picks Premium & Economical BDR Players for PC/Mac</u></a></li>
+<li><a href="https://fox-that.techidaily.com/bypassing-trouble-expert-tips-to-fix-grayed-out-icloud-features-in-apple-mobile-os/"><u>Bypassing Trouble: Expert Tips to Fix Grayed Out iCloud Features in Apple Mobile OS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/complete-guide-to-protect-and-transfer-iphone-13-files-without-dependence-on-apples-itunes-for-windowsmac-users/"><u>Complete Guide to Protect and Transfer iPhone 13 Files Without Dependence on Apple's iTunes for Windows/Mac Users</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-a-guide-oppo-find-x6-pro-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>In 2024, A Guide Oppo Find X6 Pro Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-windows-11-a-detailed-guide-to-its-auto-hdr-function/"><u>Navigating Windows 11: A Detailed Guide to Its Auto HDR Function</u></a></li>
 </ul></div>
 

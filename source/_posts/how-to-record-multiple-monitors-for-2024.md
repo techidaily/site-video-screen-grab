@@ -1,7 +1,7 @@
 ---
 title: "How to Record Multiple Monitors for 2024"
-date: 2024-08-09T20:52:16.084Z
-updated: 2024-08-10T20:52:16.084Z
+date: 2024-12-07T23:43:31.133Z
+updated: 2024-12-14T01:29:37.797Z
 tags: 
   - screen-recording
   - ai video
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/4526e24333ba977c51600360964ccfdbc4ba0f9b4
 
 # How to Record Multiple Monitors
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 ##### Max Wales
@@ -32,10 +29,11 @@ Producing a software tutorial or a gameplay video with screen recording software
 
 If you would like to capture footage from multiple monitors, but you are not sure how, you've come to the right place, because in this article we are going to show you how to record two monitors at the same time using the OBS Studio and Camtasia screen recording software.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
 
@@ -52,28 +50,21 @@ For Win 7 or later (64-bit)
 
 For macOS 10.12 or later
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## How to Record Multiple Monitors
 
 The first step towards setting up a screencasting session with multiple displays is to make sure that the monitors are properly connected to your laptop or desktop computer. Each external monitor will display identical images when turned on, but in order to move software windows between the two screens, you'll have to enable the 'Extend These Displays' option. The actual steps you'll need to take may vary, depending on the computer and the OS you are using, and we are going to show you how to extend displays on Windows 8 or later.
 
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -92,8 +83,9 @@ Sum up the two values of the wider sides of the screens and insert the value you
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Capturing Multiple Monitor Displays with Camtasia
 
 Selecting more than one monitor from the Camtasia's Fullscreen settings is unfortunately not possible, but the Custom recording settings option allows you to capture footage from two different displays. You'll need to make sure that both monitors are properly aligned and the that Extend These Displays feature is selected. Here's how you record multiple monitors with Camtasia.
@@ -117,20 +109,19 @@ In case that you want to record your secondary monitor, we recommend you to try 
 * Able to Record Computer Audio And Voice Over
 * Splendid Annotations, Cursor Effects and Editing Features
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Max Wales
 
 Max Wales is a writer and a lover of all things video.
 
 Follow @Max Wales
-
-
 
 <ins class="adsbygoogle"
       style="display:block"
@@ -139,5 +130,22 @@ Follow @Max Wales
       data-ad-format="auto"
       data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-top-strategies-for-high-quality-adobe-recordings/"><u>[Updated] 2024 Approved Top Strategies for High-Quality Adobe Recordings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capturing-competitive-overwatch-in-minutes/"><u>[Updated] In 2024, Capturing Competitive Overwatch in Minutes</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-insiders-guide-to-maximizing-ez-grabber/"><u>[Updated] In 2024, The Insider’s Guide to Maximizing EZ Grabber</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-top-editors-secret-best-free-premiere-pro-resources/"><u>[Updated] In 2024, Top Editors' Secret Best FREE Premiere Pro Resources</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unlocking-macscreens-how-to-record-and-save-immediately-for-2024/"><u>[Updated] Unlocking MacScreens How to Record and Save Immediately for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-detailed-depth-ranking-10-smartphones-with-superior-4k-camera-capabilities/"><u>2024 Approved Detailed Depth Ranking 10 Smartphones with Superior 4K Camera Capabilities</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-timeless-media-capturing-device/"><u>2024 Approved Timeless Media Capturing Device</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ultimate-scene-seizing-exploration/"><u>2024 Approved Ultimate Scene Seizing Exploration</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/forgot-apple-iphone-11-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>Forgot Apple iPhone 11 Backup Password? Heres What to Do | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unrivaled-script-authority-place/"><u>In 2024, Unrivaled Script Authority Place</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/maximizing-collaboration-with-zoom-meeting-recordings-for-2024/"><u>Maximizing Collaboration with Zoom Meeting Recordings for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/photo-pinnacle-top-tripods-for-android-and-iphones/"><u>Photo Pinnacle Top Tripods for Android & iPhones</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/pinnacle-screenshot-programs-for-2024/"><u>Pinnacle Screenshot Programs for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/reveal-and-reclaim-methods-to-identify-your-hidden-email-id/"><u>Reveal and Reclaim: Methods to Identify Your Hidden Email ID</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-nokia-c12-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Nokia C12 | Dr.fone</u></a></li>
+</ul></div>
 
