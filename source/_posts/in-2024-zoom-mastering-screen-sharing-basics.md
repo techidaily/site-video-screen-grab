@@ -1,7 +1,7 @@
 ---
 title: "\"In 2024, Zoom  Mastering Screen-Sharing Basics\""
-date: 2024-12-08T21:05:30.964Z
-updated: 2024-12-13T18:55:26.150Z
+date: 2024-12-21T00:30:58.898Z
+updated: 2024-12-22T23:06:18.587Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,6 @@ Giving access to your computer to one or all of the participants in a meeting ca
 
 Each version of Zoom features screen sharing tools, although the exact steps you will have to take in order to share your screen with your colleagues depend on the version of Zoom you are using. Moreover, you must also make sure that Zoom is compatible with the OS that is installed on your device before you can start using this video conferencing app. Here’s how you can share screens on different devices.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\. Sharing the Screen with Zoom from the Web Browser
 
 Zoom web client offers the option to join meetings or share screens directly from the web browser, without prior installation of the application on your computer or your Smartphone. However, the web version of Zoom **has limited capabilities** and it **works best with Google Chrome**.
@@ -49,12 +45,16 @@ To start sharing a screen you just need to click on the   **Screen Share**  butt
 
 ![Share Screen on Zoom](https://images.wondershare.com/filmora/article-images/share-your-screen-zoom-web.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Zoom displays the preview of the screen you shared within the meeting window and it allows you to pause, resume or stop sharing the screen at any point. Clicking on the upwards arrow that is located next to the Share Screen button will enable you to choose who is going to have access to the screen you shared.
 
 ![Share Screen Options on Zoom](https://images.wondershare.com/filmora/article-images/screen-share-permission-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can only opt to share a screen with all participants of a meeting or with the host while sharing a screen with the participants you select is not an option.
@@ -68,7 +68,7 @@ Before you can start sharing a screen with Zoom from your iPhone or iPad you mus
 ![Share Screen Options on Zoom](https://images.wondershare.com/filmora/article-images/screen-sharing-options-iphone.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Once the new window opens you should tap on the + icon next to the Screen Recording option to add it to the device’s control center.
@@ -77,6 +77,10 @@ Proceed to launch the Zoom app on your iPhone or iPad and tap on the Share Conte
 
 ![Share Screen in iPhone with Zoom](https://images.wondershare.com/filmora/article-images/share-screen-iphone.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Pick the Screen option from the menu, and then swipe up from the bottom of the device’s screen in order to gain access to the Control Center. Hold the Record button until the Screen Recording option becomes visible, then select Zoom and pick the Start Broadcast option.
 
 ![Start Broadcast iPhone with Zoom](https://images.wondershare.com/filmora/article-images/broadcast-on-zoom.jpg)
@@ -84,6 +88,10 @@ Pick the Screen option from the menu, and then swipe up from the bottom of the d
 iPhone’s or iPad’s screen will be shared with all participants, and you can stop the broadcast by tapping on the red bar at the top of the screen and tapping on the Stop button in the Screen Recording dialogue box.
 
 ![Stop Broadcast iPhone with Zoom](https://images.wondershare.com/filmora/article-images/stop-broadcast-iphone-zoom.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 In case you want to include audio in your screen broadcast you should tap on the Share Device Audio option in the meeting window.
 
@@ -96,7 +104,7 @@ You won’t be able to share the screen with Zoom if you don’t have Android 5.
 ![Share Screen on Android with Zoom](https://images.wondershare.com/filmora/article-images/share-screen-zoom-android.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Afterward, you should simply tap on the Start Now icon and start sharing the screen along with any application you want with other participants. Optionally, you can use the Annotation tools by tapping on the Annotate icon in the lower-left corner of the meeting window or tap on the Stop Share button if you no longer want to share the device’s screen.
@@ -119,10 +127,6 @@ Desktop versions of Zoom allow its users to share several screens simultaneously
 
 ![  Zoom General Setting Options](https://images.wondershare.com/filmora/article-images/zoom-general-settings.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Go to the General tab and click on the checkbox next to the Use Dual Monitors option. In addition, you must disable the Remote Support setting before you start a meeting. Once the meeting starts you should click on the arrow next to the Screen Share icon and pick the Multiple participants can share simultaneously option from the menu.
 
 ![ Share Multiple Screens on  Zoom ](https://images.wondershare.com/filmora/article-images/share-multiple-screens-on-zoom.jpg)
@@ -132,10 +136,6 @@ Once this option is activated all participants will be able to share their scree
 The participants in the meeting who are using a dual monitor setup will be able to see two most recently shared screens, while the participants who only have one monitor can only see one screen at the time. Clicking on the View Options will enable you to select the screen you are currently viewing.
 
 Changing the screen you’re viewing from the Zoom mobile app is not possible. Furthermore, the Share Computer Audio and Optimize for full-screen video clips are unavailable when multiple screens are shared at the same time.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What to Do If the Share Screen Option isn’t Working?
 
@@ -156,7 +156,7 @@ Click here to know about the tips to [improve video quality in Zoom Meetings](ht
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -174,15 +174,21 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-best-screen-time-for-peaceful-phone-puzzles-for-2024/"><u>[New] Best Screen-Time for Peaceful Phone Puzzles for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-diy-4k-edits-assembling-a-powerhouse-pc-for-high-res-video/"><u>[New] In 2024, DIY 4K Edits Assembling a Powerhouse PC for High-Res Video</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-from-pc-to-smartphone-the-essential-guide-to-hulu-recording/"><u>[New] In 2024, From PC to Smartphone The Essential Guide to Hulu Recording</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-step-by-step-guide-to-perfectly-timed-video-loops-on-ig/"><u>[New] In 2024, Step-by-Step Guide to Perfectly Timed Video Loops on IG</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-art-of-online-recording-for-2024/"><u>[New] The Art of Online Recording for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-quick-and-reliable-image-captures-pcs-top-5-apps-for-2024/"><u>[Updated] Quick and Reliable Image Captures PC's Top 5 Apps for 2024</u></a></li>
-<li><a href="https://discover-cloud.techidaily.com/comment-migrer-votre-disque-dur-vers-un-ssd-tout-en-preservant-la-partition-de-restauration/"><u>Comment Migrer Votre Disque Dur Vers Un SSD Tout en Préservant La Partition De Restauration ?</u></a></li>
-<li><a href="https://iphone-location.techidaily.com/how-to-fix-the-apple-iphone-6-plus-gps-not-working-issue-drfone-by-drfone-virtual-ios/"><u>How to Fix the Apple iPhone 6 Plus GPS not Working Issue | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-oppo-a38frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Oppo A38FRP Lock</u></a></li>
-<li><a href="https://techidaily.com/undelete-lost-pictures-from-a60-by-fonelab-android-recover-pictures/"><u>Undelete lost pictures from A60.</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-ballot-battlegrounds-prime-election-strategy-games/"><u>[New] In 2024, Ballot Battlegrounds Prime Election Strategy Games</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-expert-tips-capturing-high-quality-whatsapp-voice-transcripts/"><u>[Updated] 2024 Approved Expert Tips Capturing High-Quality WhatsApp Voice Transcripts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-harmony-hub-capture-store-and-review-sounds/"><u>[Updated] 2024 Approved Harmony Hub Capture, Store & Review Sounds</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-the-mechanics-of-producing-engaging-mukbang-content/"><u>[Updated] 2024 Approved The Mechanics of Producing Engaging Mukbang Content</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-capturing-the-moment-methods-for-online-audio-recording/"><u>[Updated] Capturing the Moment Methods for Online Audio Recording</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-demographic-relevance-for-higher-youtube-rankings-for-2024/"><u>[Updated] Demographic Relevance for Higher YouTube Rankings for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-high-speed-screen-grabber-with-audible-narration-for-2024/"><u>[Updated] High-Speed Screen Grabber with Audible Narration for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-basics-of-capturing-switch-gaming-moments/"><u>[Updated] The Basics of Capturing Switch Gaming Moments</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/close-up-confidence-navigating-google-meets-zoom-feature-for-2024/"><u>Close-Up Confidence Navigating Google Meet's Zoom Feature for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/elevate-your-brand-discovering-the-essential-5-youtube-strategies/"><u>Elevate Your Brand Discovering the Essential 5 YouTube Strategies</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/essential-criteria-what-to-look-for-in-a-new-fitness-tracker/"><u>Essential Criteria: What To Look For In A New Fitness Tracker</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-videos-from-realme-narzo-60-pro-5g-by-fonelab-android-recover-video/"><u>How to retrieve erased videos from Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-poco-x6-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Poco X6? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/quick-tips-simplified-techniques-for-capturing-google-meets-for-2024/"><u>Quick Tips Simplified Techniques for Capturing Google Meets for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/top-5-solutions-for-reducing-gpu-consumption-by-the-desktop-window-manager-on-windows-10-and-11/"><u>Top 5 Solutions for Reducing GPU Consumption by the Desktop Window Manager on Windows 10 & 11</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-unleash-the-power-of-transitions-in-final-cut-pro-3-expert-methods/"><u>Updated 2024 Approved Unleash the Power of Transitions in Final Cut Pro 3 Expert Methods</u></a></li>
 </ul></div>
 
