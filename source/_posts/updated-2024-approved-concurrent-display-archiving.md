@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Concurrent Display Archiving\""
-date: 2024-12-15T19:43:21.748Z
-updated: 2024-12-23T03:30:52.997Z
+date: 2024-12-23T16:39:00.752Z
+updated: 2024-12-28T17:25:57.313Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ If you would like to capture footage from multiple monitors, but you are not sur
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -52,15 +52,19 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Record Multiple Monitors
 
 The first step towards setting up a screencasting session with multiple displays is to make sure that the monitors are properly connected to your laptop or desktop computer. Each external monitor will display identical images when turned on, but in order to move software windows between the two screens, you'll have to enable the 'Extend These Displays' option. The actual steps you'll need to take may vary, depending on the computer and the OS you are using, and we are going to show you how to extend displays on Windows 8 or later.
 
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -79,7 +83,7 @@ Sum up the two values of the wider sides of the screens and insert the value you
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Capturing Multiple Monitor Displays with Camtasia
@@ -107,14 +111,10 @@ In case that you want to record your secondary monitor, we recommend you to try 
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/) [![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg) ](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -132,20 +132,19 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-information.techidaily.com/new-a-stepwise-strategy-to-make-mark-with-memes-at-9gag/"><u>[New] A Stepwise Strategy to Make Mark with Memes at 9GAG</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-bridging-social-media-posting-tweets-on-fb/"><u>[New] In 2024, Bridging Social Media Posting Tweets on FB</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-premium-mac-capture-software-substitutes-for-bandicam-for-2024/"><u>[New] Premium Mac Capture Software Substitutes for Bandicam for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-prime-mc-house-designs-for-communities/"><u>[New] Prime MC House Designs for Communities</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-a-technophiles-manual-on-keeping-a-digital-log-of-live-tv/"><u>[Updated] 2024 Approved A Technophile's Manual on Keeping a Digital Log of Live TV</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-enhancing-professionalism-blurring-teambackgrounds-effectively/"><u>[Updated] 2024 Approved Enhancing Professionalism Blurring TeamBackgrounds Effectively</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-maximizing-memories-techniques-for-gameplay-recording/"><u>[Updated] Maximizing Memories Techniques for Gameplay Recording</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-pro-video-capture-solutions-on-mac-beyond-the-bandicamp-era-for-2024/"><u>[Updated] Pro Video Capture Solutions on Mac Beyond the Bandicamp Era for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/achieve-pristine-sound-in-recordings-free-tutorial-paid-tools/"><u>Achieve Pristine Sound in Recordings (Free Tutorial, Paid Tools)</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-tp-link-av2naughty-powerline-adapter-speedy-internet-at-a-cost-to-style/"><u>Comprehensive Review: TP-Link AV2naughty Powerline Adapter - Speedy Internet at a Cost to Style</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/elevate-exercise-habits-with-the-fitbit-versa-3-inbuilt-gps-technology-and-health-apps-for-continuous-drive/"><u>Elevate Exercise Habits with the Fitbit Versa 3 - Inbuilt GPS Technology & Health Apps for Continuous Drive</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-screenplay-genius-weaving-compelling-narratives-and-dialogues/"><u>In 2024, Screenplay Genius Weaving Compelling Narratives and Dialogues</u></a></li>
-<li><a href="https://fox-web3.techidaily.com/mastering-audio-capture-on-your-mac-with-apowersoft-the-complete-how-to-guide/"><u>Mastering Audio Capture on Your Mac with Apowersoft - The Complete How-To Guide</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-get-creative-with-fcpx-top-10-free-plugin-essentials/"><u>New 2024 Approved Get Creative with FCPX Top 10 Free Plugin Essentials</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unlocking-potential-an-in-depth-look-at-the-affordable-and-capable-google-pixel-4a-5g/"><u>Unlocking Potential: An In-Depth Look at the Affordable and Capable Google Pixel 4a 5G</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-obs-full-screen-glitch-resolution-dropped/"><u>[New] 2024 Approved Obs Full Screen Glitch Resolution Dropped</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-dynamic-images-made-simple-in-illustrator/"><u>[New] In 2024, Dynamic Images Made Simple in Illustrator</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-most-innovative-8-private-video-downloaders-for-2024/"><u>[New] Most Innovative 8 Private Video Downloaders for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-free-game-themes-and-melodies-10-best-websites/"><u>[Updated] 2024 Approved Free Game Themes & Melodies – 10 Best Websites</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-broadcast-battleground-which-wins-obs-or-twitch/"><u>[Updated] Broadcast Battleground Which Wins, OBS or Twitch?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-framemaster-top-screen-recorder-reviews-of-the-year/"><u>[Updated] In 2024, FrameMaster Top Screen Recorder Reviews of the Year</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-art-of-advertising-making-money-on-the-worlds-social-network/"><u>[Updated] The Art of Advertising Making Money on the World's Social Network</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-xiaomi-unveils-next-level-screen-recording-for-photo-lovers/"><u>[Updated] Xiaomi Unveils Next-Level Screen Recording for Photo Lovers</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-moonlight-mastery-a-photographers-guidebook-to-nighttime-imagery/"><u>2024 Approved Moonlight Mastery A Photographer's Guidebook to Nighttime Imagery</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-fix-pokemon-go-route-not-working-on-oppo-reno-10-proplus-5g-drfone-by-drfone-virtual-android/"><u>How to Fix Pokemon Go Route Not Working On Oppo Reno 10 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-fiendish-freshman-filmmaker/"><u>In 2024, Fiendish Freshman Filmmaker</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-12-mini-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 12 mini Location by Number | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-future-workforce-revolution-how-generative-ai-is-reshaping-jobs/"><u>The Future Workforce Revolution: How Generative AI Is Reshaping Jobs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/zoom-webinar-mastery-a-novices-step-by-step-tutorial-for-2024/"><u>Zoom Webinar Mastery A Novice's Step-by-Step Tutorial for 2024</u></a></li>
 </ul></div>
 

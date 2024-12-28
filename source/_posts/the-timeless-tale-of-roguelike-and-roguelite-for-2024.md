@@ -1,7 +1,7 @@
 ---
 title: "The Timeless Tale of Roguelike and Roguelite for 2024"
-date: 2024-12-16T08:00:14.698Z
-updated: 2024-12-23T00:24:51.311Z
+date: 2024-12-23T21:37:28.694Z
+updated: 2024-12-28T16:28:50.924Z
 tags: 
   - screen-recording
   - ai video
@@ -39,29 +39,25 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## What is a Roguelike Game?
 
 As the name implies, a roguelike - or roguelike - is a game that shares the same mechanics that defined _Rogue_. They have procedurally generated environments, making every playthrough feel completely fresh and different. Dying in a roguelike means all progress is lost, and you need to start over, no saves, no lives, no ifs nor buts. It's at this juncture where some debate exists as to what truly defines a roguelike. There are fans out there who'll tell you that a roguelike must not only share the mechanics but also the game's layout and combat system. According to them, since _Rogue_ was a top-down third-person turn-based RPG that played on a grid, all true roguelikes should then play and look the same. The other camp sees roguelikes as purely defined by true permadeath with some leniency afforded with regards to less important elements such as player perspective, combat systems, and screen orientation.
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## What is a Roguelite Game?
 
@@ -74,6 +70,10 @@ Roguelites also have procedurally generated environments in a lot of cases. Ther
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -94,7 +94,7 @@ If you've been meaning to dive into either or both of these genres, we've got a 
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Roguelike Games
@@ -116,7 +116,7 @@ Recognized as one of the best roguelikes of all time, _Dungeon Crawl Stone Soup_
 ![dungeon-crawl-stone-soup](https://images.wondershare.com/filmora/article-images/dungeon-crawl-stone-soup.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -164,16 +164,24 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-links.techidaily.com/new-in-2024-optimize-your-streaming-game-incorporating-chroma-key-effects-with-ease/"><u>[New] In 2024, Optimize Your Streaming Game Incorporating Chroma Key Effects with Ease</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-m1-pro-vs-m1-max-identifying-core-differences/"><u>[New] M1 Pro Vs. M1 Max Identifying Core Differences</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-top-hidden-features-in-whatsapp-that-will-change-how-you-message-for-2024/"><u>[New] Top Hidden Features in WhatsApp That Will Change How You Message for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ending-grey-shades-in-live-stream-translations/"><u>[Updated] 2024 Approved Ending Grey Shades in Live Stream Translations</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/ed-superior-sound-transformation-gear-for-online-vloggers-for-2024/"><u>[Updated] Superior Sound Transformation Gear for Online Vloggers for 2024</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-m14-5g-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy M14 5G?</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/mastering-your-social-circle-removing-several-friends-simultaneeusly-on-snapchat/"><u>Mastering Your Social Circle: Removing Several Friends Simultaneeusly on Snapchat</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/mastery-guide-installing-snapchat-on-mac-os/"><u>Mastery Guide Installing Snapchat on Mac OS</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/most-innovative-voice-altering-mobile-apps/"><u>Most Innovative Voice-Altering Mobile Apps</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/quintessential-7-first-person-shooters/"><u>Quintessential 7 First-Person Shooters</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/visionsonic-vsdc-review-ideal-substitutes-for-2024/"><u>VisionSonic VSDC Review - Ideal Substitutes for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-frame-by-frame-top-picks-for-home-studios/"><u>[New] 2024 Approved Frame by Frame Top Picks for Home Studios</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-overcoming-full-screen-issues-in-obs/"><u>[New] 2024 Approved Overcoming Full Screen Issues in Obs</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-superior-zero-price-switch-emulators/"><u>[New] 2024 Approved Superior Zero Price Switch Emulators</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-scrutinizing-vsdc-screen-recording-capabilities/"><u>[New] In 2024, Scrutinizing VSDC Screen Recording Capabilities</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-essentials-of-clear-coherent-ps3-game-recordings/"><u>[New] The Essentials of Clear, Coherent PS3 Game Recordings</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-tips-and-tricks-for-professional-minecraft-videos/"><u>[Updated] In 2024, Tips and Tricks for Professional Minecraft Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unlocking-mov-capture-potential-on-windows-10/"><u>[Updated] In 2024, Unlocking MOV Capture Potential on Windows 10</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-visual-storytelling-on-macbook-webcam-setup/"><u>[Updated] In 2024, Visual Storytelling on MacBook Webcam Setup</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-prime-firefox-video-capturing-software/"><u>2024 Approved Prime Firefox Video Capturing Software</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-ultimate-checklist-streamlining-and-maximizing-screencast-quality-with-mobizen/"><u>2024 Approved Ultimate Checklist Streamlining and Maximizing Screencast Quality with Mobizen</u></a></li>
+<li><a href="https://article-posts.techidaily.com/complete-scrutiny-gopro-silver-hero4-version-for-2024/"><u>Complete Scrutiny GoPro Silver Hero4 Version for 2024</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/graphical-interface-not-loaded/"><u>Graphical Interface Not Loaded</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-comparing-screen-capture-software-features-bandicam-and-camtasia/"><u>In 2024, Comparing Screen Capture Software Features Bandicam & Camtasia</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-no-fuss-guide-to-recording-virtual-classes-on-windowsmacos/"><u>In 2024, No-Fuss Guide to Recording Virtual Classes on Windows/macOS</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-big-savings-with-asus-tuf-34-curved-gaming-monitor-at-an-unbeatable-price-on-amazon/"><u>Score Big Savings with ASUS TUF 34 Curved Gaming Monitor at an Unbeatable Price on Amazon!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/strategic-income-generation-through-youtube-as-per-sourav-joshis-playbook-for-2024/"><u>Strategic Income Generation Through YouTube, As Per Sourav Joshi's Playbook for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-iphone-16s-new-visual-ai-features-inspired-by-google-lens-insights-from-zdnet/"><u>Unveiling iPhone 16'S New Visual AI Features Inspired by Google Lens - Insights From ZDNet</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/windows-10s-finest-best-webcam-recording-software-revealed-for-2024/"><u>Windows 10S Finest Best Webcam Recording Software Revealed for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/secret-to-popularity-choosing-best-thumbnail-fonts/"><u>Your Secret to Popularity Choosing Best Thumbnail Fonts</u></a></li>
 </ul></div>
 

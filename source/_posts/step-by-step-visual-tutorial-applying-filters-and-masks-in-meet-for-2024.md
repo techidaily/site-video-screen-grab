@@ -1,7 +1,7 @@
 ---
 title: "\"Step-by-Step Visual Tutorial  Applying Filters & Masks in Meet for 2024\""
-date: 2024-12-22T03:59:12.113Z
-updated: 2024-12-22T17:30:24.539Z
+date: 2024-12-23T16:59:55.331Z
+updated: 2024-12-28T17:44:31.047Z
 tags: 
   - screen-recording
   - ai video
@@ -35,7 +35,7 @@ Filters and masks add a unique touch to video calls. Thus, popular video-confere
 ---
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: Requirement of Using Filters and Effects on Google Meet
@@ -55,7 +55,7 @@ Some visual filters and masks are only to be enjoyed when you join video session
 To use filters and effects, you must be a participant in the Google Meet session. So, you must log in preferably through your personal Gmail account to enjoy unlimited filters, effects, and masks.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 2: How to Add Filters, Effects, or Masks on Google Meet?
@@ -96,10 +96,6 @@ Click on the **cross** at the right corner of the screen to return to the video 
 
 Filters and effects can make video calls exciting. Google Meet provides built-in filters and masks but only for iOS and Android apps. However, it supports Google Chrome extensions that allow you to add a vast collection of amazing filters, masks, and effects. If you are in a quest for a Chrome extension that enables you to add visual effects during videos, we have handpicked the following visual effects and filters Chrome extension for you. Let’s run through them one by one.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 1\.  Visual Effects for Google Meet
 
 This extension has been widely used among the Google Meet community. It allows you to access versatile filters and effects. Its visual effects include AR sunglasses, AR Halo, and much more. Likewise, you may also add a blur effect or change the background with this extension installed. If you want to know how to add this extension to Chrome, easy steps are given below.
@@ -117,7 +113,7 @@ Click on **add to Chrome** and press **add an extension** when a pop-up message 
 Click on the extensions and select the installed extension to enjoy visual effects and filters.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### 2\.  Google Meet party button
@@ -135,6 +131,10 @@ Click on the **new meeting** option to enter into a meeting room.
 **Step 3: Use added extension in Google Meet**
 
 Click on the extension at the right corner and choose the Google Meet party button from the list of extensions.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 3\.  Visual Effects Google Meet
 
@@ -159,7 +159,7 @@ Long gone are the days when Google Meet was only used for business meetings and 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -177,22 +177,19 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-ultimate-guide-to-saving-your-iphone-7-display/"><u>[New] 2024 Approved The Ultimate Guide to Saving Your iPhone 7 Display</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-battle-of-broadcasting-go-live-with-obstwitch-for-2024/"><u>[New] Battle of Broadcasting Go Live with OBS/Twitch for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-easy-process-invert-video-order-using-vlc-application-for-2024/"><u>[New] Easy Process Invert Video Order Using VLC Application for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-hack-your-webcam-efficient-recording-techniques/"><u>[New] In 2024, Hack Your Webcam Efficient Recording Techniques</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-in-2024-mastering-airtunes-on-your-apple-devices-quick-guide-to-repairs/"><u>[New] In 2024, Mastering Airtunes on Your Apple Devices - Quick Guide to Repairs</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-depth-guide-to-archiving-online-conversations-with-fb/"><u>[New] In-Depth Guide to Archiving Online Conversations with FB</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-breaking-the-ice-with-instagrams-interactive-audience-queries-for-2024/"><u>[Updated] Breaking the Ice with Instagram's Interactive Audience Queries for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-essentials-of-drafting-engaging-vlogger-speeches-for-2024/"><u>[Updated] Essentials of Drafting Engaging Vlogger Speeches for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-ideal-echo-chamber-recorders-for-2024/"><u>[Updated] Ideal Echo Chamber Recorders for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-a-complete-guide-of-screenrec-for-laptop/"><u>[Updated] In 2024, A Complete Guide of ScreenRec for Laptop</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/comprehensive-fujitsu-scansnap-ix1400-evaluation-the-ultimate-scanner-solution-for-home-office-and-smbs/"><u>Comprehensive Fujitsu ScanSnap iX1400 Evaluation: The Ultimate Scanner Solution for Home Office & SMBs</u></a></li>
-<li><a href="https://win-dash.techidaily.com/easy-install-epson-workforce-ds-30-driver-for-modern-windows-systems-10-8-and-7/"><u>Easy Install: Epson WorkForce DS-30 Driver for Modern Windows Systems (10, 8 & 7)</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-capture-memories-safely-explore-all-inclusive-free-and-charged-cloud-storage-solutions/"><u>In 2024, Capture Memories Safely Explore All-Inclusive Free and Charged Cloud Storage Solutions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-how-to-fade-in-and-fade-out-video-clips/"><u>In 2024, How to Fade-In and Fade-Out Video Clips</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-xiaomi-civi-3-disney-100th-anniversary-edition-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Xiaomi Civi 3 Disney 100th Anniversary Edition to Another | Dr.fone</u></a></li>
-<li><a href="https://driver-download.techidaily.com/1722967252203-revamp-your-samsung-smartphone-experience-update-the-usb-driver-today/"><u>Revamp Your Samsung Smartphone Experience - Update the USB Driver Today!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/top-ranked-nvme-solid-state-drives-ultra-fast-storage-upgrades-for-playstation-5/"><u>Top-Ranked NVME Solid State Drives: Ultra-Fast Storage Upgrades for PlayStation 5</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-envisioned-worlds-await-equip-yourself-with-these-7-devices/"><u>[New] In 2024, Envisioned Worlds Await Equip Yourself with These 7 Devices</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-ultimate-guide-to-making-engaging-youtube-video-thumbnails-with-phones/"><u>[New] In 2024, The Ultimate Guide to Making Engaging YouTube Video Thumbnails with Phones</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-screenflow-exploration-a-mac-focused-journey-through-video-editing/"><u>[New] ScreenFlow Exploration A Mac-Focused Journey Through Video Editing</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-how-superficial-shares-spell-social-deterioration-for-2024/"><u>[Updated] How Superficial Shares Spell Social Deterioration for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-save-powerpoint-presentation-as-video-on-windows-and-mac-os-for-2024/"><u>[Updated] How to Save PowerPoint Presentation as Video on Windows and Mac OS for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-integrating-tracks-into-video-production-in-premiere-pro/"><u>[Updated] Integrating Tracks Into Video Production in Premiere Pro</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-itel-a60-drfone-by-drfone-virtual-android/"><u>15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Itel A60 | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-crystal-clear-capture-amping-up-your-home-studio-recordings/"><u>2024 Approved Crystal Clear Capture Amping Up Your Home Studio Recordings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-most-acclaimed-ipad-recording-software-3p/"><u>2024 Approved Most Acclaimed iPad Recording Software 3P</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/8-tools-to-record-computer-sound-and-microphone-for-2024/"><u>8 Tools to Record Computer Sound and Microphone for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/copernic-advanced-search-techniques-narrowing-down-results-to-one-directory/"><u>Copernic Advanced Search Techniques: Narrowing Down Results to One Directory</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-hackers-incorranous-steps-to-setup-nintendo-switch-lock/"><u>Eliminating Hackers: Incorranous Steps to Setup Nintendo Switch Lock</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/exclusive-list-of-8-leading-android-group-calling-apps-for-2024/"><u>Exclusive List of 8 Leading Android Group Calling Apps for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-from-setup-to-sharing-comprehensive-guide-for-instagram-and-obs-integration/"><u>In 2024, From Setup to Sharing Comprehensive Guide for Instagram & OBS Integration</u></a></li>
 </ul></div>
 
