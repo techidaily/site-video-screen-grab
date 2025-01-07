@@ -1,7 +1,7 @@
 ---
 title: "[New] Duplex Monitoring Transcription"
-date: 2024-10-29T17:55:13.511Z
-updated: 2024-11-02T18:04:53.896Z
+date: 2025-01-03T02:07:48.654Z
+updated: 2025-01-06T22:20:28.875Z
 tags: 
   - screen-recording
   - ai video
@@ -49,10 +49,11 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
-  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Record Multiple Monitors
@@ -62,10 +63,7 @@ The first step towards setting up a screencasting session with multiple displays
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
@@ -85,10 +83,7 @@ Sum up the two values of the wider sides of the screens and insert the value you
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Capturing Multiple Monitor Displays with Camtasia
@@ -119,10 +114,7 @@ In case that you want to record your secondary monitor, we recommend you to try 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148643/16836" target="_top" id="2148643">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148643" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148643/16836" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Max Wales
@@ -140,17 +132,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-gamers-guidebook-4-proven-strategies-for-gameplay-recordings-for-2024/"><u>[New] Gamer's Guidebook 4 Proven Strategies for Gameplay Recordings for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-unveiling-the-secrets-how-to-save-your-google-meet/"><u>[Updated] 2024 Approved Unveiling the Secrets How to Save Your Google Meet</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-leading-android-moba-games-unveiled/"><u>[Updated] Leading Android MOBA Games Unveiled</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-screensnapper-pro-2023-apowersofts-latest-for-pcs/"><u>[Updated] ScreenSnapper Pro 2023 Apowersoft's Latest for PCs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-swift-shadowing-in-1-minute-for-2024/"><u>[Updated] Swift Shadowing in 1 Minute for 2024</u></a></li>
-<li><a href="https://android-location.techidaily.com/10-free-location-spoofers-to-fake-gps-location-on-your-infinix-hot-40-pro-drfone-by-drfone-virtual/"><u>10 Free Location Spoofers to Fake GPS Location on your Infinix Hot 40 Pro | Dr.fone</u></a></li>
-<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-vivo-y36-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Vivo Y36 | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/efficient-classroom-documentation-choose-the-best-screen-recorder-for-2024/"><u>Efficient Classroom Documentation Choose the Best Screen Recorder for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/exploring-the-ultimate-selection-elite-video-doorbells-for-smart-homes-in-2n4-insights-from-zdnet/"><u>Exploring the Ultimate Selection: Elite Video Doorbells for Smart Homes in 2N4 | Insights From ZDNET</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-i-transferred-messages-from-honor-magic-5-to-iphone-12xs-max-in-seconds-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How I Transferred Messages from Honor Magic 5 to iPhone 12/XS (Max) in Seconds | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-win11s-best-videography-applications-explored/"><u>In 2024, Win11's Best Videography Applications Explored</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/mastering-the-game-with-alienware-m1-r2-review-powerhouse-pc-and-clicky-keys-showdown/"><u>Mastering the Game with Alienware M1# R2 Review: Powerhouse PC and Clicky Keys Showdown</u></a></li>
+<li><a href="https://extra-information.techidaily.com/new-comprehensive-review-transform-your-images-with-facetune/"><u>[New] Comprehensive Review Transform Your Images with Facetune</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-depth-analysis-of-vsdcs-features-and-its-best-software-rival-for-2024/"><u>[New] In-Depth Analysis of VSDC's Features and Its Best Software Rival for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-building-blocks-to-brilliance-crafting-circles-and-spheres-in-mc-for-2024/"><u>[Updated] Building Blocks to Brilliance Crafting Circles and Spheres in MC for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-clear-conferencing-backdrops-blurring-for-better-presence/"><u>[Updated] In 2024, Clear Conferencing Backdrops Blurring for Better Presence</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/add-pro-level-effects-to-your-videos-in-3-easy-steps-with-fcp-x/"><u>Add Pro-Level Effects to Your Videos in 3 Easy Steps with FCP X</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/audio-precision-with-mac-assistance/"><u>Audio Precision with Mac Assistance</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/cutting-edge-solutions-for-webmicrone-capture-with-these-9-tools-23/"><u>Cutting-Edge Solutions for Webmicrone Capture with These 9 Tools ('23)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-everything-uncovered-about-the-world-of-yt-shorts/"><u>In 2024, Everything Uncovered About the World of YT Shorts</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-15-pro-max-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-vn-video-editor-pro-the-ultimate-mobile-video-editing-solution-for-2024/"><u>New VN Video Editor Pro The Ultimate Mobile Video Editing Solution for 2024</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-video-game-tracker-assemblies/"><u>Prime Video Game Tracker Assemblies</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/ultimate-guide-resolving-the-binkw32dll-file-not-found-issue/"><u>Ultimate Guide: Resolving the Binkw32.dll File Not Found Issue</u></a></li>
 </ul></div>
 

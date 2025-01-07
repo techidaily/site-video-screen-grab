@@ -1,7 +1,7 @@
 ---
 title: "\"Organizing Virtual Gatherings  Syncing Slack with Filmora's Features\""
-date: 2024-11-15T00:33:50.542Z
-updated: 2024-11-20T04:11:40.658Z
+date: 2024-12-31T17:24:11.714Z
+updated: 2025-01-07T06:16:19.823Z
 tags: 
   - screen-recording
   - ai video
@@ -55,6 +55,10 @@ All it takes is a few clicks to schedule a meeting on Slack. And after you sched
 
 ![Schedule Slack Meeting](https://images.wondershare.com/filmora/article-images/schedule-slack-meeting.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4.The Slack meeting will be displayed in the chat instantly. You can click on the **Share** icon.
 
 ![Share Slack Meeting](https://images.wondershare.com/filmora/article-images/share-slack-meeting.jpg)
@@ -62,6 +66,10 @@ All it takes is a few clicks to schedule a meeting on Slack. And after you sched
 5.Choose a channel to share the Slack meeting or copy the link to paste in other workspaces.
 
 ![Choose Slack Channel](https://images.wondershare.com/filmora/article-images/choose-slack-channel.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Record Slack Meetings
 
@@ -79,27 +87,17 @@ Here is how you can record Slack meeting.
 
 ![Slack App Directory](https://images.wondershare.com/filmora/article-images/slack-app-directory.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3.Tap on **Add** **to** **Slack**.
 
 ![Add To Slack](https://images.wondershare.com/filmora/article-images/add-to-slack.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4.**Allow**Zoom to access your data and enable the app.
 
 ![Allow Zoom On Slack](https://images.wondershare.com/filmora/article-images/allow-zoom-on-slack.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5.Now, go to your workspace and type the **"/zoom"**command in the chatbox. Tap on the **Zoom** meeting tab.
 
@@ -114,15 +112,16 @@ Here is how you can record Slack meeting.
 ![Join Slack Meeting](https://images.wondershare.com/filmora/article-images/join-slack-meeting.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2080328/19272" target="_top" id="2080328">
-  <img src="//a.impactradius-go.com/display-ad/19272-2080328" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080328/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 8.Finally, tap on the **Record**icon to record Slack meeting. You can click on the **Pause** button or **Stop** to finish recording. Once the recording finishes, it will be automatically sent to your public or private channel(depending on the type of Slack meeting you scheduled).
 
 ![Record Slack Meeting](https://images.wondershare.com/filmora/article-images/record-slack-meeting.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Slack Video Call Settings
 
@@ -134,16 +133,13 @@ The settings tab in the video call enables you to create a name for the video ca
 
 ![Slack Video Call Settings](https://images.wondershare.com/filmora/article-images/slack-video-call-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918698/19272" target="_top" id="1918698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918698" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918698/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Moreover, if you wish to stay on mute and still engage with the speaker, just click on the emoji on the screen. Select from a variety of reactions or type a text message right on the video screen.
 
 ![Slack Emoji Message](https://images.wondershare.com/filmora/article-images/slack-emoji-message.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Conclusion
 
@@ -154,10 +150,7 @@ With this powerful tool and our guide at hand, you can transform your work life 
 ![author avatar](https://images.wondershare.com/filmora/article-images/shannon-cox.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Shanoon Cox
@@ -175,22 +168,22 @@ Follow @Shanoon Cox
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-polling-puzzle-platforms-leading-politic-simulations/"><u>[New] In 2024, Polling Puzzle Platforms Leading Politic Simulations</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-4-simplified-ways-to-screen-record-lenovo/"><u>[Updated] 4 Simplified Ways to Screen Record Lenovo</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-best-practices-for-efficient-slide-capture/"><u>[Updated] Best Practices for Efficient Slide Capture</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-covertly-engage-with-fb-live-feeds/"><u>[Updated] Covertly Engage with FB Live Feeds</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-expertly-selecting-the-best-tools-for-browser-content-capturing-for-2024/"><u>[Updated] Expertly Selecting the Best Tools for Browser Content Capturing for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-elite-gameplay-in-simulated-fluids-and-flows/"><u>[Updated] In 2024, Elite Gameplay in Simulated Fluids & Flows</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-hosting-youtube-webinars-for-no-charge/"><u>[Updated] In 2024, Hosting YouTube Webinars for No Charge</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-screenshot-supreme-in-depth-recorder-reviews-for-2024/"><u>[Updated] Screenshot Supreme In-Depth Recorder Reviews for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/ai-vs-se-future-search-landscape/"><u>AI vs SE: Future Search Landscape?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/alternative-tools-that-outperform-sharex/"><u>Alternative Tools That Outperform ShareX</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/comprehensively-capturing-your-messenger-conversations-for-2024/"><u>Comprehensively Capturing Your Messenger Conversations for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/data-recovery-recover-lost-data-from-blaze-2-5g-by-fonelab-android-recover-data/"><u>Data Recovery – recover lost data from Blaze 2 5G</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/get-the-new-insignia-ethernet-usb-cable-driver-for-seamless-connection/"><u>Get the New Insignia Ethernet-USB Cable Driver for Seamless Connection</u></a></li>
-<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-8-plus-to-other-iphone-11-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 8 Plus to other iPhone 11 devices? | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/the-ultimate-guide-to-vimeo-record-features/"><u>The Ultimate Guide to Vimeo Record Features</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Oppo A78 5G | Dr.fone</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/top-ranked-hevc-h265-video-encoders-for-mac-optimized-hq-conversion/"><u>Top-Ranked HEVC (H.265) Video Encoders for Mac : Optimized HQ Conversion</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-streamline-live-4-proven-recording-techniques-for-fb-for-2024/"><u>[New] Streamline Live 4 Proven Recording Techniques for FB for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-top-6-clearcut-android-recorder-options-no-ads-for-2024/"><u>[New] Top 6 Clearcut Android Recorder Options (No Ads) for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-quiet-quick-clean-auditory-connections/"><u>[Updated] 2024 Approved Quiet, Quick, Clean Auditory Connections</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-leading-8-screenshot-solutions-without-hesitation-for-2024/"><u>[Updated] Leading 8 Screenshot Solutions Without Hesitation for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-expert-insights-into-mov-file-recording-on-latest-win-11-edition/"><u>2024 Approved Expert Insights Into .MOV File Recording on Latest Win 11 Edition</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-tricks-to-enhance-your-ppt-impact-on-google-meet-any-device/"><u>2024 Approved Tricks to Enhance Your PPT Impact on Google Meet, Any Device</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/androids-premier-music-video-experience-6-picks-for-2024/"><u>Android's Premier Music Video Experience 6 Picks for 2024</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/automated-conversion-tracking-with-the-help-of-cookiebot/"><u>Automated Conversion Tracking with the Help of Cookiebot</u></a></li>
+<li><a href="https://facebook.techidaily.com/crafting-compelling-stories-for-smm-through-ripl/"><u>Crafting Compelling Stories for SMM Through Ripl</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/easy-steps-for-ipad-video-capture/"><u>Easy Steps for iPad Video Capture</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-remove-screen-lock-pin-on-xiaomi-14-ultra-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Xiaomi 14 Ultra Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-meizu-21-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Meizu 21 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-lens-lockdown-top-rated-phone-friendly-tripods/"><u>In 2024, Lens Lockdown Top-Rated Phone-Friendly Tripods</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/instant-record-and-commentary-assistive-software-for-2024/"><u>Instant Record & Commentary Assistive Software for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/pre-upgrade-knowledge-key-elements-explained/"><u>Pre-Upgrade Knowledge Key Elements Explained</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/unraveling-sharex-professional-perspectives-and-picks/"><u>Unraveling ShareX Professional Perspectives & Picks</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Live Online Learning Captures\""
-date: 2024-10-29T20:21:03.115Z
-updated: 2024-11-02T19:21:59.503Z
+date: 2025-01-03T09:40:14.435Z
+updated: 2025-01-07T01:45:16.950Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ A career is a journey on which we are continually learning and developing new sk
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -49,10 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Record Webinars
@@ -74,16 +75,7 @@ Select the Quick Capture option in the software's welcome screen and proceed to 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/setup-screen.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Enabling the Camera option will allow you to capture your screen simultaneously while recording a video with your webcam. This option is particularly useful for people that want to create a webinar that also features them as narrators.
@@ -94,18 +86,15 @@ The Audio option contains Microphone and Computer audio options that can be used
 
 ![Filmora scrn setup](https://images.wondershare.com/filmora/guide/scrn-record-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 In order to start recording your webinar, you just need to click on the Record button. Filmora Scrn also allows you to record your **webcam** and your **secondary display**, which is very convenient for webinar recording. During the session, you can add [markers](https://tools.techidaily.com/wondershare/filmora/download/) to the footage you're producing by pressing the F8 key on your keyboard or pause the session with the F9 key.
 
 #### 4. Editing a webinar
 
 ![Filmora scrn  ](https://images.wondershare.com/filmora/article-images/filmora-scrn-editing-interface.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151864/7443" target="_top" id="2151864">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151864" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151864/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can stop recording by hitting the F10 key on the keyboard again, and once you complete the recording session, the video file you created will be automatically imported into Filmora Scrn's video editor. Removing the parts of the video you don't want to feature in the final cut of your webinar or adding fade in and fade out effects can be accomplished with only a few clicks. Furthermore, the Filmora Scrn video editor allows you to remove the background noises, alter the playback speed of the video or add multiple layers to your videos.
 
@@ -113,18 +102,15 @@ You can stop recording by hitting the F10 key on the keyboard again, and once yo
 
 ![Filmora scrn export](https://images.wondershare.com/filmora/article-images/filmora-scrn-export.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Click on the Export button after you've finished editing your webinar and proceed to select the location on the hard drive where your video will be saved, file format or the resolution of the video. Alternatively, you can upload the webinar to YouTube, Vimeo, Facebook or Twitch directly from Filmora Scrn.
 
 Following these simple steps will help you produce insightful and well-rounded webinars that will attract a lot of attention online.
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-rose-win.png)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-rose-mac.png)](https://tools.techidaily.com/wondershare/filmora/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Tips for Recording Webinars
 
@@ -149,19 +135,16 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/updated-2024-approved-unlocking-the-secrets-of-premium-insta-tunes-a-complete-guide/"><u>[Updated] 2024 Approved Unlocking the Secrets of Premium Insta Tunes A Complete Guide</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-growing-greatness-valheims-finest-sprouts-selection/"><u>[Updated] Growing Greatness Valheim's Finest Sprouts Selection</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-revolutionize-your-gaming-by-recording-on-win10/"><u>2024 Approved Revolutionize Your Gaming by Recording on Win10</u></a></li>
-<li><a href="https://extra-information.techidaily.com/exploring-lgs-27ud68-4k-freesync-tv-reviews/"><u>Exploring LG's 27UD68 4K FreeSync TV Reviews</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-best-5-professional-drones-you-can-buy/"><u>In 2024, Best 5 Professional Drones You Can Buy</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-detailed-review-of-doctorsim-unlock-service-for-iphone-11-pro-by-drfone-ios/"><u>In 2024, Detailed Review of doctorSIM Unlock Service For iPhone 11 Pro</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-game-changing-strategies-for-effective-video-capture/"><u>In 2024, Game-Changing Strategies for Effective Video Capture</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-nubia-red-magic-8s-proplus-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Nubia Red Magic 8S Pro+ Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-melody-manual-grab-listen-and-scrutinize-songs/"><u>In 2024, Melody Manual Grab, Listen & Scrutinize Songs</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-factory-reset-hacks-no-reliance-on-itunes-required/"><u>IPhone Factory Reset Hacks: No Reliance on iTunes Required</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/radeon-remembrance-set/"><u>Radeon Remembrance Set</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-latest-in-video-capturing-apeaksoft-2023-edition-analysis-for-2024/"><u>The Latest in Video Capturing Apeaksoft 2023 Edition Analysis for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/the-secret-lives-of-messages-exploring-whatsapp-hidden-features-for-2024/"><u>The Secret Lives of Messages Exploring WhatsApp Hidden Features for 2024</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Samsung Galaxy F04? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-circle-construction-techniques-for-the-aspiring-minecraft-artist-for-2024/"><u>[New] Circle Construction Techniques for the Aspiring Minecraft Artist for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-the-ultimate-list-of-superior-live-streaming-services-for-2024/"><u>[New] The Ultimate List of Superior Live Streaming Services for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-a-comprehensive-guide-to-making-gifs-from-youtube-tracks-for-2024/"><u>[Updated] A Comprehensive Guide to Making GIFs From YouTube Tracks for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-split-screen-audio-logging/"><u>[Updated] In 2024, Split Screen Audio Logging</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-snap-and-save-your-android-no-price-tag/"><u>[Updated] Snap & Save Your Android - No Price Tag</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-erase-apple-iphone-12-mini-when-its-locked-within-seconds-by-drfone-ios/"><u>3 Ways to Erase Apple iPhone 12 mini When Its Locked Within Seconds</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/extract-and-play-fb-soundtracks-for-2024/"><u>Extract and Play FB Soundtracks for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-oppo-find-x6-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Oppo Find X6 Pro | Dr.fone</u></a></li>
+<li><a href="https://windows11.techidaily.com/instant-permadelete-configuring-your-desktop-trash-bin-on-windows-11-devices/"><u>Instant PermaDelete: Configuring Your Desktop Trash Bin on Windows 11 Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/screensnap-sage-mastering-captures-technology-for-2024/"><u>ScreenSnap Sage Mastering Captures Technology for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/unlock-your-device-icloud-dns-bypass-explained-and-tested-plus-easy-alternatives-from-apple-iphone-12-pro-by-drfone-ios/"><u>Unlock Your Device iCloud DNS Bypass Explained and Tested, Plus Easy Alternatives From Apple iPhone 12 Pro</u></a></li>
 </ul></div>
 
