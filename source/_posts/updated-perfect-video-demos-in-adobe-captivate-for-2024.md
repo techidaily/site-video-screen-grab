@@ -1,7 +1,7 @@
 ---
 title: "[Updated] Perfect Video Demos in Adobe Captivate for 2024"
-date: 2025-01-02T00:48:10.146Z
-updated: 2025-01-07T02:17:43.722Z
+date: 2025-01-09T17:14:17.984Z
+updated: 2025-01-13T20:19:09.162Z
 tags: 
   - screen-recording
   - ai video
@@ -31,6 +31,10 @@ To make things even better, the Adobe Captivate software is compatible with all 
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -49,7 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## How to Record a Video Presentation Using Adobe Captivate
@@ -62,10 +66,6 @@ Double-click on Adobe Captivate's desktop icon to launch the software, and then 
 
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Click on the Demo option in the Adobe Captivate's welcome window, and then click on the Create button in the lower right corner of the screen.
 
 #### Step 2 - Select the application and designate the area of the screen you'd like to record
@@ -75,7 +75,7 @@ After you click on the Create button, a new window will appear on the screen. In
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 In the Snap To section of the window, you'll be able to choose between Application Window, Application Region, and Custom Size options. Select the feature that best meets the demands of the project you are working on, and then click on the Panning drop down menu if you would like to add the panning effect to the video recording you are creating. The Audio feature lets you record both narration and system audio.
@@ -87,7 +87,7 @@ Click on the Settings button if you wish to change the destination on your hard-
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-start.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 When the new window opens, click on the Browse icon next to the Working Folder feature, and select insert the new destination folder for your video. Above the Working Folder option is the Show Mouse in Video Demo Mode checkbox, make sure it is marked if you want the mouse cursor to be visible in the video and click OK to confirm the changes you've made.
@@ -101,7 +101,7 @@ Upon the completion of the video recording session, the Publish Video Demo windo
 ![ Adobe Captivate Recording Video ](https://images.wondershare.com/filmora/article-images/adobe-captivate-video-recording-post.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You'll also be able to set the preferred frame rate, encoding option and aspect ratio. Click on the Publish button after you've adjusted all the settings in accordance with the demands of your project.
@@ -127,19 +127,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-harvest-hits-the-next-level-of-virtual-farms/"><u>[New] Harvest Hits The Next Level of Virtual Farms</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-ideal-choice-best-free-reliable-mac-screenshot-tools-for-2024/"><u>[New] Ideal Choice Best Free, Reliable Mac Screenshot Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-bridging-the-gap-incorrancing-youtube-links-within-presentation-software/"><u>[New] In 2024, Bridging the Gap Incorrancing YouTube Links Within Presentation Software</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/1715937806424-new-in-2024-how-to-capture-your-nintendo-switch-game-video/"><u>[New] In 2024, How to Capture Your Nintendo Switch Game Video</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-playbook-for-exceptional-obs-studio-content/"><u>[New] In 2024, The Ultimate Playbook for Exceptional OBS Studio Content</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/new-navigating-the-best-10-vector-stock-pools-for-2024/"><u>[New] Navigating the Best 10 Vector Stock Pools for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-openplayclip-your-free-pass-to-perfect-gamers-recordings/"><u>[New] OpenPlayClip Your Free Pass to Perfect Gamers' Recordings</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-pioneering-playgrounds-of-action-adventure-classics-top-10-for-2024/"><u>[New] Pioneering Playgrounds of Action-Adventure Classics (Top 10) for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-leading-synthetic-ps3-games-for-pc-gamers/"><u>2024 Approved Leading Synthetic PS3 Games for PC Gamers</u></a></li>
-<li><a href="https://fox-that.techidaily.com/9-effective-tricks-to-restore-natural-colors-to-yellowish-iphone-displays/"><u>9 Effective Tricks to Restore Natural Colors to Yellowish iPhone Displays</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-x-sound-engineer-edition-pc/"><u>In 2024, X-Sound Engineer Edition - PC</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/reddit-user-bio-image-guide-size-in-pixels-type-length/"><u>Reddit User Bio Image Guide Size in Pixels, Type, Length</u></a></li>
-<li><a href="https://win11.techidaily.com/windows-11-pin-glitches-quick-remedies/"><u>Windows 11 PIN Glitches: Quick Remedies</u></a></li>
-<li><a href="https://discover-alternatives.techidaily.com/worldwide-expansion-abbyys-strategic-restructure-to-accelerate-international-progress-company-statement/"><u>Worldwide Expansion: ABBYY's Strategic Restructure to Accelerate International Progress - Company Statement</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/01851781-new-2024-approved-banner-bonanza-unlimited-50-free-youtube-designs/"><u>[New] 2024 Approved Banner Bonanza Unlimited 50 FREE YouTube Designs!</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-seize-the-day-documenting-games-on-samsung-phones/"><u>[New] Seize the Day! Documenting Games on Samsung Phones</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-techniques-for-accurate-ps3-playback-rendering-for-2024/"><u>[New] Techniques for Accurate PS3 Playback Rendering for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-from-surviving-to-conquering-top-zombie-games-decoded/"><u>[Updated] 2024 Approved From Surviving to Conquering Top Zombie Games Decoded</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-screenshot-or-record-of-whats-showing-on-your-mac-for-2024/"><u>[Updated] How to Screenshot or Record of What's Showing On Your Mac for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-realtime-replay-recorder/"><u>[Updated] In 2024, RealTime Replay Recorder</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-unleashing-the-power-of-fbx-for-in-game-capture/"><u>[Updated] In 2024, Unleashing the Power of FBX for In-Game Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-unlocking-desktop-recording-the-ezvide-approach/"><u>[Updated] In 2024, Unlocking Desktop Recording - The EZvide Approach</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-maximizing-virtual-reality-potential/"><u>[Updated] Maximizing Virtual Reality Potential</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-essential-guide-to-simple-iphone-screen-recording/"><u>[Updated] The Essential Guide to Simple Iphone Screen Recording</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-ultimate-technique-for-capturing-hulu-playbacks/"><u>[Updated] The Ultimate Technique for Capturing Hulu Playbacks</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-video-capture-crusade-obs-vs-shadowcast-for-2024/"><u>[Updated] Video Capture Crusade OBS Vs ShadowCast for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-visionary-studios-pioneering-next-gen-virtual-realms/"><u>2024 Approved Visionary Studios Pioneering Next-Gen Virtual Realms</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-methods-to-mirror-oppo-f25-pro-5g-to-roku-drfone-by-drfone-android/"><u>3 Methods to Mirror Oppo F25 Pro 5G to Roku | Dr.fone</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/harmonic-harvest-best-sites-for-classical-tones-downloads-for-2024/"><u>Harmonic Harvest Best Sites for Classical Tones Downloads for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-t2x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo T2x 5G | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-excellent-8-tripods-ideal-for-4k-camera-shooting/"><u>In 2024, Excellent 8 Tripods Ideal for 4K Camera Shooting</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/konvertierung-zu-mp4-perfekt-fur-die-veroffentlichung-auf-instagram-schnelle-und-einfache-instagram-video-converter/"><u>Konvertierung Zu MP4: Perfekt Für Die Veröffentlichung Auf Instagram - Schnelle Und Einfache Instagram-Video-Converter</u></a></li>
+<li><a href="https://fox-access.techidaily.com/mkv-playback-mac-app-selection-guide/"><u>MKV Playback Mac App Selection Guide</u></a></li>
 </ul></div>
 

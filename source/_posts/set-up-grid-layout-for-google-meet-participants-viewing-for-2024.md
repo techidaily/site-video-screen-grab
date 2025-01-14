@@ -1,7 +1,7 @@
 ---
 title: "Set Up Grid Layout for Google Meet Participants' Viewing for 2024"
-date: 2025-01-06T02:41:09.148Z
-updated: 2025-01-07T09:03:23.556Z
+date: 2025-01-09T19:36:51.689Z
+updated: 2025-01-14T00:00:36.323Z
 tags: 
   - screen-recording
   - ai video
@@ -48,7 +48,7 @@ Click on the **three dots** at the bottom of the screen. Select **change layout*
 ![Google Meet change layout](https://images.wondershare.com/filmora/article-images/google-meet-change-layout.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3: Expand View**
@@ -58,10 +58,6 @@ Use a slider to increase or decrease the number of participants you want to see.
 **Note:** The slider can expand the view up to 49 participants.
 
 ![Google Meet change enable tiled view](https://images.wondershare.com/filmora/article-images/enable-tiled-view-to-view-participants.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Enable Grid View on Google Meet Mobile Apps?
 
@@ -75,11 +71,19 @@ Click on the **three dots** and enable the **desktop site** option from the menu
 
 ![Google Meet mobile view all participants](https://images.wondershare.com/filmora/article-images/enable-desktop-site-google-meet-browser-mobile.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 2: Change layout Enable tiled view to view up to 49 people at the same time**
 
 Click on the **three dots** at the bottom right corner and select **change layout.**
 
 ![Google Meet change tiled view ](https://images.wondershare.com/filmora/article-images/change-google-meet-layout-tiled-view.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Ask someone else to share the screen
 
@@ -99,10 +103,6 @@ Tap **add an extension** in the pop-up confirmation message. The installed exten
 
 ![Google Meet view all extension ](https://images.wondershare.com/filmora/article-images/install-google-meet-grid-view-extension.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 2 : Create or join a meeting room in a Google Meet**
 
 Open Google Meet and click **new meeting** or enter the invitation code. Wait for all participants to join the meeting.
@@ -116,7 +116,7 @@ Click on the **extension** at the top right of the screen corner and tick the **
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-extension.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to Fix Google Meet Grid View Not Working Issue?
@@ -135,15 +135,15 @@ Open Google Chrome and click on the **three dots** at the top right corner. Choo
 
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/google-meet-grid-view-extension-developer-mode.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3 : Check the working in Google Meet**
 
 Click **new meeting** in the Google Meet. **Tap enable grid view** when you want to see all participants in the meeting.
 
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-troubleshooting.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Frequently Asked Questions About See Everyone on Google Meet
 
@@ -166,7 +166,7 @@ Sometimes, it becomes essential to make all participants visible in the grid. Fo
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -184,22 +184,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-cutting-edge-tools-for-youtube-screen-capturing/"><u>[New] Cutting-Edge Tools for YouTube Screen Capturing</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-elevate-your-ios-experience-top-5-ps2-simulators/"><u>[New] In 2024, Elevate Your iOS Experience Top 5 PS2 Simulators</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-linuxs-best-pick-screen-capture-and-save-tools/"><u>[New] In 2024, Linux's Best Pick Screen Capture & Save Tools</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-techniques-for-gh-video-logging/"><u>[Updated] 2024 Approved Techniques for GH Video Logging</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-capturing-live-discussions-iphoneandroids-screen-recording/"><u>[Updated] Capturing Live Discussions IPhone/Android's Screen Recording</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-aesir-clash-in-the-shadow-of-ragnarok/"><u>[Updated] In 2024, Aesir Clash In the Shadow of Ragnarok</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-vlc-video-recording-performance-study/"><u>[Updated] In 2024, VLC Video Recording Performance Study</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-8-best-screen-recorders-with-no-lag-for-2024/"><u>[Updated] Top 8 Best Screen Recorders with No Lag for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-become-a-veterinarian-on-android-12-great-simulators/"><u>2024 Approved Become a Veterinarian on Android 12 Great Simulators</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/1715859704084-2024-approved-capture-share-enjoy/"><u>2024 Approved Capture, Share, Enjoy!</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/comprehensive-guide-to-the-portable-kensun-tire-filler-solid-performance-in-a-small-package/"><u>Comprehensive Guide to the Portable Kensun Tire Filler: Solid Performance in a Small Package</u></a></li>
-<li><a href="https://fox-http.techidaily.com/elevate-your-visuals-the-definitive-guide-to-zooming-with-videoleap-for-2024/"><u>Elevate Your Visuals The Definitive Guide to Zooming With Videoleap for 2024</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/erasing-your-presence-on-chatgpt-a-comprehensive-tutorial/"><u>Erasing Your Presence on ChatGPT – A Comprehensive Tutorial</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fake Snapchat Location on Tecno Phantom V Flip | Dr.fone</u></a></li>
-<li><a href="https://win-answers.techidaily.com/1726029591951-pc-iphone-and-android/"><u>PC, iPhone & Androidで動画画像サイズ調整手順</u></a></li>
-<li><a href="https://win-workspace.techidaily.com/troubleshooting-your-scanner-identifying-the-reasons-behind-low-quality-image-output-expertise-from-yl-computings-digital-solutions/"><u>Troubleshooting Your Scanner: Identifying the Reasons Behind Low-Quality Image Output - Expertise From YL Computing's Digital Solutions</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-tutorial-establishing-an-oculus-medium-meta-quest-2-user-id/"><u>Ultimate Tutorial: Establishing an Oculus Medium (Meta) Quest 2 User ID</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-cutting-edge-techniques-for-youtube-thumbnails-made-for-macos/"><u>[New] 2024 Approved Cutting-Edge Techniques for YouTube Thumbnails, Made for macOS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-instagram-live-with-professional-obs/"><u>[New] Instagram Live with Professional OBS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-elevate-video-editing-expert-use-of-obs-on-mobile-devices/"><u>[Updated] Elevate Video Editing Expert Use of OBS on Mobile Devices</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-bringing-youtube-home-to-your-instagram-story/"><u>[Updated] In 2024, Bringing YouTube Home to Your Instagram Story</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-smartest-devices-to-modify-your-speech-on-the-go/"><u>[Updated] In 2024, Smartest Devices to Modify Your Speech on the Go</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-optimal-aspect-ratios-for-video-production-for-2024/"><u>[Updated] Optimal Aspect Ratios for Video Production for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-pixicapture-studio-winos-series/"><u>[Updated] PixiCapture Studio WinOS Series</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-prime-collection-of-effortless-phone-apps/"><u>[Updated] Prime Collection of Effortless Phone Apps</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-screen-time-secrets-in-depth-recorder-guide/"><u>[Updated] Screen Time Secrets In-Depth Recorder Guide</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-unlocking-the-secrets-to-effective-screen-capturing-with-apeaksoft/"><u>[Updated] Unlocking the Secrets to Effective Screen Capturing with Apeaksoft</u></a></li>
+<li><a href="https://win11.techidaily.com/iphonespecific-quicktime/"><u>IPhonespecific QuickTimeムービー視聴・再生に支障があります - 解消策</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/live-event-success-expertly-selecting-5-recording-hardware-for-2024/"><u>Live Event Success Expertly Selecting 5 Recording Hardware for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/navigating-the-wonders-of-obs-on-android-devices-for-2024/"><u>Navigating the Wonders of OBS on Android Devices for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/precision-at-a-glance-elevate-your-hp-laptop-recording-skills/"><u>Precision at a Glance Elevate Your HP Laptop Recording Skills</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ps5-storage-revamped-topping-10-external-units/"><u>PS5 Storage Revamped Topping 10 External Units</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-issues-with-starfield-game-not-starting-on-steam-or-xbox-a-comprehensive-guide/"><u>Resolving Issues with Starfield Game Not Starting on Steam or Xbox: A Comprehensive Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/turbocharging-your-pcs-download-speed-with-steam/"><u>Turbocharging Your PC's Download Speed with Steam</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/unveiling-the-secrets-of-montage-image-assembly-for-2024/"><u>Unveiling the Secrets of Montage Image Assembly for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/usb-c-compatibility-essential-drivers-for-windows-11-users/"><u>USB-C Compatibility: Essential Drivers for Windows 11 Users</u></a></li>
 </ul></div>
 
