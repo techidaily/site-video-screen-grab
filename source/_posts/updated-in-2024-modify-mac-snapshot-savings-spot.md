@@ -1,7 +1,7 @@
 ---
 title: "[Updated] In 2024, Modify Mac Snapshot Savings Spot"
-date: 2024-12-31T02:13:44.641Z
-updated: 2025-01-06T18:23:01.619Z
+date: 2025-01-14T03:35:49.083Z
+updated: 2025-01-20T00:34:41.910Z
 tags: 
   - screen-recording
   - ai video
@@ -32,7 +32,7 @@ Here's how you can change the location where the screenshots you take using the 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### The All-in-One Screen Recorder & Video Editor
@@ -53,7 +53,7 @@ For macOS 10.12 or later
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 1: How to Save Screenshots to a Specific Folder on Mac
@@ -63,7 +63,7 @@ Changing the folder where you store your screenshots is not an irreversible proc
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Create a new folder on the desired location on your hard drive, and then launch Terminal, by typing Terminal in the Search Box and clicking on its icon. Once the app is open, you should insert the following command into the Terminal window:
@@ -75,7 +75,7 @@ Then enter a space at the end after 'location'.
 ![ Mac Screenshots](https://images.wondershare.com/filmora/article-images/mac-screenshot-terminal-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 The next step is to add the new location at which screenshots will be saved and you can do this by simply dragging the folder you created into Terminal and adding it at the end of the command you just entered. A path is created and the command line should now contain the folder's unique location and it should look like this:
@@ -88,6 +88,10 @@ To execute the command you have to press Enter. After Terminal finishes running 
 
 Hit Enter once more to confirm the changes and run the new command. Close Terminal app by clicking on the Terminal menu and selecting the Quick Terminal option. The default location where the screenshots are saved on your Mac is now changed and every time you take a screenshot using the Command + Shift + 3 shortcut the file will be saved at the new location. If for whatever reason you want to make the Desktop once again the destination where the screenshots on your computer will be saved here's how you can do it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Change the Screenshot Save Location Back to Desktop
 
 The process of changing the default screenshot save location back to Desktop is nearly identical to the process we just described. You just have to open the Terminal app and insert the following command into the prompt.
@@ -99,10 +103,6 @@ Make sure that your username is properly written, and then press Enter to run th
 Don't forget that deleting the folder you use as a default location for storing screenshots should only be done using the process we just described in the Terminal application, since all other methods may cause unnecessary trouble.
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/max-wales-author.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Max Wales
 
@@ -119,16 +119,24 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/ow-to-convert-youtube-views-into-cash-through-ads/"><u>[New] How to Convert YouTube Views Into Cash Through Ads</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-screencasting-guide-what-is-and-how-to/"><u>[Updated] 2024 Approved Screencasting Guide What Is and How To</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-command-center-conundrums-deciphering-best-cloud-solutions/"><u>[Updated] Command Center Conundrums Deciphering Best Cloud Solutions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-how-to-hit-the-high-notes-in-capturing-twitch-live-events-for-2024/"><u>[Updated] How to Hit the High Notes in Capturing Twitch Live Events for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/audio-preservation-for-academics-on-apple-systems-for-2024/"><u>Audio Preservation for Academics on Apple Systems for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-redmi-k70e-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi Redmi K70E?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-choosing-your-stage-obs-or-twitch-pro/"><u>In 2024, Choosing Your Stage OBS or Twitch Pro</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-apple-id-and-apple-password-on-apple-iphone-13-pro-max-by-drfone-ios/"><u>In 2024, How to Reset Apple ID and Apple Password On Apple iPhone 13 Pro Max</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/protect-yourself-from-these-5-notorious-chatgpt-scams/"><u>Protect Yourself From These 5 Notorious ChatGPT Scams</u></a></li>
-<li><a href="https://win11.techidaily.com/reclaim-sight-of-sd-card-in-windows-filesystem/"><u>Reclaim Sight of SD Card in Windows Filesystem</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/unlock-iphone-14-pro-max-with-forgotten-passcode-different-methods-you-can-try-by-drfone-ios/"><u>Unlock iPhone 14 Pro Max With Forgotten Passcode Different Methods You Can Try</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-innovateimages-ai-next-level-editing-excellence/"><u>[New] 2024 Approved InnovateImages AI Next-Level Editing Excellence</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-essential-enhancements-for-a-superstar-stardew-fan/"><u>[New] 2024 Approved The Essential Enhancements for a Superstar Stardew Fan</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-unlocking-screen-capture-mastery-in-windows-os/"><u>[New] 2024 Approved Unlocking Screen Capture Mastery in Windows OS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-budget-friendly-hd-video-capturing-for-home-studios/"><u>[New] Budget-Friendly HD Video Capturing for Home Studios</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-high-definition-capture-best-pc-cameras-for-windows-11/"><u>[New] High Definition Capture Best PC Cameras for Windows 11</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-comprehensively-reviewing-youtubes-restrictions-vs-cc-flexibility/"><u>[Updated] 2024 Approved Comprehensively Reviewing YouTube's Restrictions Vs. CC Flexibility</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-pure-image-no-clutter-webcam-recording-edit/"><u>[Updated] 2024 Approved Pure Image, No Clutter - Webcam Recording Edit</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-vidma-to-go-screen-record-and-beyond-alternatives-for-2024/"><u>[Updated] Vidma to Go Screen Record and Beyond Alternatives for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-conducting-the-crescendo-infusing-instagram-reels-with-sounds/"><u>2024 Approved Conducting the Crescendo Infusing Instagram Reels with Sounds</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-unlock-professional-editing-techniques-in-fcp/"><u>2024 Approved Unlock Professional Editing Techniques in FCP</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/chronicle-your-conquests-with-galaxy-screen-captures-for-2024/"><u>Chronicle Your Conquests with Galaxy Screen Captures for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/crafting-effective-in-stream-ad-campaigns-on-facebook-a-comprehensive-guide-for-2024/"><u>Crafting Effective In-Stream Ad Campaigns on Facebook A Comprehensive Guide for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/elite-arena-top-10-royale-game-spectacles/"><u>Elite Arena Top 10 Royale Game Spectacles</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-insights-into-the-latest-apple-watch-series-9-reviewed/"><u>Expert Insights Into the Latest Apple Watch – Series 9 Reviewed</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-fake-snapchat-location-on-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Fake Snapchat Location on Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-how-to-stream-on-youtube-and-twitch-with-obs/"><u>In 2024, How to Stream on YouTube & Twitch with OBS</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-sim-unlock-honor-magic-5-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>In 2024, Sim Unlock Honor Magic 5 Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-verdict-on-screen-recording-does-obs-surpass-fraps/"><u>In 2024, The Verdict on Screen Recording Does OBS Surpass Fraps?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/navigating-screen-recordings-with-gotomeeting/"><u>Navigating Screen Recordings with GoToMeeting</u></a></li>
 </ul></div>
 
