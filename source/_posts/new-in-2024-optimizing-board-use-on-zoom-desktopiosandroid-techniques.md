@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Optimizing Board Use on Zoom - Desktop/iOS/Android Techniques\""
-date: 2025-01-12T23:05:19.994Z
-updated: 2025-01-19T23:01:55.977Z
+date: 2025-01-24T16:19:19.089Z
+updated: 2025-01-25T19:13:57.405Z
 tags: 
   - screen-recording
   - ai video
@@ -54,6 +54,10 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 
 ![Zoom Meeting Whiteboard Annotations](https://images.wondershare.com/filmora/article-images/select-screen-to-share-on-zoom.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Check the [Zoom Screen Sharing Guide](https://tools.techidaily.com/wondershare/filmora/download/) to learn more details.
 
 #### Step 3: Use Annotation Tools
@@ -63,7 +67,7 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 ![Zoom Meeting Whiteboard Annotations Interface](https://images.wondershare.com/filmora/article-images/zoom-screen-sharing-whiteboard-interface.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Step 4: Zoom Annotation Settings
@@ -73,10 +77,6 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
  If you want to save the whiteboard, click the **Save**  icon to save your whiteboard in the **Documents**  \> **Zoom**  folder. If you want to share a new screen or your desktop screen, just click the **New Share**  button from the Zoom meeting panel, and choose a second object to share it with the viewers.
 
 ![Zoom Meeting Whiteboard Share New Screen](https://images.wondershare.com/filmora/article-images/new-share-in-screen-sharing.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  To stop sharing your **whiteboard on Zoom**  temporarily or permanently, click **Pause Share**  or **Stop Share**  from the meeting panel that appears when you hover mouse to the top of the screen respectively.
 
@@ -103,7 +103,7 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 **Note:**  You can tap the **Close**  icon from the top-left corner of the screen to get back to the main window, and then tap **Stop Share**  from the bottom to stop sharing **whiteboard on Zoom**  meeting.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Use Whiteboard During Zoom Cloud Meeting on iOS
@@ -122,6 +122,10 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 
 **Note:**  Process of doing other things including clearing your annotations or ending the meeting remains the same for both Android and iOS platforms.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Frequently Asked Questions About Zoom Whiteboard
 
 #### 1\. Can we share multiple whiteboards in a meeting?
@@ -131,7 +135,7 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 ![Zoom Cloud Meeting Whiteboard on Android](https://images.wondershare.com/filmora/article-images/zoom-meeting-share-multiple-screens.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### 2\. Why can’t I see the Annotation tools?
@@ -150,10 +154,6 @@ thumbnail: https://thmb.techidaily.com/056b5dc5bf38553fc5e62980ac558058cdfef6fae
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -169,22 +169,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-clearshot-suite-high-quality-windows/"><u>[New] 2024 Approved ClearShot Suite - High-Quality Windows</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-navigating-video-production-with-captivate/"><u>[New] 2024 Approved Navigating Video Production with Captivate</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-ideal-echo-chamber-recorders/"><u>[New] In 2024, Ideal Echo Chamber Recorders</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/new-turn-a-flood-of-fails-into-success-with-precision-in-tiktok-editing/"><u>[New] Turn a Flood of Fails Into Success with Precision in TikTok Editing</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-unboundscreen-capturing-every-gaming-moment-for-free/"><u>[New] UnboundScreen Capturing Every Gaming Moment for FREE</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-step-by-step-strategy-for-unearthing-secret-youtube-videos/"><u>[Updated] 2024 Approved Step-by-Step Strategy for Unearthing Secret YouTube Videos</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-8-safe-online-collaboration-software-for-businesses/"><u>[Updated] 2024 Approved Top 8 Safe Online Collaboration Software for Businesses</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-gelato-gaze-guide-thorough-analysis-and-detailed-instructions-on-ice-cream-monitoring/"><u>[Updated] In 2024, Gelato Gaze Guide Thorough Analysis & Detailed Instructions on Ice Cream Monitoring</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-ultimate-guide-powerdirectors-2024-mastery-edition/"><u>[Updated] Ultimate Guide PowerDirector's 2024 Mastery Edition</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-views-for-livelihood-mastering-youtubes-true-numbers/"><u>[Updated] Views for Livelihood Mastering YouTube's True Numbers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/captureconductor-review-a-dive-into-the-best-recording-software/"><u>CaptureConductor Review A Dive Into the Best Recording Software</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/clear-cut-strategies-transferring-your-imovie-work-to-vimeo/"><u>Clear-Cut Strategies Transferring Your iMovie Work to Vimeo</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/crafting-visual-wonders-the-art-of-3d-text-in-psartwork/"><u>Crafting Visual Wonders The Art of 3D Text in PSArtwork</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discover-the-recent-advances-updated-copernic-image-finding-tool-for-greater-efficiency/"><u>Discover the Recent Advances: Updated Copernic Image Finding Tool for Greater Efficiency</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/how-do-you-play-mov-files-on-galaxy-s23-ultra-by-aiseesoft-video-converter-play-mov-on-android/"><u>How do you play .mov files on Galaxy S23 Ultra ?</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-cutting-edge-liquid-simulations-for-gamers/"><u>In 2024, Cutting Edge Liquid Simulations for Gamers</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-the-ultimate-tech-manual-for-saving-web-streamed-television/"><u>In 2024, The Ultimate Tech Manual for Saving Web-Streamed Television</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-ultimate-guide-to-iphoneipad-screenshot-tools/"><u>[New] 2024 Approved The Ultimate Guide to iPhone/iPad Screenshot Tools</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-iosandroid-tips-attaching-audio-posters-on-facebook/"><u>[New] In 2024, IOS/Android Tips Attaching Audio Posters on Facebook</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-professional-techniques-editing-and-saving-movies-in-win-11/"><u>[New] In 2024, Professional Techniques Editing and Saving Movies in Win 11</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-record-android-internal-sound-4-non-root-methods/"><u>[New] Record Android Internal Sound 4 Non-Root Methods</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unlocking-the-secrets-of-instagrams-music-rights-management/"><u>[New] Unlocking the Secrets of Instagram's Music Rights Management</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-learn-the-easy-tricks-for-eliminating-unwanted-youtube-content-pcmobile/"><u>[Updated] 2024 Approved Learn the Easy Tricks for Eliminating Unwanted Youtube Content (PC/Mobile)</u></a></li>
+<li><a href="https://common-error.techidaily.com/astro-a40-microphone-malfunction-heres-how-you-can-fix-it-now/"><u>Astro A40 Microphone Malfunction? Here’s How You Can Fix It Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/boost-win11-efficiency-smart-wmi-host-management/"><u>Boost Win11 Efficiency: Smart WMI Host Management</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/effortlessly-formulating-cohesive-skype-chats-across-windowsmac-platforms-for-2024/"><u>Effortlessly Formulating Cohesive Skype Chats Across Windows/Mac Platforms for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-professional-grade-4k8k-video-editing-the-top-software-choices/"><u>New Professional-Grade 4K/8K Video Editing The Top Software Choices</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-error-corrected-display-resumes-normal-operations/"><u>Nvidia Error Corrected - Display Resumes Normal Operations</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/secrets-of-effective-iptv-broadcasting-capture-for-2024/"><u>Secrets of Effective IPTV Broadcasting Capture for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/vimeo-profits-unleashed-strategies-for-creative-entrepreneurs/"><u>Vimeo Profits Unleashed Strategies for Creative Entrepreneurs</u></a></li>
 </ul></div>
 

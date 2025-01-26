@@ -1,7 +1,7 @@
 ---
 title: 5 Easy Fixes for WINWORD.EXE Application Error
-date: 2025-01-16T01:04:07.482Z
-updated: 2025-01-20T01:47:43.896Z
+date: 2025-01-20T17:47:18.101Z
+updated: 2025-01-25T19:56:24.297Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 
  Before you try any methods, please make sure you’ve met the game’s minimum system requirement.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Minimum requirement for Far Cry 5
 
 | **Supported OS** | Windows 7, Windows 8.1, Windows 10 (64bit versions required)      |
@@ -26,10 +30,6 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 | **Processor**    | Intel Core i5 2400 @ 3.1 GHz or AMD FX 6300 @ 3.5 GHz (or better) |
 | **RAM**          | 8 GB                                                              |
 | **Video Card**   | NVIDIA GeForce GTX 670 or AMD Radeon R9 270 (or better)           |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Recommended requirement for Far Cry 5
 
@@ -39,10 +39,6 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 | **RAM**          | 8 GB                                                              |
 | **Video Card**   | NVIDIA GeForce GTX 1080 SLI or AMD RX Vega 56 CFX (or better)     |
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 4K configuration for Far Cry 5
 
 | **Supported OS** | Windows 10                                                              |
@@ -50,10 +46,6 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 | **Processor**    | Intel Core i7-6700 @ 3.4 GHz or AMD Ryzen 5 1600X @ 3.6 GHz (or better) |
 | **RAM**          | 16 GB                                                                   |
 | **Video Card**   | NVIDIA GeForce GTX 1070 or AMD RX Vega 56 (or better)                   |
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -66,6 +58,10 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 5. [Set the Graphics Options to low settings](https://tools.techidaily.com/drivereasy/download/)
 6. [Stop overclocking](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  The privilege issue might be the reason for the long loading time issue. With high integrity access, Uplay can make full use of its features and won’t be bothered by this issue. So run the game as an administrator to see if this fixes your issue.
@@ -73,18 +69,23 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 1. Right-click on the Uplay icon and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay-1.jpg)
 2. Choose the**Compatibility** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Click**Change settings for all users** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay1.jpg)
 4. Under Settings, check**Run this program as an administrator** . Click**OK** .  
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay2.jpg)
 5. Click**OK** then run Uplay and the game to check.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Verify game files
 
@@ -94,6 +95,11 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 2. Click**Games** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/u.jpg)
 3. Right-click Far Cry 5 or click the little arrow button and click**Verify files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/verify.jpg)
 4. Wait for Uplay to verify game files. Run Far Cry 5 to check.
 
@@ -136,17 +142,9 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will solve the problem.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -161,11 +159,15 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b40699cd971c.jpg)
 2. Click **Video** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4069c1c77c8.jpg)
 3. Click the **Monitor** tab, and set **Window Mode to Windowed Mode** , and adjust the **Display Resolution** to the display resolution of your computer display, or lower than that.  
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4069fca7979.jpg)
@@ -174,14 +176,14 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b406d6fb59e8.jpg)
 5. Click the **Advanced** **Settings** tab, and **turn off V-Sync** .  
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b406db724ad4.jpg)
 6. Save the changes, restart your computer and open Far Cry 5 again to see if it fixes your issue.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Stop overclocking
 
@@ -208,17 +210,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-prime-time-video-capture-for-windows-users-10-best/"><u>[New] 2024 Approved Prime Time Video Capture for Windows Users - 10 Best</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-best-video-grabbers-for-windows-10-pc/"><u>[New] Best Video Grabbers for Windows 10 PC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-in-2024-securely-installing-apple-podcasts-episodes/"><u>[New] In 2024, Securely Installing Apple Podcasts Episodes</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-2024-approved-innovative-ways-to-leverage-zoom-for-fb-live/"><u>[Updated] 2024 Approved Innovative Ways to Leverage Zoom for FB Live</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/updated-5-must-know-elements-of-influential-titles/"><u>[Updated] 5 Must-Know Elements of Influential Titles</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-best-pc-snippets-tools-handy-guide-to-top-5-choices/"><u>[Updated] In 2024, Best Pc Snippets Tools Handy Guide to Top 5 Choices</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-the-xbox-chronicles-essential-steps-in-gameplay-documentation-for-2024/"><u>[Updated] The Xbox Chronicles Essential Steps in Gameplay Documentation for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-livestream-giants-rivalry-facebook-vs-youtube-vs-periscope/"><u>2024 Approved Livestream Giants' Rivalry Facebook Vs. YouTube Vs. Periscope</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-best-tools-to-hard-reset-samsung-galaxy-xcover-7-drfone-by-drfone-reset-android-reset-android/"><u>3 Best Tools to Hard Reset Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/choosing-the-finest-webcams-our-expert-guide/"><u>Choosing the Finest Webcams - Our Expert Guide</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-remove-apple-id-from-iphone-11-pro-without-password-by-drfone-ios/"><u>How to Remove Apple ID from iPhone 11 Pro without Password?</u></a></li>
-<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-honor-magic-5-pro-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Honor Magic 5 Pro? | Dr.fone</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-how-to-make-money-on-youtube-without-ads/"><u>[New] 2024 Approved How to Make Money on YouTube Without Ads</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-secure-screenshots-without-intrusions/"><u>[New] 2024 Approved Secure Screenshots Without Intrusions</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-dive-into-360-videos-iphone-edition-for-facebook-posts-for-2024/"><u>[New] Dive Into 360 Videos IPhone Edition for Facebook Posts for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-elevating-the-cold-with-five-cozy-cinematic-elements-for-2024/"><u>[New] Elevating the Cold with Five Cozy Cinematic Elements for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-finest-racing-games-roundup-top-5/"><u>[Updated] 2024 Approved Finest Racing Games Roundup (Top 5)</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-virtual-symposium-streams/"><u>[Updated] 2024 Approved Virtual Symposium Streams</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-gaming-revolution-top-5-android-solutions-for-playstation-2-titles/"><u>[Updated] In 2024, Gaming Revolution Top 5 Android Solutions for PlayStation 2 Titles</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-inventory-guide-to-videography-devices-for-2024/"><u>[Updated] Inventory Guide to Videography Devices for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-leading-animals-in-play-androids-favorites-list/"><u>2024 Approved Leading Animals in Play Android's Favorites List</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-intelligence-is-it-declining-or-remains-robust-according-to-openai/"><u>ChatGPT Intelligence: Is It Declining or Remains Robust According to OpenAI?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-manually-install-a-hardware-driver-on-windows-11-by-drivereasy-guide/"><u>How to Manually Install a Hardware Driver on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/mastering-windows-11-updates-avoid-error-code-0x800f0922-pitfalls/"><u>Mastering Windows 11 Updates: Avoid Error Code 0X800F0922 Pitfalls</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ultimate-guide-to-selecting-excellent-spotify-recorders-for-2024/"><u>Ultimate Guide to Selecting Excellent Spotify Recorders for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unveiling-the-secrets-share-images-professionally-on-youtube-for-2024/"><u>Unveiling the Secrets Share Images Professionally on YouTube for 2024</u></a></li>
 </ul></div>
 

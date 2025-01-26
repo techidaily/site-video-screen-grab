@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] Elevating Your PPT Experience  Tips for GMeet Users, Laptops/Tablets for 2024\""
-date: 2025-01-13T21:46:57.921Z
-updated: 2025-01-20T01:56:13.755Z
+date: 2025-01-21T20:06:51.449Z
+updated: 2025-01-26T02:39:21.513Z
 tags: 
   - screen-recording
   - ai video
@@ -37,10 +37,6 @@ Google Meet is a video calling app that comes fully equipped with numerous featu
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How to Present PowerPoint Presentations in Google Meet on Laptop
 
 With remote working on the rise, Google Meet enables users to showcase and share PowerPoint slides during online meetings and sessions. Whether it is a meeting, online class, or brainstorming session, it becomes a whole lot easier with a PowerPoint slideshow - bringing everyone on the same page!
@@ -55,7 +51,7 @@ Just a heads up, when you are presenting your screen on Google Meet, everyone ca
 ![set PowerPoint to individual browse](https://images.wondershare.com/filmora/article-images/powerpoint-browsed-by-individual.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. After setting up the PowerPoint slides, move over to Google Meet and join the meeting through the meeting link provided or schedule in a new meeting. You have two options: either you can join the meeting and then share your slides, or share the PowerPoint while joining the session. If you decide to go with the second option, you must click “Present now” and continue with the steps below.
@@ -72,7 +68,7 @@ There you will see two options and must click one of the following options,
 ![Google Meet Present Now Options   ](https://images.wondershare.com/filmora/article-images/google-meet-present-now-options.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 1. If the presenter decides to go with the “A Window” option then click the window that shows your PowerPoint slides then select share.
@@ -91,10 +87,6 @@ So to answer your question on **how to present slide in Google Meet**,
 
 ![Share slides on Google Meet  ](https://images.wondershare.com/filmora/article-images/share-google-slides-google-meet.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 1. Open Google Meet on your browser and go on to the meeting link page. Here you have two options, one - you can join the session directly and then start presenting the screen, or two - share the screen and then join the session.
 
 If you decide to go with the latter option, then click the “Present” option. Since I’m using the Chrome browser, I will choose the slides tab to share. If you would like to share any audio, make sure to tick the share tab audio button as well!
@@ -102,6 +94,10 @@ If you decide to go with the latter option, then click the “Present” option.
 ![Share slides on Google Meet  ](https://images.wondershare.com/filmora/article-images/share-google-slides-tab-google-meet.jpg)
 
 1. Once you have gone through these steps your Google Slides will automatically be visible to anyone and everyone in the Google Meet session.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Present PowerPoint or Slides in Google Meet On iPhone and iPad?
 
@@ -112,10 +108,6 @@ Step 1) Open your PowerPoint or Slides on your iPhone or iPad, and then join the
 Step 2) To start sharing your screen, press the three-button icon which appears in the bottom right corner of your screen, and then tap the **Share Screen** option.
 
 ![Share slides on Google Meet on iPhone ](https://images.wondershare.com/filmora/article-images/share-powerpoint-on-google-meet-iphone.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Step 3) After doing so, the presenter will see a notification on their screen allowing them to broadcast their entire screen. Upon clicking “Start Broadcast” the screen will start to share in three seconds. Switch from Google Meet to PowerPoint or Google Slides and the screen will automatically share slides.
 
@@ -137,10 +129,6 @@ Step 3) Upon joining the meeting, click the “More” option and tap the “Pre
 
 Step 4) After that, allow presenting and go to your PowerPoint / Google Slides to share them with participants, easy right?! Remember, participants can pause your screen presentation and start presenting their screen in between, as well.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 5: How to Stop Presenting PPT on Google Meet?
 
 All good things must come to an end, just like wrapping up a productive PowerPoint work session on Google Meet. When a presenter is done sharing their PowerPoint slides they must stop sharing their screen as well. One easy way to do that is to leave the Google Meet session, however, that might not be so polite.
@@ -150,7 +138,7 @@ Instead, there is another way, upon finishing the discussion on the PowerPoint s
 ![stop PPT sharing on Google Meet ](https://images.wondershare.com/filmora/article-images/stop-powerpoint-sharing-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If that option is not visible to the presenter, they can return to their Google Meet session, and click the stop sharing button as shown in the image below.
@@ -160,6 +148,14 @@ If that option is not visible to the presenter, they can return to their Google 
 Moreover, if you are on an iPhone or iPad, you can simply click the red stripe on the top of your screen and a notification popup will appear indicating that you can stop presenting.
 
 ![stop  PPT present on Google Meet ](https://images.wondershare.com/filmora/article-images/stop-powerpoint-present-google-meet.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## FAQ about Presenting PowerPoint on Google Meet
 
@@ -181,6 +177,10 @@ Presenting a ppt on Google Meet is not all that difficult, if you know what to d
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -196,20 +196,22 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-live-video-logging-on-mac-free/"><u>[New] 2024 Approved Live Video Logging on Mac, Free</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-noise-free-video-chats-with-skype/"><u>[New] 2024 Approved Noise-Free Video Chats with Skype</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-complete-guide-to-using-zd-softs-recording-tools-for-2024/"><u>[New] Complete Guide to Using ZD Soft's Recording Tools for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-elite-uploader-mp4-files-directly-for-fb/"><u>[New] Elite Uploader MP4 Files Directly for FB</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-enhancing-visual-flow-effortless-fade-tricks/"><u>[New] In 2024, Enhancing Visual Flow Effortless Fade Tricks</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/new-innovation-unveiled-the-complete-moto-z2-review-for-2024/"><u>[New] Innovation Unveiled The Complete Moto Z2 Review for 2024</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/nnovators-intertwining-video-with-melodious-images-for-2024/"><u>[New] Innovators Intertwining Video with Melodious Images for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-trendsetters-guide-selecting-best-tools-to-craft-instagram-videos/"><u>[New] Trendsetters’ Guide Selecting Best Tools to Craft Instagram Videos</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-top-5-driving-and-race-replicas/"><u>[Updated] 2024 Approved Top 5 Driving & Race Replicas</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-stream-to-instagram-effortless-broadcast-via-obs-software/"><u>[Updated] Stream to Instagram Effortless Broadcast via OBS Software</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/capture-every-moment-exploring-free-high-quality-cameras/"><u>Capture Every Moment – Exploring Free, High-Quality Cameras</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-mastering-the-art-of-youtube-music-reactions-essential-tips/"><u>In 2024, Mastering the Art of YouTube Music Reactions - Essential Tips</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Tecno Phantom V Flip? | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/innovative-approaches-to-sims-4-video-for-2024/"><u>Innovative Approaches to Sims 4 Video for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/ultimate-guide-to-movie-trailer-makers-for-mac-and-windows-users-for-2024/"><u>Ultimate Guide to Movie Trailer Makers for Mac and Windows Users for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-echo-chambers-advanced-mac-audio-techniques/"><u>[New] In 2024, Echo Chambers Advanced Mac Audio Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-capturing-the-moment-the-ultimate-guide-to-screen-recording-with-obs/"><u>[Updated] Capturing the Moment The Ultimate Guide to Screen Recording with OBS</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-essential-guide-non-commercial-android-recorder-choice/"><u>[Updated] In 2024, Essential Guide Non-Commercial Android Recorder Choice</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-listenguide-breakdown/"><u>[Updated] In 2024, ListenGuide Breakdown</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagram-video-to-mp3-everything-you-need-to-know/"><u>[Updated] Instagram Video to Mp3 - Everything You Need to Know</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-free-video-calls-on-pcmac-os-for-easy-online-meetings-for-2024/"><u>[Updated] Top Free Video Calls on PC/Mac OS for Easy Online Meetings for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-fast-tracking-fb-content-efficiency-strategies-explored/"><u>2024 Approved Fast-Tracking FB Content Efficiency Strategies Explored</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209861020-9781999885137-a-little-book-of-permission/"><u>A Little Book of Permission | Free Book</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/digging-into-the-heart-of-recordcast-technology/"><u>Digging Into the Heart of RecordCast Technology</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-comprehensive-guide-youtube-to-mpeg-transcoding/"><u>In 2024, Comprehensive Guide YouTube to MPEG Transcoding</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-expert-tips-for-efficient-screenshotting-with-zd-softwares-advanced-features/"><u>In 2024, Expert Tips for Efficient Screenshotting with ZD Software's Advanced Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/palette-power-skillful-color-adjustment/"><u>Palette Power Skillful Color Adjustment</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/screen-recorder-showcase-apowersofts-place-in-the-market-for-2024/"><u>Screen Recorder Showcase Apowersoft's Place in the Market for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/solutions-for-resolving-d3dx940dll-file-absent-or-unrecognized-issues/"><u>Solutions for Resolving 'D3dx9_40.dll' File Absent or Unrecognized Issues</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-madden-21-from-freezing-on-your-computer-with-these-tips/"><u>Stop Madden 21 From Freezing on Your Computer with These Tips</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-samsung-galaxy-s24-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Samsung Galaxy S24</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-ditch-adobe-premiere-rush-top-4-video-editing-software-alternatives/"><u>Updated Ditch Adobe Premiere Rush Top 4 Video Editing Software Alternatives</u></a></li>
 </ul></div>
 
