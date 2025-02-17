@@ -1,7 +1,7 @@
 ---
 title: "\"[New] In 2024, Securing Sound Output  Fixes for Silent OBS Streams\""
-date: 2025-02-05T20:44:33.985Z
-updated: 2025-02-07T20:13:22.279Z
+date: 2025-02-12T02:15:18.312Z
+updated: 2025-02-17T08:34:21.731Z
 tags: 
   - screen-recording
   - ai video
@@ -35,10 +35,6 @@ Edit system and microphone audio seperately
 
 All in all, to record desktop audio with OBS, you have to enter a third-party audio driver. To find out the intricacies of this solution, you may read the solutions as follow:
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### **1\. Close the OBS and Restart**
 
 While using OBS studio, the users might experience the difficulties of OBS not capturing mic audio. This problem arises because the program only captures mic audio, and it doesn't support the desktop audio or system sound. to repair the "OBS no sound" problem on your PC is simply to shut the OBS studio software and thereafter restart it once more.
@@ -46,7 +42,11 @@ While using OBS studio, the users might experience the difficulties of OBS not c
 ![restart](https://images.wondershare.com/filmora/article-images/restart.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **2\. Run it as Administrator**
@@ -80,11 +80,11 @@ Click the Desktop Audio Device drop-down option if the proper device is not chos
 ![check the sound settings](https://images.wondershare.com/filmora/article-images/check-the-sound-settings.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### **5\. Remove Other Programs for Audio Control**
@@ -117,11 +117,7 @@ If none of the techniques can assist you, your OBS is experiencing an undefined 
 ![reinstall obs](https://images.wondershare.com/filmora/article-images/reinstall-obs.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 8\. Use OBS Alternative
@@ -139,6 +135,10 @@ For macOS 10.12 or later
 After the above efficient approaches, we have utilized to cure the "OBS No Sound" problem on your PC. You may straight-away choose Filmora and erase the abnormalities hassle-free. . Filmora Screen Recorder is recognized as one of the most powerful screen record applications which are comparable to OBS, it has extremely amazing performance in screen recording. Case in case, you can capture a lossless video with lossless audio quality. It is an easy-to-use editor for both novices as well as pros. The program is available for Mac platforms and Windows for free. However, the exported video will have a watermark of Filmora that may be removed in the premium version. If you hanker to have a flexible recording, Filmora Screen Recorder will satisfy your desire as well. You may set the audio source and recording location manually with one easy click. No need to add that all the shortcuts, attributes of the output, and mouse motions are all configurable. Moreover, users may build dramatic titles by adding all sorts of colors and fonts to the contents.
 
 ![record pc screen](https://images.wondershare.com/filmora/guide/recording-01.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### **Features Why You Should Go for Filmora:**
 
@@ -162,18 +162,21 @@ After the above efficient approaches, we have utilized to cure the "OBS No Sound
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-fcps-ultimate-editing-aid-best-10-plug-ins/"><u>[New] FCP's Ultimate Editing Aid Best 10 Plug-Ins</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-mastering-ppt-presentation-in-google-meet-mobile-and-laptop-for-2024/"><u>[New] Mastering PPT Presentation in Google Meet (Mobile & Laptop) for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-ideal-online-audio-equipment-top-7-picks-2023/"><u>[Updated] 2024 Approved Ideal Online Audio Equipment Top 7 Picks 2023</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-windows-11-master-class-video-recorder/"><u>[Updated] 2024 Approved Windows 11 Master Class Video Recorder</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-quick-tips-screen-record-and-camera-integration-on-android/"><u>[Updated] In 2024, Quick Tips Screen Record & Camera Integration on Android</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-making-online-gaming-more-intimate-via-xbox-zoom/"><u>[Updated] Making Online Gaming More Intimate via Xbox Zoom</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-prime-picks-for-effortless-screenshots/"><u>[Updated] Prime Picks for Effortless Screenshots</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/exploring-imperator-rome-a-game-of-power-and-conquest/"><u>Exploring Imperator: Rome - A Game of Power and Conquest</u></a></li>
-<li><a href="https://win-tricks.techidaily.com/how-to-repair-windows-10-synchronization-issues-with-the-taskbar/"><u>How to Repair Windows 10 Synchronization Issues with the Taskbar</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/in-2024-quadcopter-mechanics-decoded-flight-patterns-and-functionality/"><u>In 2024, Quadcopter Mechanics Decoded Flight Patterns & Functionality</u></a></li>
-<li><a href="https://driver-install.techidaily.com/premium-win-drivers-amd-excellence/"><u>Premium Win Drivers, AMD Excellence</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/the-complete-guide-to-high-quality-sims-video-sessions/"><u>The Complete Guide to High-Quality Sims Video Sessions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/unveiling-the-most-effective-methods-for-your-hp-laptop-recordings/"><u>Unveiling the Most Effective Methods for Your HP Laptop Recordings</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-advanced-tips-for-integrating-markers-in-videography/"><u>[New] 2024 Approved Advanced Tips for Integrating Markers in Videography</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-cloud-based-seminar-snapshots-for-2024/"><u>[New] Cloud-Based Seminar Snapshots for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-essential-ios-applications-for-playing-psp-classics-for-2024/"><u>[New] Essential iOS Applications for Playing PSP Classics for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-insiders-approach-to-webinar-preservation/"><u>[New] In 2024, Insider's Approach to Webinar Preservation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-pixel-perfect-windows-recorder-free-for-2024/"><u>[New] Pixel Perfect Windows Recorder, Free for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-precision-scheduling-for-peak-performance-a-guide-to-slack-filmora-meetings-for-2024/"><u>[New] Precision Scheduling for Peak Performance A Guide to Slack-Filmora Meetings for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ecuring-your-spatial-content-mastering-the-art-of-360-degree-video-filming-and-uploading/"><u>[New] Securing Your Spatial Content Mastering the Art of 360-Degree Video Filming & Uploading</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-how-to-leverage-different-gadgets-recording-and-saving-youtube-livestayere/"><u>[Updated] 2024 Approved How To Leverage Different Gadgets Recording and Saving YouTube Livestayere</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-understanding-image-validity-on-insta/"><u>[Updated] In 2024, Understanding Image Validity on Insta</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-painttool-pro-techniques-unveiled/"><u>[Updated] PaintTool Pro Techniques Unveiled</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/gaomon-pd1560-review/"><u>Gaomon PD1560 Review</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-samsung-galaxy-a34-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Samsung Galaxy A34 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/optimal-after-effects-scripting-solutions/"><u>Optimal After Effects Scripting Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/overcoming-the-most-frequent-blue-screen-hurdles/"><u>Overcoming the Most Frequent Blue Screen Hurdles</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/streaming-success-youtube-broadcasts-of-google-meet/"><u>Streaming Success YouTube Broadcasts of Google Meet</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/streamlining-your-gaming-experience-with-easy-recordings/"><u>Streamlining Your Gaming Experience with Easy Recordings</u></a></li>
 </ul></div>
 

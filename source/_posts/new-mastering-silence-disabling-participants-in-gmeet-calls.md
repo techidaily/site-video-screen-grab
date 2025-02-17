@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Silence  Disabling Participants in GMeet Calls\""
-date: 2025-01-31T21:11:05.372Z
-updated: 2025-02-07T18:54:51.042Z
+date: 2025-02-13T16:26:37.175Z
+updated: 2025-02-17T07:51:44.862Z
 tags: 
   - screen-recording
   - ai video
@@ -38,6 +38,10 @@ Do you want help to figure out **how to mute Google Meet**? Don’t worry, we ha
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 1: How Does the Mute Button in Google Meet Work?
 
 The mute button in Google Meet is like a blessing in disguise, with just one click you can silence your mic. This way the participant can still hear what is going on in the session, but they are not audible to anyone else. So, if for instance, you are only a listener in the session and do not want to contribute, then you can mute your microphone.
@@ -57,7 +61,7 @@ If they click that same button again, they will be unmuted.
 ![Google Meet unmute](https://images.wondershare.com/filmora/article-images/unmute-yourself-google-meet.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 However, if they do not want to make use of the screen to mute and unmute, they can use keyboard key shortcuts. For Mac users, the relevant keys are CTRL - COMMAND - M. If you are making use of a different desktop or laptop then it is simply CTRL - M.
@@ -83,20 +87,12 @@ Click on the arrow next to the name of the person you would like to mute. Once y
 ![Google Meet participants list](https://images.wondershare.com/filmora/article-images/google-meet-participants-list.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Click the microphone button in the middle, and once a cross appears on the mic, the individual will be muted.
 
 ![Google Meet mute people](https://images.wondershare.com/filmora/article-images/mute-people-on-google-meet.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 4: How to Mute All Participants in Google Meet?
 
@@ -119,10 +115,6 @@ Take a look at these extensions which will enable you to mute Google Meet partic
 ### Mute All for Google Meet
 
 ![ mute all on Google Meet with extension ](https://images.wondershare.com/filmora/article-images/mute-all-for-google-meet-extension.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 This extension is offered by <https://google-meet-mute-all.dllplayer.com/> and it works with Google Drive. It allows individuals to custom design their user settings and preferences for a Google Meet meeting.
 
@@ -156,7 +148,7 @@ In the Google Meet window, click on the people icon and a list of participant na
 ![ Google Meet participants](https://images.wondershare.com/filmora/article-images/google-meet-participants-list-menu.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Then, from the list with the names of all participants, click on the name of the person you want to remove, then click on the 3 dots next to their name.
@@ -164,6 +156,14 @@ Then, from the list with the names of all participants, click on the name of the
 You will see 2 options, Pin to screen and Remove from meeting. Click on 2nd option to remove the participant and confirm the command.
 
 ![ remove people on Google Meet](https://images.wondershare.com/filmora/article-images/remove-people-from-google-meet.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 2\. How to Remove A Participant from Google Meet Without Being A Host
 
@@ -186,7 +186,7 @@ The mute feature on Google Meet is truly very simplistic and handy to use. All o
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Richard Bennett
@@ -204,15 +204,15 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-free-templates-for-bespoke-video-epilogues-for-2024/"><u>[New] Free Templates for Bespoke Video Epilogues for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/1716069712026-new-in-2024-utilizing-internal-screen-recording-on-huaweis-mate-1020-and-p-models-p20-p10/"><u>[New] In 2024, Utilizing Internal Screen Recording on Huawei's Mate 10/20 & P Models (P20, P10).</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/he-essence-of-online-video-success-keywords-on-youtube-for-2024/"><u>[New] The Essence of Online Video Success Keywords on YouTube for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-premium-4k-screen-capturing-solutions/"><u>2024 Approved Premium 4K Screen Capturing Solutions</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/capturing-win10-games-a-comprehensive-breakdown-for-2024/"><u>Capturing Win10 Games A Comprehensive Breakdown for 2024</u></a></li>
-<li><a href="https://games-able.techidaily.com/exclusive-insights-to-scarlet-and-violets-rare-finds-92/"><u>Exclusive Insights to Scarlet & Violet's Rare Finds (92)</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/get-the-latest-drivers-for-your-logitech-bluetooth-mouse-on-windows-computers/"><u>Get the Latest Drivers for Your Logitech Bluetooth Mouse on Windows Computers</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-discover-the-top-10-cost-free-video-conferencing-apps-for-businesses-and-schools/"><u>In 2024, Discover the Top 10 Cost-Free Video Conferencing Apps for Businesses & Schools</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/step-by-step-guide-to-resolving-tech-glitches-expert-advice-from-yl-systems-support-team/"><u>Step-by-Step Guide to Resolving Tech Glitches: Expert Advice From YL Systems Support Team</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-top-tier-voip-games-conversation-tools-for-2024/"><u>Updated Top-Tier VOIP Games Conversation Tools for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-unveiling-elite-selection-9-best-mic-recorders-online/"><u>[New] Unveiling Elite Selection 9 Best Mic Recorders Online</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-buzzing-tracks-ultimate-backdrops-for-youtube-shorts/"><u>[Updated] In 2024, Buzzing Tracks Ultimate Backdrops for YouTube Shorts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-top-rated-desktop-video-recorders-for-pcmac/"><u>[Updated] Top-Rated Desktop Video Recorders for PC/Mac</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-motorola-edge-2023-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Motorola Edge 2023</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210420618-9781739840419-being-in-nature/"><u>Being in Nature | Free Book</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-creativity-free-premiere-pro-2023-templates/"><u>In 2024, Unleash Creativity Free Premiere Pro 2023 Templates</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ps4-live-broadcasting-101-with-obs-recording-tips/"><u>PS4 Live Broadcasting 101 with OBS Recording Tips</u></a></li>
+<li><a href="https://program-issues.techidaily.com/tales-of-arise-stability-improved-crashes-no-more/"><u>Tales of Arise Stability Improved: Crashes No More</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/troubleshooting-common-dying-light-lagging-challenges-for-smooth-gaming/"><u>Troubleshooting Common Dying Light Lagging Challenges for Smooth Gaming</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-the-6-leading-antivirus-solutions-for-ios-devices/"><u>Ultimate Guide: The 6 Leading Antivirus Solutions for iOS Devices</u></a></li>
 </ul></div>
 

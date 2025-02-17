@@ -1,7 +1,7 @@
 ---
 title: "The Timeless Tale of Roguelike and Roguelite for 2024"
-date: 2025-01-22T23:05:13.542Z
-updated: 2025-01-25T17:33:38.753Z
+date: 2025-02-14T01:10:31.209Z
+updated: 2025-02-16T20:14:09.274Z
 tags: 
   - screen-recording
   - ai video
@@ -39,15 +39,15 @@ Part 1: What's the Difference Between Roguelikes and Roguelites?
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Rogue: Where it all started
 
 In order to best understand these two game genres, we must first analyze the origin of their namesakes. Way back in 1980, game designers Michael Toy and Glenn Wichman released an ASCII art dungeon crawler called _Rogue_. Inspired by the pen-and-paper RPG _Dungeons & Dragons_, this turn-based adventure game had players explore dungeons in which they fought monsters and gathered items to help them power up their characters. The game's defining mechanic was **permadeath**. This meant that once your character died, it was literally the end. You couldn't create a save nor revive your fallen hero in any way. Starting over meant a completely fresh game with a brand new character. What's more is that starting a new game meant the dungeons were completely different, including enemy placement, room location, and item distribution. Every decision could mean either living and carrying on or dying and starting over, making the choices players made meaningful.
 
 ![michael-toy-glenn-wichman](https://images.wondershare.com/filmora/article-images/michael-toy-glenn-wichman.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## What is a Roguelike Game?
 
@@ -55,25 +55,21 @@ As the name implies, a roguelike - or roguelike - is a game that shares the same
 
 ![rogue-poster](https://images.wondershare.com/filmora/article-images/rogue-poster.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## What is a Roguelite Game?
 
 Roguelites - or rogue-lites - in essence, employ a lighter approach to implementing _Rogue_'s key characteristics. For the most part, roguelites still have permadeath. If you die, then you have to start over. However, the **key difference** is that roguelites allow you to carry over some form of progress from one playthrough to the next. Depending on the game, the way progress is carried over varies. Some games allow you to unlock additional items that can drop in a given run. Others open up access to new areas or provide you with abilities that enable you to traverse towards new locations and expand your area of exploration.
 
 ![unlock-hades](https://images.wondershare.com/filmora/article-images/unlock-hades.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Roguelites also have procedurally generated environments in a lot of cases. There are titles that have completely random level layouts and enemy placements. Others draw from a pre-defined set of layouts that are mixed and matched. Some titles may simply randomize more minute elements such as item placement and the locations of points of interest. Another way roguelites differ in the way they handle procedural generation is through seeded runs. A seed is essentially a run with pre-determined parameters, including enemy types and placements, level layout, and item availability. Seeding is also used to generate special challenge runs as well as enable custom modes. Whatever the case, roguelites have a tendency to reign in the chaos of fully procedurally generated game content.
 
 It's roguelites that are also usually a mix of different genres with _Rogue_ style mechanics. From action RPGs to card games, the roguelite genre's offerings are quite expansive. The leniency they give when it comes to permadeath and randomness affords developers more design space in which they can craft unique experiences.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## A Clear Distinction
 
@@ -124,7 +120,7 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 ![deadcells-poster](https://images.wondershare.com/filmora/article-images/deadcells-poster.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 #### Slay the Spire
@@ -132,6 +128,10 @@ _Dead Cells_ is an exploration-based action platformer (a.k.a. a metroidvania) w
 One of the most highly praised indie games, MegaCrit's _Slay the Spire_ is a shining example of a perfect blend of genres. It's a deckbuilding card game where you must climb the titular Spire while defeating enemies and bosses in turn-based card battles, so you can ultimately slay its heart. Each run consists of 3 Acts, each of which gives you choices of pathways that are procedurally generated. While enemy placement is somewhat controlled at first, it becomes more truly random the higher you climb. What makes StS particularly challenging is that it affords very few options to restore health so guarding your HP is vital. While death does mean you'll have to start all the way from the bottom, you can unlock new cards for each of the game's 4 classes as you level them up. The game also offers a wide variety of options for challenges and seeded custom runs.
 
 ![slay-the-spire](https://images.wondershare.com/filmora/article-images/slay-the-spire.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Hades
 
@@ -143,11 +143,11 @@ Nominated for a Game of the Year award, _Hades_ is a beloved title that has conv
 
 [![Download Win Version](https://images.wondershare.com/filmora/guide/download-btn-win.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)[![Download Mac Version](https://images.wondershare.com/filmora/guide/download-btn-mac.jpg)](https://tools.techidaily.com/wondershare/filmora/download/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![author avatar](https://images.wondershare.com/filmora/article-images/ollie-mattison.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Ollie Mattison
 
@@ -164,21 +164,19 @@ Follow @Ollie Mattison
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-the-complete-routine-for-hulu-capture-on-diverse-devices/"><u>[New] 2024 Approved The Complete Routine for Hulu Capture on Diverse Devices</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-from-screen-to-disk-techniques-for-effortless-internet-show-recording-for-2024/"><u>[New] From Screen To Disk Techniques for Effortless Internet Show Recording for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-hp-notebook-efficient-screen-capture-strategies/"><u>[New] HP Notebook Efficient Screen Capture Strategies</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ick-the-perfect-video-youtube-vs-tiktok/"><u>[New] Pick the Perfect Video YouTube Vs. TikTok</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-top-8-cost-free-android-video-recording-software/"><u>[New] Top 8 Cost-Free Android Video Recording Software</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-harmonize-your-youtube-presence-with-these-ideal-microphones-for-various-channels/"><u>[Updated] In 2024, Harmonize Your YouTube Presence With These Ideal Microphones for Various Channels</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-ps3-gaming-reimagined-best-emulators-of-the-year/"><u>[Updated] In 2024, PS3 Gaming Reimagined Best Emulators of the Year</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-pre-upgrade-essentials-a-comprehensive-guide/"><u>[Updated] Pre-Upgrade Essentials A Comprehensive Guide</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/development-of-affordable-apple-vision-headset-and-augmented-reality-glasses-in-progress-insights-from-zdnet/"><u>Development of Affordable Apple Vision Headset and Augmented Reality Glasses in Progress - Insights From ZDNet</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-kiddie-koala-race-relays/"><u>In 2024, Kiddie Koala Race Relays</u></a></li>
-<li><a href="https://discover-amazing.techidaily.com/karaoke-toolkit-software-trial-get-your-hands-on-with-version-087006-via-pcdj-download/"><u>Karaoke Toolkit Software Trial - Get Your Hands-On with Version 0.8.7006 via PCDJ Download</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/podcast-recorder-quality-check/"><u>Podcast Recorder Quality Check</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/smooth-transition-of-scale-enhancing-instagram-tv-video-clarity/"><u>Smooth Transition of Scale Enhancing Instagram TV Video Clarity</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/spotify-pro-is-the-subscription-justified/"><u>Spotify Pro: Is the Subscription Justified?</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/the-pathway-to-aural-brilliance-incorporating-and-fine-tuning-sounds-in-canvas/"><u>The Pathway to Aural Brilliance Incorporating & Fine-Tuning Sounds in Canvas</u></a></li>
-<li><a href="https://android-frp.techidaily.com/ultimate-guide-from-lenovo-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Lenovo FRP Bypass</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-critical-steps-in-logging-live-youtube-videos/"><u>[New] 2024 Approved Critical Steps in Logging Live YouTube Videos</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-best-of-the-chill-easy-phone-game-compilation/"><u>[New] Best of the Chill Easy Phone Game Compilation</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-innovative-text-treatments-elevating-ae-titles/"><u>[Updated] 2024 Approved Innovative Text Treatments Elevating AE Titles</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-tips-for-snagging-quality-streams-on-facebook/"><u>[Updated] 2024 Approved Tips for Snagging Quality Streams on Facebook</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-in-2024-uncomplicated-guide-to-mobile-device-live-captures/"><u>[Updated] In 2024, Uncomplicated Guide to Mobile Device Live Captures</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-ultimate-app-review-with-az-screenshotter/"><u>[Updated] Ultimate App Review with AZ Screenshotter</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-restart-vivo-v27-pro-without-power-button-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Restart Vivo V27 Pro Without Power Button | Dr.fone</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/adapt-video-dimensions-anytime-anywhere-for-2024/"><u>Adapt Video Dimensions Anytime, Anywhere for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/efficiently-set-up-your-epson-wf-3720-with-new-driver-downloads-expert-tips-and-tricks/"><u>Efficiently Set Up Your Epson WF-3720 with New Driver Downloads - Expert Tips and Tricks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/factory-reset-on-iphone-13-pro-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>Factory Reset on iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-tips.techidaily.com/melhor-editor-de-fotos-para-apple-mac-introducao-ao-melodious-magix-photo-director/"><u>Melhor Editor De Fotos Para Apple MAc: Introdução Ao Melodious Magix Photo Director</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-quik-but-not-quick-enough-a-review-and-pc-alternatives-for-faster-video-editing/"><u>New 2024 Approved Quik, But Not Quick Enough? A Review & PC Alternatives for Faster Video Editing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/the-comprehensive-guide-to-screencasting-techniques-for-2024/"><u>The Comprehensive Guide to Screencasting Techniques for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/top-10-escape-room-games-you-should-try-for-2024/"><u>Top 10 Escape Room Games You Should Try for 2024</u></a></li>
 </ul></div>
 
