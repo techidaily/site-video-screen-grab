@@ -1,7 +1,7 @@
 ---
 title: "\"[Updated] 2024 Approved  Concurrent Display Archiving\""
-date: 2025-02-10T18:33:03.129Z
-updated: 2025-02-17T02:38:11.341Z
+date: 2025-02-27T22:45:05.687Z
+updated: 2025-03-05T23:27:45.304Z
 tags: 
   - screen-recording
   - ai video
@@ -31,10 +31,6 @@ If you would like to capture footage from multiple monitors, but you are not sur
 
 ![Filmora logo](https://images.wondershare.com/filmora/logo_icon/wondershare-filmora-logo-horizontal.png) ![filmora product interface](https://images.wondershare.com/filmora/images/common/filmora-product-banner.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### The All-in-One Screen Recorder & Video Editor
 
 * Record desktop screen, voiceover, and webcam simultaneously
@@ -52,23 +48,11 @@ For macOS 10.12 or later
 
 ![secure download](https://static.wondershare.com/images-filmora/images/common/securety.svg)Secure Download
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How to Record Multiple Monitors
 
 The first step towards setting up a screencasting session with multiple displays is to make sure that the monitors are properly connected to your laptop or desktop computer. Each external monitor will display identical images when turned on, but in order to move software windows between the two screens, you'll have to enable the 'Extend These Displays' option. The actual steps you'll need to take may vary, depending on the computer and the OS you are using, and we are going to show you how to extend displays on Windows 8 or later.
 
 Head over to the Start Menu, and open the Control Panel. Select the 'Adjust Screen Resolution' option in the Appearance and Personalization menu, and then click on the Multiple Displays drop-down menu. Pick the 'Extend These Displays' option from the list and proceed to save the changes by clicking on the OK button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Recording Multiple Monitors With [OBS Studio](https://tools.techidaily.com/wondershare/filmora/download/)
 
@@ -85,10 +69,6 @@ Go to OBS Studio's main window and click on the Settings button in the lower rig
 Sum up the two values of the wider sides of the screens and insert the value you get into the Base Resolution bar. For example, if one monitor has a 1366X768 resolution and the second one has a 1024X768 resolution, you should add 1024 to the 1366 and insert the resulting value (2390) as the wide resolution value in Base Resolution Bar.
 
 Save the changes you've made, and then drag the screens to arrange them. You can start recording multiple monitors with OBS Studio by clicking on the Start Recording button.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Capturing Multiple Monitor Displays with Camtasia
 
@@ -132,18 +112,17 @@ Follow @Max Wales
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-how-to-allocate-more-ram-to-minecraft-3-methods/"><u>[New] 2024 Approved How to Allocate More Ram to Minecraft 3 Methods</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-easy-peasy-screen-transitions-for-filmmakers-for-2024/"><u>[New] Easy-Peasy Screen Transitions for Filmmakers for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-from-amateur-to-professional-transform-your-minecraft-recordings-with-mac-for-2024/"><u>[New] From Amateur to Professional Transform Your Minecraft Recordings with Mac for 2024</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-investing-in-your-instagram-presence-5-key-strategies-and-illustrated-outcomes-for-2024/"><u>[New] Investing in Your Instagram Presence 5 Key Strategies and Illustrated Outcomes for 2024</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/aximizing-impact-with-creative-video-titles/"><u>[New] Maximizing Impact with Creative Video Titles</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-minimca-haven-unveiling-simple-homes-in-minecraft/"><u>[New] MiniMCA Haven Unveiling Simple Homes in Minecraft</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-streamlined-recording-of-powerpoint-slides-via-webcam/"><u>[New] Streamlined Recording of PowerPoint Slides via Webcam</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-a-game-changer-how-bandicams-2023-update-transforms-capturing-games/"><u>[Updated] In 2024, A Game Changer How Bandicam's 2023 Update Transforms Capturing Games</u></a></li>
-<li><a href="https://win-bytes.techidaily.com/flac-aac-movavi/"><u>移動維馮 FLAC到 AAC格式無間斷地免費轉換 - 使用Movavi轉換器</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-discover-top-asmr-for-iosandroid-devices/"><u>In 2024, Discover Top ASMR for iOS/Android Devices</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-thriving-in-digital-realms-the-power-of-well-planned-backlinks/"><u>In 2024, Thriving in Digital Realms The Power of Well-Planned Backlinks</u></a></li>
-<li><a href="https://games-able.techidaily.com/reimagining-player-incentives-a-compreeve-quartet-of-changes-for-microsofts-rewards/"><u>Reimagining Player Incentives: A Compreeve Quartet of Changes for Microsoft's Rewards</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/visionary-visual-story-conduit-suite/"><u>Visionary Visual Story Conduit Suite</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-comprehensive-guide-for-effective-video-capturing/"><u>[New] 2024 Approved Comprehensive Guide for Effective Video Capturing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-5-exceptional-pc-emulators-for-playing-ps1-games/"><u>[New] In 2024, 5 Exceptional PC Emulators for Playing PS1 Games</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-no-cost-game-recorders-the-essential-selection-list-for-2024/"><u>[New] No-Cost Game Recorders The Essential Selection List for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-a-quick-dive-into-video-ratios-the-aspect-ratio-essentials-for-youtubers/"><u>[Updated] 2024 Approved A Quick Dive Into Video Ratios The Aspect Ratio Essentials for YouTubers</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-the-insiders-look-at-optimizing-youtube-video-audio/"><u>[Updated] 2024 Approved The Insider’s Look at Optimizing YouTube Video Audio</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-transform-your-live-streaming-best-practices-in-obs-studio/"><u>[Updated] 2024 Approved Transform Your Live Streaming Best Practices in OBS Studio</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-free-screen-recording-techniques-for-pc-enthusiasts/"><u>[Updated] Free Screen Recording Techniques for PC Enthusiasts</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-comprehensive-recorder-apps-pcmacos/"><u>2024 Approved Best Comprehensive Recorder Apps - PC/macOS</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-fine-tune-youtube-video-pacing-desktopmobile/"><u>2024 Approved Fine-Tune YouTube Video Pacing - Desktop/Mobile</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-iphone-13-pro-max-lock-screen-by-drfone-ios/"><u>Complete Guide For iPhone 13 Pro Max Lock Screen</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-premiere-audio-to-text-converters/"><u>In 2024, Premiere Audio-To-Text Converters</u></a></li>
+<li><a href="https://article-posts.techidaily.com/master-the-charm-of-darker-digital-images/"><u>Master the Charm of Darker Digital Images</u></a></li>
 </ul></div>
 

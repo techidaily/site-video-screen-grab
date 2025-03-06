@@ -1,7 +1,7 @@
 ---
 title: "\"[New] Mastering Silence  Disabling Participants in GMeet Calls\""
-date: 2025-02-13T16:26:37.175Z
-updated: 2025-02-17T07:51:44.862Z
+date: 2025-02-27T05:07:06.167Z
+updated: 2025-03-06T00:18:05.191Z
 tags: 
   - screen-recording
   - ai video
@@ -38,10 +38,6 @@ Do you want help to figure out **how to mute Google Meet**? Don’t worry, we ha
 
 ---
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: How Does the Mute Button in Google Meet Work?
 
 The mute button in Google Meet is like a blessing in disguise, with just one click you can silence your mic. This way the participant can still hear what is going on in the session, but they are not audible to anyone else. So, if for instance, you are only a listener in the session and do not want to contribute, then you can mute your microphone.
@@ -59,10 +55,6 @@ All an individual has to do is click the microphone button located on the bottom
 If they click that same button again, they will be unmuted.
 
 ![Google Meet unmute](https://images.wondershare.com/filmora/article-images/unmute-yourself-google-meet.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 However, if they do not want to make use of the screen to mute and unmute, they can use keyboard key shortcuts. For Mac users, the relevant keys are CTRL - COMMAND - M. If you are making use of a different desktop or laptop then it is simply CTRL - M.
 
@@ -85,10 +77,6 @@ Click onto a participant’s picture and click Mute or if this step is not worki
 Click on the arrow next to the name of the person you would like to mute. Once you do that, a drop-down menu will appear with three options.
 
 ![Google Meet participants list](https://images.wondershare.com/filmora/article-images/google-meet-participants-list.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Click the microphone button in the middle, and once a cross appears on the mic, the individual will be muted.
 
@@ -147,23 +135,11 @@ In the Google Meet window, click on the people icon and a list of participant na
 
 ![ Google Meet participants](https://images.wondershare.com/filmora/article-images/google-meet-participants-list-menu.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Then, from the list with the names of all participants, click on the name of the person you want to remove, then click on the 3 dots next to their name.
 
 You will see 2 options, Pin to screen and Remove from meeting. Click on 2nd option to remove the participant and confirm the command.
 
 ![ remove people on Google Meet](https://images.wondershare.com/filmora/article-images/remove-people-from-google-meet.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### 2\. How to Remove A Participant from Google Meet Without Being A Host
 
@@ -185,10 +161,6 @@ The mute feature on Google Meet is truly very simplistic and handy to use. All o
 
 ![author avatar](https://images.wondershare.com/filmora/article-images/richard-bennett.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Richard Bennett
 
 Richard Bennett is a writer and a lover of all things video.
@@ -204,15 +176,18 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-unveiling-elite-selection-9-best-mic-recorders-online/"><u>[New] Unveiling Elite Selection 9 Best Mic Recorders Online</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-buzzing-tracks-ultimate-backdrops-for-youtube-shorts/"><u>[Updated] In 2024, Buzzing Tracks Ultimate Backdrops for YouTube Shorts</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-top-rated-desktop-video-recorders-for-pcmac/"><u>[Updated] Top-Rated Desktop Video Recorders for PC/Mac</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/android-call-history-recovery-recover-deleted-call-logs-from-motorola-edge-2023-by-fonelab-android-recover-call-logs/"><u>Android Call History Recovery - recover deleted call logs from Motorola Edge 2023</u></a></li>
-<li><a href="https://novels-ebooks.techidaily.com/210420618-9781739840419-being-in-nature/"><u>Being in Nature | Free Book</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-unleash-creativity-free-premiere-pro-2023-templates/"><u>In 2024, Unleash Creativity Free Premiere Pro 2023 Templates</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/ps4-live-broadcasting-101-with-obs-recording-tips/"><u>PS4 Live Broadcasting 101 with OBS Recording Tips</u></a></li>
-<li><a href="https://program-issues.techidaily.com/tales-of-arise-stability-improved-crashes-no-more/"><u>Tales of Arise Stability Improved: Crashes No More</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/troubleshooting-common-dying-light-lagging-challenges-for-smooth-gaming/"><u>Troubleshooting Common Dying Light Lagging Challenges for Smooth Gaming</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/ultimate-guide-the-6-leading-antivirus-solutions-for-ios-devices/"><u>Ultimate Guide: The 6 Leading Antivirus Solutions for iOS Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-dominance-index-top-ten-royale-survival-games-for-2024/"><u>[New] Dominance Index Top Ten Royale Survival Games for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/1716070289764-updated-2024-approved-easy-gaming-memories-start-recording-now/"><u>[Updated] 2024 Approved Easy Gaming Memories Start Recording Now!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-master-the-art-of-tokenization-with-these-7-nft-creation-apps/"><u>[Updated] 2024 Approved Master the Art of Tokenization with These 7 NFT Creation Apps</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-boxed-insights-unpacking-effective-strategy-for-2024/"><u>[Updated] Boxed Insights Unpacking Effective Strategy for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-first-steps-in-using-zooms-group-rooms/"><u>[Updated] In 2024, First Steps in Using Zoom's Group Rooms</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-effortlessly-record-audio-on-your-mac-using-audacity/"><u>2024 Approved Effortlessly Record Audio on Your Mac Using Audacity</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-essential-process-of-modifying-your-online-community-background/"><u>2024 Approved The Essential Process of Modifying Your Online Community Background</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-safely-obtain-vlc-player-at-no-charge-on-macos-for-2024/"><u>How to Safely Obtain VLC Player at No Charge on MacOS for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/insightful-illustration-how-to-record-and-preserve-your-playthroughs-in-roblox-using-macos-for-2024/"><u>Insightful Illustration How to Record & Preserve Your Playthroughs in Roblox Using MacOS for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/most-economical-3d-printer-picks-ensuring-excellent-craftsmanship/"><u>Most Economical 3D Printer Picks Ensuring Excellent Craftsmanship</u></a></li>
+<li><a href="https://win-web.techidaily.com/resoudre-les-problemes-de-fausses-limitations-de-stockage-apres-avoir-clone-un-disque-dur-explication-claire-et-pratique/"><u>Résoudre Les Problèmes De Fausses Limitations De Stockage Après Avoir Cloné Un Disque Dur : Explication Claire Et Pratique</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/ricoh-mp-c4503-drivers-for-windows-10-download-and-setup-tutorials/"><u>Ricoh MP C4503 Drivers for Windows 10 - Download & Setup Tutorials</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unlock-professional-video-quality-with-top-youtube-to-webm-tools/"><u>Unlock Professional Video Quality with Top YouTube-to-WebM Tools</u></a></li>
 </ul></div>
 

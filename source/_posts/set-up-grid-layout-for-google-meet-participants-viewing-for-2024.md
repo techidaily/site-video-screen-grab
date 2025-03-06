@@ -1,7 +1,7 @@
 ---
 title: "Set Up Grid Layout for Google Meet Participants' Viewing for 2024"
-date: 2025-02-14T03:03:38.573Z
-updated: 2025-02-16T21:02:17.920Z
+date: 2025-03-02T22:38:46.680Z
+updated: 2025-03-05T18:16:34.968Z
 tags: 
   - screen-recording
   - ai video
@@ -47,10 +47,6 @@ Click on the **three dots** at the bottom of the screen. Select **change layout*
 
 ![Google Meet change layout](https://images.wondershare.com/filmora/article-images/google-meet-change-layout.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3: Expand View**
 
 Use a slider to increase or decrease the number of participants you want to see.
@@ -58,10 +54,6 @@ Use a slider to increase or decrease the number of participants you want to see.
 **Note:** The slider can expand the view up to 49 participants.
 
 ![Google Meet change enable tiled view](https://images.wondershare.com/filmora/article-images/enable-tiled-view-to-view-participants.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Enable Grid View on Google Meet Mobile Apps?
 
@@ -81,19 +73,11 @@ Click on the **three dots** at the bottom right corner and select **change layou
 
 ![Google Meet change tiled view ](https://images.wondershare.com/filmora/article-images/change-google-meet-layout-tiled-view.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Method 2: Ask someone else to share the screen
 
 Ask any other participant in the meeting to share the screen with tiled mode enabled.
 
 **Note**: Make sure the participant you request to share the screen uses Google Meet on desktop with a tiled layout. Plus, if the participant sharing screen is on mobile, request the participant join the meeting from a mobile browser rather than the app.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to Use Grid View Extension to View All Participants on Google Meet?
 
@@ -135,19 +119,11 @@ Open Google Chrome and click on the **three dots** at the top right corner. Choo
 
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/google-meet-grid-view-extension-developer-mode.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **Step 3 : Check the working in Google Meet**
 
 Click **new meeting** in the Google Meet. **Tap enable grid view** when you want to see all participants in the meeting.
 
 ![Google Meet view all extension enable ](https://images.wondershare.com/filmora/article-images/enable-google-meet-grid-view-troubleshooting.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Frequently Asked Questions About See Everyone on Google Meet
 
@@ -184,22 +160,24 @@ Follow @Richard Bennett
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-mov-saving-on-the-go-top-six-tips-to-improve-your-workflow-in-windows-11-for-2024/"><u>[New] .MOV Saving on the Go - Top Six Tips to Improve Your Workflow in Windows 11 for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-journey-to-jewels-5-optimal-terrafirma-mapping/"><u>[New] 2024 Approved Journey to Jewels 5 Optimal Terrafirma Mapping</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-intuitive-methods-to-log-your-google-voice-conversations/"><u>[New] Intuitive Methods to Log Your Google Voice Conversations</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-social-media-gold-selecting-top-10-powerful-hashtags/"><u>[New] Social Media Gold Selecting Top 10 Powerful Hashtags</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-the-most-utilized-webinar-platforms-reviewed/"><u>[New] The Most Utilized Webinar Platforms Reviewed</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-investigating-screenshots-best-tools-fraps-vs-obs-studio/"><u>[Updated] 2024 Approved Investigating Screenshots’ Best Tools Fraps Vs OBS Studio</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-looms-lens-sharpen-your-recording-skills/"><u>[Updated] 2024 Approved Loom's Lens Sharpen Your Recording Skills</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-efficient-video-cutting-techniques-to-boost-your-content-for-2024/"><u>[Updated] Efficient Video Cutting Techniques to Boost Your Content for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-altering-screenshot-file-types-on-a-macintosh/"><u>[Updated] In 2024, Altering Screenshot File Types on a Macintosh</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-in-2024-innovative-techniques-for-lecture-to-audio-conversion-in-education/"><u>[Updated] In 2024, Innovative Techniques for Lecture to Audio Conversion in Education</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-nine-superior-tools-to-freeze-dynamic-windows-gifs-flawlessly/"><u>[Updated] In 2024, Nine Superior Tools to Freeze Dynamic Windows GIFs Flawlessly</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/approved-digital-content-arena-competing-titans-vimeo-youtube-dailymotion/"><u>2024 Approved Digital Content Arena Competing Titans - Vimeo, YouTube, DailyMotion</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-industry-leaders-top-notch-free-presentation-resources/"><u>2024 Approved Industry Leaders Top-Notch, Free Presentation Resources</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/easy-methods-for-graphics-card-improvement-on-pc-systems/"><u>Easy Methods for Graphics Card Improvement on PC Systems</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/pinnacle-blu-ray-players-1s/"><u>Pinnacle Blu-Ray Players - #1S</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/step-by-step-guide-updating-your-microsoft-mouse-drivers-on-windows-pcs/"><u>Step-by-Step Guide: Updating Your Microsoft Mouse Drivers on Windows PCs</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/the-ultimate-troubleshooting-manual-to-stop-crashes-in-your-frostpunk-adventure/"><u>The Ultimate Troubleshooting Manual to Stop Crashes in Your Frostpunk Adventure</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-budget-buyers-guide-to-drone-tech-under-100/"><u>[New] 2024 Approved Budget Buyers' Guide to Drone Tech Under $100</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-achieving-perfect-pitch-captures-in-rl-games/"><u>[New] Achieving Perfect Pitch Captures in RL Games</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-capturing-ppt-slides-via-webcam-2023-techniques/"><u>[New] Capturing PPT Slides via Webcam 2023 Techniques</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-expert-techniques-in-no-cost-windows-software-recording/"><u>[New] Expert Techniques in No-Cost Windows Software Recording</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-gradual-transition-tactics-for-premiere-professionals-for-2024/"><u>[New] Gradual Transition Tactics for Premiere Professionals for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-leading-tips-for-mute-video-capture/"><u>[New] Leading Tips for Mute Video Capture</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-leading-tools-for-clear-uncompromised-4k-recordings-for-2024/"><u>[New] Leading Tools for Clear, Uncompromised 4K Recordings for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-the-roadmap-to-thriving-in-twitter-live-broadcasts/"><u>[New] The Roadmap to Thriving in Twitter Live Broadcasts</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-the-ultimate-xbox-one-shutterbug-techniques-for-2024/"><u>[New] The Ultimate Xbox One Shutterbug Techniques for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-addressing-the-lack-of-novelty-in-virtual-reality/"><u>[Updated] In 2024, Addressing the Lack of Novelty in Virtual Reality</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-no-delay-scrutinized-top-8-capture-tools/"><u>[Updated] In 2024, No Delay Scrutinized Top 8 Capture Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-photosegments-evaluation/"><u>[Updated] PhotoSegments Evaluation</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-artisans-guide-to-zen-like-zoom-backgrounds-for-2024/"><u>[Updated] The Artisan's Guide to Zen-Like Zoom Backgrounds for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ng-excellence-the-ultimate-guide-to-top-notebooks/"><u>Editing Excellence The Ultimate Guide to Top Notebooks</u></a></li>
+<li><a href="https://techidaily.com/how-to-upgrade-apple-iphone-se-2022-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Upgrade Apple iPhone SE (2022) without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-perfect-presence-how-to-blur-background-on-zoom/"><u>In 2024, Perfect Presence How to Blur Background on Zoom</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/simple-steps-to-enhance-your-typing-experience-with-the-latest-driver-for-microsoft-sculpt-keyboard/"><u>Simple Steps to Enhance Your Typing Experience with the Latest Driver for Microsoft Sculpt Keyboard</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/ultimate-actions-replay-analysis-for-2024/"><u>Ultimate Actions Replay Analysis for 2024</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-expert-recommended-3d-video-creators-you-cant-miss-for-2024/"><u>Updated Expert-Recommended 3D Video Creators You Cant Miss for 2024</u></a></li>
 </ul></div>
 

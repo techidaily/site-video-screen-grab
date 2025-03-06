@@ -1,7 +1,7 @@
 ---
 title: Master The Art of Smooth Gaming – Tips to Prevent Disco Elysium From Crashing
-date: 2025-02-10T20:25:51.139Z
-updated: 2025-02-16T16:48:34.927Z
+date: 2025-03-05T02:05:08.132Z
+updated: 2025-03-05T18:03:18.645Z
 tags:
   - win11
   - win10
@@ -33,29 +33,17 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 8. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Run as administrator](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 1 – Restart your computer
 
  Yes, seriously. Just turn off your computer and turn it back on. The game crash issue is sometimes just a temporary problem that can be fixed by a restart.
 
  But if your game keeps crashing even after the restart, try the next solution below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 2 – Disconnect peripherals
 
  Your peripherals, especially gaming accessories, often run with 3rd party software that controls them. In some cases, the software may not be compatible with your game and prevent it from running correctly.
 
  If you have multiple peripherals hooked up to your computer, try disconnecting them to find out if any is causing trouble for you.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 3 – Update your graphics driver
 
@@ -88,10 +76,6 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 
 If Disco Elysium still crashes, try the next fix below.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Fix 4 – Disable extraneous software
 
  Game performance issues will happen when your game is unable to gain access to the memory it needs. So, it’s always wise to close background programs that take up a lot of PC memory when playing games.
@@ -103,10 +87,6 @@ If Disco Elysium still crashes, try the next fix below.
  Don’t close any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **3)** Restart your game to see if it runs correctly now.
 
@@ -141,10 +121,6 @@ If Disco Elysium won’t work correctly, read on and try Fix 5.
 **5)**  Relaunch Disco Elysium.
 
 If your game still crashes after this, try the fix below.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 6 – Stop overclocking
 
@@ -182,17 +158,9 @@ If the crashing issue still exists, there’s still 1 fix to try.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-44.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 **3)**  Restart your computer and your game.
 
 If the game still crashes, then try the next solution.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Fix 9 – Run as administrator
 
@@ -233,22 +201,20 @@ To run your game as administrator, follow the instructions below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-leveraging-streamlabs-obs-for-engaging-live-streams/"><u>[New] 2024 Approved Leveraging Streamlabs OBS for Engaging Live Streams</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-pro-video-practice-screen-record-on-various-devices-for-2024/"><u>[New] Pro Video Practice Screen Record on Various Devices for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-stepwise-guide-to-establishing-a-seamless-skype-discussion-among-multiple-users-in-different-systems/"><u>[New] Stepwise Guide to Establishing a Seamless Skype Discussion Among Multiple Users in Different Systems</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-mastering-minecraft-screen-capture-a-mac-guide/"><u>[Updated] 2024 Approved Mastering Minecraft Screen Capture A Mac Guide</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-capturing-magic-in-motion-a-guide-to-hero5-timelapses-for-2024/"><u>[Updated] Capturing Magic in Motion A Guide to Hero5 Timelapses for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-choosing-your-recording-champion-pick-obs-or-bandicam-in-2024/"><u>[Updated] Choosing Your Recording Champion Pick OBS or Bandicam, In 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-innovative-strategies-for-combining-obs-with-zoom-platform/"><u>[Updated] In 2024, Innovative Strategies for Combining OBS with Zoom Platform</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-professional-strategies-for-effective-google-meet-customization/"><u>[Updated] In 2024, Professional Strategies for Effective Google Meet Customization</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-premier-websites-revealed-acquiring-personalized-youtube-ringtones-for-2024/"><u>[Updated] Premier Websites Revealed Acquiring Personalized YouTube Ringtones for 2024</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-nokia-c300-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Nokia C300 | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/auditory-enhancements-for-pixels-and-playlists/"><u>Auditory Enhancements for Pixels and Playlists</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-vivo-v29-pro-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Vivo V29 Pro to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Best Phone Monitoring Apps for Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-the-ultimate-guide-to-recording-hulu-episodes-on-multiple-devices/"><u>In 2024, The Ultimate Guide to Recording Hulu Episodes on Multiple Devices</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/in-2024-unboxing-logitechs-ultimate-4k-webcam/"><u>In 2024, Unboxing Logitech's Ultimate 4K Webcam</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/iphone-customization-made-simple-changing-time-zones-and-regions/"><u>IPhone Customization Made Simple: Changing Time Zones & Regions</u></a></li>
-<li><a href="https://fox-links.techidaily.com/shape-viral-memes-using-adobe-for-2024/"><u>Shape Viral Memes Using Adobe for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-a-deep-dive-into-recmasters-video-capturing-technology/"><u>[New] 2024 Approved A Deep Dive Into Recmaster's Video Capturing Technology</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-top-10-most-shared-stock-photos-and-their-tales/"><u>[New] In 2024, Top 10 Most Shared Stock Photos and Their Tales</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-vr-todays-technical-overview/"><u>[New] In 2024, VR Today's Technical Overview</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-universal-strategy-to-preserve-your-favorite-youtube-broadcasts-on-all-devices/"><u>[New] Universal Strategy to Preserve Your Favorite YouTube Broadcasts on All Devices</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-essential-recording-gear-for-environmentalists/"><u>[Updated] Essential Recording Gear for Environmentalists</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-top-3-strategies-for-clear-online-interaction-4/"><u>[Updated] In 2024, Top 3 Strategies for Clear Online Interaction (#4)</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-turning-your-instagram-movies-inside-out-for-2024/"><u>[Updated] Turning Your Instagram Movies Inside Out for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-essential-steps-for-logging-virtual-exchanges/"><u>2024 Approved Essential Steps for Logging Virtual Exchanges</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-videovault-annual-review-of-top-screen-recorders/"><u>2024 Approved VideoVault Annual Review of Top Screen Recorders</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Oppo Reno 9A | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-xiaomi-13t-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Xiaomi 13T Pro to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/capturing-your-laptop-simple-lenovo-steps-for-2024/"><u>Capturing Your Laptop Simple Lenovo Steps for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-professional-touch-ups-for-your-tiktok-media/"><u>In 2024, Professional Touch-Ups for Your TikTok Media</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/is-photoshops-shake-control-a-game-changer/"><u>Is Photoshop's Shake Control a Game Changer?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/where-is-the-best-place-to-catch-dratini-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Infinix Smart 7 HD | Dr.fone</u></a></li>
 </ul></div>
 
